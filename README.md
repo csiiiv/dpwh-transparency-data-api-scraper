@@ -204,7 +204,7 @@ python -c "import json; print(json.dumps(json.load(open('base-data/progress_stat
 ```bash
 ls base-data/json/*.json | wc -l
 # If using tar.xz archives, extract and analyze as needed:
-tar -xJf base-data/base-data-json.tar.xz -C /tmp/json_extract/
+tar -xJf archive/base-data-json.tar.xz -C /tmp/json_extract/
 ls /tmp/json_extract/*.json | wc -l
 python -c "import json, glob; print(sum(len(json.load(open(f))['data']['data']) for f in glob.glob('/tmp/json_extract/*.json')))"
 ```
