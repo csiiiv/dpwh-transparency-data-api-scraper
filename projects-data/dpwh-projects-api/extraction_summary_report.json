@@ -1,0 +1,18 @@
+{
+  "generated_at": "2025-11-26T12:43:26.740666",
+  "summary": {
+    "total_successful_ids": 246147,
+    "total_extracted_files": 246148,
+    "matched_count": 246147,
+    "missing_count": 0,
+    "extra_count": 1,
+    "completion_percentage": 100.0
+  },
+  "missing_ids": [],
+  "extra_ids": [
+    "24DI0125"
+  ],
+  "missing_ids_full_count": 0,
+  "extra_ids_full_count": 1,
+  "note": "Only first 100 missing/extra IDs shown in report for brevity"
+}

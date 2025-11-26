@@ -1,0 +1,276 @@
+{
+  "total": 10,
+  "success": 10,
+  "fail": 0,
+  "retries": {
+    "33": 1,
+    "18": 1,
+    "23": 1,
+    "34": 1,
+    "17": 1,
+    "10": 1,
+    "22": 1,
+    "21": 1,
+    "27": 1,
+    "24": 1
+  },
+  "timestamp": "2025-11-26 14:23:02",
+  "tls_stats": {
+    "chrome116": {
+      "success": 4,
+      "fail": 0,
+      "block": 0,
+      "exception": 0,
+      "timeout": 0,
+      "rate_limited": 0
+    },
+    "edge115": {
+      "success": 0,
+      "fail": 0,
+      "block": 0,
+      "exception": 1,
+      "timeout": 0,
+      "rate_limited": 0
+    },
+    "chrome100": {
+      "success": 1,
+      "fail": 0,
+      "block": 0,
+      "exception": 0,
+      "timeout": 0,
+      "rate_limited": 0
+    },
+    "firefox103": {
+      "success": 0,
+      "fail": 0,
+      "block": 0,
+      "exception": 1,
+      "timeout": 0,
+      "rate_limited": 0
+    },
+    "chrome119": {
+      "success": 1,
+      "fail": 0,
+      "block": 0,
+      "exception": 0,
+      "timeout": 0,
+      "rate_limited": 0
+    },
+    "edge114": {
+      "success": 0,
+      "fail": 0,
+      "block": 0,
+      "exception": 1,
+      "timeout": 0,
+      "rate_limited": 0
+    },
+    "chrome115": {
+      "success": 0,
+      "fail": 0,
+      "block": 0,
+      "exception": 1,
+      "timeout": 0,
+      "rate_limited": 0
+    },
+    "edge112": {
+      "success": 0,
+      "fail": 0,
+      "block": 0,
+      "exception": 1,
+      "timeout": 0,
+      "rate_limited": 0
+    },
+    "firefox113": {
+      "success": 0,
+      "fail": 0,
+      "block": 0,
+      "exception": 1,
+      "timeout": 0,
+      "rate_limited": 0
+    },
+    "firefox101": {
+      "success": 0,
+      "fail": 0,
+      "block": 0,
+      "exception": 1,
+      "timeout": 0,
+      "rate_limited": 0
+    },
+    "chrome118": {
+      "success": 0,
+      "fail": 0,
+      "block": 0,
+      "exception": 1,
+      "timeout": 0,
+      "rate_limited": 0
+    },
+    "chrome105": {
+      "success": 0,
+      "fail": 0,
+      "block": 0,
+      "exception": 1,
+      "timeout": 0,
+      "rate_limited": 0
+    },
+    "edge116": {
+      "success": 0,
+      "fail": 0,
+      "block": 0,
+      "exception": 1,
+      "timeout": 0,
+      "rate_limited": 0
+    },
+    "opera97": {
+      "success": 0,
+      "fail": 0,
+      "block": 0,
+      "exception": 1,
+      "timeout": 0,
+      "rate_limited": 0
+    },
+    "safari16_3": {
+      "success": 0,
+      "fail": 0,
+      "block": 0,
+      "exception": 1,
+      "timeout": 0,
+      "rate_limited": 0
+    },
+    "safari15_3": {
+      "success": 1,
+      "fail": 0,
+      "block": 0,
+      "exception": 0,
+      "timeout": 0,
+      "rate_limited": 0
+    },
+    "firefox109": {
+      "success": 0,
+      "fail": 0,
+      "block": 0,
+      "exception": 1,
+      "timeout": 0,
+      "rate_limited": 0
+    },
+    "firefox116": {
+      "success": 0,
+      "fail": 0,
+      "block": 0,
+      "exception": 1,
+      "timeout": 0,
+      "rate_limited": 0
+    },
+    "chrome107": {
+      "success": 1,
+      "fail": 0,
+      "block": 0,
+      "exception": 0,
+      "timeout": 0,
+      "rate_limited": 0
+    },
+    "firefox111": {
+      "success": 0,
+      "fail": 0,
+      "block": 0,
+      "exception": 1,
+      "timeout": 0,
+      "rate_limited": 0
+    },
+    "safari16_0": {
+      "success": 0,
+      "fail": 0,
+      "block": 0,
+      "exception": 1,
+      "timeout": 0,
+      "rate_limited": 0
+    },
+    "chrome113": {
+      "success": 0,
+      "fail": 0,
+      "block": 0,
+      "exception": 1,
+      "timeout": 0,
+      "rate_limited": 0
+    },
+    "firefox114": {
+      "success": 0,
+      "fail": 0,
+      "block": 0,
+      "exception": 1,
+      "timeout": 0,
+      "rate_limited": 0
+    },
+    "edge119": {
+      "success": 0,
+      "fail": 0,
+      "block": 0,
+      "exception": 1,
+      "timeout": 0,
+      "rate_limited": 0
+    },
+    "chrome112": {
+      "success": 0,
+      "fail": 0,
+      "block": 0,
+      "exception": 1,
+      "timeout": 0,
+      "rate_limited": 0
+    },
+    "firefox119": {
+      "success": 0,
+      "fail": 0,
+      "block": 0,
+      "exception": 1,
+      "timeout": 0,
+      "rate_limited": 0
+    },
+    "safari15_6_1": {
+      "success": 0,
+      "fail": 0,
+      "block": 0,
+      "exception": 1,
+      "timeout": 0,
+      "rate_limited": 0
+    },
+    "chrome111": {
+      "success": 0,
+      "fail": 0,
+      "block": 0,
+      "exception": 1,
+      "timeout": 0,
+      "rate_limited": 0
+    },
+    "chrome101": {
+      "success": 1,
+      "fail": 0,
+      "block": 0,
+      "exception": 0,
+      "timeout": 0,
+      "rate_limited": 0
+    },
+    "opera96": {
+      "success": 0,
+      "fail": 0,
+      "block": 0,
+      "exception": 1,
+      "timeout": 0,
+      "rate_limited": 0
+    },
+    "chrome103": {
+      "success": 0,
+      "fail": 0,
+      "block": 0,
+      "exception": 1,
+      "timeout": 0,
+      "rate_limited": 0
+    },
+    "chrome120": {
+      "success": 1,
+      "fail": 0,
+      "block": 0,
+      "exception": 0,
+      "timeout": 0,
+      "rate_limited": 0
+    }
+  }
+}
