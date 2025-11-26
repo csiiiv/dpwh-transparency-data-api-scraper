@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.env
+.venv/
+venv/
+
+# VS Code
+.vscode/
+
+#custom
+**/archive/
+**/archive/**
+**/raw/
+**/raw/**
+**/json/
+**/json/**
+
+# Ignore all json folders at any depth
+**/json/
+**/json/**
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
