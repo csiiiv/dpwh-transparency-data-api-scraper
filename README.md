@@ -83,10 +83,7 @@ python base-data/fetch_dpwh_projects_paginated.py --start 1 --end 50 --limit 500
 #### Output Structure
 ```
 base-data/
-├── json/                          # Extracted JSON data
-│   ├── dump-page-1-5000.json
-│   ├── dump-page-2-5000.json
-│   └── ...
+├── base-data-json.tar.xz          # Bulk archive of all extracted JSON data
 ├── lists/                         # Tracking files
 │   ├── successful_pages.txt       # Completed pages
 │   ├── failed_pages.txt           # Failed pages
@@ -110,9 +107,8 @@ python fetch_dpwh_projects_curlcffi.py
 #### Output Structure
 ```
 projects-data/dpwh-projects-api/
-├── json/                          # Contract JSON files
-│   ├── {contractId}.json
-│   └── ...
+├── projects-json.tar.xz.001       # Bulk archive part 1 of contract JSON files
+├── projects-json.tar.xz.002       # Bulk archive part 2 of contract JSON files
 ├── lists/                         # Tracking files
 │   ├── successful_ids.txt
 │   ├── failed_ids.txt
@@ -219,11 +215,15 @@ python -c "import json; print(json.dumps(json.load(open('base-data/progress_stat
 
 ### Analyze Results
 ```bash
-# Count extracted files
+# Count extracted files (if not using tar.xz)
 ls base-data/json/*.json | wc -l
 
-# Total contracts extracted
-python -c "import json, glob; print(sum(len(json.load(open(f))['data']['data']) for f in glob.glob('base-data/json/*.json')))"
+# If using tar.xz archives, extract and analyze as needed:
+tar -xJf base-data/base-data-json.tar.xz -C /tmp/json_extract/
+ls /tmp/json_extract/*.json | wc -l
+
+# Total contracts extracted (from extracted files)
+python -c "import json, glob; print(sum(len(json.load(open(f))['data']['data']) for f in glob.glob('/tmp/json_extract/*.json')))"
 ```
 
 ## 🏗️ Project Structure
