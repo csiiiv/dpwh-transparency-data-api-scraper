@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "20E00025",
+    "description": "WIDENING OF PERMANENT BRIDGE - MARANGAS BRIDGE (PARALLEL BRIDGE) ALONG PPSR, STA. 218+405.74-STA. 218+825.95, PALAWAN",
+    "category": "Bridges",
+    "status": "Completed",
+    "budget": 116639166.77,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region IV-B",
+      "province": "Region IV-B",
+      "infraType": "Bridges",
+      "coordinates": {
+        "latitude": 8.6768618,
+        "longitude": 117.6227426,
+        "verified": false
+      }
+    },
+    "infraType": "Bridges",
+    "contractor": "KATHA BUILDERS & SUPPLIES INC. (34651)",
+    "startDate": "2020-02-24",
+    "completionDate": "2021-07-03",
+    "infraYear": "2020",
+    "contractEffectivityDate": "2020-02-24",
+    "expiryDate": "2021-07-03",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2020 OO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00401997LZ-CW1",
+        "description": "Construction of Parallel Bridge - Marangas Br. (Parallel Br.) along Puerto Princesa South Rd",
+        "infraType": "Bridges",
+        "typeOfWork": "Construction of Parallel Bridge",
+        "region": "Region IV-B",
+        "province": "PALAWAN",
+        "coordinates": {
+          "latitude": 8.6768618,
+          "longitude": 117.6227426,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "KATHA BUILDERS & SUPPLIES INC.",
+    "bidders": [
+      {
+        "name": "KATHA BUILDERS & SUPPLIES INC. (34651)",
+        "pcabId": "34651",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "B. VICENCIO BUILDERS (BVB), INC. (FORMERLY:B. VICENCIO CONSTRUCTION) (9687)",
+        "pcabId": "9687",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "WIDENING OF PERMANENT BRIDGE - MARANGAS BRIDGE (PARALLEL BRIDGE) ALONG PPSR, STA. 218+405.74-STA. 218+825.95, PALAWAN",
+      "abc": "116637198.55",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2019-10-04 00:00:00.0000000",
+      "bidSubmissionDeadline": "2019-10-24 00:00:00.0000000",
+      "dateOfAward": "2020-02-11 00:00:00.0000000",
+      "awardAmount": "114280916.8"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/20E000025.pdf",
+      "contractAgreement": "",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/NOA 20E00025.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/20e00025_ca.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 8.6768618,
+    "longitude": 117.6227426,
+    "coordinates": [
+      {
+        "componentId": "P00401997LZ-CW1",
+        "description": "Construction of Parallel Bridge - Marangas Br. (Parallel Br.) along Puerto Princesa South Rd",
+        "latitude": 8.6768618,
+        "longitude": 117.6227426,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 3,
+      "latestImageDate": "2022-03-04 00:25:00.788999",
+      "hasImages": true
+    }
+  }
+}

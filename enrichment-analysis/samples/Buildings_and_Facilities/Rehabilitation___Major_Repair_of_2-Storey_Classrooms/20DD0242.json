@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "20DD0242",
+    "description": "LOCAL PROGRAM, LOCAL INFRASTRUCTURE PROGRAM, BUILDINGS AND OTHER STRUCTURES, SCHOOL BUILDINGS, REHABILITATION OF SCHOOL BUILDING, SAN CELESTINO NATIONAL HIGH SCHOOL, BRGY. SAN CELESTINO, LIPA CITY, BATANGAS",
+    "category": "Buildings and Facilities",
+    "status": "Completed",
+    "budget": 7683026,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region IV-A",
+      "province": "Batangas 4th DEO",
+      "infraType": "Buildings and Facilities",
+      "coordinates": {
+        "latitude": 13.9207929,
+        "longitude": 121.2241969,
+        "verified": false
+      }
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "DELA ROSA CONSTRUCTION & DEV'T. CORP. (FORMERLY: Z (33702)",
+    "startDate": "2020-12-02",
+    "completionDate": "2021-03-31",
+    "infraYear": "2020",
+    "contractEffectivityDate": "2020-12-02",
+    "expiryDate": "2021-03-31",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2020 LP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00445756LZ-CW1",
+        "description": "Rehabilitation / Major Repair of 2-Storey Classrooms - Rehabilitation of School Building, San Celestino National High School, Brgy. San Celestino, Lipa City",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Rehabilitation / Major Repair of 2-Storey Classrooms",
+        "region": "Region IV-A",
+        "province": "BATANGAS",
+        "coordinates": {
+          "latitude": 13.9207929,
+          "longitude": 121.2241969,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "DELA ROSA CONSTRUCTION & DEV'T. CORP. (FORMERLY: Z",
+    "bidders": [
+      {
+        "name": "DELA ROSA CONSTRUCTION & DEV'T. CORP. (FORMERLY: Z (33702)",
+        "pcabId": "33702",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "V. N. MENDOZA CONSTRUCTION & CO. (38494)",
+        "pcabId": "38494",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "LOCAL PROGRAM, LOCAL INFRASTRUCTURE PROGRAM, BUILDINGS AND OTHER STRUCTURES, SCHOOL BUILDINGS, REHABILITATION OF SCHOOL BUILDING, SAN CELESTINO NATIONAL HIGH SCHOOL, BRGY. SAN CELESTINO, LIPA CITY, BATANGAS",
+      "abc": "7920000.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2020-03-11 00:00:00.0000000",
+      "bidSubmissionDeadline": "2020-06-04 00:00:00.0000000",
+      "dateOfAward": "2020-11-23 00:00:00.0000000",
+      "awardAmount": "7683026"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/0BID DOCS 20DD0242.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/20DD0242 CA.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/20dd0242_noa.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/20DD0242 CA.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 13.9207929,
+    "longitude": 121.2241969,
+    "coordinates": [
+      {
+        "componentId": "P00445756LZ-CW1",
+        "description": "Rehabilitation / Major Repair of 2-Storey Classrooms - Rehabilitation of School Building, San Celestino National High School, Brgy. San Celestino, Lipa City",
+        "latitude": 13.9207929,
+        "longitude": 121.2241969,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 2,
+      "latestImageDate": "2021-06-15 05:33:48.206000",
+      "hasImages": true
+    }
+  }
+}

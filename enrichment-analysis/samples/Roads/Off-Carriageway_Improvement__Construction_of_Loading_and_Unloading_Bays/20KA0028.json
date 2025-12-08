@@ -1,0 +1,155 @@
+{
+  "data": {
+    "contractId": "20KA0028",
+    "description": "OFF-CARRIAGEWAY IMPROVEMENT: CONSTRUCTION OF LOADINGAND UNLOADING BAYS WITH SHOULDER PAVING/CONSTRUCTION - ALONG JCT SH-JP RIZAL-CARILLO-CAPITOL-DPWH RD - (S00623MN) K1506 + 538 - K1506 + 966, MALAYBALAY CITY, BUKIDNON",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 13719669.8,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region X",
+      "province": "Bukidnon 1st DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 8.1511806,
+        "longitude": 125.1339722,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "M. MONTESCLAROS ENTERPRISES, INC. (6506)",
+    "startDate": "2020-12-04",
+    "completionDate": "2021-03-03",
+    "infraYear": "2020",
+    "contractEffectivityDate": "2020-12-04",
+    "expiryDate": "2021-03-03",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2020 OO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00401449MN-CW1",
+        "description": "Off-Carriageway Improvement: Construction of Loading and Unloading Bays - Jct SH-JP Rizal-Carillo-Capitol-DPWH Rd - K1506 + 538 - K1506 + 966",
+        "infraType": "Roads",
+        "typeOfWork": "Off-Carriageway Improvement: Construction of Loading and Unloading Bays",
+        "region": "Region X",
+        "province": "BUKIDNON",
+        "coordinates": {
+          "latitude": 8.1511806,
+          "longitude": 125.1339722,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00401449MN-CW2",
+        "description": "Off-Carriageway Improvement: Shoulder Paving / Construction - Jct SH-JP Rizal-Carillo-Capitol-DPWH Rd - K1506 + 538 - K1506 + 966",
+        "infraType": "Roads",
+        "typeOfWork": "Off-Carriageway Improvement: Shoulder Paving / Construction",
+        "region": "Region X",
+        "province": "BUKIDNON",
+        "coordinates": {
+          "latitude": 8.1533333,
+          "longitude": 125.1335361,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "M. MONTESCLAROS ENTERPRISES, INC.",
+    "bidders": [
+      {
+        "name": "M. MONTESCLAROS ENTERPRISES, INC. (6506)",
+        "pcabId": "6506",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "DCD BUILDERS & ENTERPISES (38029)",
+        "pcabId": "38029",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "EQUI-PARCO CONSTRUCTION COMPANY (14332)",
+        "pcabId": "14332",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "H & N BUILDERS & ENTERPRISES (41819)",
+        "pcabId": "41819",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "VEN RAY CONSTRUCTION CORPORATION (18310)",
+        "pcabId": "18310",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "ZDA CONSTRUCTION AND ENTERPRISES (43494)",
+        "pcabId": "43494",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "ZI 9 BUILDERS AND SUPPLIES (37547)",
+        "pcabId": "37547",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "OFF-CARRIAGEWAY IMPROVEMENT: CONSTRUCTION OF LOADINGAND UNLOADING BAYS WITH SHOULDER PAVING/CONSTRUCTION - ALONG JCT SH-JP RIZAL-CARILLO-CAPITOL-DPWH RD - (S00623MN) K1506 + 538 - K1506 + 966, MALAYBALAY CITY, BUKIDNON",
+      "abc": "13720000.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2019-10-26 00:00:00.0000000",
+      "bidSubmissionDeadline": "2019-11-19 00:00:00.0000000",
+      "dateOfAward": "2020-11-23 00:00:00.0000000",
+      "awardAmount": "13031920.18"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/20KA0028.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/20KA0028.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/20KA0028 NOA.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/20KA0028.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 8.1511806,
+    "longitude": 125.1339722,
+    "coordinates": [
+      {
+        "componentId": "P00401449MN-CW1",
+        "description": "Off-Carriageway Improvement: Construction of Loading and Unloading Bays - Jct SH-JP Rizal-Carillo-Capitol-DPWH Rd - K1506 + 538 - K1506 + 966",
+        "latitude": 8.1511806,
+        "longitude": 125.1339722,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00401449MN-CW2",
+        "description": "Off-Carriageway Improvement: Shoulder Paving / Construction - Jct SH-JP Rizal-Carillo-Capitol-DPWH Rd - K1506 + 538 - K1506 + 966",
+        "latitude": 8.1533333,
+        "longitude": 125.1335361,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 8,
+      "latestImageDate": "2021-05-31 03:32:27.105999",
+      "hasImages": true
+    }
+  }
+}

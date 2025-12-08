@@ -1,0 +1,91 @@
+{
+  "data": {
+    "contractId": "16GE0023",
+    "description": "CONSTRUCTION/MAINTENANCE OF FLOOD MITIGATION STRUCTURES AND DRAINAGE SYSTEMS, CONSTRUCTION OF RIVER CONTROL SYSTEM AND SLOPE PROTECTION WORKS AT SALVACION RIVER, SALVACION, NUEVA VALENCIA, GUIMARAS",
+    "category": "Flood Control and Drainage",
+    "status": "Completed",
+    "budget": 13363523.2,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region VI",
+      "province": "Guimaras DEO",
+      "infraType": "Flood Control and Drainage",
+      "coordinates": null
+    },
+    "infraType": "Flood Control and Drainage",
+    "contractor": "J.E. TICO CONSTRUCTION CO., INC. (FORMERLY: JET CO (7063)",
+    "startDate": "2016-02-16",
+    "completionDate": "2016-09-20",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-02-16",
+    "expiryDate": "2016-06-25",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-2",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00020794VS-CW1",
+        "description": "Construction of Slope Protection Structure - Construction of river control system and slope protection works at Salvacion River, Salvacion, Nueva Valencia, Guimaras",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Construction of Slope Protection Structure",
+        "region": "Region VI",
+        "province": "GUIMARAS",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "J.E. TICO CONSTRUCTION CO., INC. (FORMERLY: JET CO",
+    "bidders": [
+      {
+        "name": "J.E. TICO CONSTRUCTION CO., INC. (FORMERLY: JET CO (7063)",
+        "pcabId": "7063",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "GOOD FORTUNE INTERNATIONAL, INC. (09246)",
+        "pcabId": "09246",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "M.G. SALAZAR CONSTRUCTION CORP. (FOR. M.G. SALAZAR (4072)",
+        "pcabId": "4072",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION/MAINTENANCE OF FLOOD MITIGATION STRUCTURES AND DRAINAGE SYSTEMS, CONSTRUCTION OF RIVER CONTROL SYSTEM AND SLOPE PROTECTION WORKS AT SALVACION RIVER, SALVACION, NUEVA VALENCIA, GUIMARAS",
+      "abc": "14700000.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-11-28 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-12-19 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "13363523.2"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/may/16GE0023 Contract.pdf",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/may/16GE0023 Notice of Award.pdf",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/may/16GE0023 Contract.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

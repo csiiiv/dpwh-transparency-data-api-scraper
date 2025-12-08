@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "17AF0091",
+    "description": "REHAB/IMPRVMNT OF AGOO BEACH ROAD K0237+050-K0237+685.59, AGOO, LU",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 9399973.1,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region I",
+      "province": "La Union 2nd DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 16.3216551087908,
+        "longitude": 120.352751468777,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "VILLAR GENERAL CONSTRUCTION AND SUPPLIES (22540)",
+    "startDate": "2017-10-21",
+    "completionDate": "2018-11-01",
+    "infraYear": "2017",
+    "contractEffectivityDate": "2017-10-21",
+    "expiryDate": "2017-12-19",
+    "nysReason": null,
+    "programName": "Outside Infra",
+    "sourceOfFunds": "Outside Infra - Special Road Support Fund 2017",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00190135LZ-CW1",
+        "description": "Additional Lane Width - Additional Pavement Width with Concrete Reblocking along Agoo Beach Road, K0237+050 - K0237+685.59",
+        "infraType": "Roads",
+        "typeOfWork": "Additional Lane Width",
+        "region": "Region I",
+        "province": "LA UNION",
+        "coordinates": {
+          "latitude": 16.3216551087908,
+          "longitude": 120.352751468777,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "VILLAR GENERAL CONSTRUCTION AND SUPPLIES",
+    "bidders": [
+      {
+        "name": "VILLAR GENERAL CONSTRUCTION AND SUPPLIES (22540)",
+        "pcabId": "22540",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "J.A. OLIVAR ENGINEERING DESIGN, CONSTRUCTION AND S (35602)",
+        "pcabId": "35602",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "REHAB/IMPRVMNT OF AGOO BEACH ROAD K0237+050-K0237+685.59, AGOO, LU",
+      "abc": "9899802.65",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2017-08-23 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-09-12 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "9,399,973.10"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/mvuc agoo beach road.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/CONTRACT.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/AWARD.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/CONTRACT.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 16.3216551087908,
+    "longitude": 120.352751468777,
+    "coordinates": [
+      {
+        "componentId": "P00190135LZ-CW1",
+        "description": "Additional Lane Width - Additional Pavement Width with Concrete Reblocking along Agoo Beach Road, K0237+050 - K0237+685.59",
+        "latitude": 16.3216551087908,
+        "longitude": 120.352751468777,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "data": {
+    "contractId": "15IB0236",
+    "description": "CONSTRUCTION OF LOCAL BRIDGE, BRGY. BITAUGAN, HOMONHON IS., GUIUAN, EASTERN SAMAR",
+    "category": "Bridges",
+    "status": "Completed",
+    "budget": 1932616.23,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region VIII",
+      "province": "Eastern Samar DEO",
+      "infraType": "Bridges",
+      "coordinates": null
+    },
+    "infraType": "Bridges",
+    "contractor": "TUBIGAN BUILDERS (33185)",
+    "startDate": "2016-02-28",
+    "completionDate": "2016-06-26",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-02-28",
+    "expiryDate": "2016-06-26",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 Locally Funded Projects",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00047234VS-CW1",
+        "description": "Construction of Concrete Bridge - Construction of Local Bridge, Barangay Bitaugan, Guiuan, Eastern Samar Lone District",
+        "infraType": "Bridges",
+        "typeOfWork": "Construction of Concrete Bridge",
+        "region": "Region VIII",
+        "province": "EASTERN SAMAR",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "TUBIGAN BUILDERS",
+    "bidders": [
+      {
+        "name": "TUBIGAN BUILDERS (33185)",
+        "pcabId": "33185",
+        "participation": 100,
+        "isWinner": true
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION OF LOCAL BRIDGE, BRGY. BITAUGAN, HOMONHON IS., GUIUAN, EASTERN SAMAR",
+      "abc": "1995488.32",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-11-18 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-12-08 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "1932616.2300000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/june/15IB0236 (Re-advertised)-Contract Agreement.zip",
+      "noticeOfAward": "",
+      "noticeToProceed": "",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

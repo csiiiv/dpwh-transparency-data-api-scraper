@@ -1,0 +1,109 @@
+{
+  "data": {
+    "contractId": "16HH0086",
+    "description": "OFF-CARRIAGEWAY IMPROVEMENT, N. BACALSO AVE. (OSMEÑA BLVD. SECT.) CHAINAGE 0 - CHAINAGE 0130(S00007CB); CHAINAGE 0 - CHAINAGE 0130 (S00010CB), CEBU CITY",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 1088250,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region VII",
+      "province": "Cebu City DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 10.2996748189137,
+        "longitude": 123.896771773114,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "RIKDA CONSTRUCTION & DEVELOPMENT CORPORATION (32758)",
+    "startDate": "2017-02-14",
+    "completionDate": "2017-05-29",
+    "infraYear": "2017",
+    "contractEffectivityDate": "2017-02-14",
+    "expiryDate": "2017-05-29",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2017 MFO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00106010VS-CW1",
+        "description": "Off-Carriageway Improvement: Construction of Loading and Unloading Bays - N Bacalso Ave (Osme±a Blvd Sect) - Chainage 0 - Chainage 130",
+        "infraType": "Roads",
+        "typeOfWork": "Off-Carriageway Improvement: Construction of Loading and Unloading Bays",
+        "region": "Region VII",
+        "province": "CEBU",
+        "coordinates": {
+          "latitude": 10.2996748189137,
+          "longitude": 123.896771773114,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "RIKDA CONSTRUCTION & DEVELOPMENT CORPORATION",
+    "bidders": [
+      {
+        "name": "RIKDA CONSTRUCTION & DEVELOPMENT CORPORATION (32758)",
+        "pcabId": "32758",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "GOWIL BUILDERS (18733)",
+        "pcabId": "18733",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "PHIL ASIA RESOURCES & DEVELOPMENT CORP. (33352)",
+        "pcabId": "33352",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "OFF-CARRIAGEWAY IMPROVEMENT, N. BACALSO AVE. (OSMEÑA BLVD. SECT.) CHAINAGE 0 - CHAINAGE 0130(S00007CB); CHAINAGE 0 - CHAINAGE 0130 (S00010CB), CEBU CITY",
+      "abc": "2656780.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-11-14 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-12-13 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "2,584,350.00"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/noa_16hhh0086.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/ntp_16hh0086.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 10.2996748189137,
+    "longitude": 123.896771773114,
+    "coordinates": [
+      {
+        "componentId": "P00106010VS-CW1",
+        "description": "Off-Carriageway Improvement: Construction of Loading and Unloading Bays - N Bacalso Ave (Osme±a Blvd Sect) - Chainage 0 - Chainage 130",
+        "latitude": 10.2996748189137,
+        "longitude": 123.896771773114,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

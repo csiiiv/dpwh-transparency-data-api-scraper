@@ -1,0 +1,124 @@
+{
+  "data": {
+    "contractId": "17O00004",
+    "description": "CONSTRUCTION OF BY-PASSES/DIVERSION ROADS, INCLUDING ROW, C-6, NAPINDAN-M.L. QUEZON  AVENUE, TAGUIG",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 335855702.14,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "National Capital Region",
+      "province": "National Capital Region",
+      "infraType": "Roads",
+      "coordinates": null
+    },
+    "infraType": "Roads",
+    "contractor": "NORTHERN BUILDERS (8789)",
+    "startDate": "2017-05-31",
+    "completionDate": "2020-04-21",
+    "infraYear": "2017",
+    "contractEffectivityDate": "2017-05-31",
+    "expiryDate": "2020-04-21",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2017 MFO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00109502LZ-CW1",
+        "description": "Reconstruction: Raising of Grade - C-6, Napindan-ML Quezon Ave, Taguig Station 0+000 - 1+500 (Right Side) Station 1+340 - 4+140 (Left Side)",
+        "infraType": "Roads",
+        "typeOfWork": "Reconstruction: Raising of Grade",
+        "region": "National Capital Region",
+        "province": "METROPOLITAN MANILA",
+        "coordinates": null
+      },
+      {
+        "componentId": "P00109502LZ-CW2",
+        "description": "Road Widening - C-6, Napindan-ML Quezon Ave, Taguig Station 0+000 - 1+500 (Right Side) Station 1+340 - 4+140 (Left Side)",
+        "infraType": "Roads",
+        "typeOfWork": "Road Widening",
+        "region": "National Capital Region",
+        "province": "METROPOLITAN MANILA",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "NORTHERN BUILDERS",
+    "bidders": [
+      {
+        "name": "NORTHERN BUILDERS (8789)",
+        "pcabId": "8789",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "BSP & COMPANY, INC. (19091)",
+        "pcabId": "19091",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "D.M. WENCESLAO & ASSOCIATES, INC. (150)",
+        "pcabId": "150",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "E.C. DE LUNA CONSTRUCTION CORPORATION (FORMERLY E. (11906)",
+        "pcabId": "11906",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "IPM CONSTRUCTION & DEVELOPMENT CORPORATION (14699)",
+        "pcabId": "14699",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "J.D. LEGASPI CONSTRUCTION (9608)",
+        "pcabId": "9608",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "L.R. TIQUI BUILDERS, INC. (13810)",
+        "pcabId": "13810",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION OF BY-PASSES/DIVERSION ROADS, INCLUDING ROW, C-6, NAPINDAN-M.L. QUEZON  AVENUE, TAGUIG",
+      "abc": "339318027.25",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2017-03-16 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-04-04 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "325746354.3"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/bid documents -C-6-04(new).doc",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/CONTRACT Northern c6 325.doc",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/17o00004_notice_of_award.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/17o00004_notice_to_proceed.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

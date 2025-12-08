@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "25OE0022",
+    "description": "RETROFITTING OF SCHOOL BUILDING AT G. SANTIAGO ELEMENTARY SCHOOL, MANILA CITY",
+    "category": "Buildings and Facilities",
+    "status": "On-Going",
+    "budget": 142767035.3,
+    "amountPaid": 0,
+    "progress": 91.62,
+    "location": {
+      "region": "National Capital Region",
+      "province": "North Manila DEO",
+      "infraType": "Buildings and Facilities",
+      "coordinates": {
+        "latitude": 14.5933964,
+        "longitude": 120.9891097,
+        "verified": false
+      }
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "JELSIE CONSTRUCTION & SUPPLY (44943)",
+    "startDate": "2025-02-17",
+    "completionDate": null,
+    "infraYear": "2025",
+    "contractEffectivityDate": "2025-02-17",
+    "expiryDate": "2025-09-18",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2025 SSP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00939879LZ-CW1",
+        "description": "Retrofitting / Strengthening of Building - Retrofitting of School Building at G. Santiago Elementary School, Manila City",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Retrofitting / Strengthening of Building",
+        "region": "National Capital Region",
+        "province": "METROPOLITAN MANILA",
+        "coordinates": {
+          "latitude": 14.5933964,
+          "longitude": 120.9891097,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "JELSIE CONSTRUCTION & SUPPLY",
+    "bidders": [
+      {
+        "name": "JELSIE CONSTRUCTION & SUPPLY (44943)",
+        "pcabId": "44943",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "10-02 ENTERPRISES CO. INC. (52119)",
+        "pcabId": "52119",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "RETROFITTING OF SCHOOL BUILDING AT G. SANTIAGO ELEMENTARY SCHOOL, MANILA CITY",
+      "abc": "144749393.03",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2024-09-12 00:00:00.0000000",
+      "bidSubmissionDeadline": "2024-10-02 00:00:00.0000000",
+      "dateOfAward": "2025-02-07 00:00:00.0000000",
+      "awardAmount": "142767035.3"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/25oe0022.pdf",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/25oe0022_contract.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/25oe0022_-_noa.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/25oe0022_ntp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 14.5933964,
+    "longitude": 120.9891097,
+    "coordinates": [
+      {
+        "componentId": "P00939879LZ-CW1",
+        "description": "Retrofitting / Strengthening of Building - Retrofitting of School Building at G. Santiago Elementary School, Manila City",
+        "latitude": 14.5933964,
+        "longitude": 120.9891097,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 1,
+      "latestImageDate": "2025-07-30 05:40:26.042999",
+      "hasImages": true
+    }
+  }
+}

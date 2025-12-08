@@ -1,0 +1,109 @@
+{
+  "data": {
+    "contractId": "24AH0030",
+    "description": "IMPROVEMENT OF INTERSECTION-DAG.-BONUAN-SAN FABIAN RD.AND JUDGE JOSE DE VENECIA BLVD.EXT'N.RD.DAG. C",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 9800000,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region I",
+      "province": "Pangasinan 2nd DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 16.05737,
+        "longitude": 120.3397721,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "BET CONSTRUCTION & SUPPLY (31764) / MIGHTYWAY CONSTRUCTION AND SUPPLY (40895)",
+    "startDate": "2024-05-17",
+    "completionDate": "2024-08-14",
+    "infraYear": "2024",
+    "contractEffectivityDate": "2024-05-17",
+    "expiryDate": "2024-08-14",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2024 SSP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00837688LZ-CW1",
+        "description": "Road Safety: Traffic Signals - Improvement of Intersection - Dagupan-Bonuan-San Fabian Rd and Judge Jose De Venecia Boulevard Ext'n Rd",
+        "infraType": "Roads",
+        "typeOfWork": "Road Safety: Traffic Signals",
+        "region": "Region I",
+        "province": "PANGASINAN",
+        "coordinates": {
+          "latitude": 16.05737,
+          "longitude": 120.3397721,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "BET CONSTRUCTION & SUPPLY, MIGHTYWAY CONSTRUCTION AND SUPPLY",
+    "bidders": [
+      {
+        "name": "BET CONSTRUCTION & SUPPLY (31764) / MIGHTYWAY CONSTRUCTION AND SUPPLY (40895) (JV ID: JV-24-14514)",
+        "pcabId": "",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "ALCEL CONSTRUCTION (15129)",
+        "pcabId": "15129",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "W.M. SALAYOG CONSTRUCTION & GEN MERCHADISE (12851)",
+        "pcabId": "12851",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "IMPROVEMENT OF INTERSECTION-DAG.-BONUAN-SAN FABIAN RD.AND JUDGE JOSE DE VENECIA BLVD.EXT'N.RD.DAG. C",
+      "abc": "9800000.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2024-04-03 00:00:00.0000000",
+      "bidSubmissionDeadline": "2024-04-24 00:00:00.0000000",
+      "dateOfAward": "2024-04-30 00:00:00.0000000",
+      "awardAmount": "9505983.75"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/24ah0030_republished_itbbdplans.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/24ah0030_ca.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/noa_-_24ah0030_republished.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/ntp_-_24ah0030.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 16.05737,
+    "longitude": 120.3397721,
+    "coordinates": [
+      {
+        "componentId": "P00837688LZ-CW1",
+        "description": "Road Safety: Traffic Signals - Improvement of Intersection - Dagupan-Bonuan-San Fabian Rd and Judge Jose De Venecia Boulevard Ext'n Rd",
+        "latitude": 16.05737,
+        "longitude": 120.3397721,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 2,
+      "latestImageDate": "2025-03-03 06:57:49.289999",
+      "hasImages": true
+    }
+  }
+}

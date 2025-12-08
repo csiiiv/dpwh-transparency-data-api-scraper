@@ -1,0 +1,79 @@
+{
+  "data": {
+    "contractId": "15BA0030",
+    "description": "CONST'N/UPGRADING/REHAB OF DRAINAGE ALONG NAT'L RD. STATION: K0005+886-K0006+006, K0011+917-K0012+31",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 16446062.26,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region II",
+      "province": "Batanes DEO",
+      "infraType": "Roads",
+      "coordinates": null
+    },
+    "infraType": "Roads",
+    "contractor": "EMPAULE CONSTRUCTION AND TRADING, INC. (FORMERLY: E. M. PAULE CONSTRUCTION AND TRADING INC.) (19006)",
+    "startDate": "2016-02-09",
+    "completionDate": "2016-09-30",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-02-09",
+    "expiryDate": "2016-10-05",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00002864LZ-CW1",
+        "description": "Construction of Drainage Structure along Road - Basco-Mahatao-Ivana-Uyugan-Imnajbu Rd - K0005+886 - K0006+006, K0011+917 - K0012+311, K0019+500 - K0020+163",
+        "infraType": "Roads",
+        "typeOfWork": "Construction of Drainage Structure along Road",
+        "region": "Region II",
+        "province": "BATANES",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "EMPAULE CONSTRUCTION AND TRADING, INC. (FORMERLY: E. M. PAULE CONSTRUCTION AND TRADING INC.)",
+    "bidders": [
+      {
+        "name": "EMPAULE CONSTRUCTION AND TRADING, INC. (FORMERLY: E. M. PAULE CONSTRUCTION AND TRADING INC.) (19006)",
+        "pcabId": "19006",
+        "participation": 100,
+        "isWinner": true
+      }
+    ],
+    "procurement": {
+      "contractName": "CONST'N/UPGRADING/REHAB OF DRAINAGE ALONG NAT'L RD. STATION: K0005+886-K0006+006, K0011+917-K0012+31",
+      "abc": "16476740.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-11-27 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-12-17 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "16446062.2600000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/15ba0030_noa.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/15ba0030_ntp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "data": {
+    "contractId": "15AD0161",
+    "description": "CONSTN/MAINT OF FLOOD MITIGATION & DRAINAGE SYSTEM BUAYA RC,STA. CRUZ,ILOCOS SUR",
+    "category": "Flood Control and Drainage",
+    "status": "Completed",
+    "budget": 14185154.92,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region I",
+      "province": "Ilocos Sur 2nd DEO",
+      "infraType": "Flood Control and Drainage",
+      "coordinates": {
+        "latitude": 17.088833,
+        "longitude": 120.444778,
+        "verified": false
+      }
+    },
+    "infraType": "Flood Control and Drainage",
+    "contractor": "PRECIOUS CONSTRUCTION (32995)",
+    "startDate": "2016-02-22",
+    "completionDate": "2016-12-02",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-02-22",
+    "expiryDate": "2016-08-21",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-2",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00020274LZ-CW1",
+        "description": "Construction of Flood Mitigation Structure - Construction of Flood Mitigation Structures and Drainage System-Buaya River Flood Control, Sta. Cruz, Ilocos Sur 2nd LD",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Construction of Flood Mitigation Structure",
+        "region": "Region I",
+        "province": "ILOCOS SUR",
+        "coordinates": {
+          "latitude": 17.088833,
+          "longitude": 120.444778,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "PRECIOUS CONSTRUCTION",
+    "bidders": [
+      {
+        "name": "PRECIOUS CONSTRUCTION (32995)",
+        "pcabId": "32995",
+        "participation": 100,
+        "isWinner": true
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTN/MAINT OF FLOOD MITIGATION & DRAINAGE SYSTEM BUAYA RC,STA. CRUZ,ILOCOS SUR",
+      "abc": "14700394.76",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-12-17 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-01-12 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "14187420.8900000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/may/15AD0161 CA276.pdf",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/may/15AD0161 NOA278.pdf",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/may/15AD0161 CA276.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 17.088833,
+    "longitude": 120.444778,
+    "coordinates": [
+      {
+        "componentId": "P00020274LZ-CW1",
+        "description": "Construction of Flood Mitigation Structure - Construction of Flood Mitigation Structures and Drainage System-Buaya River Flood Control, Sta. Cruz, Ilocos Sur 2nd LD",
+        "latitude": 17.088833,
+        "longitude": 120.444778,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

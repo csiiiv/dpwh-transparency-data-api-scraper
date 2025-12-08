@@ -1,0 +1,137 @@
+{
+  "data": {
+    "contractId": "18LA0081",
+    "description": "CONSTRUCTION OF REVETMENT AT BRGY. PANAG, NEW BATAAN, COMPOSTELA VALLEY PROVINCE",
+    "category": "Flood Control Structures, Waterway",
+    "status": "Completed",
+    "budget": 86560490.92,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region XI",
+      "province": "Davao de Oro 1st DEO",
+      "infraType": "Flood Control and Drainage",
+      "coordinates": {
+        "latitude": 7.5985006,
+        "longitude": 126.0955776,
+        "verified": false
+      }
+    },
+    "infraType": "Flood Control and Drainage",
+    "contractor": "AB APONESTO CONSTRUCTION PARTS AND SUPPLY, INC. (22998)",
+    "startDate": "2018-04-13",
+    "completionDate": "2019-03-15",
+    "infraYear": "2018",
+    "contractEffectivityDate": "2018-04-13",
+    "expiryDate": "2019-02-03",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2018 OO-2",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00220953MN-CW1",
+        "description": "Construction of Revetment - Construction of Revetment at Brgy. Panag, New Bataan, Compostela Valley",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Construction of Revetment",
+        "region": "Region XI",
+        "province": "DAVAO DE ORO",
+        "coordinates": {
+          "latitude": 7.5985006,
+          "longitude": 126.0955776,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00220953MN-CW2",
+        "description": "Channelization - Construction of Revetment at Brgy. Panag, New Bataan, Compostela Valley",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Channelization",
+        "region": "Region XI",
+        "province": "DAVAO DE ORO",
+        "coordinates": {
+          "latitude": 7.5975194,
+          "longitude": 126.0957658,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "AB APONESTO CONSTRUCTION PARTS AND SUPPLY, INC.",
+    "bidders": [
+      {
+        "name": "AB APONESTO CONSTRUCTION PARTS AND SUPPLY, INC. (22998)",
+        "pcabId": "22998",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "ARN BUILDERS, INC. (FOR: ARN BUILDERS) (18930)",
+        "pcabId": "18930",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "MAVERICK BUILDERS INCORPORATED (FORMERLY MAVERICK (14466)",
+        "pcabId": "14466",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "RELY CONSTRUCTION & SUPPLY INC.(FORMERLY: RELY CONSTRUCTION AND SUPPLY) (10433)",
+        "pcabId": "10433",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION OF REVETMENT AT BRGY. PANAG, NEW BATAAN, COMPOSTELA VALLEY PROVINCE",
+      "abc": "86549623.29",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2017-12-08 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-12-27 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "84118278.06"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/18LA0081.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/CONTRACT AGREEMENT.PDF",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/NOA.PDF",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/CONTRACT AGREEMENT.PDF",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 7.5985006,
+    "longitude": 126.0955776,
+    "coordinates": [
+      {
+        "componentId": "P00220953MN-CW1",
+        "description": "Construction of Revetment - Construction of Revetment at Brgy. Panag, New Bataan, Compostela Valley",
+        "latitude": 7.5985006,
+        "longitude": 126.0955776,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00220953MN-CW2",
+        "description": "Channelization - Construction of Revetment at Brgy. Panag, New Bataan, Compostela Valley",
+        "latitude": 7.5975194,
+        "longitude": 126.0957658,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

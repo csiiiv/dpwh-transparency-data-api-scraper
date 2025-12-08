@@ -1,0 +1,175 @@
+{
+  "data": {
+    "contractId": "19IJ0131",
+    "description": "(RE-ADVERTISE)001: ENSURE SAFE AND RELIABLE NATIONAL ROAD SYSTEM NETWORK DEVELOPMENT - ROAD WIDENING - SECONDARY ROADS GANDARA DIVERSION RD- K0763+(-054) - K0764 +369, SAMAR",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 34655200,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region VIII",
+      "province": "Samar 1st DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 12.0123083,
+        "longitude": 124.8088139,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "B. VICENCIO BUILDERS (BVB), INC. (FORMERLY:B. VICENCIO CONSTRUCTION) (9687)",
+    "startDate": "2019-08-29",
+    "completionDate": "2020-02-10",
+    "infraYear": "2019",
+    "contractEffectivityDate": "2019-08-29",
+    "expiryDate": "2020-02-10",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2019 OO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00303587VS-CW1",
+        "description": "Road Widening - Gandara Diversion Rd - K0763 + (-054) - K0764 + 369",
+        "infraType": "Roads",
+        "typeOfWork": "Road Widening",
+        "region": "Region VIII",
+        "province": "SAMAR (WESTERN SAMAR)",
+        "coordinates": {
+          "latitude": 12.0123083,
+          "longitude": 124.8088139,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00303587VS-CW2",
+        "description": "Construction of Drainage Structure along Road - Gandara Diversion Rd - K0763 + (-054) - K0764 + 369",
+        "infraType": "Roads",
+        "typeOfWork": "Construction of Drainage Structure along Road",
+        "region": "Region VIII",
+        "province": "SAMAR (WESTERN SAMAR)",
+        "coordinates": {
+          "latitude": 12.0123083,
+          "longitude": 124.8088139,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00303587VS-CW3",
+        "description": "Construction of Road Slope Protection Structure - Gandara Diversion Rd - K0763 + (-054) - K0764 + 369",
+        "infraType": "Roads",
+        "typeOfWork": "Construction of Road Slope Protection Structure",
+        "region": "Region VIII",
+        "province": "SAMAR (WESTERN SAMAR)",
+        "coordinates": {
+          "latitude": 12.0123083,
+          "longitude": 124.8088139,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00303587VS-CW4",
+        "description": "Reconstruction: Raising of Grade - Gandara Diversion Rd - K0763 + (-054) - K0764 + 369",
+        "infraType": "Roads",
+        "typeOfWork": "Reconstruction: Raising of Grade",
+        "region": "Region VIII",
+        "province": "SAMAR (WESTERN SAMAR)",
+        "coordinates": {
+          "latitude": 12.0123083,
+          "longitude": 124.8088139,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "B. VICENCIO BUILDERS (BVB), INC. (FORMERLY:B. VICENCIO CONSTRUCTION)",
+    "bidders": [
+      {
+        "name": "B. VICENCIO BUILDERS (BVB), INC. (FORMERLY:B. VICENCIO CONSTRUCTION) (9687)",
+        "pcabId": "9687",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "PABLO S. LABASBAS CONSTRUCTION CORPORATION (FORMERLY: PABLOS. LABASBAS CONSTRUCTION CORPORATION) (6302)",
+        "pcabId": "6302",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "RHYES BUILDERS & SUPPLY (22115)",
+        "pcabId": "22115",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "(RE-ADVERTISE)001: ENSURE SAFE AND RELIABLE NATIONAL ROAD SYSTEM NETWORK DEVELOPMENT - ROAD WIDENING - SECONDARY ROADS GANDARA DIVERSION RD- K0763+(-054) - K0764 +369, SAMAR",
+      "abc": "37836200.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2019-02-02 00:00:00.0000000",
+      "bidSubmissionDeadline": "2019-02-22 00:00:00.0000000",
+      "dateOfAward": "2019-08-20 00:00:00.0000000",
+      "awardAmount": "34655200"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "",
+      "noticeOfAward": "",
+      "noticeToProceed": "",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 12.0123083,
+    "longitude": 124.8088139,
+    "coordinates": [
+      {
+        "componentId": "P00303587VS-CW1",
+        "description": "Road Widening - Gandara Diversion Rd - K0763 + (-054) - K0764 + 369",
+        "latitude": 12.0123083,
+        "longitude": 124.8088139,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00303587VS-CW2",
+        "description": "Construction of Drainage Structure along Road - Gandara Diversion Rd - K0763 + (-054) - K0764 + 369",
+        "latitude": 12.0123083,
+        "longitude": 124.8088139,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00303587VS-CW3",
+        "description": "Construction of Road Slope Protection Structure - Gandara Diversion Rd - K0763 + (-054) - K0764 + 369",
+        "latitude": 12.0123083,
+        "longitude": 124.8088139,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00303587VS-CW4",
+        "description": "Reconstruction: Raising of Grade - Gandara Diversion Rd - K0763 + (-054) - K0764 + 369",
+        "latitude": 12.0123083,
+        "longitude": 124.8088139,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

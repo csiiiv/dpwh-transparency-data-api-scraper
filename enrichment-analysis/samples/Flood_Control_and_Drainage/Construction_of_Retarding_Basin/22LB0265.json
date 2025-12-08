@@ -1,0 +1,121 @@
+{
+  "data": {
+    "contractId": "22LB0265",
+    "description": "CONSTRUCTION OF RETARDING BASIN PROTECTING NATIONAL ROAD, LA VERNASECTION, STA. 0+000 - STA. 0+500, DAVAOCITY",
+    "category": "Flood Control and Drainage",
+    "status": "On-Going",
+    "budget": 279850000,
+    "amountPaid": 0,
+    "progress": 99.08,
+    "location": {
+      "region": "Region XI",
+      "province": "Davao City DEO",
+      "infraType": "Flood Control and Drainage",
+      "coordinates": {
+        "latitude": 7.1250545,
+        "longitude": 125.6322336,
+        "verified": false
+      }
+    },
+    "infraType": "Flood Control and Drainage",
+    "contractor": "MONOLITHIC CONSTRUCTION & CONCRETE PRODUCTS, INC. (5733) / RELY CONSTRUCTION & SUPPLY INC.(FORMERLY: RELY CONSTRUCTION AND SUPPLY) (10433)",
+    "startDate": "2022-04-13",
+    "completionDate": null,
+    "infraYear": "2022",
+    "contractEffectivityDate": "2022-04-13",
+    "expiryDate": "2025-10-26",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2022 OO-2",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00620074MN-CW1",
+        "description": "Construction of Retarding Basin - Construction of Retarding Basin protecting national road, La Verna Section, Sta. 0+000 - Sta. 0+500, Davao City",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Construction of Retarding Basin",
+        "region": "Region XI",
+        "province": "DAVAO DEL SUR",
+        "coordinates": {
+          "latitude": 7.1250545,
+          "longitude": 125.6322336,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "MONOLITHIC CONSTRUCTION & CONCRETE PRODUCTS, INC., RELY CONSTRUCTION & SUPPLY INC.(FORMERLY: RELY CONSTRUCTION AND SUPPLY)",
+    "bidders": [
+      {
+        "name": "MONOLITHIC CONSTRUCTION & CONCRETE PRODUCTS, INC. (5733) / RELY CONSTRUCTION & SUPPLY INC.(FORMERLY: RELY CONSTRUCTION AND SUPPLY) (10433) (JV ID: JV-22-7596)",
+        "pcabId": "",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "ITP CONSTRUCTION, INC. (9392)",
+        "pcabId": "9392",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "LORENZO CONSTRUCTION & DEVELOPMENT CORP. (4284)",
+        "pcabId": "4284",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "VICENTE T. LAO CONSTRUCTION (7040)",
+        "pcabId": "7040",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "YAKAL CONSTRUCTION (9685)",
+        "pcabId": "9685",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION OF RETARDING BASIN  PROTECTING NATIONAL ROAD, LA VERNA SECTION, STA. 0+000 - STA. 0+500, DAVAO CITY",
+      "abc": "279850000.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2022-02-24 00:00:00.0000000",
+      "bidSubmissionDeadline": "2022-03-17 00:00:00.0000000",
+      "dateOfAward": "2022-03-23 00:00:00.0000000",
+      "awardAmount": "275652212.7"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/22LB0265.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/265.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/22LB0265 NOA.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/265.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 7.1250545,
+    "longitude": 125.6322336,
+    "coordinates": [
+      {
+        "componentId": "P00620074MN-CW1",
+        "description": "Construction of Retarding Basin - Construction of Retarding Basin protecting national road, La Verna Section, Sta. 0+000 - Sta. 0+500, Davao City",
+        "latitude": 7.1250545,
+        "longitude": 125.6322336,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 2,
+      "latestImageDate": "2025-08-08 04:40:19.572999",
+      "hasImages": true
+    }
+  }
+}

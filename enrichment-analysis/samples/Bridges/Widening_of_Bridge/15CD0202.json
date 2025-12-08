@@ -1,0 +1,175 @@
+{
+  "data": {
+    "contractId": "15CD0202",
+    "description": "WIDENING OF PERMANENT BRIDGES,STA.MARIA BRIDGE 3 (B0440LZ)ALONG STA. MARIA BY-PASS ROAD,STA.MARIA,BULACAN",
+    "category": "Bridges",
+    "status": "Completed",
+    "budget": 18610218.47,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region III",
+      "province": "Bulacan 2nd DEO",
+      "infraType": "Bridges",
+      "coordinates": {
+        "latitude": 14.830948,
+        "longitude": 120.96435,
+        "verified": false
+      }
+    },
+    "infraType": "Bridges",
+    "contractor": "HALREY CONSTRUCTION INC. (2267)",
+    "startDate": "2016-02-11",
+    "completionDate": "2016-06-29",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-02-11",
+    "expiryDate": "2016-06-29",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00001921LZ-CW1",
+        "description": "Widening of Bridge - Sta. Maria Br. 3 (B04407LZ) along Sta Maria By-Pass Rd",
+        "infraType": "Bridges",
+        "typeOfWork": "Widening of Bridge",
+        "region": "Region III",
+        "province": "BULACAN",
+        "coordinates": {
+          "latitude": 14.830948,
+          "longitude": 120.96435,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "HALREY CONSTRUCTION INC.",
+    "bidders": [
+      {
+        "name": "HALREY CONSTRUCTION INC. (2267)",
+        "pcabId": "2267",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "A.C. RIVERO DEVELOPMENT CORPORATION (5122)",
+        "pcabId": "5122",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "AFG ZILLION CONSTRUCTION CORPORATION (FORMERLY: A.F.G. CONSTRUCTION & CONSTRUCTION SUPPLY) (17161)",
+        "pcabId": "17161",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "C.T. LEONCIO CONSTRUCTION & TRADING (17371)",
+        "pcabId": "17371",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "D.V. SALUD CONSTRUCTION (6564)",
+        "pcabId": "6564",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "E.A. SANCHO CONST. INC. (FORM. E.A. SANCHO CONST.) (5648)",
+        "pcabId": "5648",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "FFJJ CONSTRUCTION (16712)",
+        "pcabId": "16712",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "HEXAMINDZ CORPORATION (FORMERLY:KILUSANG MAGKAIBIG (31666)",
+        "pcabId": "31666",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "HONEYVILLECONST AND DEVELOPMENT CORPORATION (32160)",
+        "pcabId": "32160",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "HPL GENERAL CONSTRUCTION (22289)",
+        "pcabId": "22289",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "NFH CONSTRUCTION & SUPPLY (16055)",
+        "pcabId": "16055",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "ORANI CONSTRUCTION AND SUPPLY CORPORATION (FORMERLY:ORANI BUILDERS & SUPPLY) (05349)",
+        "pcabId": "05349",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "SUPREME ABF CONST. & CONST. SUPPLY COMPANY INC. (25226)",
+        "pcabId": "25226",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "W.D. NAVARRO CONSTRUCTION CO. (14327)",
+        "pcabId": "14327",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "WIDENING OF PERMANENT BRIDGES,STA.MARIA BRIDGE 3 (B0440LZ)ALONG STA. MARIA BY-PASS ROAD,STA.MARIA,BULACAN",
+      "abc": "19599834.61",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-10-30 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-11-19 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "18610218.4700000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/september/CA 201,202,203.zip",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/noa_15cd0202.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/ntp_15cd0202.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 14.830948,
+    "longitude": 120.96435,
+    "coordinates": [
+      {
+        "componentId": "P00001921LZ-CW1",
+        "description": "Widening of Bridge - Sta. Maria Br. 3 (B04407LZ) along Sta Maria By-Pass Rd",
+        "latitude": 14.830948,
+        "longitude": 120.96435,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

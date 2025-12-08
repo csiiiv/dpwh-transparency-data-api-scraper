@@ -1,0 +1,121 @@
+{
+  "data": {
+    "contractId": "19PD0024",
+    "description": "OFF-CARRIAGEWAY IMPROVEMENT: CONSTRUCTION OF LAYBYS-ALONG PACDAL ROAD (S00461LZ) KO253+640 TO KO253+700",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 6103786.78,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Cordillera Administrative Region",
+      "province": "Baguio City DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 16.4276025,
+        "longitude": 120.6227172,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "FAMILY CIRCLE CONSTRUCTION (32608)",
+    "startDate": "2019-06-19",
+    "completionDate": "2020-11-01",
+    "infraYear": "2019",
+    "contractEffectivityDate": "2019-06-19",
+    "expiryDate": "2019-10-10",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2019 OO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00301976LZ-CW1",
+        "description": "Off-Carriageway Improvement: Construction of Laybys - Pacdal Rd - K0253 + 640 - K0253 + 700",
+        "infraType": "Roads",
+        "typeOfWork": "Off-Carriageway Improvement: Construction of Laybys",
+        "region": "Cordillera Administrative Region",
+        "province": "BENGUET",
+        "coordinates": {
+          "latitude": 16.4276025,
+          "longitude": 120.6227172,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "FAMILY CIRCLE CONSTRUCTION",
+    "bidders": [
+      {
+        "name": "FAMILY CIRCLE CONSTRUCTION (32608)",
+        "pcabId": "32608",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "G.A. FLORES CONSTRUCTION, INC. (611)",
+        "pcabId": "611",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "HDG CONSTRUCTION AND ENTERPRISES (35955)",
+        "pcabId": "35955",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "KANE CONSTRUCTION, INC. (2888)",
+        "pcabId": "2888",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "MELECIO CONSTRUCTION (35275)",
+        "pcabId": "35275",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "OFF-CARRIAGEWAY IMPROVEMENT: CONSTRUCTION OF LAYBYS-ALONG PACDAL ROAD (S00461LZ) KO253+640 TO KO253+700",
+      "abc": "6859460.49",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2019-01-29 00:00:00.0000000",
+      "bidSubmissionDeadline": "2019-02-19 00:00:00.0000000",
+      "dateOfAward": "2019-06-04 00:00:00.0000000",
+      "awardAmount": "6103786.78"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/19PD0024 (re-IB Bid Docs BOQ Checklist Attachment Plans).zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/Contract 19PD0024.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/Award 19PD0024.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/Contract 19PD0024.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 16.4276025,
+    "longitude": 120.6227172,
+    "coordinates": [
+      {
+        "componentId": "P00301976LZ-CW1",
+        "description": "Off-Carriageway Improvement: Construction of Laybys - Pacdal Rd - K0253 + 640 - K0253 + 700",
+        "latitude": 16.4276025,
+        "longitude": 120.6227172,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

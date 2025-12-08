@@ -1,0 +1,91 @@
+{
+  "data": {
+    "contractId": "15IB0301",
+    "description": "REPAIR/REHAB./IMPROVEMENT OF BORONGAN SEAWALL, BRGY. BAYBAY, BORONGAN CITY, EASTERN SAMAR",
+    "category": "Flood Control and Drainage",
+    "status": "Completed",
+    "budget": 42588719.86,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region VIII",
+      "province": "Eastern Samar DEO",
+      "infraType": "Flood Control and Drainage",
+      "coordinates": null
+    },
+    "infraType": "Flood Control and Drainage",
+    "contractor": "ROMA CONSTRUCTION & DEVELOPMENT CORPORATION (6514)",
+    "startDate": "2016-02-02",
+    "completionDate": "2016-09-15",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-02-02",
+    "expiryDate": "2016-09-15",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-2",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00020882VS-CW1",
+        "description": "Rehabilitation / Major Repair of Slope Protection Structure - Repair/Rehabilitation/Improvement of Borongan Seawall Brgy. Baybay, Borongan City, Eastern Samar",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Rehabilitation / Major Repair of Slope Protection Structure",
+        "region": "Region VIII",
+        "province": "EASTERN SAMAR",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "ROMA CONSTRUCTION & DEVELOPMENT CORPORATION",
+    "bidders": [
+      {
+        "name": "ROMA CONSTRUCTION & DEVELOPMENT CORPORATION (6514)",
+        "pcabId": "6514",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "EZJONES CONSTRUCTION INC. (34462)",
+        "pcabId": "34462",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "GICAR CONSTRUCTION, INC. (12624)",
+        "pcabId": "12624",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "REPAIR/REHAB./IMPROVEMENT OF BORONGAN SEAWALL, BRGY. BAYBAY, BORONGAN CITY, EASTERN SAMAR",
+      "abc": "43935708.60",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-12-02 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-12-22 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "42588719.8600000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "",
+      "noticeOfAward": "",
+      "noticeToProceed": "",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

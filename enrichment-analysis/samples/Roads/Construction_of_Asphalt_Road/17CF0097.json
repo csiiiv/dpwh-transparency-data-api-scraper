@@ -1,0 +1,100 @@
+{
+  "data": {
+    "contractId": "17CF0097",
+    "description": "LOCAL INFRASTRUCTURE PROGRAM -REBLOCKING / ASPHALT OVERLAY OF ROAD, RIZAL ST. BRGY. CASTELLANO-BRGY NIEVES, SAN LEONARDO, NUEVA ECIJA",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 9506409.06,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region III",
+      "province": "Nueva Ecija 2nd DEO",
+      "infraType": "Roads",
+      "coordinates": null
+    },
+    "infraType": "Roads",
+    "contractor": "DGSARM BUILDERS INC. (FORMERLY: D.G. SARMENTA CONSTRUCTION) (13024)",
+    "startDate": "2017-07-10",
+    "completionDate": "2017-09-07",
+    "infraYear": "2017",
+    "contractEffectivityDate": "2017-07-10",
+    "expiryDate": "2017-09-07",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - Roads: Rehabilitation - Asphalt, Roads: Rehabilitation - PCCP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00147431LZ-CW1",
+        "description": "Construction of Asphalt Road - Reblocking/Asphalt Overlay of Road, Rizal St., Brgy. Castellano - Brgy. Nieves, San Leonardo, Nueva Ecija",
+        "infraType": "Roads",
+        "typeOfWork": "Construction of Asphalt Road",
+        "region": "Region III",
+        "province": "NUEVA ECIJA",
+        "coordinates": null
+      },
+      {
+        "componentId": "P00147431LZ-CW2",
+        "description": "Rehabilitation of Concrete Road - Reblocking/Asphalt Overlay of Road, Rizal St., Brgy. Castellano - Brgy. Nieves, San Leonardo, Nueva Ecija",
+        "infraType": "Roads",
+        "typeOfWork": "Rehabilitation of Concrete Road",
+        "region": "Region III",
+        "province": "NUEVA ECIJA",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "DGSARM BUILDERS INC. (FORMERLY: D.G. SARMENTA CONSTRUCTION)",
+    "bidders": [
+      {
+        "name": "DGSARM BUILDERS INC. (FORMERLY: D.G. SARMENTA CONSTRUCTION) (13024)",
+        "pcabId": "13024",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "FORTHRIGHT CONSTRUCTION (32883)",
+        "pcabId": "32883",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "FRAMECON BUILDERS (22482)",
+        "pcabId": "22482",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "LOCAL INFRASTRUCTURE PROGRAM -REBLOCKING / ASPHALT OVERLAY OF ROAD, RIZAL ST. BRGY. CASTELLANO-BRGY NIEVES, SAN LEONARDO, NUEVA ECIJA",
+      "abc": "9800460.81",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2017-03-23 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-04-11 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "9,506,409.06"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/Plans for Contract ID 17CF0097 Part A.rar",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/17CF0097.zip",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/17cf0097_noa.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/ntp_17cf0097.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

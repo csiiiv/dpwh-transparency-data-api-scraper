@@ -1,0 +1,115 @@
+{
+  "data": {
+    "contractId": "20CG0229",
+    "description": "REHABILITATION OF CONSUELO CHECKGATE AT BARANGAY CONSUELO, MACABEBE, PAMPANGA",
+    "category": "Flood Control and Drainage",
+    "status": "Completed",
+    "budget": 7424474,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region III",
+      "province": "Pampanga 1st DEO",
+      "infraType": "Flood Control and Drainage",
+      "coordinates": {
+        "latitude": 14.7972097,
+        "longitude": 120.6648258,
+        "verified": false
+      }
+    },
+    "infraType": "Flood Control and Drainage",
+    "contractor": "N-22 CONSTRUCTION AND TRADING (25254)",
+    "startDate": "2020-12-04",
+    "completionDate": "2021-03-28",
+    "infraYear": "2020",
+    "contractEffectivityDate": "2020-12-04",
+    "expiryDate": "2021-03-18",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2020 LP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00448954LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Flood Mitigation Facility - Rehabilitation of Consuelo Checkgate at Brgy. Consuelo, Macabebe, Pampanga",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Rehabilitation / Major Repair of Flood Mitigation Facility",
+        "region": "Region III",
+        "province": "PAMPANGA",
+        "coordinates": {
+          "latitude": 14.7972097,
+          "longitude": 120.6648258,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "N-22 CONSTRUCTION AND TRADING",
+    "bidders": [
+      {
+        "name": "N-22 CONSTRUCTION AND TRADING (25254)",
+        "pcabId": "25254",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "E.B. MATIAS CONSTRUCTION & TRADING (24996)",
+        "pcabId": "24996",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "NULAS BUILDERS (32172)",
+        "pcabId": "32172",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "VORTEX CONSTRUCTION (37715)",
+        "pcabId": "37715",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "REHABILITATION OF CONSUELO CHECKGATE AT BARANGAY CONSUELO, MACABEBE, PAMPANGA",
+      "abc": "7840000.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2020-07-06 00:00:00.0000000",
+      "bidSubmissionDeadline": "2020-07-28 00:00:00.0000000",
+      "dateOfAward": "2020-11-23 00:00:00.0000000",
+      "awardAmount": "7424474"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/ITB-2020-07-06.doc",
+      "contractAgreement": "",
+      "noticeOfAward": "",
+      "noticeToProceed": "",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 14.7972097,
+    "longitude": 120.6648258,
+    "coordinates": [
+      {
+        "componentId": "P00448954LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Flood Mitigation Facility - Rehabilitation of Consuelo Checkgate at Brgy. Consuelo, Macabebe, Pampanga",
+        "latitude": 14.7972097,
+        "longitude": 120.6648258,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 1,
+      "latestImageDate": "2021-12-15 06:01:27.120000",
+      "hasImages": true
+    }
+  }
+}

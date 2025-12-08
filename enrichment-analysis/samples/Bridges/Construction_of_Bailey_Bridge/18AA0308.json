@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "18AA0308",
+    "description": "CONSTRUCTION OF BAILEY BRIDGE, BRGY. MALASIN, BANGUI, ILOCOS NORTE",
+    "category": "Bridges",
+    "status": "Completed",
+    "budget": 4701706.32,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region I",
+      "province": "Ilocos Norte 1st DEO",
+      "infraType": "Bridges",
+      "coordinates": {
+        "latitude": 18.5313253,
+        "longitude": 120.7823828,
+        "verified": false
+      }
+    },
+    "infraType": "Bridges",
+    "contractor": "GESAVILE CONSTRUCTION (25345)",
+    "startDate": "2018-04-11",
+    "completionDate": "2019-11-15",
+    "infraYear": "2018",
+    "contractEffectivityDate": "2018-04-11",
+    "expiryDate": "2019-02-19",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2018 LP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00250604LZ-CW1",
+        "description": "Construction of Bailey Bridge - Construction of Baley Bridge, Brgy. Malasin, Bangui, Ilocos Norte",
+        "infraType": "Bridges",
+        "typeOfWork": "Construction of Bailey Bridge",
+        "region": "Region I",
+        "province": "ILOCOS NORTE",
+        "coordinates": {
+          "latitude": 18.5313253,
+          "longitude": 120.7823828,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "GESAVILE CONSTRUCTION",
+    "bidders": [
+      {
+        "name": "GESAVILE CONSTRUCTION (25345)",
+        "pcabId": "25345",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "ZEDIK BUILDERS (33330)",
+        "pcabId": "33330",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION OF BAILEY BRIDGE, BRGY. MALASIN, BANGUI, ILOCOS NORTE",
+      "abc": "4949892.16",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2018-01-26 00:00:00.0000000",
+      "bidSubmissionDeadline": "2018-03-02 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "4702012.6"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/18AA0308 - Const. of Baley Br., Brgy. Malasin, Bangui.rar",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/CIN-18AA0308_CONTRACT_4.zip",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/18aa0308-noa399.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/CIN-18AA0308_NTP.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 18.5313253,
+    "longitude": 120.7823828,
+    "coordinates": [
+      {
+        "componentId": "P00250604LZ-CW1",
+        "description": "Construction of Bailey Bridge - Construction of Baley Bridge, Brgy. Malasin, Bangui, Ilocos Norte",
+        "latitude": 18.5313253,
+        "longitude": 120.7823828,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

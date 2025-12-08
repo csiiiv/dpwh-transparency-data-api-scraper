@@ -1,0 +1,106 @@
+{
+  "data": {
+    "contractId": "16CB0116",
+    "description": "CONSTRUCTION OF THREE(3) STOREY NINE(9) CLASSROOM AT BATAAN SCHOOL OF FISHERIES ORION BATAAN",
+    "category": "Buildings and Facilities",
+    "status": "Completed",
+    "budget": 16799635.87,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region III",
+      "province": "Bataan 2nd DEO",
+      "infraType": "Buildings and Facilities",
+      "coordinates": null
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "VF CONSTRUCTION (10048)",
+    "startDate": "2017-07-31",
+    "completionDate": "2018-04-26",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2017-07-31",
+    "expiryDate": "2018-04-26",
+    "nysReason": null,
+    "programName": "Outside Infra",
+    "sourceOfFunds": "Outside Infra - GAA 2016 DepED BEFF",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00070077LZ-CW1",
+        "description": "Construction of Classrooms - Construction of a 3STY9CL School Building, Bataan School of Fisheries, Orion, Bataan 2nd LD",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of Classrooms",
+        "region": "Region III",
+        "province": "BATAAN",
+        "coordinates": null
+      },
+      {
+        "componentId": "P00076147LZ-CW1",
+        "description": "Completion of Classrooms - Construction (Completion) of a 3STY9CL School Building, Bataan School of Fisheries, Orion, Bataan",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Completion of Classrooms",
+        "region": "Region III",
+        "province": "BATAAN",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "VF CONSTRUCTION",
+    "bidders": [
+      {
+        "name": "VF CONSTRUCTION (10048)",
+        "pcabId": "10048",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "ED1SON DEVELOPMENT & CONSTRUCTION INC. (2400)",
+        "pcabId": "2400",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "E.R. VENZON CONSTRUCTION (19013)",
+        "pcabId": "19013",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "FAME BUILDER PHILIPPINES (8936)",
+        "pcabId": "8936",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION OF THREE(3) STOREY NINE(9) CLASSROOM AT BATAAN SCHOOL OF FISHERIES ORION BATAAN",
+      "abc": "17188063.43",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2017-03-02 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-03-21 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "16,799,635.87"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/16cb0116_contract.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/16cb0116_noa.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/16cb0116_ntp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

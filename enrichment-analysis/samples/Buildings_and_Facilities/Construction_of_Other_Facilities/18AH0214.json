@@ -1,0 +1,109 @@
+{
+  "data": {
+    "contractId": "18AH0214",
+    "description": "CONSTRUCTION OF WHARF, LINGAYEN RIVERLAND, PANGASINAN",
+    "category": "Buildings and Facilities",
+    "status": "Completed",
+    "budget": 23568995.93,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region I",
+      "province": "Pangasinan 2nd DEO",
+      "infraType": "Buildings and Facilities",
+      "coordinates": {
+        "latitude": 16.04123,
+        "longitude": 120.2004657,
+        "verified": false
+      }
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "ALCEL CONSTRUCTION (15129)",
+    "startDate": "2018-07-02",
+    "completionDate": "2018-12-31",
+    "infraYear": "2018",
+    "contractEffectivityDate": "2018-07-02",
+    "expiryDate": "2018-11-28",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2018 LP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00240086LZ-CW1",
+        "description": "Construction of Other Facilities - Construction of Wharf, Lingayen Riverland. Pangasinan",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of Other Facilities",
+        "region": "Region I",
+        "province": "PANGASINAN",
+        "coordinates": {
+          "latitude": 16.04123,
+          "longitude": 120.2004657,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "ALCEL CONSTRUCTION",
+    "bidders": [
+      {
+        "name": "ALCEL CONSTRUCTION (15129)",
+        "pcabId": "15129",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "HIGH STRENGTH DEV. CORPORATION (31976)",
+        "pcabId": "31976",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "JASA GD 2000 CONSTRUCTION CORPORATION (FORMERLY:JASA BUILDER'S) (31330)",
+        "pcabId": "31330",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION OF WHARF, LINGAYEN RIVERLAND, PANGASINAN",
+      "abc": "24500000.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2018-05-18 00:00:00.0000000",
+      "bidSubmissionDeadline": "2018-06-07 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "23568995.93"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/18AH0214 ITB,BD,CP,TF,PLANS.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/18AH0214-CONTRACT.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/18AH0214-NOA.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/18AH0214-CONTRACT.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 16.04123,
+    "longitude": 120.2004657,
+    "coordinates": [
+      {
+        "componentId": "P00240086LZ-CW1",
+        "description": "Construction of Other Facilities - Construction of Wharf, Lingayen Riverland. Pangasinan",
+        "latitude": 16.04123,
+        "longitude": 120.2004657,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

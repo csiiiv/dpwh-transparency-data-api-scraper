@@ -1,0 +1,169 @@
+{
+  "data": {
+    "contractId": "16F00150",
+    "description": "RECONSTRUCTION/REHABILITATION/RESTORATION OF FISH PORT AND STAIRS AT LAKE BUHI, BUHI, CAMARINES SUR, CAMARINES SUR 5TH LEGISLATIVE DISTRICT",
+    "category": "Buildings and Facilities",
+    "status": "On-Going",
+    "budget": 80580093.97,
+    "amountPaid": 0,
+    "progress": 98.15,
+    "location": {
+      "region": "Region V",
+      "province": "Region V",
+      "infraType": "Buildings and Facilities",
+      "coordinates": {
+        "latitude": 13.4351167,
+        "longitude": 123.5183333,
+        "verified": false
+      }
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "G.C.I.  CONSTRUCTION AND DEV'T. CORP. (11346)",
+    "startDate": "2018-02-01",
+    "completionDate": null,
+    "infraYear": "2016",
+    "contractEffectivityDate": "2018-02-01",
+    "expiryDate": "2018-09-24",
+    "nysReason": null,
+    "programName": "Outside Infra",
+    "sourceOfFunds": "Outside Infra - GAA 2016 NDRRMF",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00195117LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Other Building - Reconstruction/Rehabilitation/Restoration of Fish Port and Stairs at Lake Buhi, Buhi, Camarines Sur",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Rehabilitation / Major Repair of Other Building",
+        "region": "Region V",
+        "province": "CAMARINES SUR",
+        "coordinates": {
+          "latitude": 13.4351167,
+          "longitude": 123.5183333,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "G.C.I.  CONSTRUCTION AND DEV'T. CORP.",
+    "bidders": [
+      {
+        "name": "G.C.I.  CONSTRUCTION AND DEV'T. CORP. (11346)",
+        "pcabId": "11346",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "BICOL GOLDROCK CONSTRUCTION CORPORATION (32376)",
+        "pcabId": "32376",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "DSB CONSTRUCTION  & SUPPLY, INC. (FORMERLY: DSB CO (16126)",
+        "pcabId": "16126",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "HI-TONE CONSTRUCTION & DEVELOPMENT CORP. (FORMERLY (23385)",
+        "pcabId": "23385",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "HONEYVILLECONST AND DEVELOPMENT CORPORATION (32160)",
+        "pcabId": "32160",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "MAKAPA CORPORATION (30029)",
+        "pcabId": "30029",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "M.G. SALAZAR CONSTRUCTION CORP. (FOR. M.G. SALAZAR (4072)",
+        "pcabId": "4072",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "NFH CONSTRUCTION & SUPPLY (16055)",
+        "pcabId": "16055",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "PHILWORKS CONSTRUCTION & SUPPLY (32103)",
+        "pcabId": "32103",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "RCDG CONSTRUCTION CORPORATION (5063)",
+        "pcabId": "5063",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "ROSAND BUILDERS CORPORATION (FORMERLY: ROSAND BUILDERS) (15781)",
+        "pcabId": "15781",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "WCS CONSTRUCTION, INC. (6516)",
+        "pcabId": "6516",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "WELEX CONSTRUCTION, INCORPORATED (FORMERLY WELEX C (9323)",
+        "pcabId": "9323",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "RECONSTRUCTION/REHABILITATION/RESTORATION OF FISH PORT AND STAIRS AT LAKE BUHI, BUHI, CAMARINES SUR, CAMARINES SUR 5TH LEGISLATIVE DISTRICT",
+      "abc": "82304633.33",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2017-11-28 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-12-18 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "80,580,093.97"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/IB (16F00150).pdf",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/Contract (16F00150).pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/NOA (16F00150).pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/Contract (16F00150).pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 13.4351167,
+    "longitude": 123.5183333,
+    "coordinates": [
+      {
+        "componentId": "P00195117LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Other Building - Reconstruction/Rehabilitation/Restoration of Fish Port and Stairs at Lake Buhi, Buhi, Camarines Sur",
+        "latitude": 13.4351167,
+        "longitude": 123.5183333,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

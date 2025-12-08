@@ -1,0 +1,109 @@
+{
+  "data": {
+    "contractId": "18MF0048",
+    "description": "WIDENING OF SADSALAN BRIDGE 2 (B01607MN) ALONG DULAWAN-MARBEL ROAD, LAMBAYONG, SULTAN KUDARAT.",
+    "category": "Bridges",
+    "status": "Completed",
+    "budget": 91156967.88,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region XII",
+      "province": "Sultan Kudarat 1st DEO",
+      "infraType": "Bridges",
+      "coordinates": {
+        "latitude": 6.8121276,
+        "longitude": 124.6288535,
+        "verified": false
+      }
+    },
+    "infraType": "Bridges",
+    "contractor": "ST. GERRARD CONSTRUCTION GEN. CONTRACTOR & DEVELOPMENT CORP. (FORMERLY:ST. GERRARD CONSTRUCTION) ([REVOKED] 31762)",
+    "startDate": "2018-05-02",
+    "completionDate": "2020-02-25",
+    "infraYear": "2018",
+    "contractEffectivityDate": "2018-05-02",
+    "expiryDate": "2019-01-31",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2018 OO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00201504MN-CW1",
+        "description": "Completion of Bridge Construction - Sadsalan Br. 2 (B01607MN) along Dulawan-Marbel Rd",
+        "infraType": "Bridges",
+        "typeOfWork": "Completion of Bridge Construction",
+        "region": "Region XII",
+        "province": "SULTAN KUDARAT",
+        "coordinates": {
+          "latitude": 6.8121276,
+          "longitude": 124.6288535,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "ST. GERRARD CONSTRUCTION GEN. CONTRACTOR & DEVELOPMENT CORP. (FORMERLY:ST. GERRARD CONSTRUCTION)",
+    "bidders": [
+      {
+        "name": "ST. GERRARD CONSTRUCTION GEN. CONTRACTOR & DEVELOPMENT CORP. (FORMERLY:ST. GERRARD CONSTRUCTION) ([REVOKED] 31762)",
+        "pcabId": "[REVOKED] 31762",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "ARCINUE COMM'L CORPORATION (6746)",
+        "pcabId": "6746",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "GEMMA CONSTRUCTION SUPPLY, INC.(FORMERLY:GEMMA CON (5044)",
+        "pcabId": "5044",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "WIDENING OF SADSALAN BRIDGE 2 (B01607MN) ALONG DULAWAN-MARBEL ROAD, LAMBAYONG, SULTAN KUDARAT.",
+      "abc": "95252840.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2018-03-12 00:00:00.0000000",
+      "bidSubmissionDeadline": "2018-03-28 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "91156967.88"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/ITB-18MF0048-0050.pdf",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/18mf0048-ca.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/18mf0048-noa.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/18mf0048-ntp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 6.8121276,
+    "longitude": 124.6288535,
+    "coordinates": [
+      {
+        "componentId": "P00201504MN-CW1",
+        "description": "Completion of Bridge Construction - Sadsalan Br. 2 (B01607MN) along Dulawan-Marbel Rd",
+        "latitude": 6.8121276,
+        "longitude": 124.6288535,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

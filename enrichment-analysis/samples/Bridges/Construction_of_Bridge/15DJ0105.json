@@ -1,0 +1,109 @@
+{
+  "data": {
+    "contractId": "15DJ0105",
+    "description": "CONSTRUCTION/REPAIR/REHABILITATION/IMPROVEMENT OF VARIOUS INFRASTRUCTURE INCLUDING LOCAL PROJECTS, ROADS AND BRIDGES, LOCAL ROADS, RESTORATION OF SAN JOSE BRIDGE, BRGY. SAN JOSE, TIAONG, QUEZON",
+    "category": "Bridges",
+    "status": "Completed",
+    "budget": 3722400,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region IV-A",
+      "province": "Quezon 2nd DEO",
+      "infraType": "Bridges",
+      "coordinates": {
+        "latitude": 13.929788040844,
+        "longitude": 121.330284082317,
+        "verified": false
+      }
+    },
+    "infraType": "Bridges",
+    "contractor": "JBL BUILDERS (36227)",
+    "startDate": "2016-01-28",
+    "completionDate": "2016-08-09",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-01-28",
+    "expiryDate": "2016-08-09",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - Bridges-Rehabilitation-Steel, Roads: Construction - PCCP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00047101LZ-CW1",
+        "description": "Construction of Bridge - Restoration of San Jose Bridge, Brgy. San Jose, Tiaong, Quezon",
+        "infraType": "Bridges",
+        "typeOfWork": "Construction of Bridge",
+        "region": "Region IV-A",
+        "province": "QUEZON",
+        "coordinates": {
+          "latitude": 13.929788040844,
+          "longitude": 121.330284082317,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "JBL BUILDERS",
+    "bidders": [
+      {
+        "name": "JBL BUILDERS (36227)",
+        "pcabId": "36227",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "E.A. AYALA CONSTRUCTION AND SUPPLY (37139)",
+        "pcabId": "37139",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "MGDJ CONSTRUCTION (29352)",
+        "pcabId": "29352",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION/REPAIR/REHABILITATION/IMPROVEMENT OF VARIOUS INFRASTRUCTURE INCLUDING LOCAL PROJECTS, ROADS AND BRIDGES, LOCAL ROADS, RESTORATION OF SAN JOSE BRIDGE, BRGY. SAN JOSE, TIAONG, QUEZON",
+      "abc": "3722399.29",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-11-09 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-12-01 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "3510473.0200000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/march/15dj0105 contract.pdf",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/march/15dj0105 award_1.pdf",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/march/15dj0105 contract.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 13.929788040844,
+    "longitude": 121.330284082317,
+    "coordinates": [
+      {
+        "componentId": "P00047101LZ-CW1",
+        "description": "Construction of Bridge - Restoration of San Jose Bridge, Brgy. San Jose, Tiaong, Quezon",
+        "latitude": 13.929788040844,
+        "longitude": 121.330284082317,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "data": {
+    "contractId": "15B00058",
+    "description": "RECONST'N OF DAMAGED PAVED NAT'L RD. INCLUDING DRAINAGE BASED ON PVM'T MNG'T SYSTEM(HDM-4) INTERMITE",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 21888462.52,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region II",
+      "province": "Region II",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 17.4316854119006,
+        "longitude": 121.622004817686,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "RRC CO. INC. (FORMERLY: R R C CONSTRUCTION) (24369)",
+    "startDate": "2016-02-21",
+    "completionDate": "2016-08-07",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-02-21",
+    "expiryDate": "2016-08-07",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00001704LZ-CW1",
+        "description": "Rehabilitation of Concrete Road - Santiago-Tuguegarao Rd - K0419+-522 - K0419+000, K0421+040 - K0421+848, K0421+967 - K0422+683",
+        "infraType": "Roads",
+        "typeOfWork": "Rehabilitation of Concrete Road",
+        "region": "Region II",
+        "province": "KALINGA",
+        "coordinates": {
+          "latitude": 17.4316854119006,
+          "longitude": 121.622004817686,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "RRC CO. INC. (FORMERLY: R R C CONSTRUCTION)",
+    "bidders": [
+      {
+        "name": "RRC CO. INC. (FORMERLY: R R C CONSTRUCTION) (24369)",
+        "pcabId": "24369",
+        "participation": 100,
+        "isWinner": true
+      }
+    ],
+    "procurement": {
+      "contractName": "RECONST'N OF DAMAGED PAVED NAT'L RD. INCLUDING DRAINAGE BASED ON PVM'T MNG'T SYSTEM(HDM-4) INTERMITE",
+      "abc": "26763025.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-10-29 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-12-07 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "25415257.6300000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/april/15b00058-Cont.Agreemnt.pdf",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/april/15b00058-Noa.pdf",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/april/15b00058-Cont.Agreemnt.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 17.4316854119006,
+    "longitude": 121.622004817686,
+    "coordinates": [
+      {
+        "componentId": "P00001704LZ-CW1",
+        "description": "Rehabilitation of Concrete Road - Santiago-Tuguegarao Rd - K0419+-522 - K0419+000, K0421+040 - K0421+848, K0421+967 - K0422+683",
+        "latitude": 17.4316854119006,
+        "longitude": 121.622004817686,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

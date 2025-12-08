@@ -1,0 +1,128 @@
+{
+  "data": {
+    "contractId": "18Z00026",
+    "description": "DESIGN-BUILD FOR THE CONSTRUCTION OF PANGUIL BAY BRIDGE PROJECT, PROVINCE OF MISAMIS OCCIDENTAL AND LANAO DEL NORTE, UNDER THE KOREA EXPORT-IMPORT BANK - ECONOMIC DEVELOPMENT COOPERATION FUND, LOAN AGREEMENT NO. PHL-18",
+    "category": "Bridges, Consultancy, Roads",
+    "status": "On-Going",
+    "budget": 6738359886.39,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Central Office",
+      "province": "Roads Management Cluster II (Multilateral)",
+      "infraType": "Bridges",
+      "coordinates": {
+        "latitude": 8.05628602264741,
+        "longitude": 123.777972039378,
+        "verified": false
+      }
+    },
+    "infraType": "Bridges",
+    "contractor": "NAMKWANG ENGINEERING AND CONSTRUCTION CO., LTD. / KUKDONG ENGINEERING AND CONSTRUCTION CO. LTD. / GUMGWANG ENGINEERING AND CONSTRUCTION CO., LTD.",
+    "startDate": "2020-02-28",
+    "completionDate": null,
+    "infraYear": "2016",
+    "contractEffectivityDate": "2020-02-28",
+    "expiryDate": "2024-10-31",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 Foreign Assisted Projects",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00060031MN-CW1",
+        "description": "Construction of Concrete Bridge - Panguil Bay Bridge Project",
+        "infraType": "Bridges",
+        "typeOfWork": "Construction of Concrete Bridge",
+        "region": "Region X",
+        "province": "MISAMIS OCCIDENTAL",
+        "coordinates": {
+          "latitude": 8.05628602264741,
+          "longitude": 123.777972039378,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00060031MN-CW2",
+        "description": "Construction of Concrete Road - Panguil Bay Bridge Project",
+        "infraType": "Roads",
+        "typeOfWork": "Construction of Concrete Road",
+        "region": "Region X",
+        "province": "MISAMIS OCCIDENTAL",
+        "coordinates": {
+          "latitude": 8.066172,
+          "longitude": 123.7685637,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00060031MN-CWD",
+        "description": "Detailed Architectural and Engineering Design - Panguil Bay Bridge Project",
+        "infraType": "Consultancy",
+        "typeOfWork": "Detailed Architectural and Engineering Design",
+        "region": "Region X",
+        "province": "MISAMIS OCCIDENTAL",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "",
+    "bidders": [
+      {
+        "name": "NAMKWANG ENGINEERING AND CONSTRUCTION CO., LTD. / GUMGWANG ENGINEERING AND CONSTRUCTION CO., LTD. / KUKDONG ENGINEERING AND CONSTRUCTION CO. LTD. (JV ID: JV-19-0072)",
+        "pcabId": "",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "DESIGN-BUILD FOR THE CONSTRUCTION OF PANGUIL BAY BRIDGE PROJECT, PROVINCE OF MISAMIS OCCIDENTAL AND LANAO DEL NORTE, UNDER THE KOREA EXPORT-IMPORT BANK - ECONOMIC DEVELOPMENT COOPERATION FUND, LOAN AGREEMENT NO. PHL-18",
+      "abc": "6295547392.60",
+      "status": "A",
+      "fundingInstrument": "KEDCF-KOREA ECONOMIC DEVELOPMENT CO-OPERATION FUND",
+      "advertisementDate": "2018-07-06 00:00:00.0000000",
+      "bidSubmissionDeadline": "2018-10-04 00:00:00.0000000",
+      "dateOfAward": "2019-10-30 00:00:00.0000000",
+      "awardAmount": "6,409,000,140.00"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/18Z00026 FINAL BD (1).pdf",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/18z00026_ca.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/NOA - 18Z00026.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/18z00026_ntp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 8.05628602264741,
+    "longitude": 123.777972039378,
+    "coordinates": [
+      {
+        "componentId": "P00060031MN-CW1",
+        "description": "Construction of Concrete Bridge - Panguil Bay Bridge Project",
+        "latitude": 8.05628602264741,
+        "longitude": 123.777972039378,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00060031MN-CW2",
+        "description": "Construction of Concrete Road - Panguil Bay Bridge Project",
+        "latitude": 8.066172,
+        "longitude": 123.7685637,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "23AA0502",
+    "description": "IMPROVEMENT OF ROAD ALONG TANAP ROAD, BURGOS, ILOCOS NORTE",
+    "category": "Roads",
+    "status": "On-Going",
+    "budget": 18821679.57,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region I",
+      "province": "Ilocos Norte 1st DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 18.5035361,
+        "longitude": 120.6572625,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "JANN-NORRIS CONSTRUCTION AND SUPPLIES INC. (FORMELY: JANN-NORRIS CONSTRUCTION AND SUPPLIES) (35880)",
+    "startDate": "2023-12-27",
+    "completionDate": null,
+    "infraYear": "2023",
+    "contractEffectivityDate": "2023-12-27",
+    "expiryDate": "2024-04-26",
+    "nysReason": null,
+    "programName": "Outside Infra",
+    "sourceOfFunds": "Outside Infra - Unprogrammed Appropriations 2023",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00761453LZ-CW1",
+        "description": "Road Safety: Roadway Lighting - Improvement of Road along Tanap Road, Burgos, Ilocos Norte",
+        "infraType": "Roads",
+        "typeOfWork": "Road Safety: Roadway Lighting",
+        "region": "Region I",
+        "province": "ILOCOS NORTE",
+        "coordinates": {
+          "latitude": 18.5035361,
+          "longitude": 120.6572625,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "JANN-NORRIS CONSTRUCTION AND SUPPLIES INC. (FORMELY: JANN-NORRIS CONSTRUCTION AND SUPPLIES)",
+    "bidders": [
+      {
+        "name": "JANN-NORRIS CONSTRUCTION AND SUPPLIES INC. (FORMELY: JANN-NORRIS CONSTRUCTION AND SUPPLIES) (35880)",
+        "pcabId": "35880",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "ZEDIK BUILDERS (33330)",
+        "pcabId": "33330",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "IMPROVEMENT OF ROAD ALONG TANAP ROAD, BURGOS, ILOCOS NORTE",
+      "abc": "19403995.28",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2023-07-26 00:00:00.0000000",
+      "bidSubmissionDeadline": "2023-10-12 00:00:00.0000000",
+      "dateOfAward": "2023-12-22 00:00:00.0000000",
+      "awardAmount": "18821679.57"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/23aa0502_bidding_documents_itb_ded_plan.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/23-502_contract.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/23-502_noa_merged.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/23-502_ntp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 18.5035361,
+    "longitude": 120.6572625,
+    "coordinates": [
+      {
+        "componentId": "P00761453LZ-CW1",
+        "description": "Road Safety: Roadway Lighting - Improvement of Road along Tanap Road, Burgos, Ilocos Norte",
+        "latitude": 18.5035361,
+        "longitude": 120.6572625,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 2,
+      "latestImageDate": "2024-03-20 07:05:14.572999",
+      "hasImages": true
+    }
+  }
+}

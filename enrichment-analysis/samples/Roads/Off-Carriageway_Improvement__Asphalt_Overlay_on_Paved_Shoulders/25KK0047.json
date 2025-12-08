@@ -1,0 +1,125 @@
+{
+  "data": {
+    "contractId": "25KK0047",
+    "description": "PREVENTIVE MAINTENANCE - PRIMARY ROADS - BUTUAN CITY-CAGAYAN DE ORO CITY-ILIGAN CITY RD - K1298 + 000 - K1301 + 210",
+    "category": "Roads",
+    "status": "On-Going",
+    "budget": 143302417.55,
+    "amountPaid": 0,
+    "progress": 38.09,
+    "location": {
+      "region": "Region X",
+      "province": "Misamis Oriental 1st DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 8.9030394,
+        "longitude": 125.1860936,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "L.S.D.  CONSTRUCTION & SUPPLIES (8980) / RITCHE-NATHALIE DEVELOPMENT CORPORATION (FORMERLY: RITCHE-NATHALIE  BUILDERS AND GEN. MERCHANDISE) (27501)",
+    "startDate": "2025-05-21",
+    "completionDate": null,
+    "infraYear": "2025",
+    "contractEffectivityDate": "2025-05-21",
+    "expiryDate": "2025-11-11",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2025 OO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00901422MN-CW1",
+        "description": "Preventive Maintenance of Road: Asphalt Overlay - Butuan City-Cagayan de Oro City-Iligan City Rd - K1298 + 000 - K1301 + 210",
+        "infraType": "Roads",
+        "typeOfWork": "Preventive Maintenance of Road: Asphalt Overlay",
+        "region": "Region X",
+        "province": "MISAMIS ORIENTAL",
+        "coordinates": {
+          "latitude": 8.9030394,
+          "longitude": 125.1860936,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00901422MN-CW2",
+        "description": "Off-Carriageway Improvement: Asphalt Overlay on Paved Shoulders - Butuan City-Cagayan de Oro City-Iligan City Rd - K1298 + 000 - K1301 + 210",
+        "infraType": "Roads",
+        "typeOfWork": "Off-Carriageway Improvement: Asphalt Overlay on Paved Shoulders",
+        "region": "Region X",
+        "province": "MISAMIS ORIENTAL",
+        "coordinates": {
+          "latitude": 8.90412,
+          "longitude": 125.1861717,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "L.S.D.  CONSTRUCTION & SUPPLIES, RITCHE-NATHALIE DEVELOPMENT CORPORATION (FORMERLY: RITCHE-NATHALIE  BUILDERS AND GEN. MERCHANDISE)",
+    "bidders": [
+      {
+        "name": "L.S.D.  CONSTRUCTION & SUPPLIES (8980) / RITCHE-NATHALIE DEVELOPMENT CORPORATION (FORMERLY: RITCHE-NATHALIE  BUILDERS AND GEN. MERCHANDISE) (27501) (JV ID: JV-25-18111)",
+        "pcabId": "",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "SOCOR CONSTRUCTION CORPORATION (8020)",
+        "pcabId": "8020",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "PREVENTIVE MAINTENANCE - PRIMARY ROADS - BUTUAN CITY-CAGAYAN DE ORO CITY-ILIGAN CITY RD - K1298 + 000 - K1301 + 210",
+      "abc": "144750000.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2025-02-19 00:00:00.0000000",
+      "bidSubmissionDeadline": "2025-03-13 00:00:00.0000000",
+      "dateOfAward": "2025-05-13 00:00:00.0000000",
+      "awardAmount": "143302417.6"
+    },
+    "links": {
+      "advertisement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/advertisement/25kk0047_-_plans.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/25kk0047_ca.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/25kk0047_l.s.d._cons._ritche_award.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/25kk0047_ntp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 8.9030394,
+    "longitude": 125.1860936,
+    "coordinates": [
+      {
+        "componentId": "P00901422MN-CW1",
+        "description": "Preventive Maintenance of Road: Asphalt Overlay - Butuan City-Cagayan de Oro City-Iligan City Rd - K1298 + 000 - K1301 + 210",
+        "latitude": 8.9030394,
+        "longitude": 125.1860936,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00901422MN-CW2",
+        "description": "Off-Carriageway Improvement: Asphalt Overlay on Paved Shoulders - Butuan City-Cagayan de Oro City-Iligan City Rd - K1298 + 000 - K1301 + 210",
+        "latitude": 8.90412,
+        "longitude": 125.1861717,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 6,
+      "latestImageDate": "2025-09-24 10:25:08.446000",
+      "hasImages": true
+    }
+  }
+}

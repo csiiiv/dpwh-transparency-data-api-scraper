@@ -1,0 +1,85 @@
+{
+  "data": {
+    "contractId": "15HE0175",
+    "description": "LOCAL INFRASTRUCTURE PROJECTS - CONSTRUCTION OF FOOTBRIDGE BARANGAY JACLUPAN PHASE III (FOR COMPLETION), TALISAY CITY, CEBU",
+    "category": "Bridges",
+    "status": "Completed",
+    "budget": 976903.2,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region VII",
+      "province": "Cebu 1st DEO",
+      "infraType": "Bridges",
+      "coordinates": null
+    },
+    "infraType": "Bridges",
+    "contractor": "GENETIAN BUILDERS AND ENTERPRISES INCORPORATED (FORMERLY: GENETIAN BUILDERS) (18052)",
+    "startDate": "2016-01-28",
+    "completionDate": "2016-04-22",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-01-28",
+    "expiryDate": "2016-04-26",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - Bridges-Construction-Steel, Flood Control/Hydraulics/River Control",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00047230VS-CW1",
+        "description": "Construction of Concrete Bridge - Construction of Foot Bridge, Barangay Jaclupan, Talisay City, Cebu 1st LD",
+        "infraType": "Bridges",
+        "typeOfWork": "Construction of Concrete Bridge",
+        "region": "Region VII",
+        "province": "CEBU",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "GENETIAN BUILDERS AND ENTERPRISES INCORPORATED (FORMERLY: GENETIAN BUILDERS)",
+    "bidders": [
+      {
+        "name": "GENETIAN BUILDERS AND ENTERPRISES INCORPORATED (FORMERLY: GENETIAN BUILDERS) (18052)",
+        "pcabId": "18052",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "EL-JAKE BUILDERS (38162)",
+        "pcabId": "38162",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "LOCAL INFRASTRUCTURE PROJECTS - CONSTRUCTION OF FOOTBRIDGE BARANGAY JACLUPAN PHASE III (FOR COMPLETION), TALISAY CITY, CEBU",
+      "abc": "990000.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-12-18 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-12-29 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "976903.2000000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/15he0175_contract_agreement.pdf",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/july/15HE0175 notice of award.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/15he0175_contract_agreement.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

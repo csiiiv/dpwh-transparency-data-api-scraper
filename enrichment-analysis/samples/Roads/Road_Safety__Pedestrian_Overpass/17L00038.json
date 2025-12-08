@@ -1,0 +1,199 @@
+{
+  "data": {
+    "contractId": "17L00038",
+    "description": "WIDENING (4 INTO 6 LANES) OF DAANG MAHARLIKA (MN) INCL. CONST. OF PEDESTRIAN OVERPASS & RROW (BRGY.",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 184098613.33,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region XI",
+      "province": "Region XI",
+      "infraType": "Roads",
+      "coordinates": null
+    },
+    "infraType": "Roads",
+    "contractor": "AB APONESTO CONSTRUCTION PARTS AND SUPPLY, INC. (22998)",
+    "startDate": "2017-04-10",
+    "completionDate": "2018-06-03",
+    "infraYear": "2017",
+    "contractEffectivityDate": "2017-04-10",
+    "expiryDate": "2018-06-03",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2017 MFO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00107519MN-CW1",
+        "description": "Road Widening - Daang Maharlika (MN) including RROW - K1409+1001-K1410+158, K1410+324-K1410+453, K1410+453-K1410+850, K1410+850-K1412+360, K1412+360-K1412+481, K1412+902-K1413+450, K1413+450-K1414+500",
+        "infraType": "Roads",
+        "typeOfWork": "Road Widening",
+        "region": "Region XI",
+        "province": "DAVAO DE ORO",
+        "coordinates": null
+      },
+      {
+        "componentId": "P00107519MN-CW2",
+        "description": "Off-Carriageway Improvement: Shoulder Paving / Construction - Daang Maharlika (MN) including RROW - K1409+1001-K1410+158, K1410+324-K1410+453, K1410+453-K1410+850, K1410+850-K1412+360, K1412+360-K1412+481, K1412+902-K1413+450, K1413+450-K1414+500",
+        "infraType": "Roads",
+        "typeOfWork": "Off-Carriageway Improvement: Shoulder Paving / Construction",
+        "region": "Region XI",
+        "province": "DAVAO DE ORO",
+        "coordinates": null
+      },
+      {
+        "componentId": "P00107519MN-CW3",
+        "description": "Road Safety: Pedestrian Overpass - Daang Maharlika (MN) including RROW - K1409+1001-K1410+158, K1410+324-K1410+453, K1410+453-K1410+850, K1410+850-K1412+360, K1412+360-K1412+481, K1412+902-K1413+450, K1413+450-K1414+500",
+        "infraType": "Roads",
+        "typeOfWork": "Road Safety: Pedestrian Overpass",
+        "region": "Region XI",
+        "province": "DAVAO DE ORO",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "AB APONESTO CONSTRUCTION PARTS AND SUPPLY, INC.",
+    "bidders": [
+      {
+        "name": "AB APONESTO CONSTRUCTION PARTS AND SUPPLY, INC. (22998)",
+        "pcabId": "22998",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "ALGON ENGINEERING CONSTRUCTION CORPORATION (270)",
+        "pcabId": "270",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "FFJJ CONSTRUCTION (16712)",
+        "pcabId": "16712",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "GICAR CONSTRUCTION, INC. (12624)",
+        "pcabId": "12624",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "GRACE CONSTRUCTION CORPORATION (3771)",
+        "pcabId": "3771",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "GVDPM CONSTRUCTION CORP. (FORMERLY: ZM CONSTRUCTIO (9052)",
+        "pcabId": "9052",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "MAC BUILDERS CORP. (FORMERLY: MAC BUILDERS DEVELOPMENT CORPORATION) (7249)",
+        "pcabId": "7249",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "MAVERICK BUILDERS INCORPORATED (FORMERLY MAVERICK (14466)",
+        "pcabId": "14466",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "MONOLITHIC CONSTRUCTION & CONCRETE PRODUCTS, INC. (5733)",
+        "pcabId": "5733",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "OCTAGON CONCRETE SOLUTIONS INC. (34475)",
+        "pcabId": "34475",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "P.L. SEBASTIAN CONSTRUCTION, INC. (FORMERLY: P.L. SEBASTIAN CONSTRUCTION) (35840)",
+        "pcabId": "35840",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "PREMIUM MEGASTRUCTURES INC. (36079)",
+        "pcabId": "36079",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "R.A. PAHATI CONST. & SUPPLY, INC. (35843)",
+        "pcabId": "35843",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "RELY CONSTRUCTION & SUPPLY INC.(FORMERLY: RELY CONSTRUCTION AND SUPPLY) (10433)",
+        "pcabId": "10433",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "TR CONSTRUCTION CORPORATION (FOR: TR CONSTRUCTION) (11697)",
+        "pcabId": "11697",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "TSQUARE CONSTRUCTION CORPORATION (FORMERLY:T-SQUARE BUILDERS) (14268)",
+        "pcabId": "14268",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "ULTICON BUILDERS, INC. (17267)",
+        "pcabId": "17267",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "VICENTE T. LAO CONSTRUCTION (7040)",
+        "pcabId": "7040",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "WIDENING (4 INTO 6 LANES) OF DAANG MAHARLIKA (MN) INCL. CONST. OF PEDESTRIAN OVERPASS & RROW (BRGY.",
+      "abc": "184117175.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-10-25 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-12-16 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "179,112,970.70"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/CONTRACT 17L00038.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/NOA 17L00038.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/CONTRACT 17L00038.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

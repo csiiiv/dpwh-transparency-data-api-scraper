@@ -1,0 +1,115 @@
+{
+  "data": {
+    "contractId": "16CC0012",
+    "description": "REHABILITATION/RECONSTRUCTION OF REVETMENTS BRGY. SAN MIGUEL, HAGONOY, BULACAN",
+    "category": "Flood Control and Drainage",
+    "status": "Completed",
+    "budget": 9513693.19,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region III",
+      "province": "Bulacan 1st DEO",
+      "infraType": "Flood Control and Drainage",
+      "coordinates": null
+    },
+    "infraType": "Flood Control and Drainage",
+    "contractor": "A.R.L. CONSTRUCTION (27645)",
+    "startDate": "2017-01-03",
+    "completionDate": "2017-04-02",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2017-01-03",
+    "expiryDate": "2017-04-02",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 Locally Funded Projects",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00052984LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Drainage Structure - Rehabilitation/Reconstruction of Revetments, Barangay San Miguel, Hagonoy, Bulacan Sta.0+000-Sta.0+100",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Rehabilitation / Major Repair of Drainage Structure",
+        "region": "Region III",
+        "province": "BULACAN",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "A.R.L. CONSTRUCTION",
+    "bidders": [
+      {
+        "name": "A.R.L. CONSTRUCTION (27645)",
+        "pcabId": "27645",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "ALL EML CONSTRUCTION CORPORATION (FORMERLY: E.M.L. CONSTRUCTION & TRADING) (10151)",
+        "pcabId": "10151",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "ERIC VAN P. SESBRENO CONSTRUCTION (26243)",
+        "pcabId": "26243",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "NIRVANA CONSTRUCTION & SUPPLIES (18691)",
+        "pcabId": "18691",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "ORANI CONSTRUCTION AND SUPPLY CORPORATION (FORMERLY:ORANI BUILDERS & SUPPLY) (05349)",
+        "pcabId": "05349",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "PRECIOUS CONSTRUCTION (32995)",
+        "pcabId": "32995",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "STAR WILLIAM CONSTRUCTION (35938)",
+        "pcabId": "35938",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "REHABILITATION/RECONSTRUCTION OF REVETMENTS BRGY. SAN MIGUEL, HAGONOY, BULACAN",
+      "abc": "9801090.44",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-09-07 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-09-29 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "9,513,693.19"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/november/6016cc0012.doc",
+      "noticeToProceed": "",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

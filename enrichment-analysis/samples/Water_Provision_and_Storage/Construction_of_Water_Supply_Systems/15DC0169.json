@@ -1,0 +1,91 @@
+{
+  "data": {
+    "contractId": "15DC0169",
+    "description": "LOCALLY-FUNDED PROJECTS, LOCAL INFRASTRUCTURE PROGRAM (LIP), WATER MANAGEMENT, WATER SUPPLY, CONSTRU",
+    "category": "Water Provision and Storage",
+    "status": "Completed",
+    "budget": 1920349,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region IV-A",
+      "province": "Batangas 3rd DEO",
+      "infraType": "Water Provision and Storage",
+      "coordinates": null
+    },
+    "infraType": "Water Provision and Storage",
+    "contractor": "OIC CONZTRUCT AND SUPPLY CORPORATION(FORMERLY:OIC CONST.) (23727)",
+    "startDate": "2016-02-22",
+    "completionDate": "2016-05-21",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-02-22",
+    "expiryDate": "2016-05-21",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 Locally Funded Projects",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00054500LZ-CW1",
+        "description": "Construction of Water Supply Systems - Improvement of Water System (Level II) in Brgy. Balete, San Nicolas, Batangas 3rd LD",
+        "infraType": "Water Provision and Storage",
+        "typeOfWork": "Construction of Water Supply Systems",
+        "region": "Region IV-A",
+        "province": "BATANGAS",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "OIC CONZTRUCT AND SUPPLY CORPORATION(FORMERLY:OIC CONST.)",
+    "bidders": [
+      {
+        "name": "OIC CONZTRUCT AND SUPPLY CORPORATION(FORMERLY:OIC CONST.) (23727)",
+        "pcabId": "23727",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "ARSVICO CONSTRUCTION AND DEVELOPMENT CORP. (FORMER (23518)",
+        "pcabId": "23518",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "QUINI SQUARE CONSTRUCTION AND SUPPLY (24085)",
+        "pcabId": "24085",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "LOCALLY-FUNDED PROJECTS, LOCAL INFRASTRUCTURE PROGRAM (LIP), WATER MANAGEMENT, WATER SUPPLY, CONSTRU",
+      "abc": "1980000.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-12-29 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-01-19 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "1920349.0000000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/july/contract_15DC0169.pdf",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/july/award_15DC0169.pdf",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/july/contract_15DC0169.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

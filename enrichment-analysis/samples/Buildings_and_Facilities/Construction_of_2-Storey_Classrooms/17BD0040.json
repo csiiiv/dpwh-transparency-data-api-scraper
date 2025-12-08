@@ -1,0 +1,109 @@
+{
+  "data": {
+    "contractId": "17BD0040",
+    "description": "LIP: CONSTRUCTION OF 2 CLASSROOMS, STA. TERESA ELEMENTARY SCHOOL, IGUIG, CAGAYAN 3RD LD",
+    "category": "Buildings and Facilities",
+    "status": "Completed",
+    "budget": 1781879.4,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region II",
+      "province": "Cagayan 3rd DEO",
+      "infraType": "Buildings and Facilities",
+      "coordinates": {
+        "latitude": 17.70388889,
+        "longitude": 121.74722222,
+        "verified": false
+      }
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "M.C. TAGUBA CONSTRUCTION (39178)",
+    "startDate": "2017-05-15",
+    "completionDate": "2018-05-01",
+    "infraYear": "2017",
+    "contractEffectivityDate": "2017-05-15",
+    "expiryDate": "2017-07-28",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2017 LFP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00140054LZ-CW1",
+        "description": "Construction of 2-Storey Classrooms - Completion of 2-Storey 4 Classrooms at Sta. Teresa Elementary School, Iguig, Cagayan",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of 2-Storey Classrooms",
+        "region": "Region II",
+        "province": "CAGAYAN",
+        "coordinates": {
+          "latitude": 17.70388889,
+          "longitude": 121.74722222,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "M.C. TAGUBA CONSTRUCTION",
+    "bidders": [
+      {
+        "name": "M.C. TAGUBA CONSTRUCTION (39178)",
+        "pcabId": "39178",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "DEKM CONSTRUCTION (32409)",
+        "pcabId": "32409",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "E. GUADIZ CONSTRUCTION (27172)",
+        "pcabId": "27172",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "LIP: CONSTRUCTION OF 2 CLASSROOMS, STA. TERESA ELEMENTARY SCHOOL, IGUIG, CAGAYAN 3RD LD",
+      "abc": "1979997.84",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2017-01-06 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-01-26 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "1,781,879.40"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/17BD0040-2 Cl.-Sta. Teresa ES, Iguig.doc",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/img595.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/img596.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/img595.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 17.70388889,
+    "longitude": 121.74722222,
+    "coordinates": [
+      {
+        "componentId": "P00140054LZ-CW1",
+        "description": "Construction of 2-Storey Classrooms - Completion of 2-Storey 4 Classrooms at Sta. Teresa Elementary School, Iguig, Cagayan",
+        "latitude": 17.70388889,
+        "longitude": 121.74722222,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "data": {
+    "contractId": "15B00065",
+    "description": "ASSET PRESERVATION OF NAT'L RD.:REHAB/RECON/UPGRADING OF DAMAGED PAVED NAT'L RD. INCLUDING DRAINAGE",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 74337759.53,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region II",
+      "province": "Region II",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 16.3632513113996,
+        "longitude": 121.094748384417,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "NORTHERN BUILDERS (8789)",
+    "startDate": "2016-02-21",
+    "completionDate": "2017-01-18",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-02-21",
+    "expiryDate": "2016-11-21",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00000832LZ-CW1",
+        "description": "Rehabilitation of Asphalt Road - Daang Maharlika (LZ) - K0246+000 - K0246+164, K0246+182 - K0246+279, K0246+407 - K0246+589, K0257+477 - K0257+729, K0260+080 - K0260+490, K0260+711 - K0261+242, K0261+705 - K0262+868, K0292+568 - K0292+698, K0293+236 - K02",
+        "infraType": "Roads",
+        "typeOfWork": "Rehabilitation of Asphalt Road",
+        "region": "Region II",
+        "province": "NUEVA VIZCAYA",
+        "coordinates": {
+          "latitude": 16.3632513113996,
+          "longitude": 121.094748384417,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00000832LZ-CW2",
+        "description": "Construction of Concrete Road - Daang Maharlika (LZ) - K0246+000 - K0246+164, K0246+182 - K0246+279, K0246+407 - K0246+589, K0257+477 - K0257+729, K0260+080 - K0260+490, K0260+711 - K0261+242, K0261+705 - K0262+868, K0292+568 - K0292+698, K0293+236 - K029",
+        "infraType": "Roads",
+        "typeOfWork": "Construction of Concrete Road",
+        "region": "Region II",
+        "province": "NUEVA VIZCAYA",
+        "coordinates": {
+          "latitude": 16.3622232689305,
+          "longitude": 121.091096789542,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "NORTHERN BUILDERS",
+    "bidders": [
+      {
+        "name": "NORTHERN BUILDERS (8789)",
+        "pcabId": "8789",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "CHRISTIAN IAN CONSTRUCTION CORPORATION (8191)",
+        "pcabId": "8191",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "ASSET PRESERVATION OF NAT'L RD.:REHAB/RECON/UPGRADING OF DAMAGED PAVED NAT'L RD. INCLUDING DRAINAGE",
+      "abc": "77034116.25",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-11-03 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-12-07 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "74337759.5300000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/15b00065_ca.pdf",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/may/15b00065-Noa.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/15b00065_ca.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 16.3632513113996,
+    "longitude": 121.094748384417,
+    "coordinates": [
+      {
+        "componentId": "P00000832LZ-CW1",
+        "description": "Rehabilitation of Asphalt Road - Daang Maharlika (LZ) - K0246+000 - K0246+164, K0246+182 - K0246+279, K0246+407 - K0246+589, K0257+477 - K0257+729, K0260+080 - K0260+490, K0260+711 - K0261+242, K0261+705 - K0262+868, K0292+568 - K0292+698, K0293+236 - K02",
+        "latitude": 16.3632513113996,
+        "longitude": 121.094748384417,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00000832LZ-CW2",
+        "description": "Construction of Concrete Road - Daang Maharlika (LZ) - K0246+000 - K0246+164, K0246+182 - K0246+279, K0246+407 - K0246+589, K0257+477 - K0257+729, K0260+080 - K0260+490, K0260+711 - K0261+242, K0261+705 - K0262+868, K0292+568 - K0292+698, K0293+236 - K029",
+        "latitude": 16.3622232689305,
+        "longitude": 121.091096789542,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

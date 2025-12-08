@@ -1,0 +1,121 @@
+{
+  "data": {
+    "contractId": "17CD0220",
+    "description": "THERMOPLASTIC PAVEMENT MARKINGS & ROADSIGNS STA. MARIA-BYPASS ROAD / STA. MARIA  NORZAGARAY ROAD / MARILAO SERVICE ROAD / MEYCAUAYAN SERVICE ROAD / MEYCAUAYAN CAMALIG BAHAY PARI ROAD K0030+(-204) TO STA.MARIA / MARILAO / MEYCAUAYAN, BULACAN",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 13166869.89,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region III",
+      "province": "Bulacan 2nd DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 14.8128333329443,
+        "longitude": 120.948900425563,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "L.R. TIQUI BUILDERS, INC. (13810)",
+    "startDate": "2017-10-16",
+    "completionDate": "2018-03-14",
+    "infraYear": "2017",
+    "contractEffectivityDate": "2017-10-16",
+    "expiryDate": "2018-03-14",
+    "nysReason": null,
+    "programName": "Outside Infra",
+    "sourceOfFunds": "Outside Infra - Special Road Support Fund 2017",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00190145LZ-CW1",
+        "description": "Road Safety: Pavement markings - Thermoplastic Pavement Markings and Road signs along Sta. Maria By-pass Road, K0030+(-204) to K0034+055; Sta. Maria-Norzagaray Road, K0032+(-944) to K0044+958; Marilao-Service Road, K0000+000 to K0000+455; Meycauayan Servi",
+        "infraType": "Roads",
+        "typeOfWork": "Road Safety: Pavement markings",
+        "region": "Region III",
+        "province": "BULACAN",
+        "coordinates": {
+          "latitude": 14.8128333329443,
+          "longitude": 120.948900425563,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "L.R. TIQUI BUILDERS, INC.",
+    "bidders": [
+      {
+        "name": "L.R. TIQUI BUILDERS, INC. (13810)",
+        "pcabId": "13810",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "CGGFR CONSTRUCTION & CONSTRUCTION SUPPLY (37075)",
+        "pcabId": "37075",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "JQM CONSTRUCTION AND TRADING (36354)",
+        "pcabId": "36354",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "MDAN CONSTRUCTION AND TRADING (38077)",
+        "pcabId": "38077",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "SILVERGRACES CONSTRUCTION AND CONSTRUCTION SUPPLY (36158)",
+        "pcabId": "36158",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "THERMOPLASTIC PAVEMENT MARKINGS & ROADSIGNS STA. MARIA-BYPASS ROAD / STA. MARIA  NORZAGARAY ROAD / MARILAO SERVICE ROAD / MEYCAUAYAN SERVICE ROAD / MEYCAUAYAN CAMALIG BAHAY PARI ROAD K0030+(-204) TO STA.MARIA / MARILAO / MEYCAUAYAN, BULACAN",
+      "abc": "13859861.20",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2017-08-24 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-09-14 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "13166869.89"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/CA.docx",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/NOA.docx",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/NTP.docx",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 14.8128333329443,
+    "longitude": 120.948900425563,
+    "coordinates": [
+      {
+        "componentId": "P00190145LZ-CW1",
+        "description": "Road Safety: Pavement markings - Thermoplastic Pavement Markings and Road signs along Sta. Maria By-pass Road, K0030+(-204) to K0034+055; Sta. Maria-Norzagaray Road, K0032+(-944) to K0044+958; Marilao-Service Road, K0000+000 to K0000+455; Meycauayan Servi",
+        "latitude": 14.8128333329443,
+        "longitude": 120.948900425563,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

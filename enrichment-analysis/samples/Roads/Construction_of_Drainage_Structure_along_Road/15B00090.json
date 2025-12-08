@@ -1,0 +1,85 @@
+{
+  "data": {
+    "contractId": "15B00090",
+    "description": "MFO 1-NETWORK DEV'T: ASSET PRESERVATION: CONST'N/UPGRADING OF DRAINAGE ALONG NAT'L RDS., PRIMARY RDS",
+    "category": "Roads",
+    "status": "Terminated",
+    "budget": 1853006.87,
+    "amountPaid": 0,
+    "progress": -100,
+    "location": {
+      "region": "Region II",
+      "province": "Region II",
+      "infraType": "Roads",
+      "coordinates": null
+    },
+    "infraType": "Roads",
+    "contractor": "V.B. MANUBAY CONSTRUCTION (32705)",
+    "startDate": "2016-02-21",
+    "completionDate": "2017-03-23",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-02-21",
+    "expiryDate": "2016-07-18",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00002897LZ-CW1",
+        "description": "Construction of Drainage Structure along Road - Daang Maharlika (LZ) - K0368+740 - K0369+033.50",
+        "infraType": "Roads",
+        "typeOfWork": "Construction of Drainage Structure along Road",
+        "region": "Region II",
+        "province": "ISABELA",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "V.B. MANUBAY CONSTRUCTION",
+    "bidders": [
+      {
+        "name": "V.B. MANUBAY CONSTRUCTION (32705)",
+        "pcabId": "32705",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "META CONSTRUCTION (28882)",
+        "pcabId": "28882",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "MFO 1-NETWORK DEV'T: ASSET PRESERVATION: CONST'N/UPGRADING OF DRAINAGE ALONG NAT'L RDS., PRIMARY RDS",
+      "abc": "6706166.06",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-12-24 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-01-18 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "6377563.9200000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/may/15b00090-Cont.agreemnt.pdf",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/may/15b00090-Noa.pdf",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/may/15b00090-Cont.agreemnt.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

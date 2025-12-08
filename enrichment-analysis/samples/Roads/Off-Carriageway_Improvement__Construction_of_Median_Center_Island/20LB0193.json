@@ -1,0 +1,165 @@
+{
+  "data": {
+    "contractId": "20LB0193",
+    "description": "SHOULDER PAVING ALONG DAVAO-COTABATO RD. (DAVAO CITY - JCT. DIGOS SECT) - K1514+265 - K1514+530, K1521+235 - K1521+415",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 9113133.99,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region XI",
+      "province": "Davao City DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 7.0596897,
+        "longitude": 125.5833067,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "D'JLH BUILDERS CORPORATION (25040)",
+    "startDate": "2020-12-17",
+    "completionDate": "2021-06-01",
+    "infraYear": "2020",
+    "contractEffectivityDate": "2020-12-17",
+    "expiryDate": "2021-06-01",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2020 LP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00444738MN-CW1",
+        "description": "Off-Carriageway Improvement: Shoulder Paving / Construction - Shoulder Paving along Davao - Cotabato Rd. (Davao City - Jct Digos Sect.) - K1514 + 265 - K1514 + 530, K1521 + 235 - K1521 + 415",
+        "infraType": "Roads",
+        "typeOfWork": "Off-Carriageway Improvement: Shoulder Paving / Construction",
+        "region": "Region XI",
+        "province": "DAVAO DEL SUR",
+        "coordinates": {
+          "latitude": 7.0596897,
+          "longitude": 125.5833067,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00444738MN-CW2",
+        "description": "Road Widening - Shoulder Paving along Davao - Cotabato Rd. (Davao City - Jct Digos Sect.) - K1514 + 265 - K1514 + 530, K1521 + 235 - K1521 + 415",
+        "infraType": "Roads",
+        "typeOfWork": "Road Widening",
+        "region": "Region XI",
+        "province": "DAVAO DEL SUR",
+        "coordinates": {
+          "latitude": 7.05967,
+          "longitude": 125.5828153,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00444738MN-CW3",
+        "description": "Off-Carriageway Improvement: Construction of Median/Center Island - Shoulder Paving along Davao - Cotabato Rd. (Davao City - Jct Digos Sect.) - K1514 + 265 - K1514 + 530, K1521 + 235 - K1521 + 415",
+        "infraType": "Roads",
+        "typeOfWork": "Off-Carriageway Improvement: Construction of Median/Center Island",
+        "region": "Region XI",
+        "province": "DAVAO DEL SUR",
+        "coordinates": {
+          "latitude": 7.0412214,
+          "longitude": 125.5271958,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "D'JLH BUILDERS CORPORATION",
+    "bidders": [
+      {
+        "name": "D'JLH BUILDERS CORPORATION (25040)",
+        "pcabId": "25040",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "BQPC CORPORATION (36768)",
+        "pcabId": "36768",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "LOTRIM CONSTRUCTION, INC. (12273)",
+        "pcabId": "12273",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "ROYAL SUMMIT INFINITY DEVELOPMENT CORPORATION (38046)",
+        "pcabId": "38046",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "TWO DEGREES CONSTRUCTION AND SUPPLY (36734)",
+        "pcabId": "36734",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "SHOULDER PAVING ALONG DAVAO-COTABATO RD. (DAVAO CITY - JCT. DIGOS SECT) - K1514+265 - K1514+530, K1521+235 - K1521+415",
+      "abc": "9163980.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2020-06-18 00:00:00.0000000",
+      "bidSubmissionDeadline": "2020-07-23 00:00:00.0000000",
+      "dateOfAward": "2020-11-27 00:00:00.0000000",
+      "awardAmount": "9071269.52"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/20LB0193.rar",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/20lb0193.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/20LB0193 BAC RES wala pa.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/20lb0193.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 7.0596897,
+    "longitude": 125.5833067,
+    "coordinates": [
+      {
+        "componentId": "P00444738MN-CW1",
+        "description": "Off-Carriageway Improvement: Shoulder Paving / Construction - Shoulder Paving along Davao - Cotabato Rd. (Davao City - Jct Digos Sect.) - K1514 + 265 - K1514 + 530, K1521 + 235 - K1521 + 415",
+        "latitude": 7.0596897,
+        "longitude": 125.5833067,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00444738MN-CW2",
+        "description": "Road Widening - Shoulder Paving along Davao - Cotabato Rd. (Davao City - Jct Digos Sect.) - K1514 + 265 - K1514 + 530, K1521 + 235 - K1521 + 415",
+        "latitude": 7.05967,
+        "longitude": 125.5828153,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00444738MN-CW3",
+        "description": "Off-Carriageway Improvement: Construction of Median/Center Island - Shoulder Paving along Davao - Cotabato Rd. (Davao City - Jct Digos Sect.) - K1514 + 265 - K1514 + 530, K1521 + 235 - K1521 + 415",
+        "latitude": 7.0412214,
+        "longitude": 125.5271958,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 6,
+      "latestImageDate": "2022-03-30 02:18:14.944999",
+      "hasImages": true
+    }
+  }
+}

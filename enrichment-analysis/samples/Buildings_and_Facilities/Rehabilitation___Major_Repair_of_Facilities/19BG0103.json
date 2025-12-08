@@ -1,0 +1,109 @@
+{
+  "data": {
+    "contractId": "19BG0103",
+    "description": "REHABILITATION OF CABATUAN PUBLIC MARKET BUILDING, CABATUAN, ISABELA",
+    "category": "Buildings and Facilities",
+    "status": "Completed",
+    "budget": 14896196.03,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region II",
+      "province": "Isabela 3rd DEO",
+      "infraType": "Buildings and Facilities",
+      "coordinates": {
+        "latitude": 16.9561592,
+        "longitude": 121.6677436,
+        "verified": false
+      }
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "MAR-DEB CONSTRUCTION & DEVELOPMENT CORP. (FORMERLY: MAR-DEB CONSTRUCTION & DEVELOPMENT) (6715)",
+    "startDate": "2020-06-03",
+    "completionDate": "2020-11-29",
+    "infraYear": "2019",
+    "contractEffectivityDate": "2020-06-03",
+    "expiryDate": "2020-11-29",
+    "nysReason": null,
+    "programName": "Outside Infra",
+    "sourceOfFunds": "Outside Infra - GAA 2019 DILG Funds",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00391543LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Facilities - Rehabilitation of Cabatuan Public Market Building, Centro, Cabatuan, Isabela",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Rehabilitation / Major Repair of Facilities",
+        "region": "Region II",
+        "province": "ISABELA",
+        "coordinates": {
+          "latitude": 16.9561592,
+          "longitude": 121.6677436,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "MAR-DEB CONSTRUCTION & DEVELOPMENT CORP. (FORMERLY: MAR-DEB CONSTRUCTION & DEVELOPMENT)",
+    "bidders": [
+      {
+        "name": "MAR-DEB CONSTRUCTION & DEVELOPMENT CORP. (FORMERLY: MAR-DEB CONSTRUCTION & DEVELOPMENT) (6715)",
+        "pcabId": "6715",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "D.A. CADELIÑA CONSTRUCTION (29004)",
+        "pcabId": "29004",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "GACUTAN CONSTRUCTION INC. (FORMERLY: GACUTAN CONSTRUCTION) (10789)",
+        "pcabId": "10789",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "REHABILITATION OF CABATUAN PUBLIC MARKET BUILDING, CABATUAN, ISABELA",
+      "abc": "14925000.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2019-12-04 00:00:00.0000000",
+      "bidSubmissionDeadline": "2019-12-23 00:00:00.0000000",
+      "dateOfAward": "2020-05-20 00:00:00.0000000",
+      "awardAmount": "14678000"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/IB 2019-19BG0102-103.pdf",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/19BG0103 CA.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/19BG0103 NOA.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/19BG0103 CA.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 16.9561592,
+    "longitude": 121.6677436,
+    "coordinates": [
+      {
+        "componentId": "P00391543LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Facilities - Rehabilitation of Cabatuan Public Market Building, Centro, Cabatuan, Isabela",
+        "latitude": 16.9561592,
+        "longitude": 121.6677436,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

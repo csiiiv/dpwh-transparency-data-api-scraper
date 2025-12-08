@@ -1,0 +1,219 @@
+{
+  "data": {
+    "contractId": "17F00041",
+    "description": "CONSTRUCTION OF BY-PASSES/DIVERSION ROADS, INCLUDING ROW-SORSOGON CITY COASTAL BY-PASS ROAD INCL. ROW AND BRIDGE, ROAD: STA.0+000-STA.1+796.60 (W/ EXCEPTION);STA.0+007.19-STA.0+225.33(ACCESS ROAD);BRIDGE:STA.0+525.70-STA.0+586.30(BY-PASS BRIDGE 1),STA.1+7",
+    "category": "Bridges, Roads",
+    "status": "Completed",
+    "budget": 281440664.2,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region V",
+      "province": "Region V",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 12.9668345,
+        "longitude": 124.0042072,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "LEGAZPI PREMIUM DEVELOPMENT CORPORATION (20701)",
+    "startDate": "2017-08-09",
+    "completionDate": "2020-07-15",
+    "infraYear": "2017",
+    "contractEffectivityDate": "2017-08-09",
+    "expiryDate": "2020-07-23",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - Bridges: Construction - Concrete (Superstructure) - with Cast-in-Place Piles, Roads: Construction - PCCP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00109546LZ-CW1",
+        "description": "Construction of Asphalt Road - Sorsogon City Coastal By-Pass Road incl ROW and Bridge, Sorsogon",
+        "infraType": "Roads",
+        "typeOfWork": "Construction of Asphalt Road",
+        "region": "Region V",
+        "province": "SORSOGON",
+        "coordinates": {
+          "latitude": 12.9668345,
+          "longitude": 124.0042072,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00109546LZ-CW2",
+        "description": "Construction of Concrete Road - Sorsogon City Coastal By-Pass Road incl ROW and Bridge, Sorsogon",
+        "infraType": "Roads",
+        "typeOfWork": "Construction of Concrete Road",
+        "region": "Region V",
+        "province": "SORSOGON",
+        "coordinates": {
+          "latitude": 12.9671754,
+          "longitude": 124.0052658,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00109546LZ-CW3",
+        "description": "Construction of Concrete Bridge - Sorsogon City Coastal By-Pass Road incl ROW and Bridge, Sorsogon",
+        "infraType": "Bridges",
+        "typeOfWork": "Construction of Concrete Bridge",
+        "region": "Region V",
+        "province": "SORSOGON",
+        "coordinates": {
+          "latitude": 12.9680991,
+          "longitude": 124.0087062,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "LEGAZPI PREMIUM DEVELOPMENT CORPORATION",
+    "bidders": [
+      {
+        "name": "LEGAZPI PREMIUM DEVELOPMENT CORPORATION (20701)",
+        "pcabId": "20701",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "6RM CONSTRUCTION AND DEVT. CORP. (FORMERLY R.R. MA (174)",
+        "pcabId": "174",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "B. VICENCIO BUILDERS (BVB), INC. (FORMERLY:B. VICENCIO CONSTRUCTION) (9687)",
+        "pcabId": "9687",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "C.T. LEONCIO CONSTRUCTION & TRADING (17371)",
+        "pcabId": "17371",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "G.C.I.  CONSTRUCTION AND DEV'T. CORP. (11346)",
+        "pcabId": "11346",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "GVDPM CONSTRUCTION CORP. (FORMERLY: ZM CONSTRUCTIO (9052)",
+        "pcabId": "9052",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "J.D. LEGASPI CONSTRUCTION (9608)",
+        "pcabId": "9608",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "J.H. PAJARA CONSTRUCTION CORPORATION (1890)",
+        "pcabId": "1890",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "MONOLITHIC CONSTRUCTION & CONCRETE PRODUCTS, INC. (5733)",
+        "pcabId": "5733",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "NFH CONSTRUCTION & SUPPLY (16055)",
+        "pcabId": "16055",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "R.D. POLICARPIO & COMPANY INC. (4414)",
+        "pcabId": "4414",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "SUNWEST, INC. (FORMERLY: SUNWEST CONSTRUCTION & DEVELOPMENT CORPORATION) (15906)",
+        "pcabId": "15906",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "TR CONSTRUCTION CORPORATION (FOR: TR CONSTRUCTION) (11697)",
+        "pcabId": "11697",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "VICENTE T. LAO CONSTRUCTION (7040)",
+        "pcabId": "7040",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION OF BY-PASSES/DIVERSION ROADS, INCLUDING ROW-SORSOGON CITY COASTAL BY-PASS ROAD INCL. ROW AND BRIDGE, ROAD: STA.0+000-STA.1+796.60 (W/ EXCEPTION);STA.0+007.19-STA.0+225.33(ACCESS ROAD);BRIDGE:STA.0+525.70-STA.0+586.30(BY-PASS BRIDGE 1),STA.1+7",
+      "abc": "289498817.11",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2017-05-23 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-06-23 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "275024910"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/EDS & BDS 17F00041.pdf",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/Contract 17F00041.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/NOA 17F00041.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/Contract 17F00041.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 12.9668345,
+    "longitude": 124.0042072,
+    "coordinates": [
+      {
+        "componentId": "P00109546LZ-CW1",
+        "description": "Construction of Asphalt Road - Sorsogon City Coastal By-Pass Road incl ROW and Bridge, Sorsogon",
+        "latitude": 12.9668345,
+        "longitude": 124.0042072,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00109546LZ-CW2",
+        "description": "Construction of Concrete Road - Sorsogon City Coastal By-Pass Road incl ROW and Bridge, Sorsogon",
+        "latitude": 12.9671754,
+        "longitude": 124.0052658,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00109546LZ-CW3",
+        "description": "Construction of Concrete Bridge - Sorsogon City Coastal By-Pass Road incl ROW and Bridge, Sorsogon",
+        "latitude": 12.9680991,
+        "longitude": 124.0087062,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

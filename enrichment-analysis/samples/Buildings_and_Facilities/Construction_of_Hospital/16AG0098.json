@@ -1,0 +1,91 @@
+{
+  "data": {
+    "contractId": "16AG0098",
+    "description": "CONTINUATION AND COMPLETION OF AGNO RHU II BUILDING AT AGNO, PANGASINAN",
+    "category": "Buildings and Facilities",
+    "status": "Completed",
+    "budget": 2543329.2,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region I",
+      "province": "Pangasinan 1st DEO",
+      "infraType": "Buildings and Facilities",
+      "coordinates": null
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "SOLID STAR BUILDERS AND CONSTRUCTION SUPPLY (38395)",
+    "startDate": "2017-03-22",
+    "completionDate": "2017-09-11",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2017-03-22",
+    "expiryDate": "2017-09-12",
+    "nysReason": null,
+    "programName": "Outside Infra",
+    "sourceOfFunds": "Outside Infra - GAA 2016 DOH HFEP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00061117LZ-CW1",
+        "description": "Construction of Hospital - Continuation and completion of DPWH Project RHU Bldg, Agno RHU II, Agno, Pangasinan",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of Hospital",
+        "region": "Region I",
+        "province": "PANGASINAN",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "SOLID STAR BUILDERS AND CONSTRUCTION SUPPLY",
+    "bidders": [
+      {
+        "name": "SOLID STAR BUILDERS AND CONSTRUCTION SUPPLY (38395)",
+        "pcabId": "38395",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "JONIK TRADING & CONSTRUCTION (20612)",
+        "pcabId": "20612",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "POL CONSTRUCTION INC. (FORMERLY: CASIPIT TRADING & CONSTRUCTION) (11624)",
+        "pcabId": "11624",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONTINUATION AND COMPLETION OF AGNO RHU II BUILDING AT AGNO, PANGASINAN",
+      "abc": "2686500.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2017-02-08 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-03-01 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "2,550,975.00"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/16AG0098CONTRACT.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/16AG0098AWARD.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/16AG0098CONTRACT.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "data": {
+    "contractId": "16DE0150",
+    "description": "MFO1 - NATIONAL ROAD NETWORK SERVICES, ASSETS PRESERVATION OF NATIONAL ROADSREHABILITATION/RECONSTRUCTION/UPGRADING OF DAMAGED PAVED NATIONAL ROADSINCLUDING DRAINAGE BASED ON PAVEMENT MANAGEMENT SYSTEM/HIGHWAYDEVELOPMENT AND MANAGEMENT-4 (HDM-4), SE",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 31726174.66,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region IV-A",
+      "province": "Batangas 2nd DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 13.6077823001603,
+        "longitude": 121.253376718771,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "RICH ADS CONSTRUCTION CORP. (FORMERLY RICH ADS CON (31157) / GREAT SWISS METAL BUILDERS CORPORATION (36997)",
+    "startDate": "2017-02-09",
+    "completionDate": "2017-08-05",
+    "infraYear": "2017",
+    "contractEffectivityDate": "2017-02-09",
+    "expiryDate": "2017-08-05",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2017 MFO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00102103LZ-CW1",
+        "description": "Reconstruction from Asphalt to Concrete - Lobo-Malabrigo-Sn Juan Rd - K0158 + 000 - K0158 + 658, K0159 + 389 - K0159 + 668",
+        "infraType": "Roads",
+        "typeOfWork": "Reconstruction from Asphalt to Concrete",
+        "region": "Region IV-A",
+        "province": "BATANGAS",
+        "coordinates": {
+          "latitude": 13.6077823001603,
+          "longitude": 121.253376718771,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "GREAT SWISS METAL BUILDERS CORPORATION, RICH ADS CONSTRUCTION CORP. (FORMERLY RICH ADS CON",
+    "bidders": [
+      {
+        "name": "RICH ADS CONSTRUCTION CORP. (FORMERLY RICH ADS CON (31157) / GREAT SWISS METAL BUILDERS CORPORATION (36997) (JV ID: JV-16-447)",
+        "pcabId": "",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "ORANI CONSTRUCTION AND SUPPLY CORPORATION (FORMERLY:ORANI BUILDERS & SUPPLY) (05349)",
+        "pcabId": "05349",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "SUPREME ABF CONST. & CONST. SUPPLY COMPANY INC. (25226)",
+        "pcabId": "25226",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "MFO1 - NATIONAL ROAD NETWORK SERVICES, ASSETS PRESERVATION OF NATIONAL ROADS REHABILITATION/RECONSTRUCTION/UPGRADING OF DAMAGED PAVED NATIONAL ROADS INCLUDING DRAINAGE BASED ON PAVEMENT MANAGEMENT SYSTEM/HIGHWAY DEVELOPMENT AND MANAGEMENT-4 (HDM-4), SE",
+      "abc": "31725540.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-10-29 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-12-02 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "30448797.61"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "",
+      "noticeOfAward": "",
+      "noticeToProceed": "",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 13.6077823001603,
+    "longitude": 121.253376718771,
+    "coordinates": [
+      {
+        "componentId": "P00102103LZ-CW1",
+        "description": "Reconstruction from Asphalt to Concrete - Lobo-Malabrigo-Sn Juan Rd - K0158 + 000 - K0158 + 658, K0159 + 389 - K0159 + 668",
+        "latitude": 13.6077823001603,
+        "longitude": 121.253376718771,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "data": {
+    "contractId": "15HE0173",
+    "description": "LOCAL INFRASTRUCTURE PROJECTS - CONSTRUCTION OF ROADS WITH DRAINAGE BARANGAY POBLACION TANGKE, TALISAY CITY, CEBU 1ST LD",
+    "category": "Flood Control and Drainage",
+    "status": "Completed",
+    "budget": 9902875.86,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region VII",
+      "province": "Cebu 1st DEO",
+      "infraType": "Flood Control and Drainage",
+      "coordinates": null
+    },
+    "infraType": "Flood Control and Drainage",
+    "contractor": "QM BUILDERS (30743) / JANUARY BUILDERS (39818)",
+    "startDate": "2016-03-14",
+    "completionDate": "2017-01-13",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-03-14",
+    "expiryDate": "2017-01-13",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - Flood Control/Hydraulics/Drainage, Roads: Construction - PCCP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00053056VS-CW1",
+        "description": "Construction of Drainage Structure - Construction of Roads with Drainage, Barangay Poblacion-Tangke, Talisay City, Cebu 1st LD",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Construction of Drainage Structure",
+        "region": "Region VII",
+        "province": "CEBU",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "JANUARY BUILDERS, QM BUILDERS",
+    "bidders": [
+      {
+        "name": "QM BUILDERS (30743) / JANUARY BUILDERS (39818) (JV ID: JV-15-1341)",
+        "pcabId": "",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "DINAH RBS CONSTRUCTION AND SUPPLY INCORPORATED (FORMERLY: DINAH JANE CONSTRUCTION AND SUPPLY) (33925)",
+        "pcabId": "33925",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "QUIRANTE CONSTRUCTION CORPORATION (FORMERLY: QUIRANTE CONSTRUCTION) (32827)",
+        "pcabId": "32827",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "LOCAL INFRASTRUCTURE PROJECTS - CONSTRUCTION OF ROADS WITH DRAINAGE BARANGAY POBLACION TANGKE, TALISAY CITY, CEBU 1ST LD",
+      "abc": "9900000.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-11-19 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-02-24 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "9239670.0000000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/15he0173_contract_agreement.pdf",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/july/15HE0173 notice of award.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/15he0173_contract_agreement.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

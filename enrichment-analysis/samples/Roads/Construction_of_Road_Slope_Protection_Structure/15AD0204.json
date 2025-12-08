@@ -1,0 +1,97 @@
+{
+  "data": {
+    "contractId": "15AD0204",
+    "description": "REHABILITATION/RECONSTRUCTION OF NATIONAL ROADS WITH SLIPS, SLOPE COLLAPSE AND LANDSLIDES:JCT. SANTIAGO-BANAYOYO-LIDLIDDA-SAN EMILIO-QUIRINO ROAD, K0359+100 - K0359+140, K0372+150 -K0372+170, K0372+400 - K0372+420, K0372+950-K0372+965",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 19011130.98,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region I",
+      "province": "Ilocos Sur 2nd DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 17.2510230747195,
+        "longitude": 120.510022690487,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "JTA BUILDERS (18401)",
+    "startDate": "2016-03-23",
+    "completionDate": "2017-10-16",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-03-23",
+    "expiryDate": "2016-11-17",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00005723LZ-CW1",
+        "description": "Construction of Road Slope Protection Structure - Jct Santiago-Banayoyo-Lidlidda-Sn Emilio-Quirino - K0359+000 - K0359+140, K0372+000 - K0372+170, K0372+400 - K0372+420, K0372+950 - K0372+965",
+        "infraType": "Roads",
+        "typeOfWork": "Construction of Road Slope Protection Structure",
+        "region": "Region I",
+        "province": "ILOCOS SUR",
+        "coordinates": {
+          "latitude": 17.2510230747195,
+          "longitude": 120.510022690487,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "JTA BUILDERS",
+    "bidders": [
+      {
+        "name": "JTA BUILDERS (18401)",
+        "pcabId": "18401",
+        "participation": 100,
+        "isWinner": true
+      }
+    ],
+    "procurement": {
+      "contractName": "REHABILITATION/RECONSTRUCTION OF NATIONAL ROADS WITH SLIPS, SLOPE COLLAPSE AND LANDSLIDES:JCT. SANTIAGO-BANAYOYO-LIDLIDDA-SAN EMILIO-QUIRINO ROAD, K0359+100 - K0359+140, K0372+150 -K0372+170, K0372+400 - K0372+420, K0372+950-K0372+965",
+      "abc": "19600000.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-12-29 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-03-03 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "19011130.9800000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/april/15AD0204 CA039.pdf",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/april/15AD0204 NOA167.pdf",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/april/15AD0204 CA039.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 17.2510230747195,
+    "longitude": 120.510022690487,
+    "coordinates": [
+      {
+        "componentId": "P00005723LZ-CW1",
+        "description": "Construction of Road Slope Protection Structure - Jct Santiago-Banayoyo-Lidlidda-Sn Emilio-Quirino - K0359+000 - K0359+140, K0372+000 - K0372+170, K0372+400 - K0372+420, K0372+950 - K0372+965",
+        "latitude": 17.2510230747195,
+        "longitude": 120.510022690487,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

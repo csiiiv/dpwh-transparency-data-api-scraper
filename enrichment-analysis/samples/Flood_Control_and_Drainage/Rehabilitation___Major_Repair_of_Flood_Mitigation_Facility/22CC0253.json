@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "22CC0253",
+    "description": "REHABILITATION OF MULTI-PURPOSE FACILITY, DON CESARIO SAN DIEGO, PLARIDEL, BULACAN",
+    "category": "Flood Control and Drainage",
+    "status": "Completed",
+    "budget": 9602452.7,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region III",
+      "province": "Bulacan 1st DEO",
+      "infraType": "Flood Control and Drainage",
+      "coordinates": {
+        "latitude": 14.8862028,
+        "longitude": 120.8594583,
+        "verified": false
+      }
+    },
+    "infraType": "Flood Control and Drainage",
+    "contractor": "P.J. CRUZ CONSTRUCTION AND TRADING (14223)",
+    "startDate": "2022-04-06",
+    "completionDate": "2022-09-02",
+    "infraYear": "2022",
+    "contractEffectivityDate": "2022-04-06",
+    "expiryDate": "2022-09-02",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2022 CSSP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00640766LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Flood Mitigation Facility - Rehabilitation of Multi-Purpose Facility, Don Caesero San Diego, Plaridel, Bulacan",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Rehabilitation / Major Repair of Flood Mitigation Facility",
+        "region": "Region III",
+        "province": "BULACAN",
+        "coordinates": {
+          "latitude": 14.8862028,
+          "longitude": 120.8594583,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "P.J. CRUZ CONSTRUCTION AND TRADING",
+    "bidders": [
+      {
+        "name": "P.J. CRUZ CONSTRUCTION AND TRADING (14223)",
+        "pcabId": "14223",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "5 JEWEL'S CONSTRUCTION AND SUPPLY CORP. (48420)",
+        "pcabId": "48420",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "REHABILITATION OF MULTI-PURPOSE FACILITY, DON CESARIO SAN DIEGO, PLARIDEL, BULACAN",
+      "abc": "9899428.26",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2022-02-08 00:00:00.0000000",
+      "bidSubmissionDeadline": "2022-03-01 00:00:00.0000000",
+      "dateOfAward": "2022-03-21 00:00:00.0000000",
+      "awardAmount": "9602452.7"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/22CC0253.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/22CC0253 - CONTRACT.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/22CC0253 - NOA.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/22CC0253 - CONTRACT.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 14.8862028,
+    "longitude": 120.8594583,
+    "coordinates": [
+      {
+        "componentId": "P00640766LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Flood Mitigation Facility - Rehabilitation of Multi-Purpose Facility, Don Caesero San Diego, Plaridel, Bulacan",
+        "latitude": 14.8862028,
+        "longitude": 120.8594583,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 2,
+      "latestImageDate": "2024-07-07 02:26:33.888000",
+      "hasImages": true
+    }
+  }
+}

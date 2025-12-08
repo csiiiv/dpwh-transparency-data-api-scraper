@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "15B00107",
+    "description": "MFO 1-CONST'N & MAINTENANCE OF BRIDGES ALONG NAT'L RDS.: REHABILITATION/MAJOR REPAIR OF PERMANENT BR",
+    "category": "Bridges",
+    "status": "Completed",
+    "budget": 3898919.63,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region II",
+      "province": "Region II",
+      "infraType": "Bridges",
+      "coordinates": {
+        "latitude": 17.6200157640885,
+        "longitude": 121.72922006046,
+        "verified": false
+      }
+    },
+    "infraType": "Bridges",
+    "contractor": "ORANI CONSTRUCTION AND SUPPLY CORPORATION (FORMERLY:ORANI BUILDERS & SUPPLY) (05349)",
+    "startDate": "2016-03-01",
+    "completionDate": "2016-05-02",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-03-01",
+    "expiryDate": "2016-05-02",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00001850LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Bridge - Balzain Br. 1 (B01924LZ) along Cagayan-Apayao Rd (Tuguegarao Sect)",
+        "infraType": "Bridges",
+        "typeOfWork": "Rehabilitation / Major Repair of Bridge",
+        "region": "Region II",
+        "province": "CAGAYAN",
+        "coordinates": {
+          "latitude": 17.6200157640885,
+          "longitude": 121.72922006046,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "ORANI CONSTRUCTION AND SUPPLY CORPORATION (FORMERLY:ORANI BUILDERS & SUPPLY)",
+    "bidders": [
+      {
+        "name": "ORANI CONSTRUCTION AND SUPPLY CORPORATION (FORMERLY:ORANI BUILDERS & SUPPLY) (05349)",
+        "pcabId": "05349",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "ORANI CONSTRUCTION AND SUPPLY CORPORATION (FORMERLY:ORANI BUILDERS & SUPPLY) (5349)",
+        "pcabId": "5349",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "MFO 1-CONST'N & MAINTENANCE OF BRIDGES ALONG NAT'L RDS.: REHABILITATION/MAJOR REPAIR OF PERMANENT BR",
+      "abc": "3900000.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-01-05 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-01-25 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "3786379.9300000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/may/15b00107-Cont.agreemnt.pdf",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/may/15b00107-Noa.pdf",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/may/15b00107-Cont.agreemnt.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 17.6200157640885,
+    "longitude": 121.72922006046,
+    "coordinates": [
+      {
+        "componentId": "P00001850LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Bridge - Balzain Br. 1 (B01924LZ) along Cagayan-Apayao Rd (Tuguegarao Sect)",
+        "latitude": 17.6200157640885,
+        "longitude": 121.72922006046,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

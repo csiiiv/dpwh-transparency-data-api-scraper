@@ -1,0 +1,109 @@
+{
+  "data": {
+    "contractId": "15CG0232",
+    "description": "REHABILITATION/REPAIR OF BRGY. HALL AT SAN AGUSTIN NORTE, MAPALAD & SUCLABAN, ARAYAT & MEXICO, PAMPA",
+    "category": "Buildings and Facilities",
+    "status": "Completed",
+    "budget": 1452494,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region III",
+      "province": "Pampanga 1st DEO",
+      "infraType": "Buildings and Facilities",
+      "coordinates": null
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "P.V.B. CONSTRUCTION & TRADING (13269)",
+    "startDate": "2016-01-26",
+    "completionDate": "2016-04-24",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-01-26",
+    "expiryDate": "2016-04-24",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 Locally Funded Projects",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00041566LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Multi Purpose Building - Rehabilitation/Repair of Barangay hall, Mapalad, Arayat, Pampanga 3rd LD",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Rehabilitation / Major Repair of Multi Purpose Building",
+        "region": "Region III",
+        "province": "PAMPANGA",
+        "coordinates": null
+      },
+      {
+        "componentId": "P00041567LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Multi Purpose Building - Rehabilitation/Repair of Barangay hall, San Agustin Norte, Arayat, Pampanga 3rd LD",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Rehabilitation / Major Repair of Multi Purpose Building",
+        "region": "Region III",
+        "province": "PAMPANGA",
+        "coordinates": null
+      },
+      {
+        "componentId": "P00041568LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Multi Purpose Building - Rehabilitation/Repair of Barangay hall, Suclaban, Mexico, Pampanga 3rd LD",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Rehabilitation / Major Repair of Multi Purpose Building",
+        "region": "Region III",
+        "province": "PAMPANGA",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "P.V.B. CONSTRUCTION & TRADING",
+    "bidders": [
+      {
+        "name": "P.V.B. CONSTRUCTION & TRADING (13269)",
+        "pcabId": "13269",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "ELDICO BUILDERS (26601)",
+        "pcabId": "26601",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "NULAS BUILDERS (32172)",
+        "pcabId": "32172",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "REHABILITATION/REPAIR OF BRGY. HALL AT SAN AGUSTIN NORTE, MAPALAD & SUCLABAN, ARAYAT & MEXICO, PAMPA",
+      "abc": "1500000.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-12-02 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-12-22 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "1452494.0000000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "",
+      "noticeOfAward": "",
+      "noticeToProceed": "",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

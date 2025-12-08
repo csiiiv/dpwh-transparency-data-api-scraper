@@ -1,0 +1,163 @@
+{
+  "data": {
+    "contractId": "15CC0332",
+    "description": "REPAIR/REHABILITATION/IMPROVEMENT OF CONCRETE SLOPE PROTECTION ALONG ANGAT RIVER PALTAO, PULILAN, BULACAN",
+    "category": "Flood Control and Drainage",
+    "status": "Completed",
+    "budget": 9414809.73,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region III",
+      "province": "Bulacan 1st DEO",
+      "infraType": "Flood Control and Drainage",
+      "coordinates": {
+        "latitude": 14.898654,
+        "longitude": 120.850453,
+        "verified": false
+      }
+    },
+    "infraType": "Flood Control and Drainage",
+    "contractor": "VICTORIA DEVELOPMENT AND VENTURES CORP. (FOR: VICTORIA DEV'T AND CONST. CORP.) (32638)",
+    "startDate": "2017-01-09",
+    "completionDate": "2017-05-08",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2017-01-09",
+    "expiryDate": "2017-05-08",
+    "nysReason": null,
+    "programName": "Outside Infra",
+    "sourceOfFunds": "Outside Infra - GAA 2016 NDRRMF",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00095888LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Slope Protection Structure - Repair/Rehab./Improvement of Concrete Slope Protection  along Angat River, Paltao, Pulilan, Bulacan",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Rehabilitation / Major Repair of Slope Protection Structure",
+        "region": "Region III",
+        "province": "BULACAN",
+        "coordinates": {
+          "latitude": 14.898654,
+          "longitude": 120.850453,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "VICTORIA DEVELOPMENT AND VENTURES CORP. (FOR: VICTORIA DEV'T AND CONST. CORP.)",
+    "bidders": [
+      {
+        "name": "VICTORIA DEVELOPMENT AND VENTURES CORP. (FOR: VICTORIA DEV'T AND CONST. CORP.) (32638)",
+        "pcabId": "32638",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "A.C. RIVERO DEVELOPMENT CORPORATION (5122)",
+        "pcabId": "5122",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "ALL EML CONSTRUCTION CORPORATION (FORMERLY: E.M.L. CONSTRUCTION & TRADING) (10151)",
+        "pcabId": "10151",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "BAQPRINCE CONSTRUCTION AND TRADING CORP. (28337)",
+        "pcabId": "28337",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "EL-JAKE BUILDERS (38162)",
+        "pcabId": "38162",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "ERIC VAN P. SESBRENO CONSTRUCTION (26243)",
+        "pcabId": "26243",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "KVC CONSTRUCTION (28959)",
+        "pcabId": "28959",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "MARKNEST CONSTRUCTION AND TRADING (FORMERLY MARKNE (16818)",
+        "pcabId": "16818",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "POWER K CONSTRUCTION SUPPLY & SERVICES (31574)",
+        "pcabId": "31574",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "PRODEL CONSTRUCTION & DEVELOPMENT CORPORATION (10839)",
+        "pcabId": "10839",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "ST. RAYMUND CONSTRUCTION, INC. (19242)",
+        "pcabId": "19242",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "W.D. NAVARRO CONSTRUCTION CO. (14327)",
+        "pcabId": "14327",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "REPAIR/REHABILITATION/IMPROVEMENT OF CONCRETE SLOPE PROTECTION ALONG ANGAT RIVER PALTAO, PULILAN, BULACAN",
+      "abc": "9902986.79",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-12-01 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-12-22 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "9414809.7300000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "",
+      "noticeOfAward": "",
+      "noticeToProceed": "",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 14.898654,
+    "longitude": 120.850453,
+    "coordinates": [
+      {
+        "componentId": "P00095888LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Slope Protection Structure - Repair/Rehab./Improvement of Concrete Slope Protection  along Angat River, Paltao, Pulilan, Bulacan",
+        "latitude": 14.898654,
+        "longitude": 120.850453,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "data": {
+    "contractId": "15HL0113",
+    "description": "REHABILITATION OF WATERWORKS SYSTEM, BARANGAY SAN JOSE & POBLACION, STA. CATALINA, NEGROS ORIENTAL",
+    "category": "Water Provision and Storage",
+    "status": "Completed",
+    "budget": 1940116.35,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Negros Island Region",
+      "province": "Negros Oriental 3rd DEO",
+      "infraType": "Water Provision and Storage",
+      "coordinates": null
+    },
+    "infraType": "Water Provision and Storage",
+    "contractor": "UY CONDEV CORPORATION (FORMERLY:UY CONSTRUCTION & (12336)",
+    "startDate": "2016-02-02",
+    "completionDate": "2016-04-26",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-02-02",
+    "expiryDate": "2016-04-26",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 Locally Funded Projects",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00047393VS-CW1",
+        "description": "Rehabilitation of Water Supply Systems - Rehabilitation of Waterworks System, Barangay San Jose & Poblacion, Sta Catalina, Negros Oriental",
+        "infraType": "Water Provision and Storage",
+        "typeOfWork": "Rehabilitation of Water Supply Systems",
+        "region": "Negros Island Region",
+        "province": "NEGROS ORIENTAL",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "UY CONDEV CORPORATION (FORMERLY:UY CONSTRUCTION &",
+    "bidders": [
+      {
+        "name": "UY CONDEV CORPORATION (FORMERLY:UY CONSTRUCTION & (12336)",
+        "pcabId": "12336",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "TRINITYCAD CORPORATION (FORMERLY:TRINITY CONSTRUCTION AND DEVELOPMENT) (27755)",
+        "pcabId": "27755",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "REHABILITATION OF WATERWORKS SYSTEM, BARANGAY SAN JOSE & POBLACION, STA. CATALINA, NEGROS ORIENTAL",
+      "abc": "1980000.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-11-05 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-11-24 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "1940116.3500000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/april/Signed Contract 15HL0113.pdf",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/april/Notice of Award 15HL0113.pdf",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/april/Signed Contract 15HL0113.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

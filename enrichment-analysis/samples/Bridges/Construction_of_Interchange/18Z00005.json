@@ -1,0 +1,124 @@
+{
+  "data": {
+    "contractId": "18Z00005",
+    "description": "CENTRAL LUZON LINK EXPRESSWAY (CLLEX) PROJECT, PHASE 1 PACKAGE 5 - ZARAGOZA INTERCHANGE SECTION",
+    "category": "Bridges, Roads",
+    "status": "On-Going",
+    "budget": 692372186.92,
+    "amountPaid": 0,
+    "progress": 77.11,
+    "location": {
+      "region": "Central Office",
+      "province": "Roads Management Cluster I (Bilateral)",
+      "infraType": "Bridges",
+      "coordinates": null
+    },
+    "infraType": "Bridges",
+    "contractor": "CHINA CONSTRUCTION FIRST GROUP CORPORATION LIMITED / PACIFIC CONCRETE PRODUCTS, INC. (17150)",
+    "startDate": "2019-04-03",
+    "completionDate": null,
+    "infraYear": "2018",
+    "contractEffectivityDate": "2019-04-03",
+    "expiryDate": "2025-06-29",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2018 OO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00201093LZ-CW1",
+        "description": "Construction of Interchange - Zaragosa Interchange",
+        "infraType": "Bridges",
+        "typeOfWork": "Construction of Interchange",
+        "region": "Region III",
+        "province": "NUEVA ECIJA",
+        "coordinates": null
+      },
+      {
+        "componentId": "P00201093LZ-CW2",
+        "description": "Construction of Concrete Road - Zaragosa Interchange, Nueva Ecija",
+        "infraType": "Roads",
+        "typeOfWork": "Construction of Concrete Road",
+        "region": "Region III",
+        "province": "NUEVA ECIJA",
+        "coordinates": null
+      },
+      {
+        "componentId": "P00201093LZ-CW3",
+        "description": "Construction of Concrete Bridge - Zaragosa Interchange, Nueva Ecija",
+        "infraType": "Bridges",
+        "typeOfWork": "Construction of Concrete Bridge",
+        "region": "Region III",
+        "province": "NUEVA ECIJA",
+        "coordinates": null
+      },
+      {
+        "componentId": "P00201093LZ-CW4",
+        "description": "Construction of Concrete Bridge - Zaragosa Interchange, Nueva Ecija",
+        "infraType": "Bridges",
+        "typeOfWork": "Construction of Concrete Bridge",
+        "region": "Region III",
+        "province": "NUEVA ECIJA",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "PACIFIC CONCRETE PRODUCTS, INC.",
+    "bidders": [
+      {
+        "name": "PACIFIC CONCRETE PRODUCTS, INC. (17150) / CHINA CONSTRUCTION FIRST GROUP CORPORATION LIMITED (JV ID: JV-18-03100)",
+        "pcabId": "",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "C.M. PANCHO CONSTRUCTION, INCORPORATED (183)",
+        "pcabId": "183",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "E.C. DE LUNA CONSTRUCTION CORPORATION (FORMERLY E. (11906)",
+        "pcabId": "11906",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "R.D. POLICARPIO & COMPANY INC. (4414)",
+        "pcabId": "4414",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CENTRAL LUZON LINK EXPRESSWAY (CLLEX) PROJECT, PHASE 1 PACKAGE 5 - ZARAGOZA INTERCHANGE SECTION",
+      "abc": "962706536.35",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2018-11-27 00:00:00.0000000",
+      "bidSubmissionDeadline": "2018-12-21 00:00:00.0000000",
+      "dateOfAward": "2018-12-28 00:00:00.0000000",
+      "awardAmount": "676,860,931.10"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/18Z00005 (ITB, BD, Plans) 1.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/18Z00005 NTP and Contract Agreement april 12.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/NOA 18Z00005.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/18Z00005 NTP and Contract Agreement april 12.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

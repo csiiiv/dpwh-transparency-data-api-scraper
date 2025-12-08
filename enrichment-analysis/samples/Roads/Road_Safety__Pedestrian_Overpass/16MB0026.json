@@ -1,0 +1,79 @@
+{
+  "data": {
+    "contractId": "16MB0026",
+    "description": "COMPLETION/REPAIR/REHABILITAION/IMPROVEMENT/CONSTRUCTION OF PEDESTRIAN OVERPASSES, MAKAR-KIAMBA ROAD, FRONT OF STA. TERESITA CHURCH,  BRGY. POBLACION, TUPI, SOUTH COTABATO (S00253MN), PHASE II, K1687+298",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 5134402.89,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region XII",
+      "province": "South Cotabato 1st DEO",
+      "infraType": "Roads",
+      "coordinates": null
+    },
+    "infraType": "Roads",
+    "contractor": "GEMMA CONSTRUCTION SUPPLY, INC.(FORMERLY:GEMMA CON (5044)",
+    "startDate": "2016-04-25",
+    "completionDate": "2016-08-02",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-04-25",
+    "expiryDate": "2016-08-02",
+    "nysReason": null,
+    "programName": "Outside Infra",
+    "sourceOfFunds": "Outside Infra - Special Road Support Fund 2016",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00090016MN-CW1",
+        "description": "Road Safety: Pedestrian Overpass - Completion/Repair/Rehabilitation/Improvement/Construction of pedestrian overpass, Marbel-Makar Road, front of Sta. Teresita Church, Brgy. Poblacion, Tupi, South Cotabato (S00253MN), Phase II, K1687+298",
+        "infraType": "Roads",
+        "typeOfWork": "Road Safety: Pedestrian Overpass",
+        "region": "Region XII",
+        "province": "SOUTH COTABATO",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "GEMMA CONSTRUCTION SUPPLY, INC.(FORMERLY:GEMMA CON",
+    "bidders": [
+      {
+        "name": "GEMMA CONSTRUCTION SUPPLY, INC.(FORMERLY:GEMMA CON (5044)",
+        "pcabId": "5044",
+        "participation": 100,
+        "isWinner": true
+      }
+    ],
+    "procurement": {
+      "contractName": "COMPLETION/REPAIR/REHABILITAION/IMPROVEMENT/CONSTRUCTION OF PEDESTRIAN OVERPASSES, MAKAR-KIAMBA ROAD, FRONT OF STA. TERESITA CHURCH,  BRGY. POBLACION, TUPI, SOUTH COTABATO (S00253MN), PHASE II, K1687+298",
+      "abc": "5395500.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-01-30 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-02-18 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "5,134,402.89"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/noa16mb0026.pdf",
+      "noticeToProceed": "",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

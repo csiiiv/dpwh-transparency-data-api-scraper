@@ -1,0 +1,97 @@
+{
+  "data": {
+    "contractId": "15AD0209",
+    "description": "CONSTRUCTION OF FLOOD CONTROL ALONG CHICO RIVERBRGY. PALLOGAN, TAGUDIN, ILOCOS SUR",
+    "category": "Flood Control and Drainage",
+    "status": "Completed",
+    "budget": 19000449.37,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region I",
+      "province": "Ilocos Sur 2nd DEO",
+      "infraType": "Flood Control and Drainage",
+      "coordinates": {
+        "latitude": 16.92613,
+        "longitude": 120.48211,
+        "verified": false
+      }
+    },
+    "infraType": "Flood Control and Drainage",
+    "contractor": "DJY CONSTRUCTION (35651) / R.S. SEPIAN CONSTRUCTION & TRUCKING (20519)",
+    "startDate": "2016-03-23",
+    "completionDate": "2017-01-23",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-03-23",
+    "expiryDate": "2016-09-09",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-2",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00022201LZ-CW1",
+        "description": "Construction of Flood Mitigation Structure - Construction of Flood Control along Chico River, Barangay Pallogan, Tagudin, Ilocos Sur",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Construction of Flood Mitigation Structure",
+        "region": "Region I",
+        "province": "ILOCOS SUR",
+        "coordinates": {
+          "latitude": 16.92613,
+          "longitude": 120.48211,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "DJY CONSTRUCTION, R.S. SEPIAN CONSTRUCTION & TRUCKING",
+    "bidders": [
+      {
+        "name": "R.S. SEPIAN CONSTRUCTION & TRUCKING (20519) / DJY CONSTRUCTION (35651) (JV ID: JV-15-1313)",
+        "pcabId": "",
+        "participation": 100,
+        "isWinner": true
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION OF FLOOD CONTROL ALONG CHICO RIVER BRGY. PALLOGAN, TAGUDIN, ILOCOS SUR",
+      "abc": "19600046.69",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-12-29 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-02-23 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "19000449.3700000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/april/15AD0209 CA536.pdf",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/april/15AD0209 NOA535.pdf",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/april/15AD0209 CA536.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 16.92613,
+    "longitude": 120.48211,
+    "coordinates": [
+      {
+        "componentId": "P00022201LZ-CW1",
+        "description": "Construction of Flood Mitigation Structure - Construction of Flood Control along Chico River, Barangay Pallogan, Tagudin, Ilocos Sur",
+        "latitude": 16.92613,
+        "longitude": 120.48211,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

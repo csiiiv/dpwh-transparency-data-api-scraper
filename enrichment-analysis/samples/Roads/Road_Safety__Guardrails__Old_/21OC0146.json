@@ -1,0 +1,121 @@
+{
+  "data": {
+    "contractId": "21OC0146",
+    "description": "INSTALLATION OF ALUMINUM COMPOSITE PANEL ALONG EDSA-AYALA TUNNEL SOUTHBOUND (S03463LZ) MAKATI CITY, METRO MANILA",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 79129831.53,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "National Capital Region",
+      "province": "Metro Manila 2nd DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 14.5478164,
+        "longitude": 121.0265383,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "FLORDES CONSTRUCTION & TRADING CORP. (FORMERLY FLO (16916)",
+    "startDate": "2021-04-12",
+    "completionDate": "2022-10-08",
+    "infraYear": "2021",
+    "contractEffectivityDate": "2021-04-12",
+    "expiryDate": "2022-10-08",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2021 CSSP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00534583LZ-CW1",
+        "description": "Road Safety: Guardrails (Old) - Installation of Aluminum Composite Panel along EDSA-Ayala Tunnel Southbound (S03463LZ) Makati City",
+        "infraType": "Roads",
+        "typeOfWork": "Road Safety: Guardrails (Old)",
+        "region": "National Capital Region",
+        "province": "METROPOLITAN MANILA",
+        "coordinates": {
+          "latitude": 14.5478164,
+          "longitude": 121.0265383,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "FLORDES CONSTRUCTION & TRADING CORP. (FORMERLY FLO",
+    "bidders": [
+      {
+        "name": "FLORDES CONSTRUCTION & TRADING CORP. (FORMERLY FLO (16916)",
+        "pcabId": "16916",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "A.L. SALAZAR CONSTRUCTION, INC. (3899)",
+        "pcabId": "3899",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "J.H. PAJARA CONSTRUCTION CORPORATION (1890)",
+        "pcabId": "1890",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "MONOLITHIC CONSTRUCTION & CONCRETE PRODUCTS, INC. (5733)",
+        "pcabId": "5733",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "R.A. PAHATI CONST. & SUPPLY, INC. (35843)",
+        "pcabId": "35843",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "INSTALLATION OF ALUMINUM COMPOSITE PANEL ALONG EDSA-AYALA TUNNEL SOUTHBOUND (S03463LZ)  MAKATI CITY, METRO MANILA",
+      "abc": "80360000.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2021-03-04 00:00:00.0000000",
+      "bidSubmissionDeadline": "2021-03-25 00:00:00.0000000",
+      "dateOfAward": "2021-03-30 00:00:00.0000000",
+      "awardAmount": "76745582.74"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/21OC0146.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/21oc0146_contract.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/21oc0146_noa_and_resolution.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/21oc0146_contract.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 14.5478164,
+    "longitude": 121.0265383,
+    "coordinates": [
+      {
+        "componentId": "P00534583LZ-CW1",
+        "description": "Road Safety: Guardrails (Old) - Installation of Aluminum Composite Panel along EDSA-Ayala Tunnel Southbound (S03463LZ) Makati City",
+        "latitude": 14.5478164,
+        "longitude": 121.0265383,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 2,
+      "latestImageDate": "2023-08-17 04:49:53.332999",
+      "hasImages": true
+    }
+  }
+}

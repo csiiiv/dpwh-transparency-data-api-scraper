@@ -1,0 +1,109 @@
+{
+  "data": {
+    "contractId": "15BK0108",
+    "description": "REHAB/RECON/UPGRADING OF DAMAGED PAVED NATL RDS INCLUDING DRAINAGE BASED ON PVMNT MANAGEMENT SYSTEM/",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 35296660,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region II",
+      "province": "Quirino DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 16.5062638007794,
+        "longitude": 121.576197422106,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "A.P.D. CONSTRUCTION, INC. (FORMERLY: APD CONSTRUCTION) (17467)",
+    "startDate": "2016-03-21",
+    "completionDate": "2016-05-16",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-03-21",
+    "expiryDate": "2016-08-17",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00000858LZ-CW1",
+        "description": "Road Upgrading Asphalt to Concrete - Cordon-Aurora Bdry Rd (Isabela Bdry-Jct.Dumabato) -  K0342+050 - K0342+980, K0343+480 - K0343+542, K0348+802 - K0349+011, K0358+370 - K0358+520",
+        "infraType": "Roads",
+        "typeOfWork": "Road Upgrading Asphalt to Concrete",
+        "region": "Region II",
+        "province": "QUIRINO",
+        "coordinates": {
+          "latitude": 16.5062638007794,
+          "longitude": 121.576197422106,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "A.P.D. CONSTRUCTION, INC. (FORMERLY: APD CONSTRUCTION)",
+    "bidders": [
+      {
+        "name": "A.P.D. CONSTRUCTION, INC. (FORMERLY: APD CONSTRUCTION) (17467)",
+        "pcabId": "17467",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "GACUTAN CONSTRUCTION INC. (FORMERLY: GACUTAN CONSTRUCTION) (10789)",
+        "pcabId": "10789",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "MAR-DEB CONSTRUCTION & DEVELOPMENT CORP. (FORMERLY: MAR-DEB CONSTRUCTION & DEVELOPMENT) (6715)",
+        "pcabId": "6715",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "REHAB/RECON/UPGRADING OF DAMAGED PAVED NATL RDS INCLUDING DRAINAGE BASED ON PVMNT MANAGEMENT SYSTEM/",
+      "abc": "35296660.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-12-10 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-01-27 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "34552805.4200000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/march/15BK0108 CA.pdf",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/march/15BK0108 NOA.pdf",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/march/15BK0108 CA.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 16.5062638007794,
+    "longitude": 121.576197422106,
+    "coordinates": [
+      {
+        "componentId": "P00000858LZ-CW1",
+        "description": "Road Upgrading Asphalt to Concrete - Cordon-Aurora Bdry Rd (Isabela Bdry-Jct.Dumabato) -  K0342+050 - K0342+980, K0343+480 - K0343+542, K0348+802 - K0349+011, K0358+370 - K0358+520",
+        "latitude": 16.5062638007794,
+        "longitude": 121.576197422106,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

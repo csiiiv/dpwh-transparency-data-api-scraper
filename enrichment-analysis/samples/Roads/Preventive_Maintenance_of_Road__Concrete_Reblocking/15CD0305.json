@@ -1,0 +1,109 @@
+{
+  "data": {
+    "contractId": "15CD0305",
+    "description": "PREVENTIVE MAINTENANCE ASPHALT OVERLAY ALONG MUZON TUNGKONG MANGGA ROAD K0041+423 - K0042+828 ; K0043+000 - K0043+256 ; K0043+256 - K0045+036 SAN JOSE DEL MONTE CITY, BULACAN",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 28498270.66,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region III",
+      "province": "Bulacan 2nd DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 14.7970724599992,
+        "longitude": 121.044484125617,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "L.R. TIQUI BUILDERS, INC. (13810)",
+    "startDate": "2016-02-22",
+    "completionDate": "2016-06-01",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-02-22",
+    "expiryDate": "2016-06-01",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00000651LZ-CW1",
+        "description": "Preventive Maintenance of Road: Concrete Reblocking - Muzon-Tungkong Manga Rd - K0041+423 - K0042+828, K0043+000 - K0043+256, K0043+256 - K0045+036",
+        "infraType": "Roads",
+        "typeOfWork": "Preventive Maintenance of Road: Concrete Reblocking",
+        "region": "Region III",
+        "province": "BULACAN",
+        "coordinates": {
+          "latitude": 14.7970724599992,
+          "longitude": 121.044484125617,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "L.R. TIQUI BUILDERS, INC.",
+    "bidders": [
+      {
+        "name": "L.R. TIQUI BUILDERS, INC. (13810)",
+        "pcabId": "13810",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "C.T. LEONCIO CONSTRUCTION & TRADING (17371)",
+        "pcabId": "17371",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "STO. CRISTO CONSTRUCTION & TRADING INC. (FOR: STO. CRISTO CONSTRUCTION & TRADING) (26096)",
+        "pcabId": "26096",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "PREVENTIVE MAINTENANCE ASPHALT OVERLAY ALONG MUZON TUNGKONG MANGGA ROAD K0041+423 - K0042+828 ; K0043+000 - K0043+256 ; K0043+256 - K0045+036 SAN JOSE DEL MONTE CITY, BULACAN",
+      "abc": "29998219.28",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-12-23 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-01-21 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "28498270.6600000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/september/CA 304,305.zip",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/september/NOA 301,302,303,304,305.zip",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/ntp/16/august/NTP 15CD0300,301,302,303,304,305.zip",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 14.7970724599992,
+    "longitude": 121.044484125617,
+    "coordinates": [
+      {
+        "componentId": "P00000651LZ-CW1",
+        "description": "Preventive Maintenance of Road: Concrete Reblocking - Muzon-Tungkong Manga Rd - K0041+423 - K0042+828, K0043+000 - K0043+256, K0043+256 - K0045+036",
+        "latitude": 14.7970724599992,
+        "longitude": 121.044484125617,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

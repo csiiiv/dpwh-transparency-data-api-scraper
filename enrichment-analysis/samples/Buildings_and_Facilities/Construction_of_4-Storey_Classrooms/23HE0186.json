@@ -1,0 +1,115 @@
+{
+  "data": {
+    "contractId": "23HE0186",
+    "description": "CONVERGENCE AND SPECIAL SUPPORT PROGRAM - SIPAG - ACCESS RDS. AND/OR BRIDGES FROM THE NAT'L. RD./S LEADING TO MAJOR/STRATEGIC PUBLIC BLDGS./FACILITIES - MPBS/FACILITIES TO SUPPORT SOCIAL SERV.- CONST. OF SCH. BLDG., TALISAY CITY COLLEGE, POBLACION, TALISA",
+    "category": "Buildings and Facilities",
+    "status": "Completed",
+    "budget": 48238000,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region VII",
+      "province": "Cebu 1st DEO",
+      "infraType": "Buildings and Facilities",
+      "coordinates": {
+        "latitude": 10.2433126,
+        "longitude": 123.8485772,
+        "verified": false
+      }
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "JANUARY BUILDERS (39818)",
+    "startDate": "2023-11-16",
+    "completionDate": "2024-07-19",
+    "infraYear": "2023",
+    "contractEffectivityDate": "2023-11-16",
+    "expiryDate": "2024-07-19",
+    "nysReason": null,
+    "programName": "Outside Infra",
+    "sourceOfFunds": "Outside Infra - Unprogrammed Appropriations 2023",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00760419VS-CW1",
+        "description": "Construction of 4-Storey Classrooms - Construction of School Building, Talisay City College, Poblacion, City of Talisay, Cebu.",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of 4-Storey Classrooms",
+        "region": "Region VII",
+        "province": "CEBU",
+        "coordinates": {
+          "latitude": 10.2433126,
+          "longitude": 123.8485772,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "JANUARY BUILDERS",
+    "bidders": [
+      {
+        "name": "JANUARY BUILDERS (39818)",
+        "pcabId": "39818",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "CELJEM CONSTRUCTION & DEVELOPMENT CORP. (38188)",
+        "pcabId": "38188",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "GENETIAN BUILDERS AND ENTERPRISES INCORPORATED (FORMERLY: GENETIAN BUILDERS) (18052)",
+        "pcabId": "18052",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "PLD CONSTRUCTION AND DEVELOPMENT INC. (FORMERLY: PLD CONSTRUCTION) (01859)",
+        "pcabId": "01859",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONVERGENCE AND SPECIAL SUPPORT PROGRAM - SIPAG - ACCESS RDS. AND/OR BRIDGES FROM THE NAT'L. RD./S LEADING TO MAJOR/STRATEGIC PUBLIC BLDGS./FACILITIES - MPBS/FACILITIES TO SUPPORT SOCIAL SERV.- CONST. OF SCH. BLDG., TALISAY CITY COLLEGE, POBLACION, TALISA",
+      "abc": "49500000.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2023-09-28 00:00:00.0000000",
+      "bidSubmissionDeadline": "2023-10-25 00:00:00.0000000",
+      "dateOfAward": "2023-11-08 00:00:00.0000000",
+      "awardAmount": "48238000"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/23he0186_mpb_talisay_city_college_48.250m_final.pdf",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/23he0186_ca.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/23he0186.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/23he0186_ca.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 10.2433126,
+    "longitude": 123.8485772,
+    "coordinates": [
+      {
+        "componentId": "P00760419VS-CW1",
+        "description": "Construction of 4-Storey Classrooms - Construction of School Building, Talisay City College, Poblacion, City of Talisay, Cebu.",
+        "latitude": 10.2433126,
+        "longitude": 123.8485772,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 6,
+      "latestImageDate": "2024-08-22 08:04:29.852000",
+      "hasImages": true
+    }
+  }
+}

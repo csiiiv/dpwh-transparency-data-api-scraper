@@ -1,0 +1,109 @@
+{
+  "data": {
+    "contractId": "16FM0038",
+    "description": "CONSTRUCTION OF BUENAVISTA BARANGAY HEALTH STATION, BARANGAY BUENAVISTA, SAN FERNANDO, MASBATE",
+    "category": "Buildings and Facilities",
+    "status": "Completed",
+    "budget": 1470134.86,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region V",
+      "province": "Masbate 1st DEO",
+      "infraType": "Buildings and Facilities",
+      "coordinates": {
+        "latitude": 12.566667,
+        "longitude": 123.733333,
+        "verified": false
+      }
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "NEXT GENERATION CONSTRUCTION AND SUPPLY CORPORATION (40088)",
+    "startDate": "2017-12-07",
+    "completionDate": "2018-11-11",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2017-12-07",
+    "expiryDate": "2018-03-06",
+    "nysReason": null,
+    "programName": "Outside Infra",
+    "sourceOfFunds": "Outside Infra - GAA 2016 DOH HFEP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00061547LZ-CW1",
+        "description": "Construction of Barangay Health Station - Construction, Buenavista BHS, San Fernando, Masbate",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of Barangay Health Station",
+        "region": "Region V",
+        "province": "MASBATE",
+        "coordinates": {
+          "latitude": 12.566667,
+          "longitude": 123.733333,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "NEXT GENERATION CONSTRUCTION AND SUPPLY CORPORATION",
+    "bidders": [
+      {
+        "name": "NEXT GENERATION CONSTRUCTION AND SUPPLY CORPORATION (40088)",
+        "pcabId": "40088",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "GRANDRISE CONSTRUCTION & DEVELOPMENT CORPORATION (37141)",
+        "pcabId": "37141",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "GRELIPS CONSTRUCTION & DEVELOPMENT (34236)",
+        "pcabId": "34236",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION OF BUENAVISTA BARANGAY HEALTH STATION, BARANGAY BUENAVISTA, SAN FERNANDO, MASBATE",
+      "abc": "1492499.52",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2017-02-23 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-03-16 00:00:00.0000000",
+      "dateOfAward": "2017-10-18 00:00:00.0000000",
+      "awardAmount": "1,470,134.86"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/ITB_16FM0038-16FM0040.pdf",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/16fm0038_contract_agreement.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/16fm0038_notice_of_award.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/16fm0038_notice_to_proceed.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 12.566667,
+    "longitude": 123.733333,
+    "coordinates": [
+      {
+        "componentId": "P00061547LZ-CW1",
+        "description": "Construction of Barangay Health Station - Construction, Buenavista BHS, San Fernando, Masbate",
+        "latitude": 12.566667,
+        "longitude": 123.733333,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

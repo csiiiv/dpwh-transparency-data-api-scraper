@@ -1,0 +1,615 @@
+{
+  "data": {
+    "contractId": "16FK0050",
+    "description": "CONSTRUCTION OF 24-UNITS SENIOR CITIZENS CENTER, FIRST DISTRICT OF SORSOGON",
+    "category": "Buildings and Facilities",
+    "status": "Completed",
+    "budget": 23609378.88,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region V",
+      "province": "Sorsogon DEO",
+      "infraType": "Buildings and Facilities",
+      "coordinates": {
+        "latitude": 13.01992,
+        "longitude": 124.09986,
+        "verified": false
+      }
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "RODA CONSTRUCTION & GENERAL SUPPLY (19674)",
+    "startDate": "2017-01-03",
+    "completionDate": "2017-07-01",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2017-01-03",
+    "expiryDate": "2017-07-01",
+    "nysReason": null,
+    "programName": "Outside Infra",
+    "sourceOfFunds": "Outside Infra - Trust Funds 2016",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00099049LZ-CW1",
+        "description": "Construction of Multi Purpose Building - Construction of Senior Citizens Center, Brgy. Gatbo, Bacon District, Sorsogon City",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of Multi Purpose Building",
+        "region": "Region V",
+        "province": "SORSOGON",
+        "coordinates": {
+          "latitude": 13.01992,
+          "longitude": 124.09986,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00099050LZ-CW1",
+        "description": "Construction of Multi Purpose Building - Construction of Senior Citizens Center, Brgy. San Isidro, Bacon District, Sorsogon City",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of Multi Purpose Building",
+        "region": "Region V",
+        "province": "SORSOGON",
+        "coordinates": {
+          "latitude": 12.97433,
+          "longitude": 123.84291,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00099051LZ-CW1",
+        "description": "Construction of Multi Purpose Building - Construction of Senior Citizens Center, Brgy. Sta. Lucia, Bacon District, Sorsogon City",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of Multi Purpose Building",
+        "region": "Region V",
+        "province": "SORSOGON",
+        "coordinates": {
+          "latitude": 12.99595,
+          "longitude": 124.07308,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00099052LZ-CW1",
+        "description": "Construction of Multi Purpose Building - Construction of Senior Citizens Center, Brgy. Osiao, Bacon District, Sorsogon City",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of Multi Purpose Building",
+        "region": "Region V",
+        "province": "SORSOGON",
+        "coordinates": {
+          "latitude": 13.09264,
+          "longitude": 123.87956,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00099053LZ-CW1",
+        "description": "Construction of Multi Purpose Building - Construction of Senior Citizens Center, Brgy. Balogo, East District, Sorsogon City",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of Multi Purpose Building",
+        "region": "Region V",
+        "province": "SORSOGON",
+        "coordinates": {
+          "latitude": 12.97273,
+          "longitude": 124.01693,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00099054LZ-CW1",
+        "description": "Construction of Multi Purpose Building - Construction of Senior Citizens Center, Brgy. San Isidro, West District, Sorsogon City",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of Multi Purpose Building",
+        "region": "Region V",
+        "province": "SORSOGON",
+        "coordinates": {
+          "latitude": 12.98975,
+          "longitude": 123.8958,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00099055LZ-CW1",
+        "description": "Construction of Multi Purpose Building - Construction of Senior Citizens Center, Brgy. Piot (Sitio Sagkahan), West District, Sorsogon City",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of Multi Purpose Building",
+        "region": "Region V",
+        "province": "SORSOGON",
+        "coordinates": {
+          "latitude": 12.97096,
+          "longitude": 123.99826,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00099056LZ-CW1",
+        "description": "Construction of Multi Purpose Building - Construction of Senior Citizens Center, Brgy. Macabog, West District, Sorsogon City",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of Multi Purpose Building",
+        "region": "Region V",
+        "province": "SORSOGON",
+        "coordinates": {
+          "latitude": 12.98484,
+          "longitude": 123.98817,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00099057LZ-CW1",
+        "description": "Construction of Multi Purpose Building - Construction of Senior Citizens Center, Brgy. Inlagadian, Casiguran, Sorsogon",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of Multi Purpose Building",
+        "region": "Region V",
+        "province": "SORSOGON",
+        "coordinates": {
+          "latitude": 12.81,
+          "longitude": 124.059,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00099058LZ-CW1",
+        "description": "Construction of Multi Purpose Building - Construction of Senior Citizens Center, Brgy. Salvacion, Castilla, Sorsogon",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of Multi Purpose Building",
+        "region": "Region V",
+        "province": "SORSOGON",
+        "coordinates": {
+          "latitude": 13.01828,
+          "longitude": 123.81103,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00099059LZ-CW1",
+        "description": "Construction of Multi Purpose Building - Construction of Senior Citizens Center, Brgy. San Isidro, Castilla, Sorsogon",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of Multi Purpose Building",
+        "region": "Region V",
+        "province": "SORSOGON",
+        "coordinates": {
+          "latitude": 12.97433,
+          "longitude": 123.84291,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00099060LZ-CW1",
+        "description": "Construction of Multi Purpose Building - Construction of Senior Citizens Center, Brgy. San Vicente, Castilla, Sorsogon",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of Multi Purpose Building",
+        "region": "Region V",
+        "province": "SORSOGON",
+        "coordinates": {
+          "latitude": 12.97777,
+          "longitude": 123.80699,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00099061LZ-CW1",
+        "description": "Construction of Multi Purpose Building - Construction of Senior Citizens Center, Brgy. Oras, Castilla, Sorsogon",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of Multi Purpose Building",
+        "region": "Region V",
+        "province": "SORSOGON",
+        "coordinates": {
+          "latitude": 12.92888,
+          "longitude": 123.82835,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00099062LZ-CW1",
+        "description": "Construction of Multi Purpose Building - Construction of Senior Citizens Center, Brgy. Cumadcad, Castilla, Sorsogon",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of Multi Purpose Building",
+        "region": "Region V",
+        "province": "SORSOGON",
+        "coordinates": {
+          "latitude": 12.9651,
+          "longitude": 123.77972,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00099063LZ-CW1",
+        "description": "Construction of Multi Purpose Building - Construction of Senior Citizens Center, Brgy. Tinanongan, Donsol, Sorsogon",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of Multi Purpose Building",
+        "region": "Region V",
+        "province": "SORSOGON",
+        "coordinates": {
+          "latitude": 12.94993,
+          "longitude": 123.53447,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00099064LZ-CW1",
+        "description": "Construction of Multi Purpose Building - Construction of Senior Citizens Center, Brgy. Awaii, Donsol, Sorsogon",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of Multi Purpose Building",
+        "region": "Region V",
+        "province": "SORSOGON",
+        "coordinates": {
+          "latitude": 12.904835,
+          "longitude": 123.597596,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00099065LZ-CW1",
+        "description": "Construction of Other Building - Construction of Senior Citizens Center, Brgy. Sta. Cruz, Donsol, Sorsogon",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of Other Building",
+        "region": "Region V",
+        "province": "SORSOGON",
+        "coordinates": {
+          "latitude": 12.98702,
+          "longitude": 123.48747,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00099066LZ-CW1",
+        "description": "Construction of Multi Purpose Building - Construction of Senior Citizens Center, Brgy. Ogod, Donsol, Sorsogon",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of Multi Purpose Building",
+        "region": "Region V",
+        "province": "SORSOGON",
+        "coordinates": {
+          "latitude": 12.90003,
+          "longitude": 123.61794,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00099067LZ-CW1",
+        "description": "Construction of Multi Purpose Building - Construction of Senior Citizens Center, Brgy. Gimagaan, Donsol, Sorsogon",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of Multi Purpose Building",
+        "region": "Region V",
+        "province": "SORSOGON",
+        "coordinates": {
+          "latitude": 12.94532,
+          "longitude": 123.56053,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00099068LZ-CW1",
+        "description": "Construction of Other Building - Construction of Senior Citizens Center, Brgy. Bacalon, Magallanes, Sorsogon",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of Other Building",
+        "region": "Region V",
+        "province": "SORSOGON",
+        "coordinates": {
+          "latitude": 12.83196,
+          "longitude": 123.87715,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00099069LZ-CW1",
+        "description": "Construction of Multi Purpose Building - Construction of Senior Citizens Center, Brgy. Siuton, Magallanes, Sorsogon",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of Multi Purpose Building",
+        "region": "Region V",
+        "province": "SORSOGON",
+        "coordinates": {
+          "latitude": 12.79503,
+          "longitude": 123.87397,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00099070LZ-CW1",
+        "description": "Construction of Multi Purpose Building - Construction of Senior Citizens Center, Brgy. Salvacion, Magallanes, Sorsogon",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of Multi Purpose Building",
+        "region": "Region V",
+        "province": "SORSOGON",
+        "coordinates": {
+          "latitude": 12.78498,
+          "longitude": 123.86167,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00099071LZ-CW1",
+        "description": "Construction of Multi Purpose Building - Construction of Senior Citizens Center, Brgy. Lapinig, Magallanes, Sorsogon",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of Multi Purpose Building",
+        "region": "Region V",
+        "province": "SORSOGON",
+        "coordinates": {
+          "latitude": 12.76342,
+          "longitude": 123.88753,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00099072LZ-CW1",
+        "description": "Construction of Multi Purpose Building - Construction of Senior Citizens Center, Brgy. Pili, Magallanes, Sorsogon",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of Multi Purpose Building",
+        "region": "Region V",
+        "province": "SORSOGON",
+        "coordinates": {
+          "latitude": 12.82435,
+          "longitude": 123.87715,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "RODA CONSTRUCTION & GENERAL SUPPLY",
+    "bidders": [
+      {
+        "name": "RODA CONSTRUCTION & GENERAL SUPPLY (19674)",
+        "pcabId": "19674",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "CTC BUILDER AND SUPPLIES INCORPORATED (FOR. CTC BU (12088)",
+        "pcabId": "12088",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "R.K.X. ODIAMAR  CONSTRUCTION (16107)",
+        "pcabId": "16107",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION OF 24-UNITS SENIOR CITIZENS CENTER, FIRST DISTRICT OF SORSOGON",
+      "abc": "23760000.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-11-23 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-12-13 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "23,609,378.88"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/16fk0050-contract.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/16FK0050-AWARD.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/16fk0050-ntp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 13.01992,
+    "longitude": 124.09986,
+    "coordinates": [
+      {
+        "componentId": "P00099049LZ-CW1",
+        "description": "Construction of Multi Purpose Building - Construction of Senior Citizens Center, Brgy. Gatbo, Bacon District, Sorsogon City",
+        "latitude": 13.01992,
+        "longitude": 124.09986,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00099050LZ-CW1",
+        "description": "Construction of Multi Purpose Building - Construction of Senior Citizens Center, Brgy. San Isidro, Bacon District, Sorsogon City",
+        "latitude": 12.97433,
+        "longitude": 123.84291,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00099051LZ-CW1",
+        "description": "Construction of Multi Purpose Building - Construction of Senior Citizens Center, Brgy. Sta. Lucia, Bacon District, Sorsogon City",
+        "latitude": 12.99595,
+        "longitude": 124.07308,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00099052LZ-CW1",
+        "description": "Construction of Multi Purpose Building - Construction of Senior Citizens Center, Brgy. Osiao, Bacon District, Sorsogon City",
+        "latitude": 13.09264,
+        "longitude": 123.87956,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00099053LZ-CW1",
+        "description": "Construction of Multi Purpose Building - Construction of Senior Citizens Center, Brgy. Balogo, East District, Sorsogon City",
+        "latitude": 12.97273,
+        "longitude": 124.01693,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00099054LZ-CW1",
+        "description": "Construction of Multi Purpose Building - Construction of Senior Citizens Center, Brgy. San Isidro, West District, Sorsogon City",
+        "latitude": 12.98975,
+        "longitude": 123.8958,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00099055LZ-CW1",
+        "description": "Construction of Multi Purpose Building - Construction of Senior Citizens Center, Brgy. Piot (Sitio Sagkahan), West District, Sorsogon City",
+        "latitude": 12.97096,
+        "longitude": 123.99826,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00099056LZ-CW1",
+        "description": "Construction of Multi Purpose Building - Construction of Senior Citizens Center, Brgy. Macabog, West District, Sorsogon City",
+        "latitude": 12.98484,
+        "longitude": 123.98817,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00099057LZ-CW1",
+        "description": "Construction of Multi Purpose Building - Construction of Senior Citizens Center, Brgy. Inlagadian, Casiguran, Sorsogon",
+        "latitude": 12.81,
+        "longitude": 124.059,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00099058LZ-CW1",
+        "description": "Construction of Multi Purpose Building - Construction of Senior Citizens Center, Brgy. Salvacion, Castilla, Sorsogon",
+        "latitude": 13.01828,
+        "longitude": 123.81103,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00099059LZ-CW1",
+        "description": "Construction of Multi Purpose Building - Construction of Senior Citizens Center, Brgy. San Isidro, Castilla, Sorsogon",
+        "latitude": 12.97433,
+        "longitude": 123.84291,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00099060LZ-CW1",
+        "description": "Construction of Multi Purpose Building - Construction of Senior Citizens Center, Brgy. San Vicente, Castilla, Sorsogon",
+        "latitude": 12.97777,
+        "longitude": 123.80699,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00099061LZ-CW1",
+        "description": "Construction of Multi Purpose Building - Construction of Senior Citizens Center, Brgy. Oras, Castilla, Sorsogon",
+        "latitude": 12.92888,
+        "longitude": 123.82835,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00099062LZ-CW1",
+        "description": "Construction of Multi Purpose Building - Construction of Senior Citizens Center, Brgy. Cumadcad, Castilla, Sorsogon",
+        "latitude": 12.9651,
+        "longitude": 123.77972,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00099063LZ-CW1",
+        "description": "Construction of Multi Purpose Building - Construction of Senior Citizens Center, Brgy. Tinanongan, Donsol, Sorsogon",
+        "latitude": 12.94993,
+        "longitude": 123.53447,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00099064LZ-CW1",
+        "description": "Construction of Multi Purpose Building - Construction of Senior Citizens Center, Brgy. Awaii, Donsol, Sorsogon",
+        "latitude": 12.904835,
+        "longitude": 123.597596,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00099065LZ-CW1",
+        "description": "Construction of Other Building - Construction of Senior Citizens Center, Brgy. Sta. Cruz, Donsol, Sorsogon",
+        "latitude": 12.98702,
+        "longitude": 123.48747,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00099066LZ-CW1",
+        "description": "Construction of Multi Purpose Building - Construction of Senior Citizens Center, Brgy. Ogod, Donsol, Sorsogon",
+        "latitude": 12.90003,
+        "longitude": 123.61794,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00099067LZ-CW1",
+        "description": "Construction of Multi Purpose Building - Construction of Senior Citizens Center, Brgy. Gimagaan, Donsol, Sorsogon",
+        "latitude": 12.94532,
+        "longitude": 123.56053,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00099068LZ-CW1",
+        "description": "Construction of Other Building - Construction of Senior Citizens Center, Brgy. Bacalon, Magallanes, Sorsogon",
+        "latitude": 12.83196,
+        "longitude": 123.87715,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00099069LZ-CW1",
+        "description": "Construction of Multi Purpose Building - Construction of Senior Citizens Center, Brgy. Siuton, Magallanes, Sorsogon",
+        "latitude": 12.79503,
+        "longitude": 123.87397,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00099070LZ-CW1",
+        "description": "Construction of Multi Purpose Building - Construction of Senior Citizens Center, Brgy. Salvacion, Magallanes, Sorsogon",
+        "latitude": 12.78498,
+        "longitude": 123.86167,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00099071LZ-CW1",
+        "description": "Construction of Multi Purpose Building - Construction of Senior Citizens Center, Brgy. Lapinig, Magallanes, Sorsogon",
+        "latitude": 12.76342,
+        "longitude": 123.88753,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00099072LZ-CW1",
+        "description": "Construction of Multi Purpose Building - Construction of Senior Citizens Center, Brgy. Pili, Magallanes, Sorsogon",
+        "latitude": 12.82435,
+        "longitude": 123.87715,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

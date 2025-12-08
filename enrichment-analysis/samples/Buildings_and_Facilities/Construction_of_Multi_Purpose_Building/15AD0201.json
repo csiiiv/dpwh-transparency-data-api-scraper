@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "15AD0201",
+    "description": "CONSTRUCTION/REHAB/IMPRVT OF MPB, BARINGCUCURONG,SUYO,ILOCOS SUR",
+    "category": "Buildings and Facilities",
+    "status": "Completed",
+    "budget": 963063.75,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region I",
+      "province": "Ilocos Sur 2nd DEO",
+      "infraType": "Buildings and Facilities",
+      "coordinates": {
+        "latitude": 16.96555556,
+        "longitude": 120.4696667,
+        "verified": false
+      }
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "J.A. OLIVAR ENGINEERING DESIGN, CONSTRUCTION AND S (35602)",
+    "startDate": "2016-03-23",
+    "completionDate": "2016-07-06",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-03-23",
+    "expiryDate": "2016-06-20",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 Locally Funded Projects",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00051514LZ-CW1",
+        "description": "Construction of Multi Purpose Building - Construction/Rehabilitation/Improvement of Multi Purpose Building, Bgy. Baringcucurong, Suyo, Ilocos Sur 2nd LD",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of Multi Purpose Building",
+        "region": "Region I",
+        "province": "ILOCOS SUR",
+        "coordinates": {
+          "latitude": 16.96555556,
+          "longitude": 120.4696667,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "J.A. OLIVAR ENGINEERING DESIGN, CONSTRUCTION AND S",
+    "bidders": [
+      {
+        "name": "J.A. OLIVAR ENGINEERING DESIGN, CONSTRUCTION AND S (35602)",
+        "pcabId": "35602",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "E.E. MADAYAG CONSTRUCTION (25029)",
+        "pcabId": "25029",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION/REHAB/IMPRVT OF MPB, BARINGCUCURONG,SUYO,ILOCOS SUR",
+      "abc": "1000000.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-01-15 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-02-24 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "963830.7700000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/june/16AD0201 CA078.pdf",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/june/16AD0201 NOA077.pdf",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/june/16AD0201 CA078.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 16.96555556,
+    "longitude": 120.4696667,
+    "coordinates": [
+      {
+        "componentId": "P00051514LZ-CW1",
+        "description": "Construction of Multi Purpose Building - Construction/Rehabilitation/Improvement of Multi Purpose Building, Bgy. Baringcucurong, Suyo, Ilocos Sur 2nd LD",
+        "latitude": 16.96555556,
+        "longitude": 120.4696667,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

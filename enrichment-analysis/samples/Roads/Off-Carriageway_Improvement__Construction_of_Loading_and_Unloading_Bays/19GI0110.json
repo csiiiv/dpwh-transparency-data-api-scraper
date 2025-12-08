@@ -1,0 +1,151 @@
+{
+  "data": {
+    "contractId": "19GI0110",
+    "description": "IMPROVEMENT OF ROAD - SEN. BENIGNO AQUINO, JR. AVENUE, K0009+571 - K0011+993, PAVIA, ILOILO",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 24499432.6,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region VI",
+      "province": "Iloilo 4th DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 10.7973118,
+        "longitude": 122.5336387,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "A.D. PENDON CONSTRUCTION & SUPPLY, INC. (FORMERLY: ADP CONSTRUCTION & SUPPLY) (3466)",
+    "startDate": "2019-09-04",
+    "completionDate": "2020-01-20",
+    "infraYear": "2019",
+    "contractEffectivityDate": "2019-09-04",
+    "expiryDate": "2020-01-20",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2019 LP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00353608VS-CW1",
+        "description": "Off-Carriageway Improvement: Construction of Loading and Unloading Bays - Improvement of Road - Sen. Benigno Aquino, Jr. Avenue, K0009+571 - K0011+993, Pavia, Iloilo",
+        "infraType": "Roads",
+        "typeOfWork": "Off-Carriageway Improvement: Construction of Loading and Unloading Bays",
+        "region": "Region VI",
+        "province": "ILOILO",
+        "coordinates": {
+          "latitude": 10.7973118,
+          "longitude": 122.5336387,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "A.D. PENDON CONSTRUCTION & SUPPLY, INC. (FORMERLY: ADP CONSTRUCTION & SUPPLY)",
+    "bidders": [
+      {
+        "name": "A.D. PENDON CONSTRUCTION & SUPPLY, INC. (FORMERLY: ADP CONSTRUCTION & SUPPLY) (3466)",
+        "pcabId": "3466",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "1 BEATUS BUILDERS CORP. (43709)",
+        "pcabId": "43709",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "ALLENCON DEVELOPMENT CORPORATION (12302)",
+        "pcabId": "12302",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "DALANON CONSTRUCTION CORPORATION (FORMERLY:DALANON CONSTRUCTION REF. SUPPLY & SERVICE) (11205)",
+        "pcabId": "11205",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "GOLDEN ROADRUNNER INTERNATIONAL CORP. (10177)",
+        "pcabId": "10177",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "G. UY CONSTRUCTION (27999)",
+        "pcabId": "27999",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "JUAN TONG & SONS BUILDER CORPORATION (38821)",
+        "pcabId": "38821",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "M.G. SALAZAR CONSTRUCTION CORP. (FOR. M.G. SALAZAR (4072)",
+        "pcabId": "4072",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "VANNIE CONSTRUCTION  AND SUPPLY (FORMERLY: VANNIE (27335)",
+        "pcabId": "27335",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "WOODLAND CONSTRUCTION & SUPPLY, INC. (33522)",
+        "pcabId": "33522",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "IMPROVEMENT OF ROAD - SEN. BENIGNO AQUINO, JR. AVENUE, K0009+571 - K0011+993, PAVIA, ILOILO",
+      "abc": "24500000.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2019-07-24 00:00:00.0000000",
+      "bidSubmissionDeadline": "2019-08-13 00:00:00.0000000",
+      "dateOfAward": "2019-08-20 00:00:00.0000000",
+      "awardAmount": "23239959.42"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/19GI0110 - for Advertisement.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/19gi0110_-_contract.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/19gi0110_-_noa.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/19gi0110_-_nt_p.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 10.7973118,
+    "longitude": 122.5336387,
+    "coordinates": [
+      {
+        "componentId": "P00353608VS-CW1",
+        "description": "Off-Carriageway Improvement: Construction of Loading and Unloading Bays - Improvement of Road - Sen. Benigno Aquino, Jr. Avenue, K0009+571 - K0011+993, Pavia, Iloilo",
+        "latitude": 10.7973118,
+        "longitude": 122.5336387,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

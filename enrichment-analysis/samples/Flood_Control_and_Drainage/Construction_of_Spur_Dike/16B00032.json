@@ -1,0 +1,79 @@
+{
+  "data": {
+    "contractId": "16B00032",
+    "description": "MFO - FLOOD MANAGEMENT SERVICES: CONSTRUCTION / REHABILITATION OF FLOOD MITIGATION FACILITIES ALONG MAJOR RIVER BASINS AND PRINCIPAL RIVER - CAGAYAN RIVER BASINS - CONSTRUCTION OF BALAGAN FLOOD CONTROL PROJECT ALONG CAGAYAN RIVER, BALAGAN, STO NIÑO, CAGAY",
+    "category": "Flood Control and Drainage",
+    "status": "Terminated",
+    "budget": 3497232.3,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region II",
+      "province": "Region II",
+      "infraType": "Flood Control and Drainage",
+      "coordinates": null
+    },
+    "infraType": "Flood Control and Drainage",
+    "contractor": "NORTH TECH BUILDERS AND CONSTRUCTION SUPPLY (37062) / EGB CONSTRUCTION CORPORATION (FORMERLY: EGB CONSTRUCTION) (13722)",
+    "startDate": "2016-06-12",
+    "completionDate": "2016-12-28",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-06-12",
+    "expiryDate": "2016-10-21",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-2",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00022670LZ-CW1",
+        "description": "Construction of Spur Dike - Construction of Balagan Flood Control Project along Cagayan River, Balagan, Sto. Ni±o, Cagayan",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Construction of Spur Dike",
+        "region": "Region II",
+        "province": "CAGAYAN",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "EGB CONSTRUCTION CORPORATION (FORMERLY: EGB CONSTRUCTION), NORTH TECH BUILDERS AND CONSTRUCTION SUPPLY",
+    "bidders": [
+      {
+        "name": "EGB CONSTRUCTION CORPORATION (FORMERLY: EGB CONSTRUCTION) (13722) / NORTH TECH BUILDERS AND CONSTRUCTION SUPPLY (37062) (JV ID: JV-15-1717)",
+        "pcabId": "",
+        "participation": 100,
+        "isWinner": true
+      }
+    ],
+    "procurement": {
+      "contractName": "MFO - FLOOD MANAGEMENT SERVICES: CONSTRUCTION / REHABILITATION OF FLOOD MITIGATION FACILITIES ALONG MAJOR RIVER BASINS AND PRINCIPAL RIVER - CAGAYAN RIVER BASINS - CONSTRUCTION OF BALAGAN FLOOD CONTROL PROJECT ALONG CAGAYAN RIVER, BALAGAN, STO NIÑO, CAGAY",
+      "abc": "24205520.73",
+      "status": "T",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-04-05 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-04-25 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "23307923.85"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/july/16b00032-Cont.agreemnt.pdf",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/july/16b00032-Noa.pdf",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/july/16b00032-Cont.agreemnt.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

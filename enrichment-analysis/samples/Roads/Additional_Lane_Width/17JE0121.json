@@ -1,0 +1,97 @@
+{
+  "data": {
+    "contractId": "17JE0121",
+    "description": "ADDITIONAL PAVEMENT WIDTH AT PAGADIAN-ZAMBOANGA CITY ROAD K1664+000 - K1666+350, PAGADIAN CITY, ZAMBOANGA DEL SUR",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 18718077.48,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region IX",
+      "province": "Zamboanga del Sur 1st DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 7.83914920429014,
+        "longitude": 123.454082440377,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "ZMS CONST. & DEV. CORP. (FORMERLY:ZMS CONSTRUCTION (10471)",
+    "startDate": "2018-01-26",
+    "completionDate": "2018-06-08",
+    "infraYear": "2017",
+    "contractEffectivityDate": "2018-01-26",
+    "expiryDate": "2018-05-11",
+    "nysReason": null,
+    "programName": "Outside Infra",
+    "sourceOfFunds": "Outside Infra - Special Road Support Fund 2017",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00190243MN-CW1",
+        "description": "Additional Lane Width - Additional Pavement Width along Pagadian-Zamboanga City Road, K1664+000 to K1666+350",
+        "infraType": "Roads",
+        "typeOfWork": "Additional Lane Width",
+        "region": "Region IX",
+        "province": "ZAMBOANGA DEL SUR",
+        "coordinates": {
+          "latitude": 7.83914920429014,
+          "longitude": 123.454082440377,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "ZMS CONST. & DEV. CORP. (FORMERLY:ZMS CONSTRUCTION",
+    "bidders": [
+      {
+        "name": "ZMS CONST. & DEV. CORP. (FORMERLY:ZMS CONSTRUCTION (10471)",
+        "pcabId": "10471",
+        "participation": 100,
+        "isWinner": true
+      }
+    ],
+    "procurement": {
+      "contractName": "ADDITIONAL PAVEMENT WIDTH AT PAGADIAN-ZAMBOANGA CITY ROAD K1664+000 - K1666+350, PAGADIAN CITY, ZAMBOANGA DEL SUR",
+      "abc": "19600000.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2017-11-29 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-12-14 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "18718077.48"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/17JE0121.pdf",
+      "contractAgreement": "",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/17je0121_award.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/17je0121ntp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 7.83914920429014,
+    "longitude": 123.454082440377,
+    "coordinates": [
+      {
+        "componentId": "P00190243MN-CW1",
+        "description": "Additional Lane Width - Additional Pavement Width along Pagadian-Zamboanga City Road, K1664+000 to K1666+350",
+        "latitude": 7.83914920429014,
+        "longitude": 123.454082440377,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

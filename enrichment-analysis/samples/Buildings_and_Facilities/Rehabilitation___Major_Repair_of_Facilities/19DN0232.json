@@ -1,0 +1,115 @@
+{
+  "data": {
+    "contractId": "19DN0232",
+    "description": "REHABILITATION OF BINANGONAN PUBLIC MARKET, LIBID BINANGONAN, RIZAL",
+    "category": "Buildings and Facilities",
+    "status": "Completed",
+    "budget": 14477075.38,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region IV-A",
+      "province": "Rizal 1st DEO",
+      "infraType": "Buildings and Facilities",
+      "coordinates": {
+        "latitude": 14.4632061,
+        "longitude": 121.1930533,
+        "verified": false
+      }
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "FRANZCOR TRADING & CONSTRUCTION (18082)",
+    "startDate": "2020-08-28",
+    "completionDate": "2021-02-23",
+    "infraYear": "2019",
+    "contractEffectivityDate": "2020-08-28",
+    "expiryDate": "2021-02-23",
+    "nysReason": null,
+    "programName": "Outside Infra",
+    "sourceOfFunds": "Outside Infra - GAA 2019 DILG Funds",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00391548LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Facilities - Rehabilitation of Binangonan Public Market, Libid, Binangonan, Rizal",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Rehabilitation / Major Repair of Facilities",
+        "region": "Region IV-A",
+        "province": "RIZAL",
+        "coordinates": {
+          "latitude": 14.4632061,
+          "longitude": 121.1930533,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "FRANZCOR TRADING & CONSTRUCTION",
+    "bidders": [
+      {
+        "name": "FRANZCOR TRADING & CONSTRUCTION (18082)",
+        "pcabId": "18082",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "AYANA CONSTRUCTION AND TRADING (38623)",
+        "pcabId": "38623",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "JAICA CONST. CORP (44541)",
+        "pcabId": "44541",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "STO. CRISTO CONSTRUCTION & TRADING INC. (FOR: STO. CRISTO CONSTRUCTION & TRADING) (26096)",
+        "pcabId": "26096",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "REHABILITATION OF BINANGONAN PUBLIC MARKET, LIBID BINANGONAN, RIZAL",
+      "abc": "14925000.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2020-07-29 00:00:00.0000000",
+      "bidSubmissionDeadline": "2020-08-18 00:00:00.0000000",
+      "dateOfAward": "2020-08-25 00:00:00.0000000",
+      "awardAmount": "14477075.38"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/Bid Docs & Plans for 19DN0232.zip",
+      "contractAgreement": "",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/19dn0232_n.o.a.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/19dn0232.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 14.4632061,
+    "longitude": 121.1930533,
+    "coordinates": [
+      {
+        "componentId": "P00391548LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Facilities - Rehabilitation of Binangonan Public Market, Libid, Binangonan, Rizal",
+        "latitude": 14.4632061,
+        "longitude": 121.1930533,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

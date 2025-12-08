@@ -1,0 +1,109 @@
+{
+  "data": {
+    "contractId": "16BE0161",
+    "description": "BALASIG BIRTHING CENTER, CABAGAN, ISABELA (UPGRADING OF EXISTING FACILITY) CABAGAN, ISABELA",
+    "category": "Buildings and Facilities",
+    "status": "Completed",
+    "budget": 963871.19,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region II",
+      "province": "Isabela 1st DEO",
+      "infraType": "Buildings and Facilities",
+      "coordinates": {
+        "latitude": 17.37212347,
+        "longitude": 121.82113565,
+        "verified": false
+      }
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "FRAGERR CONSTRUCTION (12722)",
+    "startDate": "2017-01-04",
+    "completionDate": "2017-03-04",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2017-01-04",
+    "expiryDate": "2017-03-04",
+    "nysReason": null,
+    "programName": "Outside Infra",
+    "sourceOfFunds": "Outside Infra - GAA 2016 DOH HFEP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00061220LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Hospital - Upgrading of existing facility, Balasig Birthing Center, Cabagan Isabela, Cabagan, Isabela",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Rehabilitation / Major Repair of Hospital",
+        "region": "Region II",
+        "province": "ISABELA",
+        "coordinates": {
+          "latitude": 17.37212347,
+          "longitude": 121.82113565,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "FRAGERR CONSTRUCTION",
+    "bidders": [
+      {
+        "name": "FRAGERR CONSTRUCTION (12722)",
+        "pcabId": "12722",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "969 CONSTRUCTION & SUPPLIES (35818)",
+        "pcabId": "35818",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "M.C. TAGUBA CONSTRUCTION (39178)",
+        "pcabId": "39178",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "BALASIG BIRTHING CENTER, CABAGAN, ISABELA (UPGRADING OF EXISTING FACILITY) CABAGAN, ISABELA",
+      "abc": "989926.99",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-11-25 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-12-08 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "963,871.19"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/16be0161_contract_of_agreement.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/16be0161_noa.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/16be0161_notice_to_proceed.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 17.37212347,
+    "longitude": 121.82113565,
+    "coordinates": [
+      {
+        "componentId": "P00061220LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Hospital - Upgrading of existing facility, Balasig Birthing Center, Cabagan Isabela, Cabagan, Isabela",
+        "latitude": 17.37212347,
+        "longitude": 121.82113565,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

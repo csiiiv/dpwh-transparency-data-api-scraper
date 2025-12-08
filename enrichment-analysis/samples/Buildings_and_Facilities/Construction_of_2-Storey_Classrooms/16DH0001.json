@@ -1,0 +1,97 @@
+{
+  "data": {
+    "contractId": "16DH0001",
+    "description": "CONSTRUCTION OF TWO (2) STOREY, FOUR (4) SCHOOL BUILDING AT LAGUNA STATE POLYTECHNIC UNIVERSITY, BRGY. BUBUKAL, STA. CRUZ, LAGUNA",
+    "category": "Buildings and Facilities",
+    "status": "Completed",
+    "budget": 6287046.66,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region IV-A",
+      "province": "Laguna 1st DEO",
+      "infraType": "Buildings and Facilities",
+      "coordinates": null
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "DSO ENTERPRISES (10733)",
+    "startDate": "2016-03-06",
+    "completionDate": "2016-08-02",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-03-06",
+    "expiryDate": "2016-08-02",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 Locally Funded Projects",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00040137LZ-CW1",
+        "description": "Construction of 2-Storey Classrooms - Construction of 2sty, 4cl at Laguna State Polytechnic University - Bubukal, Sta. Cruz , Laguna 4th LD",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of 2-Storey Classrooms",
+        "region": "Region IV-A",
+        "province": "LAGUNA",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "DSO ENTERPRISES",
+    "bidders": [
+      {
+        "name": "DSO ENTERPRISES (10733)",
+        "pcabId": "10733",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "DMLC BUILDERS (36650)",
+        "pcabId": "36650",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "MAR-VEL CONSTRUCTION & SUPPLY (23722)",
+        "pcabId": "23722",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "R'CEL GENERAL CONTRACTOR & GEN  MERCHANDISE (13385)",
+        "pcabId": "13385",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION OF TWO (2) STOREY, FOUR (4) SCHOOL BUILDING AT LAGUNA STATE POLYTECHNIC UNIVERSITY, BRGY. BUBUKAL, STA. CRUZ, LAGUNA",
+      "abc": "6484500.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-01-07 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-01-29 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "6287046.66"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/april/contract 16 DH0001.zip",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/april/Award 16DH0001001.pdf",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/ntp/16/april/NTP 16DH0001001.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "25OE0184",
+    "description": "RETROFFITING OF SCHOOL BUILDING AT LEGARDA ELEMENTARY SCHOOL, MANILA",
+    "category": "Buildings and Facilities",
+    "status": "On-Going",
+    "budget": 145677825.87,
+    "amountPaid": 0,
+    "progress": 5.83,
+    "location": {
+      "region": "National Capital Region",
+      "province": "North Manila DEO",
+      "infraType": "Buildings and Facilities",
+      "coordinates": {
+        "latitude": 14.612247,
+        "longitude": 120.998695,
+        "verified": false
+      }
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "JELSIE CONSTRUCTION & SUPPLY (44943)",
+    "startDate": "2025-06-11",
+    "completionDate": null,
+    "infraYear": "2025",
+    "contractEffectivityDate": "2025-06-11",
+    "expiryDate": "2026-02-19",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2025 SSP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00950016LZ-CW1",
+        "description": "Retrofitting / Strengthening of Building - Retroffiting of School Building at Legarda Elementary School, Manila",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Retrofitting / Strengthening of Building",
+        "region": "National Capital Region",
+        "province": "METROPOLITAN MANILA",
+        "coordinates": {
+          "latitude": 14.612247,
+          "longitude": 120.998695,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "JELSIE CONSTRUCTION & SUPPLY",
+    "bidders": [
+      {
+        "name": "JELSIE CONSTRUCTION & SUPPLY (44943)",
+        "pcabId": "44943",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "1024 CONSTRUCTION & DEVELOPMENT CORPORATION (46618)",
+        "pcabId": "46618",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "RETROFFITING OF SCHOOL BUILDING AT LEGARDA ELEMENTARY SCHOOL, MANILA",
+      "abc": "148499466.61",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2025-01-07 00:00:00.0000000",
+      "bidSubmissionDeadline": "2025-01-27 00:00:00.0000000",
+      "dateOfAward": "2025-06-03 00:00:00.0000000",
+      "awardAmount": "145677825.9"
+    },
+    "links": {
+      "advertisement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/advertisement/25oe0184.pdf",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/25oe0184_contract.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/noa-reso_-_184.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/25oe0184_ntp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 14.612247,
+    "longitude": 120.998695,
+    "coordinates": [
+      {
+        "componentId": "P00950016LZ-CW1",
+        "description": "Retrofitting / Strengthening of Building - Retroffiting of School Building at Legarda Elementary School, Manila",
+        "latitude": 14.612247,
+        "longitude": 120.998695,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 2,
+      "latestImageDate": "2025-07-28 00:29:00.092999",
+      "hasImages": true
+    }
+  }
+}

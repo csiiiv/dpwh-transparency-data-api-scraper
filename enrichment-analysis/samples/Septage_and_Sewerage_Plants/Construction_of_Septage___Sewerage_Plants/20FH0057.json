@@ -1,0 +1,109 @@
+{
+  "data": {
+    "contractId": "20FH0057",
+    "description": "FLOOD CONTROL & DRAINAGE-FLOOD CONTROL STRUCTURES/FACILITIES-CONSTRUCTION OF SEWAGW TREATMENT FACILITIES, VIRAC, CATANDUANES",
+    "category": "Septage and Sewerage Plants",
+    "status": "Completed",
+    "budget": 31501987.41,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region V",
+      "province": "Catanduanes DEO",
+      "infraType": "Septage and Sewerage Plants",
+      "coordinates": {
+        "latitude": 13.5730806,
+        "longitude": 124.1915881,
+        "verified": false
+      }
+    },
+    "infraType": "Septage and Sewerage Plants",
+    "contractor": "ALXM CONSTRUCTION & DEV'T. CORP. (FORMERLY:ALXM CONSTRUCTION) (33436)",
+    "startDate": "2020-05-28",
+    "completionDate": "2021-02-19",
+    "infraYear": "2020",
+    "contractEffectivityDate": "2020-05-28",
+    "expiryDate": "2021-02-19",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2020 LP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00444675LZ-CW1",
+        "description": "Construction of Septage / Sewerage Plants - Construction of Sewage Treatment Facilities, Virac, Catanduanes",
+        "infraType": "Septage and Sewerage Plants",
+        "typeOfWork": "Construction of Septage / Sewerage Plants",
+        "region": "Region V",
+        "province": "CATANDUANES",
+        "coordinates": {
+          "latitude": 13.5730806,
+          "longitude": 124.1915881,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "ALXM CONSTRUCTION & DEV'T. CORP. (FORMERLY:ALXM CONSTRUCTION)",
+    "bidders": [
+      {
+        "name": "ALXM CONSTRUCTION & DEV'T. CORP. (FORMERLY:ALXM CONSTRUCTION) (33436)",
+        "pcabId": "33436",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "A.V. LAYNES TRADING AND CONSTRUCTION (42583)",
+        "pcabId": "42583",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "M.J. APIN BUILDERS (12179)",
+        "pcabId": "12179",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "FLOOD CONTROL & DRAINAGE-FLOOD CONTROL STRUCTURES/FACILITIES-CONSTRUCTION OF SEWAGW TREATMENT FACILITIES, VIRAC, CATANDUANES",
+      "abc": "31503274.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2020-02-12 00:00:00.0000000",
+      "bidSubmissionDeadline": "2020-03-05 00:00:00.0000000",
+      "dateOfAward": "2020-05-11 00:00:00.0000000",
+      "awardAmount": "30559435.41"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/B20FH0057.pdf",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/20FH0057 - contract.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/20FH0057 - noa.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/20FH0057 - contract.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 13.5730806,
+    "longitude": 124.1915881,
+    "coordinates": [
+      {
+        "componentId": "P00444675LZ-CW1",
+        "description": "Construction of Septage / Sewerage Plants - Construction of Sewage Treatment Facilities, Virac, Catanduanes",
+        "latitude": 13.5730806,
+        "longitude": 124.1915881,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 4,
+      "latestImageDate": "2022-07-31 07:57:27.834000",
+      "hasImages": true
+    }
+  }
+}

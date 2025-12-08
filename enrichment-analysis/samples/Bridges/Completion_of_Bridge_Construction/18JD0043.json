@@ -1,0 +1,97 @@
+{
+  "data": {
+    "contractId": "18JD0043",
+    "description": "REPLACEMENT OF PERMANENT WEAK BRIDGES-CONCRETE PAVING OF BRIDGE APPROACHES BAGO BRIDGE (BO1827MN) ALONG RIZAL-DAKAK-DAPITAN COASTAL LOOP ROAD, ZN",
+    "category": "Bridges",
+    "status": "Completed",
+    "budget": 3563759,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region IX",
+      "province": "Zamboanga del Norte 1st DEO",
+      "infraType": "Bridges",
+      "coordinates": {
+        "latitude": 8.6825876,
+        "longitude": 123.4537124,
+        "verified": false
+      }
+    },
+    "infraType": "Bridges",
+    "contractor": "MONTPHIL CONSTRUCTION CORPORATION (24285)",
+    "startDate": "2018-03-23",
+    "completionDate": "2018-05-04",
+    "infraYear": "2018",
+    "contractEffectivityDate": "2018-03-23",
+    "expiryDate": "2018-05-04",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2018 OO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00200905MN-CW1",
+        "description": "Completion of Bridge Construction - Bago Br. (B01827MN) along Rizal-Dakak-Dapitan Coastal Loop Rd",
+        "infraType": "Bridges",
+        "typeOfWork": "Completion of Bridge Construction",
+        "region": "Region IX",
+        "province": "ZAMBOANGA DEL NORTE",
+        "coordinates": {
+          "latitude": 8.6825876,
+          "longitude": 123.4537124,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "MONTPHIL CONSTRUCTION CORPORATION",
+    "bidders": [
+      {
+        "name": "MONTPHIL CONSTRUCTION CORPORATION (24285)",
+        "pcabId": "24285",
+        "participation": 100,
+        "isWinner": true
+      }
+    ],
+    "procurement": {
+      "contractName": "REPLACEMENT OF PERMANENT WEAK BRIDGES-CONCRETE PAVING OF BRIDGE APPROACHES BAGO BRIDGE (BO1827MN) ALONG RIZAL-DAKAK-DAPITAN COASTAL LOOP ROAD, ZN",
+      "abc": "3675000.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2017-09-29 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-11-03 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "3,563,759.00"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/18JD0043.pdf",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/CA.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/NOA.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/CA.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 8.6825876,
+    "longitude": 123.4537124,
+    "coordinates": [
+      {
+        "componentId": "P00200905MN-CW1",
+        "description": "Completion of Bridge Construction - Bago Br. (B01827MN) along Rizal-Dakak-Dapitan Coastal Loop Rd",
+        "latitude": 8.6825876,
+        "longitude": 123.4537124,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "data": {
+    "contractId": "17OB0083",
+    "description": "CONSTRUCTION OF LOADING AND UNLOADING BAY ALONG MARCOS HIGHWAY, MARIKINA CITY",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 3663100.56,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "National Capital Region",
+      "province": "Metro Manila 1st DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 14.6213895965054,
+        "longitude": 121.104995032059,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "JAGONBUILD CONSTRUCTION CORP. (FOR. JAGON BUILDERS (24748)",
+    "startDate": "2017-04-04",
+    "completionDate": "2017-06-02",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2017-04-04",
+    "expiryDate": "2017-06-02",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00017192LZ-CW1",
+        "description": "Off-Carriageway Improvement: Construction of Loading and Unloading Bays - Construction of Loading and Unloading Bay along Marcos Highway, Marikina City",
+        "infraType": "Roads",
+        "typeOfWork": "Off-Carriageway Improvement: Construction of Loading and Unloading Bays",
+        "region": "National Capital Region",
+        "province": "METROPOLITAN MANILA",
+        "coordinates": {
+          "latitude": 14.6213895965054,
+          "longitude": 121.104995032059,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "JAGONBUILD CONSTRUCTION CORP. (FOR. JAGON BUILDERS",
+    "bidders": [
+      {
+        "name": "JAGONBUILD CONSTRUCTION CORP. (FOR. JAGON BUILDERS (24748)",
+        "pcabId": "24748",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "ANNASOR CONSTRUCTION AND TRADING (30825)",
+        "pcabId": "30825",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "ELARALOUIS BUILDERS SUPPLY & SERVICES (35928)",
+        "pcabId": "35928",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "LVRO CONSTRUCTION & SUPPLY (18116)",
+        "pcabId": "18116",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "TWO DIMENSION CONSTRUCTION (39410)",
+        "pcabId": "39410",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION OF LOADING AND UNLOADING BAY ALONG MARCOS HIGHWAY, MARIKINA CITY",
+      "abc": "3859931.40",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-12-21 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-01-10 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "3,663,100.56"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/boq-017OB0083-1.pdf",
+      "contractAgreement": "",
+      "noticeOfAward": "",
+      "noticeToProceed": "",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 14.6213895965054,
+    "longitude": 121.104995032059,
+    "coordinates": [
+      {
+        "componentId": "P00017192LZ-CW1",
+        "description": "Off-Carriageway Improvement: Construction of Loading and Unloading Bays - Construction of Loading and Unloading Bay along Marcos Highway, Marikina City",
+        "latitude": 14.6213895965054,
+        "longitude": 121.104995032059,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

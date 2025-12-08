@@ -1,0 +1,97 @@
+{
+  "data": {
+    "contractId": "21NH0090",
+    "description": "INSTALLATION OF ROAD SAFETY DEVICES (ROLLER BARRIER) ALONG SDCR AT CALAGDAAN SECTION, CANTILAN, SURIGAO DEL SUR",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 18914915.41,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region XIII",
+      "province": "Surigao del Sur 1st DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 9.2957167,
+        "longitude": 125.948485,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "PHILIPPINE CHEMSTEEL INDUSTRIES, INC. (16965)",
+    "startDate": "2021-12-14",
+    "completionDate": "2022-03-20",
+    "infraYear": "2021",
+    "contractEffectivityDate": "2021-12-14",
+    "expiryDate": "2022-04-12",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2021 CSSP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00533130MN-CW1",
+        "description": "Road Safety: Guardrails (Old) - Installation of Road Safety Devices (Roller Barrier) along SDCR at Calagdaan Section, Cantillan, Surigao del Sur",
+        "infraType": "Roads",
+        "typeOfWork": "Road Safety: Guardrails (Old)",
+        "region": "Region XIII",
+        "province": "SURIGAO DEL SUR",
+        "coordinates": {
+          "latitude": 9.2957167,
+          "longitude": 125.948485,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "PHILIPPINE CHEMSTEEL INDUSTRIES, INC.",
+    "bidders": [
+      {
+        "name": "PHILIPPINE CHEMSTEEL INDUSTRIES, INC. (16965)",
+        "pcabId": "16965",
+        "participation": 100,
+        "isWinner": true
+      }
+    ],
+    "procurement": {
+      "contractName": "INSTALLATION OF ROAD SAFETY DEVICES (ROLLER BARRIER) ALONG SDCR AT CALAGDAAN SECTION, CANTILAN, SURIGAO DEL SUR",
+      "abc": "19300000.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2021-10-15 00:00:00.0000000",
+      "bidSubmissionDeadline": "2021-11-03 00:00:00.0000000",
+      "dateOfAward": "2021-11-15 00:00:00.0000000",
+      "awardAmount": "18914915.41"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/21NH090 Bidding Documents.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/approved contract21NH0090.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/img20211214_09512105.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/approved contract21NH0090.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 9.2957167,
+    "longitude": 125.948485,
+    "coordinates": [
+      {
+        "componentId": "P00533130MN-CW1",
+        "description": "Road Safety: Guardrails (Old) - Installation of Road Safety Devices (Roller Barrier) along SDCR at Calagdaan Section, Cantillan, Surigao del Sur",
+        "latitude": 9.2957167,
+        "longitude": 125.948485,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 7,
+      "latestImageDate": "2022-06-28 07:56:21.980000",
+      "hasImages": true
+    }
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "data": {
+    "contractId": "19GJ0241",
+    "description": "CONSTRUCTION OF FLYOVER - CONSTRUCTION BUHANG FLYOVER, BARANGAY BUHANG, JARO, ILOILO CITY",
+    "category": "Bridges",
+    "status": "Completed",
+    "budget": 76825000,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region VI",
+      "province": "Iloilo City DEO",
+      "infraType": "Bridges",
+      "coordinates": {
+        "latitude": 10.7500121,
+        "longitude": 122.5693825,
+        "verified": false
+      }
+    },
+    "infraType": "Bridges",
+    "contractor": "F. GURREA CONSTRUCTION, INCORPORATED (6995)",
+    "startDate": "2020-01-13",
+    "completionDate": "2021-03-24",
+    "infraYear": "2019",
+    "contractEffectivityDate": "2020-01-13",
+    "expiryDate": "2020-11-24",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2019 LP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00355835VS-CW1",
+        "description": "Construction of Flyover - Construction Buhang Flyover, Barangay Buhang, Jaro, Iloilo City",
+        "infraType": "Bridges",
+        "typeOfWork": "Construction of Flyover",
+        "region": "Region VI",
+        "province": "ILOILO",
+        "coordinates": {
+          "latitude": 10.7500121,
+          "longitude": 122.5693825,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "F. GURREA CONSTRUCTION, INCORPORATED",
+    "bidders": [
+      {
+        "name": "F. GURREA CONSTRUCTION, INCORPORATED (6995)",
+        "pcabId": "6995",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "A.M. ORETA & CO., INC. (108) / ALLENCON DEVELOPMENT CORPORATION (12302) (JV ID: JV-19-1078)",
+        "pcabId": "",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "A.D. PENDON CONSTRUCTION & SUPPLY, INC. (FORMERLY: ADP CONSTRUCTION & SUPPLY) (3466)",
+        "pcabId": "3466",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "IBC INTERNATIONAL BUILDERS CORPORATION (8576)",
+        "pcabId": "8576",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "M.G. SALAZAR CONSTRUCTION CORP. (FOR. M.G. SALAZAR (4072)",
+        "pcabId": "4072",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "SUPREME ABF CONST. & CONST. SUPPLY COMPANY INC. (25226)",
+        "pcabId": "25226",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "UNITEC BUILDER, INCORPORATED (4803)",
+        "pcabId": "4803",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION OF FLYOVER - CONSTRUCTION BUHANG FLYOVER, BARANGAY BUHANG, JARO, ILOILO CITY",
+      "abc": "79200000.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2019-11-29 00:00:00.0000000",
+      "bidSubmissionDeadline": "2019-12-19 00:00:00.0000000",
+      "dateOfAward": "2019-12-26 00:00:00.0000000",
+      "awardAmount": "76825000"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/a. ITB 19GJ0241 (3 files merged).pdf",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/NTP 19GJ0241 002.zip",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/NOA 19GJ0241 001.zip",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/NTP 19GJ0241 001.jpg",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 10.7500121,
+    "longitude": 122.5693825,
+    "coordinates": [
+      {
+        "componentId": "P00355835VS-CW1",
+        "description": "Construction of Flyover - Construction Buhang Flyover, Barangay Buhang, Jaro, Iloilo City",
+        "latitude": 10.7500121,
+        "longitude": 122.5693825,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

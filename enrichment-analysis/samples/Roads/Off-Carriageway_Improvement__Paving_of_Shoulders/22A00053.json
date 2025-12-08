@@ -1,0 +1,115 @@
+{
+  "data": {
+    "contractId": "22A00053",
+    "description": "CONSTRUCTION OF BYPASS AND DIVERSION ROADS, BANTAY - VIGAN DIVERSION ROAD, BANTAY - VIGAN, ILOCOS SUR",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 32599982.36,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region I",
+      "province": "Region I",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 17.5767547,
+        "longitude": 120.3958814,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "SATRAP CONSTRUCTION CO., INC. (02526)",
+    "startDate": "2022-03-01",
+    "completionDate": "2022-07-18",
+    "infraYear": "2022",
+    "contractEffectivityDate": "2022-03-01",
+    "expiryDate": "2022-07-18",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2022 OO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00608711LZ-CW1",
+        "description": "Off-Carriageway Improvement: Paving of Shoulders - Bantay-Vigan Diversion Road, Bantay-Vigan, Ilocos Sur",
+        "infraType": "Roads",
+        "typeOfWork": "Off-Carriageway Improvement: Paving of Shoulders",
+        "region": "Region I",
+        "province": "ILOCOS SUR",
+        "coordinates": {
+          "latitude": 17.5767547,
+          "longitude": 120.3958814,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "SATRAP CONSTRUCTION CO., INC.",
+    "bidders": [
+      {
+        "name": "SATRAP CONSTRUCTION CO., INC. (02526)",
+        "pcabId": "02526",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "JEMAK CONSTRUCTION & SUPPLY (32056)",
+        "pcabId": "32056",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "SATRAP CONSTRUCTION CO., INC. (2526)",
+        "pcabId": "2526",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "SYNDTITE CONSTRUCTION CORPORATION (FORMERLY: R.C. TAGALA CONSTRUCTION) (11597)",
+        "pcabId": "11597",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION OF BYPASS AND DIVERSION ROADS, BANTAY - VIGAN DIVERSION ROAD, BANTAY - VIGAN, ILOCOS SUR",
+      "abc": "32810000.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2021-12-16 00:00:00.0000000",
+      "bidSubmissionDeadline": "2022-01-18 00:00:00.0000000",
+      "dateOfAward": "2022-02-10 00:00:00.0000000",
+      "awardAmount": "31822247.46"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/22A00053 bidding documents.pdf",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/22A00053 COA.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/22A00053 NOA.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/22A00053 COA.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 17.5767547,
+    "longitude": 120.3958814,
+    "coordinates": [
+      {
+        "componentId": "P00608711LZ-CW1",
+        "description": "Off-Carriageway Improvement: Paving of Shoulders - Bantay-Vigan Diversion Road, Bantay-Vigan, Ilocos Sur",
+        "latitude": 17.5767547,
+        "longitude": 120.3958814,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 2,
+      "latestImageDate": "2023-04-18 08:07:46.533999",
+      "hasImages": true
+    }
+  }
+}

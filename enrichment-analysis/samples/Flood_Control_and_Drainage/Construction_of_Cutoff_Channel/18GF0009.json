@@ -1,0 +1,139 @@
+{
+  "data": {
+    "contractId": "18GF0009",
+    "description": "CONSTRUCTION OF CUT-OFF CHANNEL AND WATERWAY ALONG GUIMBAL RIVER, GUIMBAL, ILOILO (STATION 0+(-)030 - STATION 1+000)",
+    "category": "Flood Control and Drainage",
+    "status": "Completed",
+    "budget": 33527517.53,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region VI",
+      "province": "Iloilo 1st DEO",
+      "infraType": "Flood Control and Drainage",
+      "coordinates": {
+        "latitude": 10.6679617,
+        "longitude": 122.3167317,
+        "verified": false
+      }
+    },
+    "infraType": "Flood Control and Drainage",
+    "contractor": "IBC INTERNATIONAL BUILDERS CORPORATION (8576)",
+    "startDate": "2018-05-10",
+    "completionDate": "2019-02-01",
+    "infraYear": "2018",
+    "contractEffectivityDate": "2018-05-10",
+    "expiryDate": "2018-12-07",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2018 OO-2",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00223212VS-CW1",
+        "description": "Construction of Cutoff Channel - Construction of Cut-off Channel and Waterway along Guimbal River, Guimbal, Iloilo",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Construction of Cutoff Channel",
+        "region": "Region VI",
+        "province": "ILOILO",
+        "coordinates": {
+          "latitude": 10.6679617,
+          "longitude": 122.3167317,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "IBC INTERNATIONAL BUILDERS CORPORATION",
+    "bidders": [
+      {
+        "name": "IBC INTERNATIONAL BUILDERS CORPORATION (8576)",
+        "pcabId": "8576",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "C.S. RAYOS CONSTRUCTION & GENERAL SERVICES, INC. (9790)",
+        "pcabId": "9790",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "F. GURREA CONSTRUCTION, INCORPORATED (6995)",
+        "pcabId": "6995",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "GALENO CONSTRUCTION, INC. (3427)",
+        "pcabId": "3427",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "M.G. SALAZAR CONSTRUCTION CORP. (FOR. M.G. SALAZAR (4072)",
+        "pcabId": "4072",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "MONOLITHIC CONSTRUCTION & CONCRETE PRODUCTS, INC. (5733)",
+        "pcabId": "5733",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "PABLO S. LABASBAS CONSTRUCTION CORPORATION (FORMERLY: PABLOS. LABASBAS CONSTRUCTION CORPORATION) (6302)",
+        "pcabId": "6302",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "UNITEC BUILDER, INCORPORATED (4803)",
+        "pcabId": "4803",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION OF CUT-OFF CHANNEL AND WATERWAY ALONG GUIMBAL RIVER, GUIMBAL, ILOILO (STATION 0+(-)030 - STATION 1+000)",
+      "abc": "35280000.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2017-10-12 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-11-03 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "33527517.53"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/18GF0009 - Construction of Cut-Off Channel and Waterway along Guimbal River, Guimbal.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/18GF0009 - IBC - CONTRACT.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/18GF0009 - IBC - NOA.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/18GF0009 - IBC - CONTRACT.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 10.6679617,
+    "longitude": 122.3167317,
+    "coordinates": [
+      {
+        "componentId": "P00223212VS-CW1",
+        "description": "Construction of Cutoff Channel - Construction of Cut-off Channel and Waterway along Guimbal River, Guimbal, Iloilo",
+        "latitude": 10.6679617,
+        "longitude": 122.3167317,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

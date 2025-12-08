@@ -1,0 +1,91 @@
+{
+  "data": {
+    "contractId": "16DC0052",
+    "description": "LOCALLY-FUNDED PROJECTS, LOCAL INFRASTRUCTURE PROGRAM (LIP), ROADS AND BRIDGES, LOCAL ROADS, IMPROVE",
+    "category": "Buildings and Facilities",
+    "status": "Completed",
+    "budget": 961223.83,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region IV-A",
+      "province": "Batangas 3rd DEO",
+      "infraType": "Buildings and Facilities",
+      "coordinates": null
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "N.D.M. SANCHEZ BUILDERS & DEVELOPMENT CORPORATION (35410)",
+    "startDate": "2016-03-29",
+    "completionDate": "2016-05-27",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-03-29",
+    "expiryDate": "2016-05-27",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 Locally Funded Projects",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00045954LZ-CW1",
+        "description": "Construction of Accessibility Facility - Improvement of Road, Brgy. Aya, Talisay, Batangas",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of Accessibility Facility",
+        "region": "Region IV-A",
+        "province": "BATANGAS",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "N.D.M. SANCHEZ BUILDERS & DEVELOPMENT CORPORATION",
+    "bidders": [
+      {
+        "name": "N.D.M. SANCHEZ BUILDERS & DEVELOPMENT CORPORATION (35410)",
+        "pcabId": "35410",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "OIC CONZTRUCT AND SUPPLY CORPORATION(FORMERLY:OIC CONST.) (23727)",
+        "pcabId": "23727",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "TCJ CONSTRUCTION AND SUPPLY (36585)",
+        "pcabId": "36585",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "LOCALLY-FUNDED PROJECTS, LOCAL INFRASTRUCTURE PROGRAM (LIP), ROADS AND BRIDGES, LOCAL ROADS, IMPROVE",
+      "abc": "990000.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-02-23 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-03-15 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "961,223.83"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/16dc0052-contract.pdf",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/april/award_16DC0052.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/16dc0052-contract.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

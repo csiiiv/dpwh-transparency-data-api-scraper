@@ -1,0 +1,97 @@
+{
+  "data": {
+    "contractId": "19LA0029",
+    "description": "OFF-CARRIAGEWAY IMPROVEMENT: SHOULDER PAVING/ CONSTRUCTION ALONG DAANG MAHARLIKA (MN), COMPOSTELA VALLEY PROVINCE",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 12739980.91,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region XI",
+      "province": "Davao de Oro 1st DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 7.8397194,
+        "longitude": 126.0634363,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "DBR CONSTRUCTION CORPORATION (FORMERLY: D.B. RAVELO CONSTRUCTION & SUPPLY) (39402)",
+    "startDate": "2019-07-23",
+    "completionDate": "2019-12-25",
+    "infraYear": "2019",
+    "contractEffectivityDate": "2019-07-23",
+    "expiryDate": "2019-11-25",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2019 OO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00300131MN-CW1",
+        "description": "Off-Carriageway Improvement: Construction of Median/Center Island - Daang Maharlika (MN) - K1393 + 100 - K1394 + 400",
+        "infraType": "Roads",
+        "typeOfWork": "Off-Carriageway Improvement: Construction of Median/Center Island",
+        "region": "Region XI",
+        "province": "DAVAO DE ORO",
+        "coordinates": {
+          "latitude": 7.8397194,
+          "longitude": 126.0634363,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "DBR CONSTRUCTION CORPORATION (FORMERLY: D.B. RAVELO CONSTRUCTION & SUPPLY)",
+    "bidders": [
+      {
+        "name": "DBR CONSTRUCTION CORPORATION (FORMERLY: D.B. RAVELO CONSTRUCTION & SUPPLY) (39402)",
+        "pcabId": "39402",
+        "participation": 100,
+        "isWinner": true
+      }
+    ],
+    "procurement": {
+      "contractName": "OFF-CARRIAGEWAY IMPROVEMENT: SHOULDER PAVING/ CONSTRUCTION ALONG DAANG MAHARLIKA (MN), COMPOSTELA VALLEY PROVINCE",
+      "abc": "12739990.73",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2018-12-07 00:00:00.0000000",
+      "bidSubmissionDeadline": "2018-12-28 00:00:00.0000000",
+      "dateOfAward": "2019-07-04 00:00:00.0000000",
+      "awardAmount": "12355380.91"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/19LA0029.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/CONTRACT AGREEMENT.PDF",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/NOA 029.PDF",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/CONTRACT AGREEMENT.PDF",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 7.8397194,
+    "longitude": 126.0634363,
+    "coordinates": [
+      {
+        "componentId": "P00300131MN-CW1",
+        "description": "Off-Carriageway Improvement: Construction of Median/Center Island - Daang Maharlika (MN) - K1393 + 100 - K1394 + 400",
+        "latitude": 7.8397194,
+        "longitude": 126.0634363,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

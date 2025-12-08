@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "15CJ0193",
+    "description": "CMBNR; RETROFITTING/STRENGHTENING OF PERMANENT BRIDGES, SAN VICENTE BR. 2 (BO4333LZ) ALONG TARLAC-GU",
+    "category": "Bridges",
+    "status": "Completed",
+    "budget": 4398389.7,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region III",
+      "province": "Tarlac DEO",
+      "infraType": "Bridges",
+      "coordinates": {
+        "latitude": 15.5854613900647,
+        "longitude": 120.696298528676,
+        "verified": false
+      }
+    },
+    "infraType": "Bridges",
+    "contractor": "ALPHA & OMEGA GEN. CONTRACTOR & DEVELOPMENT CORP. ([REVOKED] 38958)",
+    "startDate": "2016-01-21",
+    "completionDate": "2016-04-09",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-01-21",
+    "expiryDate": "2016-04-19",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00001976LZ-CW1",
+        "description": "Retrofitting / Strengthening of Bridge - San Vicente Br. 2 (B04333LZ) along Tarlac-Guimba Rd via Victoria",
+        "infraType": "Bridges",
+        "typeOfWork": "Retrofitting / Strengthening of Bridge",
+        "region": "Region III",
+        "province": "TARLAC",
+        "coordinates": {
+          "latitude": 15.5854613900647,
+          "longitude": 120.696298528676,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "ALPHA & OMEGA GEN. CONTRACTOR & DEVELOPMENT CORP.",
+    "bidders": [
+      {
+        "name": "ALPHA & OMEGA GEN. CONTRACTOR & DEVELOPMENT CORP. ([REVOKED] 38958)",
+        "pcabId": "[REVOKED] 38958",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "N.M. ESPINOSA CONSTRUCTION (27777)",
+        "pcabId": "27777",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CMBNR; RETROFITTING/STRENGHTENING OF PERMANENT BRIDGES, SAN VICENTE BR. 2 (BO4333LZ) ALONG TARLAC-GU",
+      "abc": "4606000.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-12-09 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-12-28 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "4398389.7000000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/may/15CJ0193004.pdf",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/january/15CJ0193001.pdf",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/may/15CJ0193004.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 15.5854613900647,
+    "longitude": 120.696298528676,
+    "coordinates": [
+      {
+        "componentId": "P00001976LZ-CW1",
+        "description": "Retrofitting / Strengthening of Bridge - San Vicente Br. 2 (B04333LZ) along Tarlac-Guimba Rd via Victoria",
+        "latitude": 15.5854613900647,
+        "longitude": 120.696298528676,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

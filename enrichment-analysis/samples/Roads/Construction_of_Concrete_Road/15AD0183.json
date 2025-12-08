@@ -1,0 +1,169 @@
+{
+  "data": {
+    "contractId": "15AD0183",
+    "description": "CLUSTER B:1.BRGY.BARIAON,2.BRGY.BIO,3.BRGY.DARDARAT,4.BRGY.TAMPUGO,TAGUDIN,ILOCOS SUR",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 7553135.34,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region I",
+      "province": "Ilocos Sur 2nd DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 16.9482192,
+        "longitude": 120.4554638,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "FIRST NORTHWAY DEVELOPMENT & CONSTRUCTION CORP. (11645)",
+    "startDate": "2016-02-18",
+    "completionDate": "2016-06-17",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-02-18",
+    "expiryDate": "2016-03-25",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 Locally Funded Projects",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00045421LZ-CW1",
+        "description": "Construction of Concrete Road - Construction of Barangay Road,Brgy. Bario-an,Tagudin,Ilocos Sur",
+        "infraType": "Roads",
+        "typeOfWork": "Construction of Concrete Road",
+        "region": "Region I",
+        "province": "ILOCOS SUR",
+        "coordinates": {
+          "latitude": 16.9482192,
+          "longitude": 120.4554638,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00045422LZ-CW1",
+        "description": "Construction of Concrete Road - Construction of Barangay Road,Brgy. Bio,Tagudin,Ilocos Sur",
+        "infraType": "Roads",
+        "typeOfWork": "Construction of Concrete Road",
+        "region": "Region I",
+        "province": "ILOCOS SUR",
+        "coordinates": {
+          "latitude": 16.91405393,
+          "longitude": 120.461208,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00045426LZ-CW1",
+        "description": "Construction of Concrete Road - Construction of Barangay Road,Brgy. Dardarat,Tagudin,Ilocos Sur",
+        "infraType": "Roads",
+        "typeOfWork": "Construction of Concrete Road",
+        "region": "Region I",
+        "province": "ILOCOS SUR",
+        "coordinates": {
+          "latitude": 16.9590314,
+          "longitude": 120.4378863,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00045427LZ-CW1",
+        "description": "Construction of Concrete Road - Construction of Barangay Road,Brgy. Tampugo,Tagudin,Ilocos Sur",
+        "infraType": "Roads",
+        "typeOfWork": "Construction of Concrete Road",
+        "region": "Region I",
+        "province": "ILOCOS SUR",
+        "coordinates": {
+          "latitude": 16.9790913,
+          "longitude": 120.4483542,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "FIRST NORTHWAY DEVELOPMENT & CONSTRUCTION CORP.",
+    "bidders": [
+      {
+        "name": "FIRST NORTHWAY DEVELOPMENT & CONSTRUCTION CORP. (11645)",
+        "pcabId": "11645",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "MBB CONSTRUCTION AND SUPPLY (FORMERLY: MBB CONSTRUCTION) (11363)",
+        "pcabId": "11363",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CLUSTER B:1.BRGY.BARIAON,2.BRGY.BIO,3.BRGY.DARDARAT,4.BRGY.TAMPUGO,TAGUDIN,ILOCOS SUR",
+      "abc": "7840000.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-12-01 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-12-22 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "7553135.3400000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/march/15AD0183 CA054.pdf",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/march/15AD0183 NOA053.pdf",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/march/15AD0183 CA054.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 16.9482192,
+    "longitude": 120.4554638,
+    "coordinates": [
+      {
+        "componentId": "P00045421LZ-CW1",
+        "description": "Construction of Concrete Road - Construction of Barangay Road,Brgy. Bario-an,Tagudin,Ilocos Sur",
+        "latitude": 16.9482192,
+        "longitude": 120.4554638,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00045422LZ-CW1",
+        "description": "Construction of Concrete Road - Construction of Barangay Road,Brgy. Bio,Tagudin,Ilocos Sur",
+        "latitude": 16.91405393,
+        "longitude": 120.461208,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00045426LZ-CW1",
+        "description": "Construction of Concrete Road - Construction of Barangay Road,Brgy. Dardarat,Tagudin,Ilocos Sur",
+        "latitude": 16.9590314,
+        "longitude": 120.4378863,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00045427LZ-CW1",
+        "description": "Construction of Concrete Road - Construction of Barangay Road,Brgy. Tampugo,Tagudin,Ilocos Sur",
+        "latitude": 16.9790913,
+        "longitude": 120.4483542,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

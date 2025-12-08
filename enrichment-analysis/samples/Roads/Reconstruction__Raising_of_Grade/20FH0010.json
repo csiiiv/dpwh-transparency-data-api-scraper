@@ -1,0 +1,115 @@
+{
+  "data": {
+    "contractId": "20FH0010",
+    "description": "REHABILTATION/IMPROVEMENT OF BRGY. STA. ELENA-BRGY. SAN ROQUE ROAD LEADING TO CATANDUANES PREMIERE HIGH SCHOOL OF VIRAC, CATANDUANES",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 38003609.21,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region V",
+      "province": "Catanduanes DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 13.5850836,
+        "longitude": 124.2313208,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "CTC BUILDER AND SUPPLIES INCORPORATED (FOR. CTC BU (12088)",
+    "startDate": "2020-10-07",
+    "completionDate": "2021-10-18",
+    "infraYear": "2020",
+    "contractEffectivityDate": "2020-10-07",
+    "expiryDate": "2021-07-09",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2020 LP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00445267LZ-CW1",
+        "description": "Reconstruction: Raising of Grade - Rehabilitation/Improvement Of Brgy. Sta. Elena To Brgy. San Roque Road Leading To Catanduanes Premiere High School Of Virac, Catanduanes",
+        "infraType": "Roads",
+        "typeOfWork": "Reconstruction: Raising of Grade",
+        "region": "Region V",
+        "province": "CATANDUANES",
+        "coordinates": {
+          "latitude": 13.5850836,
+          "longitude": 124.2313208,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "CTC BUILDER AND SUPPLIES INCORPORATED (FOR. CTC BU",
+    "bidders": [
+      {
+        "name": "CTC BUILDER AND SUPPLIES INCORPORATED (FOR. CTC BU (12088)",
+        "pcabId": "12088",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "AL-JON CONSTRUCTION DEVELOPMENT, INC. (FORMERLY: ALJON CONSTRUCTION & SUPPLY) (34481)",
+        "pcabId": "34481",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "JD CONSTRUCTION (30134)",
+        "pcabId": "30134",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "PRECIOUS CONSTRUCTION (32995)",
+        "pcabId": "32995",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "REHABILTATION/IMPROVEMENT OF BRGY. STA. ELENA-BRGY. SAN ROQUE ROAD LEADING TO CATANDUANES PREMIERE HIGH SCHOOL OF VIRAC, CATANDUANES",
+      "abc": "38003265.82",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2019-10-28 00:00:00.0000000",
+      "bidSubmissionDeadline": "2019-11-19 00:00:00.0000000",
+      "dateOfAward": "2020-09-21 00:00:00.0000000",
+      "awardAmount": "36086359.71"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/B20FH0010.pdf",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/20fh0010_-_contract.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/20FH0010 - noa.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/20fh0010_-_ntp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 13.5850836,
+    "longitude": 124.2313208,
+    "coordinates": [
+      {
+        "componentId": "P00445267LZ-CW1",
+        "description": "Reconstruction: Raising of Grade - Rehabilitation/Improvement Of Brgy. Sta. Elena To Brgy. San Roque Road Leading To Catanduanes Premiere High School Of Virac, Catanduanes",
+        "latitude": 13.5850836,
+        "longitude": 124.2313208,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 2,
+      "latestImageDate": "2021-12-31 03:12:21.696999",
+      "hasImages": true
+    }
+  }
+}

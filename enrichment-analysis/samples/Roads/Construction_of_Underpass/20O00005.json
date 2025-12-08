@@ -1,0 +1,109 @@
+{
+  "data": {
+    "contractId": "20O00005",
+    "description": "MULTI-NATIONAL/C-5 INTERSECTION UNDERPASS PROJECT, PARAÑAQUE CITY",
+    "category": "Roads",
+    "status": "Terminated",
+    "budget": 0,
+    "amountPaid": 0,
+    "progress": 0,
+    "location": {
+      "region": "National Capital Region",
+      "province": "National Capital Region",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 14.4970083,
+        "longitude": 120.9986889,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "DUMDUMA CONSTRUCTION AND TRADING CORPORATION (37256)",
+    "startDate": "2021-01-15",
+    "completionDate": "2023-03-07",
+    "infraYear": "2020",
+    "contractEffectivityDate": "2021-01-15",
+    "expiryDate": "2021-08-12",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2020 OO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00402375LZ-CW1",
+        "description": "Construction of Underpass - Multi - National / C-5 Intersection Underpass Project , Para±aque City",
+        "infraType": "Roads",
+        "typeOfWork": "Construction of Underpass",
+        "region": "National Capital Region",
+        "province": "METROPOLITAN MANILA",
+        "coordinates": {
+          "latitude": 14.4970083,
+          "longitude": 120.9986889,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "DUMDUMA CONSTRUCTION AND TRADING CORPORATION",
+    "bidders": [
+      {
+        "name": "DUMDUMA CONSTRUCTION AND TRADING CORPORATION (37256)",
+        "pcabId": "37256",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "FLORDES CONSTRUCTION & TRADING CORP. (FORMERLY FLO (16916)",
+        "pcabId": "16916",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "PERSAN CONSTRUCTION, INC. (FORMERLY: PERSAN CONST. (2852)",
+        "pcabId": "2852",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "MULTI-NATIONAL/C-5 INTERSECTION UNDERPASS PROJECT, PARAÑAQUE CITY",
+      "abc": "101325000.00",
+      "status": "T",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2020-12-04 00:00:00.0000000",
+      "bidSubmissionDeadline": "2020-12-23 00:00:00.0000000",
+      "dateOfAward": "2020-12-29 00:00:00.0000000",
+      "awardAmount": "97970422.89"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/20O00005.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/20O00005.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/20O00005.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 14.4970083,
+    "longitude": 120.9986889,
+    "coordinates": [
+      {
+        "componentId": "P00402375LZ-CW1",
+        "description": "Construction of Underpass - Multi - National / C-5 Intersection Underpass Project , Para±aque City",
+        "latitude": 14.4970083,
+        "longitude": 120.9986889,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 1,
+      "latestImageDate": "2021-10-31 11:45:56.783000",
+      "hasImages": true
+    }
+  }
+}

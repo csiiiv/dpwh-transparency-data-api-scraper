@@ -1,0 +1,112 @@
+{
+  "data": {
+    "contractId": "16LC0108",
+    "description": "PROVISION OF TECHVOC WORKSHOP BUILDING/LABORATORIES FOR SHS, SALVACION NHS, STO. TOMAS, DAVAO DEL NORTE",
+    "category": "Buildings and Facilities",
+    "status": "Completed",
+    "budget": 3238283.61,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region XI",
+      "province": "Davao del Norte DEO",
+      "infraType": "Buildings and Facilities",
+      "coordinates": {
+        "latitude": 7.485833,
+        "longitude": 125.717778,
+        "verified": false
+      }
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "FIVE MASSIVE INFRA & SUPPLY CORP. (36876)",
+    "startDate": "2017-05-25",
+    "completionDate": "2017-06-22",
+    "infraYear": "2017",
+    "contractEffectivityDate": "2017-05-25",
+    "expiryDate": "2017-08-17",
+    "nysReason": null,
+    "programName": "Outside Infra",
+    "sourceOfFunds": "Outside Infra - GAA 2016 DepED BEFF / GAA 2017 DepEd BEFF",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00075336MN-CW1",
+        "description": "Construction of School Buildings - Provision of Techvoc Workshop Buildings/Laboratories for Senior High School, Salvacion NHS, Santo Tomas, Davao del Norte 2nd LD",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of School Buildings",
+        "region": "Region XI",
+        "province": "DAVAO DEL NORTE",
+        "coordinates": null
+      },
+      {
+        "componentId": "P00171952MN-CW1",
+        "description": "Completion of School Buildings - Construction (Completion) of a TechVoc Workshop School Building, Salvacion NHS, Santo Tomas, Davao del Norte",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Completion of School Buildings",
+        "region": "Region XI",
+        "province": "DAVAO DEL NORTE",
+        "coordinates": {
+          "latitude": 7.485833,
+          "longitude": 125.717778,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "FIVE MASSIVE INFRA & SUPPLY CORP.",
+    "bidders": [
+      {
+        "name": "FIVE MASSIVE INFRA & SUPPLY CORP. (36876)",
+        "pcabId": "36876",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "LLM UNIFIED BUILDERS & TRADING CORP. (FORMERLY:LLM CONCRETE PRODUCTS) (14235)",
+        "pcabId": "14235",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "PROVISION OF TECHVOC WORKSHOP BUILDING/LABORATORIES FOR SHS, SALVACION NHS, STO. TOMAS, DAVAO DEL NORTE",
+      "abc": "3291625.26",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2017-01-06 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-02-07 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "3,238,283.61"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/ITB 16LC0108 -17lc0043 re advertise.pdf",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/Approved Contract Agreement 16LC0108.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/Approve NOA 16LC0108.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/Approved Contract Agreement 16LC0108.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 7.485833,
+    "longitude": 125.717778,
+    "coordinates": [
+      {
+        "componentId": "P00171952MN-CW1",
+        "description": "Completion of School Buildings - Construction (Completion) of a TechVoc Workshop School Building, Salvacion NHS, Santo Tomas, Davao del Norte",
+        "latitude": 7.485833,
+        "longitude": 125.717778,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

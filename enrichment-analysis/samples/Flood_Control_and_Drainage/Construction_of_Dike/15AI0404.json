@@ -1,0 +1,91 @@
+{
+  "data": {
+    "contractId": "15AI0404",
+    "description": "CONST/MAINT OF FLOOD MITIGATION STRUCTUES & DRAINAGE SYSTEMS-CONST OF BANILA RIVER FLOOD CTRL DIKE,",
+    "category": "Flood Control and Drainage",
+    "status": "Completed",
+    "budget": 18619975.09,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region I",
+      "province": "Pangasinan 3rd DEO",
+      "infraType": "Flood Control and Drainage",
+      "coordinates": null
+    },
+    "infraType": "Flood Control and Drainage",
+    "contractor": "AMP 723 CONSTRUCTION CORPORATION (FORMERLY: A.M.P. CONSTRUCTION) (16574)",
+    "startDate": "2016-02-08",
+    "completionDate": "2016-05-31",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-02-08",
+    "expiryDate": "2016-06-06",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-2",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00020227LZ-CW1",
+        "description": "Construction of Dike - Construction of Banila River Flood Control Dike, Don Justo - Barat Section, Umingan, Pangasinan 6th LD",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Construction of Dike",
+        "region": "Region I",
+        "province": "PANGASINAN",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "AMP 723 CONSTRUCTION CORPORATION (FORMERLY: A.M.P. CONSTRUCTION)",
+    "bidders": [
+      {
+        "name": "AMP 723 CONSTRUCTION CORPORATION (FORMERLY: A.M.P. CONSTRUCTION) (16574)",
+        "pcabId": "16574",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "2-R CONSTRUCTION AND SUPPLY (15304)",
+        "pcabId": "15304",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "DGSARM BUILDERS INC. (FORMERLY: D.G. SARMENTA CONSTRUCTION) (13024)",
+        "pcabId": "13024",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONST/MAINT OF FLOOD MITIGATION STRUCTUES & DRAINAGE SYSTEMS-CONST OF BANILA RIVER FLOOD CTRL DIKE,",
+      "abc": "19599999.66",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-12-03 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-12-22 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "18619975.0900000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/april/15AI0404 contract.pdf",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/april/15AI0404 award.pdf",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/april/15AI0404 contract.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

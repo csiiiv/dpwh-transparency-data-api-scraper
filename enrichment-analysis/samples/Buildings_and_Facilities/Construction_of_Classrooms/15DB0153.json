@@ -1,0 +1,85 @@
+{
+  "data": {
+    "contractId": "15DB0153",
+    "description": "CONSTRUCTION OF 1 STOREY, 2CL ACADEMIC BUILDING AT KAYLAWAY I ELEMENTARY SCHOOL, KAYLAWAY, NASUGBU, BATANGAS",
+    "category": "Buildings and Facilities",
+    "status": "Completed",
+    "budget": 1969469.96,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region IV-A",
+      "province": "Batangas 1st DEO",
+      "infraType": "Buildings and Facilities",
+      "coordinates": null
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "RRE ERECTOR'S CONST. AND TRADING SPECIALIST (33933)",
+    "startDate": "2016-02-03",
+    "completionDate": "2016-04-15",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-02-03",
+    "expiryDate": "2016-04-27",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 Locally Funded Projects",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00051062LZ-CW1",
+        "description": "Construction of Classrooms - Construction  of 1 Storey, 2 CL Academic Building at Kaylaway I Elementary School, Kaylaway, Nasugbu, Batangas",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of Classrooms",
+        "region": "Region IV-A",
+        "province": "BATANGAS",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "RRE ERECTOR'S CONST. AND TRADING SPECIALIST",
+    "bidders": [
+      {
+        "name": "RRE ERECTOR'S CONST. AND TRADING SPECIALIST (33933)",
+        "pcabId": "33933",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "SANDSTORM CONSTRUCTION (23411)",
+        "pcabId": "23411",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION OF 1 STOREY, 2CL ACADEMIC BUILDING AT KAYLAWAY I ELEMENTARY SCHOOL, KAYLAWAY, NASUGBU, BATANGAS",
+      "abc": "1980000.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-11-24 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-12-15 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "1969469.9600000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "",
+      "noticeOfAward": "",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/15db0153_ntp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

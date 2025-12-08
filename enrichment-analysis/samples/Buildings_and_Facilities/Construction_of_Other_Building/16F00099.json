@@ -1,0 +1,125 @@
+{
+  "data": {
+    "contractId": "16F00099",
+    "description": "PROPOSED CONSTRUCTION OF A COVERED AND ENCLOSED STRUCTURE ON THE THIRD FLOOR OF DBM REGIONAL OFFICE BUILDING, GOVERNMENT REGIONAL SITE CENTER, LEGAZPI CITY",
+    "category": "Buildings and Facilities",
+    "status": "Completed",
+    "budget": 5932586.19,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region V",
+      "province": "Region V",
+      "infraType": "Buildings and Facilities",
+      "coordinates": {
+        "latitude": 13.165975,
+        "longitude": 123.752677,
+        "verified": false
+      }
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "BLACKRAM BUILDERS, INC. (33899)",
+    "startDate": "2017-03-09",
+    "completionDate": "2017-08-27",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2017-03-09",
+    "expiryDate": "2017-08-27",
+    "nysReason": null,
+    "programName": "Outside Infra",
+    "sourceOfFunds": "Outside Infra - Trust Funds 2016 / Trust Funds 2017",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00099023LZ-CW1",
+        "description": "Construction of Multi Purpose Building - Construction of Covered and Enclosed Structure on the Third Floor of the Department of Budget and Management Regional Office Building, Rawis, Legazpi City",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of Multi Purpose Building",
+        "region": "Region V",
+        "province": "ALBAY",
+        "coordinates": {
+          "latitude": 13.165975,
+          "longitude": 123.752677,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00199251LZ-CW1",
+        "description": "Construction of Other Building - Construction of Covered and Enclosed Structure on the Third Floor DBM Regional Office Building, Rawis, Legazpi City (Phase II)",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of Other Building",
+        "region": "Region V",
+        "province": "ALBAY",
+        "coordinates": {
+          "latitude": 13.165503,
+          "longitude": 123.754042,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "BLACKRAM BUILDERS, INC.",
+    "bidders": [
+      {
+        "name": "BLACKRAM BUILDERS, INC. (33899)",
+        "pcabId": "33899",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "ATHENA CONSTRUCTION AND DEVELOPMENT (37750)",
+        "pcabId": "37750",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "PROPOSED CONSTRUCTION OF A COVERED AND ENCLOSED STRUCTURE ON THE THIRD FLOOR OF DBM REGIONAL OFFICE BUILDING, GOVERNMENT REGIONAL SITE CENTER, LEGAZPI CITY",
+      "abc": "5944614.08",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-12-02 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-12-21 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "5,874,852.30"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/Contract 16F00099.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/16f00099_notice_of_award.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/Contract 16F00099.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 13.165975,
+    "longitude": 123.752677,
+    "coordinates": [
+      {
+        "componentId": "P00099023LZ-CW1",
+        "description": "Construction of Multi Purpose Building - Construction of Covered and Enclosed Structure on the Third Floor of the Department of Budget and Management Regional Office Building, Rawis, Legazpi City",
+        "latitude": 13.165975,
+        "longitude": 123.752677,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00199251LZ-CW1",
+        "description": "Construction of Other Building - Construction of Covered and Enclosed Structure on the Third Floor DBM Regional Office Building, Rawis, Legazpi City (Phase II)",
+        "latitude": 13.165503,
+        "longitude": 123.754042,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "data": {
+    "contractId": "22MB0011",
+    "description": "OFF-CARRIAGEWAY IMPROVEMENT - SECONDARY ROADS - ALBERT MORROW BLVD - K1659 + (-672) - K1661 +158",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 29395000,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region XII",
+      "province": "South Cotabato 1st DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 6.143355,
+        "longitude": 125.1305728,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "FREDEN CONSTRUCTION (22665)",
+    "startDate": "2022-02-24",
+    "completionDate": "2023-01-03",
+    "infraYear": "2022",
+    "contractEffectivityDate": "2022-02-24",
+    "expiryDate": "2023-01-03",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2022 OO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00602468MN-CW1",
+        "description": "Off-Carriageway Improvement: Construction of Traffic Island - Albert Morrow Blvd - K1659 + (-672) - K1661 + 158",
+        "infraType": "Roads",
+        "typeOfWork": "Off-Carriageway Improvement: Construction of Traffic Island",
+        "region": "Region XII",
+        "province": "SOUTH COTABATO",
+        "coordinates": {
+          "latitude": 6.143355,
+          "longitude": 125.1305728,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "FREDEN CONSTRUCTION",
+    "bidders": [
+      {
+        "name": "FREDEN CONSTRUCTION (22665)",
+        "pcabId": "22665",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "J.G. ORANZA CONSTRUCTION (33370)",
+        "pcabId": "33370",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "LHE CONSTRUCTION & INDUSTRIAL SERVICES, INC. (FORMERLY: LHE CONSTRUCTION & ENG'G. SERVICES) (34789)",
+        "pcabId": "34789",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "MJ TIONGSON CONSTRUCTION (FORMERLY: MJT BUILDERS) (24202)",
+        "pcabId": "24202",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "TSQUARE CONSTRUCTION CORPORATION (FORMERLY:T-SQUARE BUILDERS) (14268)",
+        "pcabId": "14268",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "OFF-CARRIAGEWAY IMPROVEMENT - SECONDARY ROADS - ALBERT MORROW BLVD - K1659 + (-672) - K1661 +158",
+      "abc": "29400000.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2021-10-29 00:00:00.0000000",
+      "bidSubmissionDeadline": "2021-11-17 00:00:00.0000000",
+      "dateOfAward": "2022-01-26 00:00:00.0000000",
+      "awardAmount": "29395000"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/22MB0011-Bid Docs,BOQ & Plans.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/22mb0011_contract_agreement.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/22mb0011_notice_of_award.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/22mb0011_notice_to_proceed.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 6.143355,
+    "longitude": 125.1305728,
+    "coordinates": [
+      {
+        "componentId": "P00602468MN-CW1",
+        "description": "Off-Carriageway Improvement: Construction of Traffic Island - Albert Morrow Blvd - K1659 + (-672) - K1661 + 158",
+        "latitude": 6.143355,
+        "longitude": 125.1305728,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 11,
+      "latestImageDate": "2023-01-26 08:25:36.972999",
+      "hasImages": true
+    }
+  }
+}

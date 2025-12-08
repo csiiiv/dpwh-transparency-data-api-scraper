@@ -1,0 +1,97 @@
+{
+  "data": {
+    "contractId": "15HH0132",
+    "description": "CONSTRUCTION OF CATCHBASIN OF SUBANGDAKU RIVER (STEEL SHEET PILE WITH COPING) AT UPSTREAM AND DOWNSTREAM OF CIP BRIDGE, SECOND AVENUE, NORTH RECLAMATION AREA, CEBU CITY",
+    "category": "Flood Control and Drainage",
+    "status": "Completed",
+    "budget": 45988984.2,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region VII",
+      "province": "Cebu City DEO",
+      "infraType": "Flood Control and Drainage",
+      "coordinates": null
+    },
+    "infraType": "Flood Control and Drainage",
+    "contractor": "BNR CONSTRUCTION & DEVELOPMENT CORP. (12903)",
+    "startDate": "2016-02-24",
+    "completionDate": "2016-09-11",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-02-24",
+    "expiryDate": "2016-09-11",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-2",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00022459VS-CW1",
+        "description": "Construction of Flood Mitigation Facility - Construction of Catchbasin of Sabangdaku River (Steel Sheet Pile with Coping) at Upstream of CIP Bridge, Second Avenue, North Reclamation Area, Cebu City",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Construction of Flood Mitigation Facility",
+        "region": "Region VII",
+        "province": "CEBU",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "BNR CONSTRUCTION & DEVELOPMENT CORP.",
+    "bidders": [
+      {
+        "name": "BNR CONSTRUCTION & DEVELOPMENT CORP. (12903)",
+        "pcabId": "12903",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "AFG ZILLION CONSTRUCTION CORPORATION (FORMERLY: A.F.G. CONSTRUCTION & CONSTRUCTION SUPPLY) (17161)",
+        "pcabId": "17161",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "GOWIL BUILDERS (18733)",
+        "pcabId": "18733",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "WTG CONSTRUCTION & DEVELOPMENT CORPORATION (7494)",
+        "pcabId": "7494",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION OF CATCHBASIN OF SUBANGDAKU RIVER (STEEL SHEET PILE WITH COPING) AT UPSTREAM AND DOWNSTREAM OF CIP BRIDGE, SECOND AVENUE, NORTH RECLAMATION AREA, CEBU CITY",
+      "abc": "48510000.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-12-18 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-01-20 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "45988984.2000000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "",
+      "noticeOfAward": "",
+      "noticeToProceed": "",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

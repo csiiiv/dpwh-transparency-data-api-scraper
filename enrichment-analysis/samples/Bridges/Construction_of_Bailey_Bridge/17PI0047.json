@@ -1,0 +1,85 @@
+{
+  "data": {
+    "contractId": "17PI0047",
+    "description": "DISASTER RELATED AND EMERGENCY REHABILITATION FUND-NATIONAL ROADS:RESTORATION OF SABANGAN DETOUR BRIDGE,NACAGANG,SABANGAN.MT. PROVINCE BROUGHT ABOUT BY TYPHOON LAWIN (OCTOBER 2016)",
+    "category": "Bridges",
+    "status": "Completed",
+    "budget": 5671540.42,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Cordillera Administrative Region",
+      "province": "Mountain Province 1st DEO",
+      "infraType": "Bridges",
+      "coordinates": null
+    },
+    "infraType": "Bridges",
+    "contractor": "JBA CONSTRUCTION AND BUILDERS (36321)",
+    "startDate": "2017-07-17",
+    "completionDate": "2018-02-18",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2017-07-17",
+    "expiryDate": "2017-12-23",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 Locally Funded Projects",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00056030LZ-CW1",
+        "description": "Construction of Bailey Bridge - Restoration of Sabangan Detour Bridge, Nacagang, Sabangan, Mt. Province",
+        "infraType": "Bridges",
+        "typeOfWork": "Construction of Bailey Bridge",
+        "region": "Cordillera Administrative Region",
+        "province": "MOUNTAIN PROVINCE",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "JBA CONSTRUCTION AND BUILDERS",
+    "bidders": [
+      {
+        "name": "JBA CONSTRUCTION AND BUILDERS (36321)",
+        "pcabId": "36321",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "SADLAN CONSTRUCTION (33550)",
+        "pcabId": "33550",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "DISASTER RELATED AND EMERGENCY REHABILITATION FUND-NATIONAL ROADS:RESTORATION OF SABANGAN DETOUR BRIDGE,NACAGANG,SABANGAN.MT. PROVINCE BROUGHT ABOUT BY TYPHOON \"LAWIN\" (OCTOBER 2016)",
+      "abc": "5907925.78",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2017-05-05 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-05-29 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "5671540.42"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/17PI0047 Sabangan Detour Bridge.rar",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/17pi0047_ca.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/NOA.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/17pi0047_ca.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

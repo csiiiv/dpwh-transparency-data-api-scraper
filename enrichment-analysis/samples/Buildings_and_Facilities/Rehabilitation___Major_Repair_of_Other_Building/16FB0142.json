@@ -1,0 +1,97 @@
+{
+  "data": {
+    "contractId": "16FB0142",
+    "description": "CONSTRUCTION/REPAIR/REHABILITATION/IMPROVEMENT OF VARIOUS INFRASTRUCTURE INCLUDING LOCAL PROJECTS - DAY CARE CENTER, LEGAZPI CITY",
+    "category": "Buildings and Facilities",
+    "status": "Completed",
+    "budget": 989312.12,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region V",
+      "province": "Albay 2nd DEO",
+      "infraType": "Buildings and Facilities",
+      "coordinates": {
+        "latitude": 13.148588,
+        "longitude": 123.754113,
+        "verified": false
+      }
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "GEMELLUS BUILDERS AND GENERAL SUPPLY (40979)",
+    "startDate": "2017-11-15",
+    "completionDate": "2018-02-12",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2017-11-15",
+    "expiryDate": "2018-02-12",
+    "nysReason": null,
+    "programName": "Outside Infra",
+    "sourceOfFunds": "Outside Infra - GAA 2016 NDRRMF",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00195064LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Other Building - Rehabilitation and Upgrading of Medical and Non-Medical Facilities, Day Care Center Legazpi City",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Rehabilitation / Major Repair of Other Building",
+        "region": "Region V",
+        "province": "ALBAY",
+        "coordinates": {
+          "latitude": 13.148588,
+          "longitude": 123.754113,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "GEMELLUS BUILDERS AND GENERAL SUPPLY",
+    "bidders": [
+      {
+        "name": "GEMELLUS BUILDERS AND GENERAL SUPPLY (40979)",
+        "pcabId": "40979",
+        "participation": 100,
+        "isWinner": true
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION/REPAIR/REHABILITATION/IMPROVEMENT OF VARIOUS INFRASTRUCTURE INCLUDING LOCAL PROJECTS - DAY CARE CENTER, LEGAZPI CITY",
+      "abc": "999310.52",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2017-10-04 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-10-23 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "989,312.12"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/16FB0142_Invitation to Bid (IB).zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/16fb0142_contract-.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/16fb0142_award.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/16fb0142_ntp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 13.148588,
+    "longitude": 123.754113,
+    "coordinates": [
+      {
+        "componentId": "P00195064LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Other Building - Rehabilitation and Upgrading of Medical and Non-Medical Facilities, Day Care Center Legazpi City",
+        "latitude": 13.148588,
+        "longitude": 123.754113,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

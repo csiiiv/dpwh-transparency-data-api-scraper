@@ -1,0 +1,125 @@
+{
+  "data": {
+    "contractId": "16AB0173",
+    "description": "1.REPAIR & REHABILITATION OF DAMAGED SLOPE PROTECTION AND PCCP ALONG ILOCOS NORTE-APAYAO ROAD K0520 +(-050), SOLSONA, ILOCOS NORTE 2. REPAIR & MAINT. OF DAMAGED SLOPE PROTECTION ALONG BATAC-BANNA ROAD, K0480+250",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 574439.72,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region I",
+      "province": "Ilocos Norte 2nd DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 18.0264196335995,
+        "longitude": 120.634751773412,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "REMIGIO GENERAL CONSTRUCTION (2298)",
+    "startDate": "2017-03-20",
+    "completionDate": "2017-04-11",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2017-03-20",
+    "expiryDate": "2017-04-30",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 Locally Funded Projects",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00055999LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Road Slope Protection Structure - Repair and Maintenance of Damaged Slope Protection along Batac-Banna Road, K0480+250",
+        "infraType": "Roads",
+        "typeOfWork": "Rehabilitation / Major Repair of Road Slope Protection Structure",
+        "region": "Region I",
+        "province": "ILOCOS NORTE",
+        "coordinates": {
+          "latitude": 18.0264196335995,
+          "longitude": 120.634751773412,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00056000LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Road Slope Protection Structure - Repair and Maintenance of Damaged Slope Protection and PCCP along Ilocos Norte-Apayao Road, K0520+(-050), Solsona, Ilocos Norte",
+        "infraType": "Roads",
+        "typeOfWork": "Rehabilitation / Major Repair of Road Slope Protection Structure",
+        "region": "Region I",
+        "province": "ILOCOS NORTE",
+        "coordinates": {
+          "latitude": 18.026625,
+          "longitude": 120.634602,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "REMIGIO GENERAL CONSTRUCTION",
+    "bidders": [
+      {
+        "name": "REMIGIO GENERAL CONSTRUCTION (2298)",
+        "pcabId": "2298",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "ACCV BUILDERS (34867)",
+        "pcabId": "34867",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "1.REPAIR & REHABILITATION OF DAMAGED SLOPE PROTECTION AND PCCP ALONG ILOCOS NORTE-APAYAO ROAD K0520 +(-050), SOLSONA, ILOCOS NORTE  2. REPAIR & MAINT. OF DAMAGED SLOPE PROTECTION ALONG BATAC-BANNA ROAD, K0480+250",
+      "abc": "600000.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-12-29 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-01-18 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "574,439.72"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/BATAC-BANNA.rar",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/CA101.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/NOTICE OF AWARD102.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/CA101.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 18.0264196335995,
+    "longitude": 120.634751773412,
+    "coordinates": [
+      {
+        "componentId": "P00055999LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Road Slope Protection Structure - Repair and Maintenance of Damaged Slope Protection along Batac-Banna Road, K0480+250",
+        "latitude": 18.0264196335995,
+        "longitude": 120.634751773412,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00056000LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Road Slope Protection Structure - Repair and Maintenance of Damaged Slope Protection and PCCP along Ilocos Norte-Apayao Road, K0520+(-050), Solsona, Ilocos Norte",
+        "latitude": 18.026625,
+        "longitude": 120.634602,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

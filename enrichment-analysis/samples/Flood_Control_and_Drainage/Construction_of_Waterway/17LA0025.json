@@ -1,0 +1,131 @@
+{
+  "data": {
+    "contractId": "17LA0025",
+    "description": "CONSTRUCTION OF UPPER AGUSAN RIVER FLOOD CONTROL PROJECT, TIGBAO, MARAGUSAN, 1ST LD, COMPOSTELA VALLEY PROVINCE",
+    "category": "Flood Control and Drainage",
+    "status": "Completed",
+    "budget": 48616820,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region XI",
+      "province": "Davao de Oro 1st DEO",
+      "infraType": "Flood Control and Drainage",
+      "coordinates": {
+        "latitude": 7.250478,
+        "longitude": 126.136489,
+        "verified": false
+      }
+    },
+    "infraType": "Flood Control and Drainage",
+    "contractor": "O. G. SANTOS CONSTRUCTION (2050)",
+    "startDate": "2017-03-06",
+    "completionDate": "2017-12-28",
+    "infraYear": "2017",
+    "contractEffectivityDate": "2017-03-06",
+    "expiryDate": "2017-10-26",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2017 MFO-2",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00121712MN-CW1",
+        "description": "Construction of Waterway - Construction of Upper Agusan River Flood Control Project, Tigbao, Maragusan, Compostela Valley",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Construction of Waterway",
+        "region": "Region XI",
+        "province": "DAVAO DE ORO",
+        "coordinates": {
+          "latitude": 7.250478,
+          "longitude": 126.136489,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00121712MN-CW2",
+        "description": "Construction of Dike - Construction of Upper Agusan River Flood Control Project, Tigbao, Maragusan, Compostela Valley",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Construction of Dike",
+        "region": "Region XI",
+        "province": "DAVAO DE ORO",
+        "coordinates": {
+          "latitude": 7.250478,
+          "longitude": 126.136489,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "O. G. SANTOS CONSTRUCTION",
+    "bidders": [
+      {
+        "name": "O. G. SANTOS CONSTRUCTION (2050)",
+        "pcabId": "2050",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "FFJJ CONSTRUCTION (16712)",
+        "pcabId": "16712",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "RUPLINO SEISMUNDO CONSTRUCTION CORPORATION (FORMERLY: R.R. SEISMUNDO CONSTRUCTION & SUPPLY) (10961)",
+        "pcabId": "10961",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION OF UPPER AGUSAN RIVER FLOOD CONTROL PROJECT, TIGBAO, MARAGUSAN, 1ST LD, COMPOSTELA VALLEY PROVINCE",
+      "abc": "48616758.53",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-12-09 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-12-28 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "47,157,476.40"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/CONTRACT AGREEMENT.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/NOA.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/CONTRACT AGREEMENT.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 7.250478,
+    "longitude": 126.136489,
+    "coordinates": [
+      {
+        "componentId": "P00121712MN-CW1",
+        "description": "Construction of Waterway - Construction of Upper Agusan River Flood Control Project, Tigbao, Maragusan, Compostela Valley",
+        "latitude": 7.250478,
+        "longitude": 126.136489,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00121712MN-CW2",
+        "description": "Construction of Dike - Construction of Upper Agusan River Flood Control Project, Tigbao, Maragusan, Compostela Valley",
+        "latitude": 7.250478,
+        "longitude": 126.136489,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

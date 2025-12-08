@@ -1,0 +1,127 @@
+{
+  "data": {
+    "contractId": "22NI0047",
+    "description": "OFF-CARRIAGEWAY IMPROVEMENT-SECONDARY ROADS - SURIGAO-DAVAO COASTAL RD - K1460+814 - K1462+792",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 24479331.93,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region XIII",
+      "province": "Surigao del Sur 2nd DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 8.2112283,
+        "longitude": 126.321415,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "R.D. MANDANAS CONSTRUCTION (32114)",
+    "startDate": "2022-02-23",
+    "completionDate": "2022-12-13",
+    "infraYear": "2022",
+    "contractEffectivityDate": "2022-02-23",
+    "expiryDate": "2022-09-08",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2022 OO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00602513MN-CW1",
+        "description": "Off-Carriageway Improvement: Construction of Traffic Island - Surigao-Davao Coastal Rd - K1460 + 814 - K1462 + 792",
+        "infraType": "Roads",
+        "typeOfWork": "Off-Carriageway Improvement: Construction of Traffic Island",
+        "region": "Region XIII",
+        "province": "SURIGAO DEL SUR",
+        "coordinates": {
+          "latitude": 8.2112283,
+          "longitude": 126.321415,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "R.D. MANDANAS CONSTRUCTION",
+    "bidders": [
+      {
+        "name": "R.D. MANDANAS CONSTRUCTION (32114)",
+        "pcabId": "32114",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "AKN CONSTRUCTION CORPORATION (11845)",
+        "pcabId": "11845",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "DAVAO CONCRETE PRODUCTS CONSTRUCTION AND TRADING CORPORATION (FORMERLY: DAVAO CONCRETE PRODUCTS) (12090)",
+        "pcabId": "12090",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "MN BAYALAS CONSTRUCTION (34251)",
+        "pcabId": "34251",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "TEDDIE CONSTRUCTION DEVELOPMENT, INC. (6313)",
+        "pcabId": "6313",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "TKS BUILDERS & SUPPLIES (23415)",
+        "pcabId": "23415",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "OFF-CARRIAGEWAY IMPROVEMENT-SECONDARY ROADS - SURIGAO-DAVAO COASTAL RD - K1460+814 - K1462+792",
+      "abc": "24500000.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2021-12-08 00:00:00.0000000",
+      "bidSubmissionDeadline": "2021-12-27 00:00:00.0000000",
+      "dateOfAward": "2022-02-10 00:00:00.0000000",
+      "awardAmount": "24239472.22"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/22NI0047- 6th Edition PBDs_Infrastructure Projects-110420.pdf",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/22NI0047-CONTRACT.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/NOA-22NI0047.PDF",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/22NI0047-CONTRACT.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 8.2112283,
+    "longitude": 126.321415,
+    "coordinates": [
+      {
+        "componentId": "P00602513MN-CW1",
+        "description": "Off-Carriageway Improvement: Construction of Traffic Island - Surigao-Davao Coastal Rd - K1460 + 814 - K1462 + 792",
+        "latitude": 8.2112283,
+        "longitude": 126.321415,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 8,
+      "latestImageDate": "2022-12-28 04:14:29.151000",
+      "hasImages": true
+    }
+  }
+}

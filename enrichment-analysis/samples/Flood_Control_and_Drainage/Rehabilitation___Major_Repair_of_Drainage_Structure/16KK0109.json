@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "16KK0109",
+    "description": "REPAIR/RECONST./REHAB. OF DRAINAGE CANAL AT BRGY. 19, GINGOOG CITY, MIS. OR.",
+    "category": "Flood Control and Drainage",
+    "status": "Completed",
+    "budget": 22416922.98,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region X",
+      "province": "Misamis Oriental 1st DEO",
+      "infraType": "Flood Control and Drainage",
+      "coordinates": {
+        "latitude": 8.827225,
+        "longitude": 125.115568,
+        "verified": false
+      }
+    },
+    "infraType": "Flood Control and Drainage",
+    "contractor": "RUDHIL CONSTRUCTION & ENTERPRISES, INC.(FORMERLY R (22901)",
+    "startDate": "2017-01-29",
+    "completionDate": "2017-12-01",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2017-01-29",
+    "expiryDate": "2017-07-22",
+    "nysReason": null,
+    "programName": "Outside Infra",
+    "sourceOfFunds": "Outside Infra - GAA 2016 NDRRMF",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00095329MN-CW1",
+        "description": "Rehabilitation / Major Repair of Drainage Structure - Repair/rehabilitation/reconstruction of Drainage Canal, Barangay 19, Gingoog City",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Rehabilitation / Major Repair of Drainage Structure",
+        "region": "Region X",
+        "province": "MISAMIS ORIENTAL",
+        "coordinates": {
+          "latitude": 8.827225,
+          "longitude": 125.115568,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "RUDHIL CONSTRUCTION & ENTERPRISES, INC.(FORMERLY R",
+    "bidders": [
+      {
+        "name": "RUDHIL CONSTRUCTION & ENTERPRISES, INC.(FORMERLY R (22901)",
+        "pcabId": "22901",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "JEJOR'S CONSTRUCTION CORPORATION (5143)",
+        "pcabId": "5143",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "REPAIR/RECONST./REHAB. OF DRAINAGE CANAL AT BRGY. 19, GINGOOG CITY, MIS. OR.",
+      "abc": "23671450.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-12-17 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-01-10 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "22,416,922.98"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/contract_16kk0109.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/NOA109.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/contract_16kk0109.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 8.827225,
+    "longitude": 125.115568,
+    "coordinates": [
+      {
+        "componentId": "P00095329MN-CW1",
+        "description": "Rehabilitation / Major Repair of Drainage Structure - Repair/rehabilitation/reconstruction of Drainage Canal, Barangay 19, Gingoog City",
+        "latitude": 8.827225,
+        "longitude": 125.115568,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

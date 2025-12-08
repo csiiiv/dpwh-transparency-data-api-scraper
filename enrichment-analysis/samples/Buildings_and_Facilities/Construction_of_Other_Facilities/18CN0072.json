@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "18CN0072",
+    "description": "CONSTRUCTION OF MULTI-PURPOSE BUILDING (COVERED WALK/PATHWAY, SAN LUIS CENTRAL SCHOOL), BRGY. 1, SAN LUIS, AURORA PROVINCE",
+    "category": "Buildings and Facilities",
+    "status": "Completed",
+    "budget": 4800610.86,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region III",
+      "province": "Aurora DEO",
+      "infraType": "Buildings and Facilities",
+      "coordinates": {
+        "latitude": 15.7212349,
+        "longitude": 121.5197798,
+        "verified": false
+      }
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "MORNING STEEL CONSTRUCTION (30698)",
+    "startDate": "2018-07-30",
+    "completionDate": "2018-12-11",
+    "infraYear": "2018",
+    "contractEffectivityDate": "2018-07-30",
+    "expiryDate": "2018-11-26",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2018 LP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00248848LZ-CW1",
+        "description": "Construction of Other Facilities - Construction of Multi-Purpose Building (Covered Walk/Pathway, San Luis Central School), Brgy. 1, San Luis, Aurora Province",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of Other Facilities",
+        "region": "Region III",
+        "province": "AURORA",
+        "coordinates": {
+          "latitude": 15.7212349,
+          "longitude": 121.5197798,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "MORNING STEEL CONSTRUCTION",
+    "bidders": [
+      {
+        "name": "MORNING STEEL CONSTRUCTION (30698)",
+        "pcabId": "30698",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "JOHN DEE B. BUSTAMANTE CONSTRUCTION (30458)",
+        "pcabId": "30458",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION OF MULTI-PURPOSE BUILDING (COVERED WALK/PATHWAY, SAN LUIS CENTRAL SCHOOL), BRGY. 1, SAN LUIS, AURORA PROVINCE",
+      "abc": "4950000.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2018-06-08 00:00:00.0000000",
+      "bidSubmissionDeadline": "2018-06-29 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "4800610.86"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/ITB and Bid Docs for Aurora Various Projects.rar",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/contract_18cn0072.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/18CN0072 NOA.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/contract_18cn0072.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 15.7212349,
+    "longitude": 121.5197798,
+    "coordinates": [
+      {
+        "componentId": "P00248848LZ-CW1",
+        "description": "Construction of Other Facilities - Construction of Multi-Purpose Building (Covered Walk/Pathway, San Luis Central School), Brgy. 1, San Luis, Aurora Province",
+        "latitude": 15.7212349,
+        "longitude": 121.5197798,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

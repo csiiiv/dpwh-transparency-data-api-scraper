@@ -1,0 +1,147 @@
+{
+  "data": {
+    "contractId": "22DD0017",
+    "description": "ORGANIZATIONAL OUTCOME 1: ENSURE SAFE AND RELIABLE NATIONAL ROAD SYSTEM, ASSET PRESERVATION PROGRAM, CONSTRUCTION / UPGRADING / REHABILITATION OF DRAINAGE ALONG NATIONAL ROADS  -  SECONDARY ROADS, ROSARIO-SN JUAN RD - K0137 + 000 - K0138 + 299",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 46043801,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region IV-A",
+      "province": "Batangas 4th DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 13.8297389,
+        "longitude": 121.3632444,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "IKM BUILDERS AND CONSTRUCTION SUPPLY CORPORATION (FORMERLY: IKM BUILDERS & CONSTRUCTION SUPPLY) (30252)",
+    "startDate": "2022-01-28",
+    "completionDate": "2022-08-13",
+    "infraYear": "2022",
+    "contractEffectivityDate": "2022-01-28",
+    "expiryDate": "2022-08-13",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - Flood Control: Construction - Drainage (e.g., Closed and Open Conduits, Spillway), Roads: Rehabilitation - PCCP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00604024LZ-CW1",
+        "description": "Construction of Drainage Structure along Road - Rosario-Sn Juan Rd - K0137 + 000 - K0138 + 299",
+        "infraType": "Roads",
+        "typeOfWork": "Construction of Drainage Structure along Road",
+        "region": "Region IV-A",
+        "province": "BATANGAS",
+        "coordinates": {
+          "latitude": 13.8297389,
+          "longitude": 121.3632444,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00604024LZ-CW2",
+        "description": "Off-Carriageway Improvement: Paving of Shoulders - Rosario-Sn Juan Rd - K0137 + 000 - K0138 + 299",
+        "infraType": "Roads",
+        "typeOfWork": "Off-Carriageway Improvement: Paving of Shoulders",
+        "region": "Region IV-A",
+        "province": "BATANGAS",
+        "coordinates": {
+          "latitude": 13.8295611,
+          "longitude": 121.3639528,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00604024LZ-CW3",
+        "description": "Off-Carriageway Improvement: Construction of Sidewalk - Rosario-Sn Juan Rd - K0137 + 000 - K0138 + 299",
+        "infraType": "Roads",
+        "typeOfWork": "Off-Carriageway Improvement: Construction of Sidewalk",
+        "region": "Region IV-A",
+        "province": "BATANGAS",
+        "coordinates": {
+          "latitude": 13.8298694,
+          "longitude": 121.36235,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "IKM BUILDERS AND CONSTRUCTION SUPPLY CORPORATION (FORMERLY: IKM BUILDERS & CONSTRUCTION SUPPLY)",
+    "bidders": [
+      {
+        "name": "IKM BUILDERS AND CONSTRUCTION SUPPLY CORPORATION (FORMERLY: IKM BUILDERS & CONSTRUCTION SUPPLY) (30252)",
+        "pcabId": "30252",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "V.R. PATRON BUILDERS & DEVELOPERS CORP. (PREVIOUSL (13487)",
+        "pcabId": "13487",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "ORGANIZATIONAL OUTCOME 1: ENSURE SAFE AND RELIABLE NATIONAL ROAD SYSTEM, ASSET PRESERVATION PROGRAM, CONSTRUCTION / UPGRADING / REHABILITATION OF DRAINAGE ALONG NATIONAL ROADS  -  SECONDARY ROADS, ROSARIO-SN JUAN RD - K0137 + 000 - K0138 + 299",
+      "abc": "47457480.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2021-09-23 00:00:00.0000000",
+      "bidSubmissionDeadline": "2021-10-12 00:00:00.0000000",
+      "dateOfAward": "2022-01-26 00:00:00.0000000",
+      "awardAmount": "46043801"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/0BID DOCS 22DD0017.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/22DD0017 CA.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/22dd0017_noa.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/22DD0017 CA.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 13.8297389,
+    "longitude": 121.3632444,
+    "coordinates": [
+      {
+        "componentId": "P00604024LZ-CW1",
+        "description": "Construction of Drainage Structure along Road - Rosario-Sn Juan Rd - K0137 + 000 - K0138 + 299",
+        "latitude": 13.8297389,
+        "longitude": 121.3632444,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00604024LZ-CW2",
+        "description": "Off-Carriageway Improvement: Paving of Shoulders - Rosario-Sn Juan Rd - K0137 + 000 - K0138 + 299",
+        "latitude": 13.8295611,
+        "longitude": 121.3639528,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00604024LZ-CW3",
+        "description": "Off-Carriageway Improvement: Construction of Sidewalk - Rosario-Sn Juan Rd - K0137 + 000 - K0138 + 299",
+        "latitude": 13.8298694,
+        "longitude": 121.36235,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 10,
+      "latestImageDate": "2023-06-14 05:20:25.943000",
+      "hasImages": true
+    }
+  }
+}

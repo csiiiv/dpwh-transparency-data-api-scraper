@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "22MF0007",
+    "description": "MARBEL-ALLAH VALLEY-COTABATO ROAD - K1766+063-K1767+427",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 14638191.43,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region XII",
+      "province": "Sultan Kudarat 1st DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 6.622981,
+        "longitude": 124.598629,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "COFEJOK CONSTRUCTION AND SUPPLY CORPORATION (FORME (27493)",
+    "startDate": "2022-04-11",
+    "completionDate": "2022-10-23",
+    "infraYear": "2022",
+    "contractEffectivityDate": "2022-04-11",
+    "expiryDate": "2022-10-20",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2022 OO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00602475MN-CW1",
+        "description": "Off-Carriageway Improvement: Construction of Traffic Island - Marbel-Allah Valley-Cotabato Rd - K1766 + 063 - K1767 + 427",
+        "infraType": "Roads",
+        "typeOfWork": "Off-Carriageway Improvement: Construction of Traffic Island",
+        "region": "Region XII",
+        "province": "SULTAN KUDARAT",
+        "coordinates": {
+          "latitude": 6.622981,
+          "longitude": 124.598629,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "COFEJOK CONSTRUCTION AND SUPPLY CORPORATION (FORME",
+    "bidders": [
+      {
+        "name": "COFEJOK CONSTRUCTION AND SUPPLY CORPORATION (FORME (27493)",
+        "pcabId": "27493",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "A.L. ACHARON CONSTRUCTION AND SUPPLY (33068)",
+        "pcabId": "33068",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "MARBEL-ALLAH VALLEY-COTABATO ROAD - K1766+063-K1767+427",
+      "abc": "14657550.34",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2022-01-28 00:00:00.0000000",
+      "bidSubmissionDeadline": "2022-02-16 00:00:00.0000000",
+      "dateOfAward": "2022-03-23 00:00:00.0000000",
+      "awardAmount": "14642550.34"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/22MF0007.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/CONTRACT AGREEMENT 22GF0007.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/NOA-22MF0007.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/CONTRACT AGREEMENT 22GF0007.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 6.622981,
+    "longitude": 124.598629,
+    "coordinates": [
+      {
+        "componentId": "P00602475MN-CW1",
+        "description": "Off-Carriageway Improvement: Construction of Traffic Island - Marbel-Allah Valley-Cotabato Rd - K1766 + 063 - K1767 + 427",
+        "latitude": 6.622981,
+        "longitude": 124.598629,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 4,
+      "latestImageDate": "2023-12-13 01:14:22.224000",
+      "hasImages": true
+    }
+  }
+}

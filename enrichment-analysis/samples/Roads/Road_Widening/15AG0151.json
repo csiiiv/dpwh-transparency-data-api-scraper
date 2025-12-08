@@ -1,0 +1,109 @@
+{
+  "data": {
+    "contractId": "15AG0151",
+    "description": "IMPROVEMENT/WIDENING OF NATIONAL ROAD AT ALAMINOS-LUCAP ROAD KO321+107-KO321+587",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 19982982.73,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region I",
+      "province": "Pangasinan 1st DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 16.155836701367,
+        "longitude": 119.979042555579,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "JASA GD 2000 CONSTRUCTION CORPORATION (FORMERLY:JASA BUILDER'S) (31330)",
+    "startDate": "2016-01-14",
+    "completionDate": "2016-08-26",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-01-14",
+    "expiryDate": "2016-08-29",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00005402LZ-CW1",
+        "description": "Road Widening - Alaminos-Lucap Rd  - K0321+-107- K0321+587",
+        "infraType": "Roads",
+        "typeOfWork": "Road Widening",
+        "region": "Region I",
+        "province": "PANGASINAN",
+        "coordinates": {
+          "latitude": 16.155836701367,
+          "longitude": 119.979042555579,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "JASA GD 2000 CONSTRUCTION CORPORATION (FORMERLY:JASA BUILDER'S)",
+    "bidders": [
+      {
+        "name": "JASA GD 2000 CONSTRUCTION CORPORATION (FORMERLY:JASA BUILDER'S) (31330)",
+        "pcabId": "31330",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "ALCEL CONSTRUCTION (15129)",
+        "pcabId": "15129",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "BERSON'S CONSTRUCTION & TRADING (31181)",
+        "pcabId": "31181",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "IMPROVEMENT/WIDENING OF NATIONAL ROAD AT ALAMINOS-LUCAP ROAD KO321+107-KO321+587",
+      "abc": "19999944.36",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-11-23 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-12-14 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "18982812.7200000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/april/15AG0151CONTRACT.pdf",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/april/15AG0151AWARD.pdf",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/april/15AG0151CONTRACT.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 16.155836701367,
+    "longitude": 119.979042555579,
+    "coordinates": [
+      {
+        "componentId": "P00005402LZ-CW1",
+        "description": "Road Widening - Alaminos-Lucap Rd  - K0321+-107- K0321+587",
+        "latitude": 16.155836701367,
+        "longitude": 119.979042555579,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "18CN0067",
+    "description": "REHABILITATION OF ONE (1) STOREY, 4 CLASSROOM BUILDING, DILASAG NATIONAL HIGH SCHOOL, BRGY. MASAGANA, DILASAG, AURORA PROVINCE",
+    "category": "Buildings and Facilities",
+    "status": "Completed",
+    "budget": 968451.12,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region III",
+      "province": "Aurora DEO",
+      "infraType": "Buildings and Facilities",
+      "coordinates": {
+        "latitude": 16.3935064,
+        "longitude": 122.2135202,
+        "verified": false
+      }
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "RADIANCE TRADERS & BUILDERS (32891)",
+    "startDate": "2018-08-03",
+    "completionDate": "2018-10-15",
+    "infraYear": "2018",
+    "contractEffectivityDate": "2018-08-03",
+    "expiryDate": "2018-10-01",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2018 LP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00255935LZ-CW1",
+        "description": "Rehabilitation / Major Repair of 1-Storey Classrooms - Rehabilitation of One (1) Storey, 4 Classroom Building, Dilasag National High School), Brgy. Masagana, Dilasag, Aurora Province",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Rehabilitation / Major Repair of 1-Storey Classrooms",
+        "region": "Region III",
+        "province": "AURORA",
+        "coordinates": {
+          "latitude": 16.3935064,
+          "longitude": 122.2135202,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "RADIANCE TRADERS & BUILDERS",
+    "bidders": [
+      {
+        "name": "RADIANCE TRADERS & BUILDERS (32891)",
+        "pcabId": "32891",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "SO CONSTRUCTION (17714)",
+        "pcabId": "17714",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "REHABILITATION OF ONE (1) STOREY, 4 CLASSROOM BUILDING, DILASAG NATIONAL HIGH SCHOOL, BRGY. MASAGANA, DILASAG, AURORA PROVINCE",
+      "abc": "990000.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2018-06-20 00:00:00.0000000",
+      "bidSubmissionDeadline": "2018-07-10 00:00:00.0000000",
+      "dateOfAward": "2018-07-27 00:00:00.0000000",
+      "awardAmount": "968451.12"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/18CN0066,67,68,70,88.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/18cn0067_ca_.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/NOA 18CN0067.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/18cn0067_ca_.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 16.3935064,
+    "longitude": 122.2135202,
+    "coordinates": [
+      {
+        "componentId": "P00255935LZ-CW1",
+        "description": "Rehabilitation / Major Repair of 1-Storey Classrooms - Rehabilitation of One (1) Storey, 4 Classroom Building, Dilasag National High School), Brgy. Masagana, Dilasag, Aurora Province",
+        "latitude": 16.3935064,
+        "longitude": 122.2135202,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

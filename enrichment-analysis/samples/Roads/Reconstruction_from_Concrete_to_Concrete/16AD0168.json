@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "16AD0168",
+    "description": "REHAB/RECONSTRUCTION/UPGRADING OF DAMAGED PAVED NATIONAL ROADS INCLUDING DRAINAGE BASED N PAVEMENT MANAGEMENT SYSTEM/HIGHWAY DEVELOPMENT & MANAGEMENT-4 (HDM-4). ILOCOS SUR-ABRA ROAD, K0380+858-K0381+000",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 3621032.64,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region I",
+      "province": "Ilocos Sur 2nd DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 17.4657555434038,
+        "longitude": 120.47974064197,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "M.A. TEJADA CONSTRUCTION (32128)",
+    "startDate": "2017-03-09",
+    "completionDate": "2017-06-13",
+    "infraYear": "2017",
+    "contractEffectivityDate": "2017-03-09",
+    "expiryDate": "2017-05-17",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2017 MFO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00102075LZ-CW1",
+        "description": "Reconstruction from Concrete to Concrete - Ilocos Sur-Abra Rd - K0380 + 858 - K0381 + 000",
+        "infraType": "Roads",
+        "typeOfWork": "Reconstruction from Concrete to Concrete",
+        "region": "Region I",
+        "province": "ILOCOS SUR",
+        "coordinates": {
+          "latitude": 17.4657555434038,
+          "longitude": 120.47974064197,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "M.A. TEJADA CONSTRUCTION",
+    "bidders": [
+      {
+        "name": "M.A. TEJADA CONSTRUCTION (32128)",
+        "pcabId": "32128",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "CLEOFEL CONSTRUCTION (31515)",
+        "pcabId": "31515",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "REHAB/RECONSTRUCTION/UPGRADING OF DAMAGED PAVED NATIONAL ROADS INCLUDING DRAINAGE BASED N PAVEMENT MANAGEMENT SYSTEM/HIGHWAY DEVELOPMENT & MANAGEMENT-4 (HDM-4). ILOCOS SUR-ABRA ROAD, K0380+858-K0381+000",
+      "abc": "3811220.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-12-09 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-01-04 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "3,621,765.11"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/16AD0168 CA021.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/16AD0168 NOA020.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/16AD0168 CA021.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 17.4657555434038,
+    "longitude": 120.47974064197,
+    "coordinates": [
+      {
+        "componentId": "P00102075LZ-CW1",
+        "description": "Reconstruction from Concrete to Concrete - Ilocos Sur-Abra Rd - K0380 + 858 - K0381 + 000",
+        "latitude": 17.4657555434038,
+        "longitude": 120.47974064197,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

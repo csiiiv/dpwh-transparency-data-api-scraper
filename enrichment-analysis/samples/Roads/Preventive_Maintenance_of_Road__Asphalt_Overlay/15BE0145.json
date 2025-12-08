@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "15BE0145",
+    "description": "ASPHALT OVERLAY ALONG CABAGAN-STA.MARIA RD. INCLUDING SHOULDER(BOTHSIDES), CABAGAN, ISABELA(K0448+78",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 16684484.06,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region II",
+      "province": "Isabela 1st DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 17.4270973939183,
+        "longitude": 121.760659874528,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "JERCON TRADE CONSTRUCTION DEVELOPMENT CORP (FROMERLY: CAUAYAN UNITED ENTERPRISES & CONST. BUILDERS) (8816)",
+    "startDate": "2016-03-27",
+    "completionDate": "2016-06-11",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-03-27",
+    "expiryDate": "2016-06-17",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00008000LZ-CW1",
+        "description": "Preventive Maintenance of Road: Asphalt Overlay - Cabagan-Sta Maria Rd - K0448+787 - K0449+800",
+        "infraType": "Roads",
+        "typeOfWork": "Preventive Maintenance of Road: Asphalt Overlay",
+        "region": "Region II",
+        "province": "ISABELA",
+        "coordinates": {
+          "latitude": 17.4270973939183,
+          "longitude": 121.760659874528,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "JERCON TRADE CONSTRUCTION DEVELOPMENT CORP (FROMERLY: CAUAYAN UNITED ENTERPRISES & CONST. BUILDERS)",
+    "bidders": [
+      {
+        "name": "JERCON TRADE CONSTRUCTION DEVELOPMENT CORP (FROMERLY: CAUAYAN UNITED ENTERPRISES & CONST. BUILDERS) (8816)",
+        "pcabId": "8816",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "RRC CO. INC. (FORMERLY: R R C CONSTRUCTION) (24369)",
+        "pcabId": "24369",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "ASPHALT OVERLAY ALONG CABAGAN-STA.MARIA RD. INCLUDING SHOULDER(BOTHSIDES), CABAGAN, ISABELA(K0448+78",
+      "abc": "16684485.38",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-11-17 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-12-07 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "15848338.3300000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/15be0145_notice_of_award.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/15be0145_ntp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 17.4270973939183,
+    "longitude": 121.760659874528,
+    "coordinates": [
+      {
+        "componentId": "P00008000LZ-CW1",
+        "description": "Preventive Maintenance of Road: Asphalt Overlay - Cabagan-Sta Maria Rd - K0448+787 - K0449+800",
+        "latitude": 17.4270973939183,
+        "longitude": 121.760659874528,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

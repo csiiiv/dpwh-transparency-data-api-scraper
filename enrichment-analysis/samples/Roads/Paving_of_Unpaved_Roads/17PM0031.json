@@ -1,0 +1,97 @@
+{
+  "data": {
+    "contractId": "17PM0031",
+    "description": "NETWORK DEVELOPMENT-PAVING OF UNPAVED ROADS, TERTIARY ROADS JCT. TALUBIN-BARLIG-NATONIN-PARACELIS-CALACCAD RD (S03997LZ) K0457+069 - K0457+218",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 5809708.99,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Cordillera Administrative Region",
+      "province": "Mountain Province 2nd DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 17.153555,
+        "longitude": 121.3508883,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "VUC HIGHLAND DEVELOPERS INC. (FORMERLY: VUC ENGINEERING) (7918)",
+    "startDate": "2018-02-19",
+    "completionDate": "2018-05-31",
+    "infraYear": "2018",
+    "contractEffectivityDate": "2018-02-19",
+    "expiryDate": "2018-03-29",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2018 OO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00202360LZ-CW1",
+        "description": "Paving of Unpaved Roads - Jct Talubin-Barlig-Natonin-Paracelis-Calaccad Rd - K0457+069 - K0457+218",
+        "infraType": "Roads",
+        "typeOfWork": "Paving of Unpaved Roads",
+        "region": "Cordillera Administrative Region",
+        "province": "SOUTHERN LEYTE",
+        "coordinates": {
+          "latitude": 17.153555,
+          "longitude": 121.3508883,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "VUC HIGHLAND DEVELOPERS INC. (FORMERLY: VUC ENGINEERING)",
+    "bidders": [
+      {
+        "name": "VUC HIGHLAND DEVELOPERS INC. (FORMERLY: VUC ENGINEERING) (7918)",
+        "pcabId": "7918",
+        "participation": 100,
+        "isWinner": true
+      }
+    ],
+    "procurement": {
+      "contractName": "NETWORK DEVELOPMENT-PAVING OF UNPAVED ROADS, TERTIARY ROADS JCT. TALUBIN-BARLIG-NATONIN-PARACELIS-CALACCAD RD (S03997LZ) K0457+069 - K0457+218",
+      "abc": "5868786.68",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2017-10-16 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-11-06 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "5809708.99"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/17PM0031.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/17pm0031_contract_agreement.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/17pm0031_noa.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/17pm0031_ntp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 17.153555,
+    "longitude": 121.3508883,
+    "coordinates": [
+      {
+        "componentId": "P00202360LZ-CW1",
+        "description": "Paving of Unpaved Roads - Jct Talubin-Barlig-Natonin-Paracelis-Calaccad Rd - K0457+069 - K0457+218",
+        "latitude": 17.153555,
+        "longitude": 121.3508883,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

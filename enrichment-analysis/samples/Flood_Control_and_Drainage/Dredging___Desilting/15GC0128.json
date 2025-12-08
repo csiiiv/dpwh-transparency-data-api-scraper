@@ -1,0 +1,115 @@
+{
+  "data": {
+    "contractId": "15GC0128",
+    "description": "DREDGING IN MAGSUNGAY RIVER STA. 0+000 TO STA.1+800,BRGY. SINCGANG, BACOLOD CITY",
+    "category": "Flood Control and Drainage",
+    "status": "Completed",
+    "budget": 18553767.19,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Negros Island Region",
+      "province": "Bacolod City DEO",
+      "infraType": "Flood Control and Drainage",
+      "coordinates": null
+    },
+    "infraType": "Flood Control and Drainage",
+    "contractor": "ESJ AND SONS CONSTRUCTION & CONSTRUCTION SUPPLY, INC. (FORM.:ALFIE'S CONST. &CONST. SUPPLY, INC.) (17162)",
+    "startDate": "2016-02-14",
+    "completionDate": "2017-12-01",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-02-14",
+    "expiryDate": "2016-06-12",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-2",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00022431VS-CW1",
+        "description": "Dredging / Desilting - Dredging in Magsungay River, Sta. 0+000 - Sta. 0+800, Brgys. Singcang-Airport and Alijis, Bacolod City",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Dredging / Desilting",
+        "region": "Negros Island Region",
+        "province": "NEGROS OCCIDENTAL",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "ESJ AND SONS CONSTRUCTION & CONSTRUCTION SUPPLY, INC. (FORM.:ALFIE'S CONST. &CONST. SUPPLY, INC.)",
+    "bidders": [
+      {
+        "name": "ESJ AND SONS CONSTRUCTION & CONSTRUCTION SUPPLY, INC. (FORM.:ALFIE'S CONST. &CONST. SUPPLY, INC.) (17162)",
+        "pcabId": "17162",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "F. GURREA CONSTRUCTION, INCORPORATED (6995)",
+        "pcabId": "6995",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "IBC INTERNATIONAL BUILDERS CORPORATION (8576)",
+        "pcabId": "8576",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "LEGACY CONSTRUCTION CORPORATION (FORMERLY: LEGACY CONSTRUCTION) (22465)",
+        "pcabId": "22465",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "ST. RAYMUND CONSTRUCTION, INC. (19242)",
+        "pcabId": "19242",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "SUPREME ABF CONST. & CONST. SUPPLY COMPANY INC. (25226)",
+        "pcabId": "25226",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "UNITEC BUILDER, INCORPORATED (4803)",
+        "pcabId": "4803",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "DREDGING IN MAGSUNGAY RIVER  STA. 0+000 TO STA.1+800, BRGY. SINCGANG, BACOLOD CITY",
+      "abc": "19600000.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-12-29 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-01-20 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "18553767.1900000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/june/CON120.pdf",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/june/NOA118.pdf",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/june/CON120.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

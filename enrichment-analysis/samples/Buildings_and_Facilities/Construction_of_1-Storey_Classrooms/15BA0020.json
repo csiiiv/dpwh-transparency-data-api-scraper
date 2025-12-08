@@ -1,0 +1,79 @@
+{
+  "data": {
+    "contractId": "15BA0020",
+    "description": "CONST OF BATANES NATIONAL SCIENCE HIGH SCHOOL, BASCO, BATANES",
+    "category": "Buildings and Facilities",
+    "status": "Completed",
+    "budget": 4549821.3,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region II",
+      "province": "Batanes DEO",
+      "infraType": "Buildings and Facilities",
+      "coordinates": null
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "DEKM CONSTRUCTION (32409)",
+    "startDate": "2016-02-26",
+    "completionDate": "2016-06-15",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-02-26",
+    "expiryDate": "2016-06-24",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 Locally Funded Projects",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00040071LZ-CW1",
+        "description": "Construction of 1-Storey Classrooms - Construction of Batanes National Science High School Classrooms, Barangay San Antonio, Basco, Batanes",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of 1-Storey Classrooms",
+        "region": "Region II",
+        "province": "BATANES",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "DEKM CONSTRUCTION",
+    "bidders": [
+      {
+        "name": "DEKM CONSTRUCTION (32409)",
+        "pcabId": "32409",
+        "participation": 100,
+        "isWinner": true
+      }
+    ],
+    "procurement": {
+      "contractName": "CONST OF BATANES NATIONAL SCIENCE HIGH SCHOOL, BASCO, BATANES",
+      "abc": "4554000.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-11-13 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-12-10 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "4549821.3000000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "",
+      "noticeOfAward": "",
+      "noticeToProceed": "",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "data": {
+    "contractId": "24AE0029",
+    "description": "SPECIAL ROAD FUND - MOTOR VEHICLE USER'S CHARGE (MVUC) AS PER R.A. 11239 - INSTALLATION OF SIGNAGE AND PAVEMENT MARKINGS ALONG JUNCTION ALONG SN FERNANDO - BAGULIN RD - K270+(-500), BARANGAY TANQUI, SAN FERNANDO CITY, LA UNION",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 4477077.03,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region I",
+      "province": "La Union 1st DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 16.6162294,
+        "longitude": 120.3182758,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "RAPHAEIL CONSTRUCTION (34801)",
+    "startDate": "2024-02-19",
+    "completionDate": "2024-04-30",
+    "infraYear": "2024",
+    "contractEffectivityDate": "2024-02-19",
+    "expiryDate": "2024-05-12",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2024 SSP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00837533LZ-CW1",
+        "description": "Road Safety: Pavement Markings - Installation of Signage and Pavement Markings along Junction along Sn Fernando-Bagulin Rd - K0270 + (-500), Barangay Tanqui, San Fernando City, La Union",
+        "infraType": "Roads",
+        "typeOfWork": "Road Safety: Pavement Markings",
+        "region": "Region I",
+        "province": "LA UNION",
+        "coordinates": {
+          "latitude": 16.6162294,
+          "longitude": 120.3182758,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "RAPHAEIL CONSTRUCTION",
+    "bidders": [
+      {
+        "name": "RAPHAEIL CONSTRUCTION (34801)",
+        "pcabId": "34801",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "D.C. GALVEZ CONSTRUCTION (49196)",
+        "pcabId": "49196",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "JMBM CONSTRUCTION (32955)",
+        "pcabId": "32955",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "SPECIAL ROAD FUND - MOTOR VEHICLE USER'S CHARGE (MVUC) AS PER R.A. 11239 - INSTALLATION OF SIGNAGE AND PAVEMENT MARKINGS ALONG JUNCTION ALONG SN FERNANDO - BAGULIN RD - K270+(-500), BARANGAY TANQUI, SAN FERNANDO CITY, LA UNION",
+      "abc": "4478598.06",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2023-10-07 00:00:00.0000000",
+      "bidSubmissionDeadline": "2023-10-31 00:00:00.0000000",
+      "dateOfAward": "2024-02-05 00:00:00.0000000",
+      "awardAmount": "4296058.34"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/24ae0029.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/24ae0029_ca.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/24ae0029_noa_reso.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/24ae0029_ntp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 16.6162294,
+    "longitude": 120.3182758,
+    "coordinates": [
+      {
+        "componentId": "P00837533LZ-CW1",
+        "description": "Road Safety: Pavement Markings - Installation of Signage and Pavement Markings along Junction along Sn Fernando-Bagulin Rd - K0270 + (-500), Barangay Tanqui, San Fernando City, La Union",
+        "latitude": 16.6162294,
+        "longitude": 120.3182758,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 2,
+      "latestImageDate": "2024-07-29 09:10:21.896000",
+      "hasImages": true
+    }
+  }
+}

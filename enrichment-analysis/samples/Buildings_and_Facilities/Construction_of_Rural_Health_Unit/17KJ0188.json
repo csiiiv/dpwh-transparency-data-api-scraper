@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "17KJ0188",
+    "description": "ESTABLISHMENT AND CONSTRUCTION OF SATELLITE TREATMENT AND REHABILITATION CENTER, TANGUB CITY",
+    "category": "Buildings and Facilities",
+    "status": "Completed",
+    "budget": 10088893.98,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region X",
+      "province": "Misamis Occidental 2nd DEO",
+      "infraType": "Buildings and Facilities",
+      "coordinates": {
+        "latitude": 8.135587,
+        "longitude": 123.690064,
+        "verified": false
+      }
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "GENETIAN BUILDERS AND ENTERPRISES INCORPORATED (FORMERLY: GENETIAN BUILDERS) (18052)",
+    "startDate": "2018-02-09",
+    "completionDate": "2020-08-24",
+    "infraYear": "2017",
+    "contractEffectivityDate": "2018-02-09",
+    "expiryDate": "2018-06-08",
+    "nysReason": null,
+    "programName": "Outside Infra",
+    "sourceOfFunds": "Outside Infra - GAA 2017 DOH HFEP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00197001MN-CW1",
+        "description": "Construction of Rural Health Unit - Construction of Satellite Treatment and Rehabilitation Center, Tangub City, Misamis Occidental",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of Rural Health Unit",
+        "region": "Region X",
+        "province": "MISAMIS OCCIDENTAL",
+        "coordinates": {
+          "latitude": 8.135587,
+          "longitude": 123.690064,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "GENETIAN BUILDERS AND ENTERPRISES INCORPORATED (FORMERLY: GENETIAN BUILDERS)",
+    "bidders": [
+      {
+        "name": "GENETIAN BUILDERS AND ENTERPRISES INCORPORATED (FORMERLY: GENETIAN BUILDERS) (18052)",
+        "pcabId": "18052",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "CMA CONSTRUCTION (41345)",
+        "pcabId": "41345",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "ESTABLISHMENT AND CONSTRUCTION OF SATELLITE TREATMENT AND REHABILITATION CENTER, TANGUB CITY",
+      "abc": "10395000.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2017-11-23 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-12-12 00:00:00.0000000",
+      "dateOfAward": "2018-01-15 00:00:00.0000000",
+      "awardAmount": "10088893.98"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/ITB- 17KJ0188.pdf",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/contract_17kj0188.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/17KJ0188.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/ntp_17kj0188.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 8.135587,
+    "longitude": 123.690064,
+    "coordinates": [
+      {
+        "componentId": "P00197001MN-CW1",
+        "description": "Construction of Rural Health Unit - Construction of Satellite Treatment and Rehabilitation Center, Tangub City, Misamis Occidental",
+        "latitude": 8.135587,
+        "longitude": 123.690064,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "data": {
+    "contractId": "18GB0212",
+    "description": "REHABILITATION OF OLD PROVINCIAL CAPITOL (PHASE 2), SAN JOSE DE BUENAVISTA, ANTIQUE",
+    "category": "Buildings and Facilities",
+    "status": "Completed",
+    "budget": 28713999.93,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region VI",
+      "province": "Antique DEO",
+      "infraType": "Buildings and Facilities",
+      "coordinates": {
+        "latitude": 10.7442,
+        "longitude": 121.9422733,
+        "verified": false
+      }
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "EC STRUCTURAL COMPOSITES, INC. (31961)",
+    "startDate": "2019-10-18",
+    "completionDate": "2020-12-23",
+    "infraYear": "2018",
+    "contractEffectivityDate": "2019-10-18",
+    "expiryDate": "2020-07-28",
+    "nysReason": null,
+    "programName": "Outside Infra",
+    "sourceOfFunds": "Outside Infra - Trust Funds 2018",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00299794VS-CW1",
+        "description": "Repair/Rehabilitation of Other Buildings - Rehabilitation of Old Antique Provincial Capitol (Phase 2), San Jose de Buenavista, Antique",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Repair/Rehabilitation of Other Buildings",
+        "region": "Region VI",
+        "province": "ANTIQUE",
+        "coordinates": {
+          "latitude": 10.7442,
+          "longitude": 121.9422733,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "EC STRUCTURAL COMPOSITES, INC.",
+    "bidders": [
+      {
+        "name": "EC STRUCTURAL COMPOSITES, INC. (31961)",
+        "pcabId": "31961",
+        "participation": 100,
+        "isWinner": true
+      }
+    ],
+    "procurement": {
+      "contractName": "REHABILITATION OF OLD PROVINCIAL CAPITOL (PHASE 2), SAN JOSE DE BUENAVISTA, ANTIQUE",
+      "abc": "29300000.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2018-12-14 00:00:00.0000000",
+      "bidSubmissionDeadline": "2019-04-16 00:00:00.0000000",
+      "dateOfAward": "2019-05-23 00:00:00.0000000",
+      "awardAmount": "28713999.93"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/18GB0212-BIDDING DOCS-final.pdf",
+      "contractAgreement": "",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/award212.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/ntp212.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 10.7442,
+    "longitude": 121.9422733,
+    "coordinates": [
+      {
+        "componentId": "P00299794VS-CW1",
+        "description": "Repair/Rehabilitation of Other Buildings - Rehabilitation of Old Antique Provincial Capitol (Phase 2), San Jose de Buenavista, Antique",
+        "latitude": 10.7442,
+        "longitude": 121.9422733,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

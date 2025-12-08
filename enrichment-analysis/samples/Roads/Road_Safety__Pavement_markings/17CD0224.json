@@ -1,0 +1,121 @@
+{
+  "data": {
+    "contractId": "17CD0224",
+    "description": "THERMOPLASTIC PAVEMENT MARKINGS, GEN. ALEJO SANTOS HIGHWAY (S01389LZ) & NORZAGARAY BIGTE ROAD (S01388LZ) K0058+(-153) TO K0069+2471, K0071+(-180) TO K0078+889",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 5171920.36,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region III",
+      "province": "Bulacan 2nd DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 14.9071984237767,
+        "longitude": 121.043022897188,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "PHILIPPINE CHEMSTEEL INDUSTRIES, INC. (16965)",
+    "startDate": "2017-10-16",
+    "completionDate": "2017-12-14",
+    "infraYear": "2017",
+    "contractEffectivityDate": "2017-10-16",
+    "expiryDate": "2017-12-14",
+    "nysReason": null,
+    "programName": "Outside Infra",
+    "sourceOfFunds": "Outside Infra - Special Road Support Fund 2017",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00190144LZ-CW1",
+        "description": "Road Safety: Pavement markings - Thermoplastic Pavement Markings along Gen. Alejo Santos Highway (S01389LZ) & Norzagaray-Bigte Road (S01388LZ), K0058+(-153) to K0069+2471 & K0071+(-180) to K0078+889",
+        "infraType": "Roads",
+        "typeOfWork": "Road Safety: Pavement markings",
+        "region": "Region III",
+        "province": "BULACAN",
+        "coordinates": {
+          "latitude": 14.9071984237767,
+          "longitude": 121.043022897188,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "PHILIPPINE CHEMSTEEL INDUSTRIES, INC.",
+    "bidders": [
+      {
+        "name": "PHILIPPINE CHEMSTEEL INDUSTRIES, INC. (16965)",
+        "pcabId": "16965",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "ANGKAT CONSTRUCTION AND SUPPLIES (34328)",
+        "pcabId": "34328",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "CGGFR CONSTRUCTION & CONSTRUCTION SUPPLY (37075)",
+        "pcabId": "37075",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "JQM CONSTRUCTION AND TRADING (36354)",
+        "pcabId": "36354",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "SILVERGRACES CONSTRUCTION AND CONSTRUCTION SUPPLY (36158)",
+        "pcabId": "36158",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "THERMOPLASTIC PAVEMENT MARKINGS, GEN. ALEJO SANTOS HIGHWAY (S01389LZ) & NORZAGARAY BIGTE ROAD (S01388LZ) K0058+(-153) TO K0069+2471, K0071+(-180) TO K0078+889",
+      "abc": "5444126.33",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2017-08-24 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-09-14 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "5,171,920.36"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/CA.docx",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/NOA.docx",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/NTP.docx",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 14.9071984237767,
+    "longitude": 121.043022897188,
+    "coordinates": [
+      {
+        "componentId": "P00190144LZ-CW1",
+        "description": "Road Safety: Pavement markings - Thermoplastic Pavement Markings along Gen. Alejo Santos Highway (S01389LZ) & Norzagaray-Bigte Road (S01388LZ), K0058+(-153) to K0069+2471 & K0071+(-180) to K0078+889",
+        "latitude": 14.9071984237767,
+        "longitude": 121.043022897188,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

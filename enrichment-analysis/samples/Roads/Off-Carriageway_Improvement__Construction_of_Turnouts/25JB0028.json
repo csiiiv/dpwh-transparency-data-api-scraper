@@ -1,0 +1,125 @@
+{
+  "data": {
+    "contractId": "25JB0028",
+    "description": "OFF-CARRIAGEWAY IMPROVEMENT JCT. PULAUAN PORT RD. K1827+(-322)-K1828+562",
+    "category": "Roads",
+    "status": "On-Going",
+    "budget": 3910000,
+    "amountPaid": 0,
+    "progress": 15.84,
+    "location": {
+      "region": "Region IX",
+      "province": "Zamboanga del Norte 1st DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 8.6257391,
+        "longitude": 123.3904079,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "A.I.YU BUILDERS & ENTERPRISES (35586)",
+    "startDate": "2025-03-25",
+    "completionDate": null,
+    "infraYear": "2025",
+    "contractEffectivityDate": "2025-03-25",
+    "expiryDate": "2025-06-29",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2025 OO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00909281MN-CW1",
+        "description": "Off-Carriageway Improvement: Construction of Turnouts - Jct Pulauan Port Rd - K1827 + (-322) - K1828 + 562",
+        "infraType": "Roads",
+        "typeOfWork": "Off-Carriageway Improvement: Construction of Turnouts",
+        "region": "Region IX",
+        "province": "ZAMBOANGA DEL NORTE",
+        "coordinates": {
+          "latitude": 8.6257391,
+          "longitude": 123.3904079,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00909281MN-CW2",
+        "description": "Construction of Drainage Structure along Road - Jct Pulauan Port Rd - K1827 + (-322) - K1828 + 562",
+        "infraType": "Roads",
+        "typeOfWork": "Construction of Drainage Structure along Road",
+        "region": "Region IX",
+        "province": "ZAMBOANGA DEL NORTE",
+        "coordinates": {
+          "latitude": 8.6257325,
+          "longitude": 123.390405,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "A.I.YU BUILDERS & ENTERPRISES",
+    "bidders": [
+      {
+        "name": "A.I.YU BUILDERS & ENTERPRISES (35586)",
+        "pcabId": "35586",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "GOLDEN LION CONSTRUCTION (48207)",
+        "pcabId": "48207",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "OFF-CARRIAGEWAY IMPROVEMENT JCT. PULAUAN PORT RD. K1827+(-322)-K1828+562",
+      "abc": "3920000.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2024-10-18 00:00:00.0000000",
+      "bidSubmissionDeadline": "2024-11-08 00:00:00.0000000",
+      "dateOfAward": "2025-03-05 00:00:00.0000000",
+      "awardAmount": "3910000"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/turn-outs_pulauan.pdf",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/contract_028.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/noa25825030518190.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/ntp_0028_22c-825032516520.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 8.6257391,
+    "longitude": 123.3904079,
+    "coordinates": [
+      {
+        "componentId": "P00909281MN-CW1",
+        "description": "Off-Carriageway Improvement: Construction of Turnouts - Jct Pulauan Port Rd - K1827 + (-322) - K1828 + 562",
+        "latitude": 8.6257391,
+        "longitude": 123.3904079,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00909281MN-CW2",
+        "description": "Construction of Drainage Structure along Road - Jct Pulauan Port Rd - K1827 + (-322) - K1828 + 562",
+        "latitude": 8.6257325,
+        "longitude": 123.390405,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 4,
+      "latestImageDate": "2025-09-26 00:47:45.138000",
+      "hasImages": true
+    }
+  }
+}

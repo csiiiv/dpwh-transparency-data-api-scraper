@@ -1,0 +1,85 @@
+{
+  "data": {
+    "contractId": "15BD0097",
+    "description": "CONSTRUCTION OF 1 CLASSROOM, CASINGSINGAN ELEMENTARY SCHOOL, BARANGAY CASINGSINGAN SUR, AMULUNG, CAGAYAN",
+    "category": "Buildings and Facilities",
+    "status": "Completed",
+    "budget": 993651.24,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region II",
+      "province": "Cagayan 3rd DEO",
+      "infraType": "Buildings and Facilities",
+      "coordinates": null
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "OML CONSTRUCTION (38277)",
+    "startDate": "2016-01-28",
+    "completionDate": "2016-05-10",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-01-28",
+    "expiryDate": "2016-03-27",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 Locally Funded Projects",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00040082LZ-CW1",
+        "description": "Construction of 1-Storey Classrooms - Construction of 1 classroom at Casingsingan Elementary School, Casingsingan Sur, Amulung, Cagayan 3rd LD",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of 1-Storey Classrooms",
+        "region": "Region II",
+        "province": "CAGAYAN",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "OML CONSTRUCTION",
+    "bidders": [
+      {
+        "name": "OML CONSTRUCTION (38277)",
+        "pcabId": "38277",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "JJJARNS CONSTRUCTION (35952)",
+        "pcabId": "35952",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION OF 1 CLASSROOM, CASINGSINGAN ELEMENTARY SCHOOL, BARANGAY CASINGSINGAN SUR, AMULUNG, CAGAYAN",
+      "abc": "999861.55",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-11-26 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-12-15 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "993651.2400000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/may/15BD0097-CONTRACT.pdf",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/may/15BD0097-NOA.pdf",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/may/15BD0097-CONTRACT.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

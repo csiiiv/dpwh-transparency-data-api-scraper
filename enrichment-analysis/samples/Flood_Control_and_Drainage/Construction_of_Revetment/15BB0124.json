@@ -1,0 +1,115 @@
+{
+  "data": {
+    "contractId": "15BB0124",
+    "description": "CONST OF CONC REVETMENT ON STEEL SHEET PILES AND HEXAPOD TUEG, BAGGAO, CAGAYAN",
+    "category": "Flood Control and Drainage",
+    "status": "Completed",
+    "budget": 40420907.77,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region II",
+      "province": "Cagayan 1st DEO",
+      "infraType": "Flood Control and Drainage",
+      "coordinates": {
+        "latitude": 17.91333,
+        "longitude": 121.82111,
+        "verified": false
+      }
+    },
+    "infraType": "Flood Control and Drainage",
+    "contractor": "WERR CORPORATION INTERNATIONAL (14133)",
+    "startDate": "2016-03-08",
+    "completionDate": "2018-06-01",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-03-08",
+    "expiryDate": "2016-08-25",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-2",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00020369LZ-CW1",
+        "description": "Construction of Revetment - Construction of Concrete Revetment on Steel Sheet Piles and Hexapod, Sta. 535+356 - Sta. 535+502.30, Tueg, Baggao, Cagayan",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Construction of Revetment",
+        "region": "Region II",
+        "province": "CAGAYAN",
+        "coordinates": {
+          "latitude": 17.91333,
+          "longitude": 121.82111,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "WERR CORPORATION INTERNATIONAL",
+    "bidders": [
+      {
+        "name": "WERR CORPORATION INTERNATIONAL (14133)",
+        "pcabId": "14133",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "BICOL GOLDROCK CONSTRUCTION CORPORATION (32376)",
+        "pcabId": "32376",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "G.C.I.  CONSTRUCTION AND DEV'T. CORP. (11346)",
+        "pcabId": "11346",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "SYNDTITE CONSTRUCTION CORPORATION (FORMERLY: R.C. TAGALA CONSTRUCTION) (11597)",
+        "pcabId": "11597",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONST OF CONC REVETMENT ON STEEL SHEET PILES AND HEXAPOD TUEG, BAGGAO, CAGAYAN",
+      "abc": "48642800.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-11-16 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-12-08 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "40420907.7700000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/june/15BB0124-002.pdf",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/june/15BB0124-003.pdf",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/june/15BB0124-002.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 17.91333,
+    "longitude": 121.82111,
+    "coordinates": [
+      {
+        "componentId": "P00020369LZ-CW1",
+        "description": "Construction of Revetment - Construction of Concrete Revetment on Steel Sheet Piles and Hexapod, Sta. 535+356 - Sta. 535+502.30, Tueg, Baggao, Cagayan",
+        "latitude": 17.91333,
+        "longitude": 121.82111,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

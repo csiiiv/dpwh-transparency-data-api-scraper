@@ -1,0 +1,85 @@
+{
+  "data": {
+    "contractId": "15D00087",
+    "description": "LOCAL INFRA PROGRAM (LIP) LOCAL BRIDGES CONST. OF SAN FRANCISCO-SAN JUAN BR. INCL. APP., TIAONG, QUE",
+    "category": "Bridges",
+    "status": "Completed",
+    "budget": 68119051.7,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region IV-A",
+      "province": "Region IV-A",
+      "infraType": "Bridges",
+      "coordinates": null
+    },
+    "infraType": "Bridges",
+    "contractor": "V.R. PATRON BUILDERS & DEVELOPERS CORP. (PREVIOUSL (13487)",
+    "startDate": "2016-01-26",
+    "completionDate": "2019-06-17",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-01-26",
+    "expiryDate": "2018-08-06",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 Locally Funded Projects",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00047095LZ-CW1",
+        "description": "Construction of Bridge - Construction of San Francisco-San Juan Bridge including Approaches, Tiaong, Quezon",
+        "infraType": "Bridges",
+        "typeOfWork": "Construction of Bridge",
+        "region": "Region IV-A",
+        "province": "QUEZON",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "V.R. PATRON BUILDERS & DEVELOPERS CORP. (PREVIOUSL",
+    "bidders": [
+      {
+        "name": "V.R. PATRON BUILDERS & DEVELOPERS CORP. (PREVIOUSL (13487)",
+        "pcabId": "13487",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "HONEYVILLECONST AND DEVELOPMENT CORPORATION (32160)",
+        "pcabId": "32160",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "LOCAL INFRA PROGRAM (LIP) LOCAL BRIDGES CONST. OF SAN FRANCISCO-SAN JUAN BR. INCL. APP., TIAONG, QUE",
+      "abc": "68119063.21",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-12-09 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-12-29 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "66744621.9400000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/15d00087_ca0001.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/15d00087_noa0001.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/15d00087_ntp0001.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

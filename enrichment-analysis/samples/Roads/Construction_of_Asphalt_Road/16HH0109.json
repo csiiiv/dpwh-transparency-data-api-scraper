@@ -1,0 +1,139 @@
+{
+  "data": {
+    "contractId": "16HH0109",
+    "description": "CONSTRUCTION / IMPROVEMENT OF ACCESS ROADS LEADING TO DECLARED TOURISM DESTINATIONS, TALAMBAN - BACAYAN - PIT-OS ROAD, CEBU CITY",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 40111742.6,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region VII",
+      "province": "Cebu City DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 10.3868994754,
+        "longitude": 123.921356169,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "SOCOR CONSTRUCTION CORPORATION (8020) / A.T. TAN CONSTRUCTION CORPORATION (36012)",
+    "startDate": "2017-04-03",
+    "completionDate": "2017-09-29",
+    "infraYear": "2017",
+    "contractEffectivityDate": "2017-04-03",
+    "expiryDate": "2017-09-29",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2017 MFO-3",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00131068VS-CW1",
+        "description": "Construction of Asphalt Road - Talamban - Bacayan - Pit-os Road, Cebu City",
+        "infraType": "Roads",
+        "typeOfWork": "Construction of Asphalt Road",
+        "region": "Region VII",
+        "province": "CEBU",
+        "coordinates": {
+          "latitude": 10.3868994754,
+          "longitude": 123.921356169,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "A.T. TAN CONSTRUCTION CORPORATION, SOCOR CONSTRUCTION CORPORATION",
+    "bidders": [
+      {
+        "name": "SOCOR CONSTRUCTION CORPORATION (8020) / A.T. TAN CONSTRUCTION CORPORATION (36012) (JV ID: JV-1-61088)",
+        "pcabId": "",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "GOWIL BUILDERS (18733)",
+        "pcabId": "18733",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "MPJR BUILDERS COMPANY (20446)",
+        "pcabId": "20446",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "PLD CONSTRUCTION AND DEVELOPMENT INC. (FORMERLY: PLD CONSTRUCTION) (01859)",
+        "pcabId": "01859",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "QUIRANTE CONSTRUCTION CORPORATION (FORMERLY: QUIRANTE CONSTRUCTION) (32827)",
+        "pcabId": "32827",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "VEN RAY CONSTRUCTION CORPORATION (18310)",
+        "pcabId": "18310",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "WTG CONSTRUCTION & DEVELOPMENT CORPORATION (7494)",
+        "pcabId": "7494",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "ZION CONSTRUCTION(FORMERLY MASTERPIECE CONST. & SU (14881)",
+        "pcabId": "14881",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION / IMPROVEMENT OF ACCESS ROADS LEADING TO DECLARED TOURISM DESTINATIONS, TALAMBAN - BACAYAN - PIT-OS ROAD, CEBU CITY",
+      "abc": "48902000.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-12-22 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-01-18 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "44965082"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/ITB 16HH0103-0111.PDF",
+      "contractAgreement": "",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/noa_16hh0109.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/ntp_16hh0109.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 10.3868994754,
+    "longitude": 123.921356169,
+    "coordinates": [
+      {
+        "componentId": "P00131068VS-CW1",
+        "description": "Construction of Asphalt Road - Talamban - Bacayan - Pit-os Road, Cebu City",
+        "latitude": 10.3868994754,
+        "longitude": 123.921356169,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

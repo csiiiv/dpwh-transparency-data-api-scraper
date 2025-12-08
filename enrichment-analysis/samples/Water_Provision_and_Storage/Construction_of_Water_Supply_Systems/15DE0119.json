@@ -1,0 +1,85 @@
+{
+  "data": {
+    "contractId": "15DE0119",
+    "description": "LOCAL INFRASTRUCTURE PROGRAM-REHABILITATION/IMPROVEMENT OF WATER SYSTEM,MALABRIGO, LOBO, BATANGAS",
+    "category": "Water Provision and Storage",
+    "status": "Completed",
+    "budget": 975651.4,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region IV-A",
+      "province": "Batangas 2nd DEO",
+      "infraType": "Water Provision and Storage",
+      "coordinates": null
+    },
+    "infraType": "Water Provision and Storage",
+    "contractor": "W. RIVERA CONST. AND EQUIPT. RENTALS, INC. (FORMERLY: W. RIVERA CONSTRUCTION & EQUIPMENT RENTALS) (31378)",
+    "startDate": "2016-02-10",
+    "completionDate": "2016-04-21",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-02-10",
+    "expiryDate": "2016-04-21",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 Locally Funded Projects",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00054497LZ-CW1",
+        "description": "Construction of Water Supply Systems - Construction of Water System, Malabrigo, Lobo, Batangas",
+        "infraType": "Water Provision and Storage",
+        "typeOfWork": "Construction of Water Supply Systems",
+        "region": "Region IV-A",
+        "province": "BATANGAS",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "W. RIVERA CONST. AND EQUIPT. RENTALS, INC. (FORMERLY: W. RIVERA CONSTRUCTION & EQUIPMENT RENTALS)",
+    "bidders": [
+      {
+        "name": "W. RIVERA CONST. AND EQUIPT. RENTALS, INC. (FORMERLY: W. RIVERA CONSTRUCTION & EQUIPMENT RENTALS) (31378)",
+        "pcabId": "31378",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "RGE CONST. AND SUPPLY INC.(FORMERLY:R.G. EVANGELISTA CONSTRUCTION AND SUPPLY) (20375)",
+        "pcabId": "20375",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "LOCAL INFRASTRUCTURE PROGRAM-REHABILITATION/IMPROVEMENT OF WATER SYSTEM, MALABRIGO, LOBO, BATANGAS",
+      "abc": "990000.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-11-24 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-12-15 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "975651.4000000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "",
+      "noticeOfAward": "",
+      "noticeToProceed": "",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

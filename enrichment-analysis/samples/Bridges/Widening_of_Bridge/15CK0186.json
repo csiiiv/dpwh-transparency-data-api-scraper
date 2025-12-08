@@ -1,0 +1,79 @@
+{
+  "data": {
+    "contractId": "15CK0186",
+    "description": "CONST & MAINT OF BR ALONG NAT'L RD-REPLACEMENT OF PERM WEAK BR.- CASILANG BR ALONG VICTORIA-LAPAZ RD",
+    "category": "Bridges",
+    "status": "Completed",
+    "budget": 11728084.4,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region III",
+      "province": "Tarlac 2nd DEO",
+      "infraType": "Bridges",
+      "coordinates": null
+    },
+    "infraType": "Bridges",
+    "contractor": "ESER ENTERPRISES (23902) / L.S.D.  CONSTRUCTION & SUPPLIES (8980)",
+    "startDate": "2016-03-22",
+    "completionDate": "2016-08-18",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-03-22",
+    "expiryDate": "2016-08-18",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00001979LZ-CW1",
+        "description": "Widening of Bridge - Casilang Br. (B03302LZ) along Victoria-La Paz Rd",
+        "infraType": "Bridges",
+        "typeOfWork": "Widening of Bridge",
+        "region": "Region III",
+        "province": "TARLAC",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "ESER ENTERPRISES, L.S.D.  CONSTRUCTION & SUPPLIES",
+    "bidders": [
+      {
+        "name": "ESER ENTERPRISES (23902) / L.S.D.  CONSTRUCTION & SUPPLIES (8980) (JV ID: JV-15-728)",
+        "pcabId": "",
+        "participation": 100,
+        "isWinner": true
+      }
+    ],
+    "procurement": {
+      "contractName": "CONST & MAINT OF BR ALONG NAT'L RD-REPLACEMENT OF PERM WEAK BR.- CASILANG BR ALONG VICTORIA-LAPAZ RD",
+      "abc": "11759879.28",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-11-27 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-12-16 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "11166062.0700000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "",
+      "noticeOfAward": "",
+      "noticeToProceed": "",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

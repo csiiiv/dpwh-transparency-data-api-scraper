@@ -1,0 +1,79 @@
+{
+  "data": {
+    "contractId": "16BD0048",
+    "description": "UPGRADING OF EXISTING ANCILLARY SERVICE, PEOPLE'S EMERGENCY HOSPITAL, TUGUEGARAO CITY",
+    "category": "Buildings and Facilities",
+    "status": "Completed",
+    "budget": 1232593.31,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region II",
+      "province": "Cagayan 3rd DEO",
+      "infraType": "Buildings and Facilities",
+      "coordinates": null
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "MEGAY CONSTRUCTION INC. (FORMERLY: MEGAY CONSTRUCTION) (34354)",
+    "startDate": "2016-02-08",
+    "completionDate": "2017-06-02",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-11-08",
+    "expiryDate": "2017-02-05",
+    "nysReason": null,
+    "programName": "Outside Infra",
+    "sourceOfFunds": "Outside Infra - GAA 2016 DOH HFEP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00061215LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Hospital - Upgrading of existing ancillary service, Peoples Emergency Hospital, Tuguegarao City, Cagayan",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Rehabilitation / Major Repair of Hospital",
+        "region": "Region II",
+        "province": "CAGAYAN",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "MEGAY CONSTRUCTION INC. (FORMERLY: MEGAY CONSTRUCTION)",
+    "bidders": [
+      {
+        "name": "MEGAY CONSTRUCTION INC. (FORMERLY: MEGAY CONSTRUCTION) (34354)",
+        "pcabId": "34354",
+        "participation": 100,
+        "isWinner": true
+      }
+    ],
+    "procurement": {
+      "contractName": "UPGRADING OF EXISTING ANCILLARY SERVICE, PEOPLE'S EMERGENCY HOSPITAL, TUGUEGARAO CITY",
+      "abc": "1237623.33",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-09-07 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-09-27 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "1,232,593.31"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/16bd0048_noa.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/16bd0048_ntp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

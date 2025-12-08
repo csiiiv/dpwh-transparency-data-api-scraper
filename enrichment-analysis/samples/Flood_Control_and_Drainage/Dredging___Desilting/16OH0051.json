@@ -1,0 +1,109 @@
+{
+  "data": {
+    "contractId": "16OH0051",
+    "description": "DREDGING/DESILTING OF CUT-CUT CREEK (PHASE II), PASAY CITY LONE DISTRICT",
+    "category": "Flood Control and Drainage",
+    "status": "Completed",
+    "budget": 9121859.74,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "National Capital Region",
+      "province": "South Manila DEO",
+      "infraType": "Flood Control and Drainage",
+      "coordinates": null
+    },
+    "infraType": "Flood Control and Drainage",
+    "contractor": "ARKY CONSTRUCTION AND SUPPLY (32692)",
+    "startDate": "2016-06-14",
+    "completionDate": "2017-05-08",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-06-14",
+    "expiryDate": "2017-05-08",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-2",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00022601LZ-CW1",
+        "description": "Dredging / Desilting - Cutcut Creek Dredging/Desilting (Phase II), Pasay City Lone LD",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Dredging / Desilting",
+        "region": "National Capital Region",
+        "province": "METROPOLITAN MANILA",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "ARKY CONSTRUCTION AND SUPPLY",
+    "bidders": [
+      {
+        "name": "ARKY CONSTRUCTION AND SUPPLY (32692)",
+        "pcabId": "32692",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "HONEYVILLECONST AND DEVELOPMENT CORPORATION (32160)",
+        "pcabId": "32160",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "J.S. GENERAL CONTRACTOR (15258)",
+        "pcabId": "15258",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "MCB ZAMORA CONSTRUCTION & SUPPLY (32006)",
+        "pcabId": "32006",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "R.D. TALENS CONSTRUCTION AND TRADING (36817)",
+        "pcabId": "36817",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "ST. GERRARD CONSTRUCTION GEN. CONTRACTOR & DEVELOPMENT CORP. (FORMERLY:ST. GERRARD CONSTRUCTION) ([REVOKED] 31762)",
+        "pcabId": "[REVOKED] 31762",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "DREDGING/DESILTING OF CUT-CUT CREEK (PHASE II), PASAY CITY LONE DISTRICT",
+      "abc": "9755382.43",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-04-06 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-04-26 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "9,121,859.74"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/16oh0051_re-ads_contract_agreement.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/noa_16oh0051.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/ntp_16oh0051.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

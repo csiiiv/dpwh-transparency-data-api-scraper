@@ -1,0 +1,125 @@
+{
+  "data": {
+    "contractId": "15B00070",
+    "description": "ASSET PRESERVATION OF NAT'L RD., REHAB/RECONST'N/UPGRADING OF NAT'L RD. INCLUDING DRAINAGE BASED ON",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 129089449.04,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region II",
+      "province": "Region II",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 16.6902104743507,
+        "longitude": 121.517859960374,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "JLL PULSAR CONSTRUCTION CORPORATION (FORMERLY: PULSAR CONSTRUCTION) (24422)",
+    "startDate": "2016-02-22",
+    "completionDate": "2017-09-10",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-02-22",
+    "expiryDate": "2017-02-06",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - Roads: Construction - Asphalt, Roads: Construction - PCCP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00000823LZ-CW1",
+        "description": "Rehabilitation of Asphalt Road - Daang Maharlika (LZ) - K0309+-890 - K0309+-309, K0310+000 - K0310+810, K0312+751 - K0313+100, K0313+1044 - K0315+488, K0318+131 - K0320+714, K0322+164 - K0323+893, K0328+078 - K0328+482, K0335+637 - K0335+897, K0342+000 -",
+        "infraType": "Roads",
+        "typeOfWork": "Rehabilitation of Asphalt Road",
+        "region": "Region II",
+        "province": "ISABELA",
+        "coordinates": {
+          "latitude": 16.6902104743507,
+          "longitude": 121.517859960374,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00000823LZ-CW2",
+        "description": "Construction of Concrete Road - Daang Maharlika (LZ) - K0309+-890 - K0309+-309, K0310+000 - K0310+810, K0312+751 - K0313+100, K0313+1044 - K0315+488, K0318+131 - K0320+714, K0322+164 - K0323+893, K0328+078 - K0328+482, K0335+637 - K0335+897, K0342+000 - K",
+        "infraType": "Roads",
+        "typeOfWork": "Construction of Concrete Road",
+        "region": "Region II",
+        "province": "ISABELA",
+        "coordinates": {
+          "latitude": 16.650001085688,
+          "longitude": 121.397380610947,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "JLL PULSAR CONSTRUCTION CORPORATION (FORMERLY: PULSAR CONSTRUCTION)",
+    "bidders": [
+      {
+        "name": "JLL PULSAR CONSTRUCTION CORPORATION (FORMERLY: PULSAR CONSTRUCTION) (24422)",
+        "pcabId": "24422",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "R.S. SEPIAN CONSTRUCTION & TRUCKING (20519)",
+        "pcabId": "20519",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "ASSET PRESERVATION OF NAT'L RD., REHAB/RECONST'N/UPGRADING OF NAT'L RD. INCLUDING DRAINAGE BASED ON",
+      "abc": "132814500.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-11-10 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-12-01 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "129089449.0400000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/may/15b00070-Cont.agreemnt.pdf",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/may/15b00070-Noa.pdf",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/may/15b00070-Cont.agreemnt.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 16.6902104743507,
+    "longitude": 121.517859960374,
+    "coordinates": [
+      {
+        "componentId": "P00000823LZ-CW1",
+        "description": "Rehabilitation of Asphalt Road - Daang Maharlika (LZ) - K0309+-890 - K0309+-309, K0310+000 - K0310+810, K0312+751 - K0313+100, K0313+1044 - K0315+488, K0318+131 - K0320+714, K0322+164 - K0323+893, K0328+078 - K0328+482, K0335+637 - K0335+897, K0342+000 -",
+        "latitude": 16.6902104743507,
+        "longitude": 121.517859960374,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00000823LZ-CW2",
+        "description": "Construction of Concrete Road - Daang Maharlika (LZ) - K0309+-890 - K0309+-309, K0310+000 - K0310+810, K0312+751 - K0313+100, K0313+1044 - K0315+488, K0318+131 - K0320+714, K0322+164 - K0323+893, K0328+078 - K0328+482, K0335+637 - K0335+897, K0342+000 - K",
+        "latitude": 16.650001085688,
+        "longitude": 121.397380610947,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

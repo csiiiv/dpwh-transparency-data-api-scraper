@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "18DJ0014",
+    "description": "001: ENSURE SAFE AND RELIABLE NATIONAL ROAD SYSTEM (MFO-1), NETWORK DEVELOPMENT-CONSTRUCTION OF FLYOVERS/ INTERCHANGES/ UNDERPASSES/ LONG SPAN BRIDGES, CONSTRUCTION OF UNDERPASS ALONG MSR DIVERSION ROAD, K0129+260-K0129+563.8 LUCENA CITY",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 139925000,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region IV-A",
+      "province": "Quezon 2nd DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 13.9607085,
+        "longitude": 121.6113232,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "L.R. TIQUI BUILDERS, INC. (13810)",
+    "startDate": "2018-02-26",
+    "completionDate": "2019-07-20",
+    "infraYear": "2018",
+    "contractEffectivityDate": "2018-02-26",
+    "expiryDate": "2019-07-20",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2018 OO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00201094LZ-CW1",
+        "description": "Construction of Underpass - Construction of Underpass Along MSR Diversion Road",
+        "infraType": "Roads",
+        "typeOfWork": "Construction of Underpass",
+        "region": "Region IV-A",
+        "province": "QUEZON",
+        "coordinates": {
+          "latitude": 13.9607085,
+          "longitude": 121.6113232,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "L.R. TIQUI BUILDERS, INC.",
+    "bidders": [
+      {
+        "name": "L.R. TIQUI BUILDERS, INC. (13810)",
+        "pcabId": "13810",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "ST. GERRARD CONSTRUCTION GEN. CONTRACTOR & DEVELOPMENT CORP. (FORMERLY:ST. GERRARD CONSTRUCTION) ([REVOKED] 31762)",
+        "pcabId": "[REVOKED] 31762",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "001: ENSURE SAFE AND RELIABLE NATIONAL ROAD SYSTEM (MFO-1), NETWORK DEVELOPMENT-CONSTRUCTION OF FLYOVERS/ INTERCHANGES/ UNDERPASSES/ LONG SPAN BRIDGES, CONSTRUCTION OF UNDERPASS ALONG MSR DIVERSION ROAD, K0129+260-K0129+563.8 LUCENA CITY",
+      "abc": "137099992.31",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2017-10-30 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-11-20 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "134370372.5"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/18DJ0014 bid docs.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/18dj0014 contract.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/18dj0014 award.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/18dj0014 contract.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 13.9607085,
+    "longitude": 121.6113232,
+    "coordinates": [
+      {
+        "componentId": "P00201094LZ-CW1",
+        "description": "Construction of Underpass - Construction of Underpass Along MSR Diversion Road",
+        "latitude": 13.9607085,
+        "longitude": 121.6113232,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

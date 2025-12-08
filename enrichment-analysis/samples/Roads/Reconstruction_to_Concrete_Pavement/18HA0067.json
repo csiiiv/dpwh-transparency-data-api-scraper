@@ -1,0 +1,131 @@
+{
+  "data": {
+    "contractId": "18HA0067",
+    "description": "REHABILITATION/RECONSTRUCTION OF NATIONAL ROADS WITH SLIPS, SLOPE COLLAPSE, AND LANDSLIDE-TAGBILARAN NORTH RD. (TAGBILARAN-JETAFE SECT.)-K0006+060-K0006+237",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 46504293.72,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region VII",
+      "province": "Bohol 1st DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 9.6940315,
+        "longitude": 123.8637924,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "CEBU 7H TECHNOCHEM INDUSTRIES, INC. (31578) / ARN BUILDERS, INC. (FOR: ARN BUILDERS) (18930)",
+    "startDate": "2018-07-02",
+    "completionDate": "2019-02-15",
+    "infraYear": "2018",
+    "contractEffectivityDate": "2018-07-02",
+    "expiryDate": "2019-02-15",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2018 OO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00201303VS-CW1",
+        "description": "Construction of Road Slope Protection Structure - Tagbilaran North Rd (Tagbilaran-Jetafe Sect) - K0006 + 060 - K0006 + 237",
+        "infraType": "Roads",
+        "typeOfWork": "Construction of Road Slope Protection Structure",
+        "region": "Region VII",
+        "province": "BOHOL",
+        "coordinates": {
+          "latitude": 9.6940315,
+          "longitude": 123.8637924,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00201303VS-CW2",
+        "description": "Reconstruction to Concrete Pavement - Tagbilaran North Rd (Tagbilaran-Jetafe Sect) - K0006 + 060 - K0006 + 237",
+        "infraType": "Roads",
+        "typeOfWork": "Reconstruction to Concrete Pavement",
+        "region": "Region VII",
+        "province": "BOHOL",
+        "coordinates": {
+          "latitude": 9.6946763,
+          "longitude": 123.8641527,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "ARN BUILDERS, INC. (FOR: ARN BUILDERS), CEBU 7H TECHNOCHEM INDUSTRIES, INC.",
+    "bidders": [
+      {
+        "name": "ARN BUILDERS, INC. (FOR: ARN BUILDERS) (18930) / CEBU 7H TECHNOCHEM INDUSTRIES, INC. (31578) (JV ID: JV-17-2807)",
+        "pcabId": "",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "ED1SON DEVELOPMENT & CONSTRUCTION INC. (2400)",
+        "pcabId": "2400",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "RUDHIL CONSTRUCTION & ENTERPRISES, INC.(FORMERLY R (22901)",
+        "pcabId": "22901",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "REHABILITATION/RECONSTRUCTION OF NATIONAL ROADS WITH SLIPS, SLOPE COLLAPSE, AND LANDSLIDE-TAGBILARAN NORTH RD. (TAGBILARAN-JETAFE SECT.)-K0006+060-K0006+237",
+      "abc": "49000000.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2018-04-26 00:00:00.0000000",
+      "bidSubmissionDeadline": "2018-05-15 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "46504293.72"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/merge1.pdf",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/18ha0067_-_contract_of_agreement.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/18ha0067_-_noa.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/18ha0067_-_ntp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 9.6940315,
+    "longitude": 123.8637924,
+    "coordinates": [
+      {
+        "componentId": "P00201303VS-CW1",
+        "description": "Construction of Road Slope Protection Structure - Tagbilaran North Rd (Tagbilaran-Jetafe Sect) - K0006 + 060 - K0006 + 237",
+        "latitude": 9.6940315,
+        "longitude": 123.8637924,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00201303VS-CW2",
+        "description": "Reconstruction to Concrete Pavement - Tagbilaran North Rd (Tagbilaran-Jetafe Sect) - K0006 + 060 - K0006 + 237",
+        "latitude": 9.6946763,
+        "longitude": 123.8641527,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

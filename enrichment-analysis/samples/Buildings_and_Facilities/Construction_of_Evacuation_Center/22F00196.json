@@ -1,0 +1,259 @@
+{
+  "data": {
+    "contractId": "22F00196",
+    "description": "STRUCTURAL IMPROVEMENT OF PUBLIC BUILDINGS AND CONSTRUCTION OF EVACUATION CENTERS IN REGION V: CONSTRUCTION OF EVACUATION CENTER, BRGY. STA. ROSA SUR, JOSE PANGANIBAN, CAMARINES NORTE",
+    "category": "Buildings and Facilities",
+    "status": "On-Going",
+    "budget": 48249781.85,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region V",
+      "province": "Region V",
+      "infraType": "Buildings and Facilities",
+      "coordinates": {
+        "latitude": 14.1240069,
+        "longitude": 122.9446672,
+        "verified": false
+      }
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "ZKR CONSTRUCTION & SUPPLY (34348)",
+    "startDate": "2023-01-04",
+    "completionDate": null,
+    "infraYear": "2022",
+    "contractEffectivityDate": "2023-01-04",
+    "expiryDate": "2023-10-30",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2022 LP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00655260LZ-CW1",
+        "description": "Construction of Evacuation Center - Construction of Evacuation Center,  Brgy. Sta. Rosa Sur, Jose Panganiban, Camarines Norte",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of Evacuation Center",
+        "region": "Region V",
+        "province": "CAMARINES NORTE",
+        "coordinates": {
+          "latitude": 14.1240069,
+          "longitude": 122.9446672,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "ZKR CONSTRUCTION & SUPPLY",
+    "bidders": [
+      {
+        "name": "ZKR CONSTRUCTION & SUPPLY (34348)",
+        "pcabId": "34348",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "6RM CONSTRUCTION AND DEVT. CORP. (FORMERLY R.R. MA (174)",
+        "pcabId": "174",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "A.G. ARAJA CONSTRUCTION & DEVELOPMENT CORP. (FORME (29306)",
+        "pcabId": "29306",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "C.B. GARAY PHILWIDE BUILDERS (6004)",
+        "pcabId": "6004",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "CDH CONSTRUCTION (37936)",
+        "pcabId": "37936",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "CENTERWAYS CONSTRUCTION AND DEVELOPMENT INC. (34105)",
+        "pcabId": "34105",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "DSB CONSTRUCTION  & SUPPLY, INC. (FORMERLY: DSB CO (16126)",
+        "pcabId": "16126",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "D.V. SALUD CONSTRUCTION (6564)",
+        "pcabId": "6564",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "E. GARCIA CONSTRUCTION CORP.(FOR. E. GARCIA CONST (7243)",
+        "pcabId": "7243",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "EUS CONSTRUCTION (21878)",
+        "pcabId": "21878",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "HGG BUILDERS & SUPPLY (17824)",
+        "pcabId": "17824",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "HI-TONE CONSTRUCTION & DEVELOPMENT CORP. (FORMERLY (23385)",
+        "pcabId": "23385",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "HONEYVILLECONST AND DEVELOPMENT CORPORATION (32160)",
+        "pcabId": "32160",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "JIMWEN CONSTRUCTION & GENERAL MERCHANDISE (33066)",
+        "pcabId": "33066",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "KAEL CONSTRUCTION AND SUPPLY (49152)",
+        "pcabId": "49152",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "MAKAPA CORPORATION (30029)",
+        "pcabId": "30029",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "MONOLITHIC CONSTRUCTION & CONCRETE PRODUCTS, INC. (5733)",
+        "pcabId": "5733",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "ROSAND BUILDERS CORPORATION (FORMERLY: ROSAND BUILDERS) (15781)",
+        "pcabId": "15781",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "R.U. AQUINO CONSTRUCTION AND DEVELOPMENT CORP. (FO (23507)",
+        "pcabId": "23507",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "SEVERS CONSTRUCTION & SUPPLIES & REALTY DEVELOPMENT (41004)",
+        "pcabId": "41004",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "SPRING STAR CONSTRUCTION AND SUPPLY (20240)",
+        "pcabId": "20240",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "ST. MATTHEW GEN. CONTRACTOR & DEVELOPMENT CORP. ([REVOKED] 40908)",
+        "pcabId": "[REVOKED] 40908",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "ST. TIMOTHY CONSTRUCTION CORPORATION ([REVOKED] 39196)",
+        "pcabId": "[REVOKED] 39196",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "SUNWEST, INC. (FORMERLY: SUNWEST CONSTRUCTION & DEVELOPMENT CORPORATION) (15906)",
+        "pcabId": "15906",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "TR CONSTRUCTION CORPORATION (FOR: TR CONSTRUCTION) (11697)",
+        "pcabId": "11697",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "UNIMASTERS CONGLOMERATION, INCORPORATED (3390)",
+        "pcabId": "3390",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "V.R. PATRON BUILDERS & DEVELOPERS CORP. (PREVIOUSL (13487)",
+        "pcabId": "13487",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "WCS CONSTRUCTION, INC. (6516)",
+        "pcabId": "6516",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "STRUCTURAL IMPROVEMENT OF PUBLIC BUILDINGS AND CONSTRUCTION OF EVACUATION CENTERS IN REGION V: CONSTRUCTION OF EVACUATION CENTER, BRGY. STA. ROSA SUR, JOSE PANGANIBAN, CAMARINES NORTE",
+      "abc": "48249995.63",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2022-09-20 00:00:00.0000000",
+      "bidSubmissionDeadline": "2022-10-11 00:00:00.0000000",
+      "dateOfAward": "2022-11-02 00:00:00.0000000",
+      "awardAmount": "45796646.57"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/22f00196-197_ib.pdf",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/contract_agreement_22f00196.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/22f00196_noa.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/contract_agreement_22f00196.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 14.1240069,
+    "longitude": 122.9446672,
+    "coordinates": [
+      {
+        "componentId": "P00655260LZ-CW1",
+        "description": "Construction of Evacuation Center - Construction of Evacuation Center,  Brgy. Sta. Rosa Sur, Jose Panganiban, Camarines Norte",
+        "latitude": 14.1240069,
+        "longitude": 122.9446672,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 4,
+      "latestImageDate": "2023-09-12 05:40:26.967000",
+      "hasImages": true
+    }
+  }
+}

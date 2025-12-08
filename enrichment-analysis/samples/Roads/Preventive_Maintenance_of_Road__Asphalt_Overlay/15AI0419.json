@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "15AI0419",
+    "description": "PREVENTIVE MAINT BASED ON PAVEMENT MGMT SYSTEM/HIGHWAY DEVT & MGMT-4 (HDM-4) (INTERMITTENT SECTIONS)",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 15070081.03,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region I",
+      "province": "Pangasinan 3rd DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 15.8746109643668,
+        "longitude": 120.576647383578,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "ORIENTAL SALES CENTER AND CONTRACTOR (33630)",
+    "startDate": "2016-02-29",
+    "completionDate": "2016-05-23",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-02-29",
+    "expiryDate": "2016-05-23",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00000327LZ-CW1",
+        "description": "Preventive Maintenance of Road: Asphalt Overlay - Carmen Jct-Manat Rd - K0173+699 - K0174+000, K0174+300 - K0175+000",
+        "infraType": "Roads",
+        "typeOfWork": "Preventive Maintenance of Road: Asphalt Overlay",
+        "region": "Region I",
+        "province": "PANGASINAN",
+        "coordinates": {
+          "latitude": 15.8746109643668,
+          "longitude": 120.576647383578,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "ORIENTAL SALES CENTER AND CONTRACTOR",
+    "bidders": [
+      {
+        "name": "ORIENTAL SALES CENTER AND CONTRACTOR (33630)",
+        "pcabId": "33630",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "2-R CONSTRUCTION AND SUPPLY (15304)",
+        "pcabId": "15304",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "PREVENTIVE MAINT BASED ON PAVEMENT MGMT SYSTEM/HIGHWAY DEVT & MGMT-4 (HDM-4) (INTERMITTENT SECTIONS)",
+      "abc": "15863260.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-12-10 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-12-29 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "15070081.0300000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/may/15AI0419 contract.pdf",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/may/15AI0419 award.pdf",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/may/15AI0419 contract.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 15.8746109643668,
+    "longitude": 120.576647383578,
+    "coordinates": [
+      {
+        "componentId": "P00000327LZ-CW1",
+        "description": "Preventive Maintenance of Road: Asphalt Overlay - Carmen Jct-Manat Rd - K0173+699 - K0174+000, K0174+300 - K0175+000",
+        "latitude": 15.8746109643668,
+        "longitude": 120.576647383578,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

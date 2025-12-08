@@ -1,0 +1,125 @@
+{
+  "data": {
+    "contractId": "25JB0020",
+    "description": "WIDENING OF PERMANENT BRIDGES GUINLES PARALLEL BRIDGE ALONG DIPOLOG-POLANCO-PIÑAN-JCT. OROQUIETA ROAD",
+    "category": "Bridges",
+    "status": "On-Going",
+    "budget": 34729718.28,
+    "amountPaid": 0,
+    "progress": 58.95,
+    "location": {
+      "region": "Region IX",
+      "province": "Zamboanga del Norte 1st DEO",
+      "infraType": "Bridges",
+      "coordinates": {
+        "latitude": 8.521235,
+        "longitude": 123.3774739,
+        "verified": false
+      }
+    },
+    "infraType": "Bridges",
+    "contractor": "RUDHIL CONSTRUCTION & ENTERPRISES, INC.(FORMERLY R (22901)",
+    "startDate": "2025-02-28",
+    "completionDate": null,
+    "infraYear": "2025",
+    "contractEffectivityDate": "2025-02-28",
+    "expiryDate": "2025-10-20",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - Bridges: Construction - Concrete (Superstructure) - with Cast-in-Place Piles, Roads: Construction - PCCP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00910040MN-CW1",
+        "description": "Construction of Parallel Bridge - Guinles Parallel Br. along Dipolog-Polanco-Pi±an-Jct Oroquieta Rd",
+        "infraType": "Bridges",
+        "typeOfWork": "Construction of Parallel Bridge",
+        "region": "Region IX",
+        "province": "ZAMBOANGA DEL NORTE",
+        "coordinates": {
+          "latitude": 8.521235,
+          "longitude": 123.3774739,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00910040MN-CW2",
+        "description": "Construction of Bridge Approach - Guinles Parallel Br. along Dipolog-Polanco-Pi±an-Jct Oroquieta Rd",
+        "infraType": "Bridges",
+        "typeOfWork": "Construction of Bridge Approach",
+        "region": "Region IX",
+        "province": "ZAMBOANGA DEL NORTE",
+        "coordinates": {
+          "latitude": 8.5212647,
+          "longitude": 123.3772419,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "RUDHIL CONSTRUCTION & ENTERPRISES, INC.(FORMERLY R",
+    "bidders": [
+      {
+        "name": "RUDHIL CONSTRUCTION & ENTERPRISES, INC.(FORMERLY R (22901)",
+        "pcabId": "22901",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "A.I.YU BUILDERS & ENTERPRISES (35586)",
+        "pcabId": "35586",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "WIDENING OF PERMANENT BRIDGES GUINLES PARALLEL BRIDGE ALONG DIPOLOG-POLANCO-PIÑAN-JCT. OROQUIETA ROAD",
+      "abc": "34780000.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2024-10-09 00:00:00.0000000",
+      "bidSubmissionDeadline": "2024-10-30 00:00:00.0000000",
+      "dateOfAward": "2025-02-21 00:00:00.0000000",
+      "awardAmount": "34729718.28"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/25jb0020.rar",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/contract_020.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/noa25jb0020_0001.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/ntp_020.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 8.521235,
+    "longitude": 123.3774739,
+    "coordinates": [
+      {
+        "componentId": "P00910040MN-CW1",
+        "description": "Construction of Parallel Bridge - Guinles Parallel Br. along Dipolog-Polanco-Pi±an-Jct Oroquieta Rd",
+        "latitude": 8.521235,
+        "longitude": 123.3774739,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00910040MN-CW2",
+        "description": "Construction of Bridge Approach - Guinles Parallel Br. along Dipolog-Polanco-Pi±an-Jct Oroquieta Rd",
+        "latitude": 8.5212647,
+        "longitude": 123.3772419,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 3,
+      "latestImageDate": "2025-09-27 11:15:26.346999",
+      "hasImages": true
+    }
+  }
+}

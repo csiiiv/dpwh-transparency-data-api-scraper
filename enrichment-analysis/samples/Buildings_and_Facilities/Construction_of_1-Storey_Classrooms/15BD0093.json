@@ -1,0 +1,79 @@
+{
+  "data": {
+    "contractId": "15BD0093",
+    "description": "CONSTRUCTION OF 2 CLASSROOMS, CONCEPCION ELEMENTARY SCHOOL, BARANGAY CONCEPCION, AMULUNG, CAGAYAN",
+    "category": "Buildings and Facilities",
+    "status": "Completed",
+    "budget": 1677573.81,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region II",
+      "province": "Cagayan 3rd DEO",
+      "infraType": "Buildings and Facilities",
+      "coordinates": null
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "PRIMITIVO P. ESLABON CONSTRUCTION & HARDWARE (35059)",
+    "startDate": "2016-01-28",
+    "completionDate": "2016-05-15",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-01-28",
+    "expiryDate": "2016-04-26",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 Locally Funded Projects",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00040089LZ-CW1",
+        "description": "Construction of 1-Storey Classrooms - Construction of 2 classrooms at Concepcion Elementary School, Brgy. Concepcion, Amulung, Cagayan 3rd LD",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of 1-Storey Classrooms",
+        "region": "Region II",
+        "province": "CAGAYAN",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "PRIMITIVO P. ESLABON CONSTRUCTION & HARDWARE",
+    "bidders": [
+      {
+        "name": "PRIMITIVO P. ESLABON CONSTRUCTION & HARDWARE (35059)",
+        "pcabId": "35059",
+        "participation": 100,
+        "isWinner": true
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION OF 2 CLASSROOMS, CONCEPCION ELEMENTARY SCHOOL, BARANGAY CONCEPCION, AMULUNG, CAGAYAN",
+      "abc": "1682790.07",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-10-23 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-11-12 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "1677573.8100000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/may/15BD0093-CONTRACT.pdf",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/may/15BD0093-NOA.pdf",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/may/15BD0093-CONTRACT.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

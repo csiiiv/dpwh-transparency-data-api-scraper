@@ -1,0 +1,109 @@
+{
+  "data": {
+    "contractId": "17IL0054",
+    "description": "THERMOPLASTIC PAVEMENT MARKINGS LILO-AN-SAN RICARDO RD(S00218LT), K1056+000-K1087+563, SOUTHERN LEYTE",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 6361073.43,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region VIII",
+      "province": "Southern Leyte 1st DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 10.1536063066182,
+        "longitude": 125.119778665661,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "TRAFFIC SUPPLIES & CONSTRUCTION CORP. (19584)",
+    "startDate": "2017-07-18",
+    "completionDate": "2017-09-15",
+    "infraYear": "2017",
+    "contractEffectivityDate": "2017-07-18",
+    "expiryDate": "2017-09-15",
+    "nysReason": null,
+    "programName": "Outside Infra",
+    "sourceOfFunds": "Outside Infra - Special Road Support Fund 2017",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00190095VS-CW1",
+        "description": "Road Safety: Pavement markings - Thermoplastic Pavement Markings along Liloan-S Ricardo Rd (S00218LT), K1056+000 to K1087+563",
+        "infraType": "Roads",
+        "typeOfWork": "Road Safety: Pavement markings",
+        "region": "Region VIII",
+        "province": "SOUTHERN LEYTE",
+        "coordinates": {
+          "latitude": 10.1536063066182,
+          "longitude": 125.119778665661,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "TRAFFIC SUPPLIES & CONSTRUCTION CORP.",
+    "bidders": [
+      {
+        "name": "TRAFFIC SUPPLIES & CONSTRUCTION CORP. (19584)",
+        "pcabId": "19584",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "CEAN CONSTRUCTION (41086)",
+        "pcabId": "41086",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "VICTORIA DEVELOPMENT AND VENTURES CORP. (FOR: VICTORIA DEV'T AND CONST. CORP.) (32638)",
+        "pcabId": "32638",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "THERMOPLASTIC PAVEMENT MARKINGS LILO-AN-SAN RICARDO RD(S00218LT), K1056+000-K1087+563, SOUTHERN LEYTE",
+      "abc": "6717150.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2017-05-18 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-06-27 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "6,361,073.43"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/IB 17IL0053-54.pdf",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/17il0054_agreement.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/54 award.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/17il0054_agreement.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 10.1536063066182,
+    "longitude": 125.119778665661,
+    "coordinates": [
+      {
+        "componentId": "P00190095VS-CW1",
+        "description": "Road Safety: Pavement markings - Thermoplastic Pavement Markings along Liloan-S Ricardo Rd (S00218LT), K1056+000 to K1087+563",
+        "latitude": 10.1536063066182,
+        "longitude": 125.119778665661,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

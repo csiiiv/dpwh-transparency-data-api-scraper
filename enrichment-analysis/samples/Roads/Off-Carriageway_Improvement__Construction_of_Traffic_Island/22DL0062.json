@@ -1,0 +1,109 @@
+{
+  "data": {
+    "contractId": "22DL0062",
+    "description": "ORGANIZATIONAL OUTCOME 1 : ENSURE SAFE AND RELIABLE NATIONAL ROAD SYSTEM, NETWORK DEVELOPMENT PROGRAM, CONSTRUCTION OF BY-PASS AND DIVERSION ROADS, LOPEZ BY-PASS, QUEZON",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 19600000,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region IV-A",
+      "province": "Quezon 4th DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 13.879711,
+        "longitude": 122.250766,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "MURIELEVEN BUILDERS AND CONSTRUCTION SUPPLY CORP. (50115)",
+    "startDate": "2022-02-16",
+    "completionDate": "2022-08-14",
+    "infraYear": "2022",
+    "contractEffectivityDate": "2022-02-16",
+    "expiryDate": "2022-08-14",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2022 OO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00608610LZ-CW1",
+        "description": "Off-Carriageway Improvement: Construction of Traffic Island - Lopez By-Pass, Quezon",
+        "infraType": "Roads",
+        "typeOfWork": "Off-Carriageway Improvement: Construction of Traffic Island",
+        "region": "Region IV-A",
+        "province": "QUEZON",
+        "coordinates": {
+          "latitude": 13.879711,
+          "longitude": 122.250766,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "MURIELEVEN BUILDERS AND CONSTRUCTION SUPPLY CORP.",
+    "bidders": [
+      {
+        "name": "MURIELEVEN BUILDERS AND CONSTRUCTION SUPPLY CORP. (50115)",
+        "pcabId": "50115",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "DZEE BUILDERS AND CONSTRUCTION SUPPLY (36200)",
+        "pcabId": "36200",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "JEMAK CONSTRUCTION & SUPPLY (32056)",
+        "pcabId": "32056",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "ORGANIZATIONAL OUTCOME 1 : ENSURE SAFE AND RELIABLE NATIONAL ROAD SYSTEM, NETWORK DEVELOPMENT PROGRAM, CONSTRUCTION OF BY-PASS AND DIVERSION ROADS, LOPEZ BY-PASS, QUEZON",
+      "abc": "19600000.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2021-10-16 00:00:00.0000000",
+      "bidSubmissionDeadline": "2021-11-08 00:00:00.0000000",
+      "dateOfAward": "2022-01-27 00:00:00.0000000",
+      "awardAmount": "18914876.38"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/22DL0062 - CA.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/22DL0062 - NOA.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/22dl0062_-_ntp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 13.879711,
+    "longitude": 122.250766,
+    "coordinates": [
+      {
+        "componentId": "P00608610LZ-CW1",
+        "description": "Off-Carriageway Improvement: Construction of Traffic Island - Lopez By-Pass, Quezon",
+        "latitude": 13.879711,
+        "longitude": 122.250766,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 2,
+      "latestImageDate": "2023-03-27 02:08:57.971000",
+      "hasImages": true
+    }
+  }
+}

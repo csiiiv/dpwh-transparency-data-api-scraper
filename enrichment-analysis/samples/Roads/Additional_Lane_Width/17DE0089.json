@@ -1,0 +1,109 @@
+{
+  "data": {
+    "contractId": "17DE0089",
+    "description": "ADDITIONAL PAVEMENT WIDTH WITH SLOPE PROTECTION ALONG BATANGAS-TABANGAO-LOBO ROAD WITHIN K0123+000  K0129+000",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 48458348.95,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region IV-A",
+      "province": "Batangas 2nd DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 13.6467641065539,
+        "longitude": 121.049532087514,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "JASMIG CONSTRUCTION CORPORATION (FORMERLY: JASMIG CONSTRUCTION SUPPLY) (26069)",
+    "startDate": "2017-11-20",
+    "completionDate": "2018-04-23",
+    "infraYear": "2017",
+    "contractEffectivityDate": "2017-11-20",
+    "expiryDate": "2018-05-28",
+    "nysReason": null,
+    "programName": "Outside Infra",
+    "sourceOfFunds": "Outside Infra - Special Road Support Fund 2017",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00190163LZ-CW1",
+        "description": "Additional Lane Width - Additional Pavement Width with Slope Protection along Batangas-Tabangao-Lobo Road, K0123+000 to K0129+000",
+        "infraType": "Roads",
+        "typeOfWork": "Additional Lane Width",
+        "region": "Region IV-A",
+        "province": "BATANGAS",
+        "coordinates": {
+          "latitude": 13.6467641065539,
+          "longitude": 121.049532087514,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "JASMIG CONSTRUCTION CORPORATION (FORMERLY: JASMIG CONSTRUCTION SUPPLY)",
+    "bidders": [
+      {
+        "name": "JASMIG CONSTRUCTION CORPORATION (FORMERLY: JASMIG CONSTRUCTION SUPPLY) (26069)",
+        "pcabId": "26069",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "HONEYVILLECONST AND DEVELOPMENT CORPORATION (32160)",
+        "pcabId": "32160",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "ST. TIMOTHY CONSTRUCTION CORPORATION ([REVOKED] 39196)",
+        "pcabId": "[REVOKED] 39196",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "ADDITIONAL PAVEMENT WIDTH WITH SLOPE PROTECTION ALONG BATANGAS-TABANGAO-LOBO ROAD WITHIN K0123+000  K0129+000",
+      "abc": "50000000.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2017-10-06 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-10-25 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "48458348.95"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/17DE0089.zip",
+      "contractAgreement": "",
+      "noticeOfAward": "",
+      "noticeToProceed": "",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 13.6467641065539,
+    "longitude": 121.049532087514,
+    "coordinates": [
+      {
+        "componentId": "P00190163LZ-CW1",
+        "description": "Additional Lane Width - Additional Pavement Width with Slope Protection along Batangas-Tabangao-Lobo Road, K0123+000 to K0129+000",
+        "latitude": 13.6467641065539,
+        "longitude": 121.049532087514,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

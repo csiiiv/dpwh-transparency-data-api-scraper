@@ -1,0 +1,193 @@
+{
+  "data": {
+    "contractId": "15CC0329",
+    "description": "REPAIR/REHABILITATION/IMPROVEMENT OF CONCRETE SLOPE PROTECTION ALONG L;ABANGAN CHANNEL IBA O' ESTE, CALUMPIT, BULACAN",
+    "category": "Flood Control and Drainage",
+    "status": "Completed",
+    "budget": 18820684.65,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region III",
+      "province": "Bulacan 1st DEO",
+      "infraType": "Flood Control and Drainage",
+      "coordinates": {
+        "latitude": 14.898504,
+        "longitude": 120.768084,
+        "verified": false
+      }
+    },
+    "infraType": "Flood Control and Drainage",
+    "contractor": "525 CONSTRUCTION (28532)",
+    "startDate": "2017-01-09",
+    "completionDate": "2017-06-04",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2017-01-09",
+    "expiryDate": "2017-06-04",
+    "nysReason": null,
+    "programName": "Outside Infra",
+    "sourceOfFunds": "Outside Infra - GAA 2016 NDRRMF",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00095886LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Slope Protection Structure - Repair/Rehabilitation/Improvement of Concrete Slope Protection along Labangan Channel, Iba O'Este, Calumpit, Bulacan",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Rehabilitation / Major Repair of Slope Protection Structure",
+        "region": "Region III",
+        "province": "BULACAN",
+        "coordinates": {
+          "latitude": 14.898504,
+          "longitude": 120.768084,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "525 CONSTRUCTION",
+    "bidders": [
+      {
+        "name": "525 CONSTRUCTION (28532)",
+        "pcabId": "28532",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "A.C. RIVERO DEVELOPMENT CORPORATION (5122)",
+        "pcabId": "5122",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "A.C. SOLIVEN CONSTRUCTION & GENERAL MERCHANDISE (19278)",
+        "pcabId": "19278",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "BAQPRINCE CONSTRUCTION AND TRADING CORP. (28337)",
+        "pcabId": "28337",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "EL-JAKE BUILDERS (38162)",
+        "pcabId": "38162",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "ERIC VAN P. SESBRENO CONSTRUCTION (26243)",
+        "pcabId": "26243",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "FFJJ CONSTRUCTION (16712)",
+        "pcabId": "16712",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "GENETIAN BUILDERS AND ENTERPRISES INCORPORATED (FORMERLY: GENETIAN BUILDERS) (18052)",
+        "pcabId": "18052",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "HPL GENERAL CONSTRUCTION (22289)",
+        "pcabId": "22289",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "NFH CONSTRUCTION & SUPPLY (16055)",
+        "pcabId": "16055",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "POWER K CONSTRUCTION SUPPLY & SERVICES (31574)",
+        "pcabId": "31574",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "R.D. TALENS CONSTRUCTION AND TRADING (36817)",
+        "pcabId": "36817",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "ST. GERRARD CONSTRUCTION GEN. CONTRACTOR & DEVELOPMENT CORP. (FORMERLY:ST. GERRARD CONSTRUCTION) ([REVOKED] 31762)",
+        "pcabId": "[REVOKED] 31762",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "ST. RAYMUND CONSTRUCTION, INC. (19242)",
+        "pcabId": "19242",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "SUPREME ABF CONST. & CONST. SUPPLY COMPANY INC. (25226)",
+        "pcabId": "25226",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "VICTORIA DEVELOPMENT AND VENTURES CORP. (FOR: VICTORIA DEV'T AND CONST. CORP.) (32638)",
+        "pcabId": "32638",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "W.D. NAVARRO CONSTRUCTION CO. (14327)",
+        "pcabId": "14327",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "REPAIR/REHABILITATION/IMPROVEMENT OF CONCRETE SLOPE PROTECTION ALONG L;ABANGAN CHANNEL IBA O' ESTE, CALUMPIT, BULACAN",
+      "abc": "19801771.93",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-12-01 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-12-22 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "18820684.6500000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "",
+      "noticeOfAward": "",
+      "noticeToProceed": "",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 14.898504,
+    "longitude": 120.768084,
+    "coordinates": [
+      {
+        "componentId": "P00095886LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Slope Protection Structure - Repair/Rehabilitation/Improvement of Concrete Slope Protection along Labangan Channel, Iba O'Este, Calumpit, Bulacan",
+        "latitude": 14.898504,
+        "longitude": 120.768084,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

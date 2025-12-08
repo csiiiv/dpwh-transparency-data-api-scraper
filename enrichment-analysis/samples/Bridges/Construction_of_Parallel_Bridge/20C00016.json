@@ -1,0 +1,109 @@
+{
+  "data": {
+    "contractId": "20C00016",
+    "description": "BRIDGE PROGRAM-WIDENING OF PERMANENT BRIDGES-GENERAL LUNA BRIDGE (PARALLEL BRIDGE) ALONG DAANG MAHARLIKA (LZ)-PHASE III, PROVINCE OF NUEVA ECIJA",
+    "category": "Bridges",
+    "status": "Completed",
+    "budget": 118528615.57,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region III",
+      "province": "Region III",
+      "infraType": "Bridges",
+      "coordinates": {
+        "latitude": 15.5103803,
+        "longitude": 120.9584977,
+        "verified": false
+      }
+    },
+    "infraType": "Bridges",
+    "contractor": "CHRISTIAN IAN CONSTRUCTION CORPORATION (8191)",
+    "startDate": "2020-03-06",
+    "completionDate": "2023-12-02",
+    "infraYear": "2020",
+    "contractEffectivityDate": "2020-03-06",
+    "expiryDate": "2023-12-02",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2020 OO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00402088LZ-CW1",
+        "description": "Construction of Parallel Bridge - Gen. Luna Br. (Parallel Br.) along Daang Maharlika (LZ)",
+        "infraType": "Bridges",
+        "typeOfWork": "Construction of Parallel Bridge",
+        "region": "Region III",
+        "province": "NUEVA ECIJA",
+        "coordinates": {
+          "latitude": 15.5103803,
+          "longitude": 120.9584977,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "CHRISTIAN IAN CONSTRUCTION CORPORATION",
+    "bidders": [
+      {
+        "name": "CHRISTIAN IAN CONSTRUCTION CORPORATION (8191)",
+        "pcabId": "8191",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "HG-III CONSTRUCTION AND DEVELOPMENT CORPORATION (F (8431)",
+        "pcabId": "8431",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "SARGASSO CONSTRUCTION & DEVELOPMENT CORP. (6587)",
+        "pcabId": "6587",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "BRIDGE PROGRAM-WIDENING OF PERMANENT BRIDGES-GENERAL LUNA BRIDGE (PARALLEL BRIDGE) ALONG DAANG MAHARLIKA (LZ)-PHASE III, PROVINCE OF NUEVA ECIJA",
+      "abc": "120620675.12",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2019-10-25 00:00:00.0000000",
+      "bidSubmissionDeadline": "2019-11-18 00:00:00.0000000",
+      "dateOfAward": "2020-02-14 00:00:00.0000000",
+      "awardAmount": "118199848.7"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/20C00003 & 20C00016 ITB.pdf",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/20C00005, 14, 16, 31 & 32 CA.rar",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/noa_20c00016.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/20c00016_ntp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 15.5103803,
+    "longitude": 120.9584977,
+    "coordinates": [
+      {
+        "componentId": "P00402088LZ-CW1",
+        "description": "Construction of Parallel Bridge - Gen. Luna Br. (Parallel Br.) along Daang Maharlika (LZ)",
+        "latitude": 15.5103803,
+        "longitude": 120.9584977,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 1,
+      "latestImageDate": "2020-07-09 01:41:24.694999",
+      "hasImages": true
+    }
+  }
+}

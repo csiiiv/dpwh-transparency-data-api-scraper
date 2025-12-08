@@ -1,0 +1,205 @@
+{
+  "data": {
+    "contractId": "22K00026",
+    "description": "CONSTRUCTION OF BYPASS AND DIVERSION ROADS, CDO-NEW WESTERN DIVERSION ROAD (MACABALAN-BONBON BRIDGE AND ACCESS ROAD), PACKAGE 8, CAGAYAN DE ORO CITY",
+    "category": "Bridges",
+    "status": "Completed",
+    "budget": 137490484.63,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region X",
+      "province": "Region X",
+      "infraType": "Bridges",
+      "coordinates": {
+        "latitude": 8.5067185,
+        "longitude": 124.6604183,
+        "verified": false
+      }
+    },
+    "infraType": "Bridges",
+    "contractor": "EQUI-PARCO CONSTRUCTION COMPANY (14332) / TRIPARCO DEVELOPMENT CORPORATION (23327)",
+    "startDate": "2022-03-30",
+    "completionDate": "2024-03-25",
+    "infraYear": "2022",
+    "contractEffectivityDate": "2022-03-30",
+    "expiryDate": "2023-08-27",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2022 OO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00604411MN-CW1",
+        "description": "Construction of Viaduct - CDO-New Western Diversion Road (Macabalan-Bonbon Bridge and Access Road), Package 8, Cagayan de Oro City",
+        "infraType": "Bridges",
+        "typeOfWork": "Construction of Viaduct",
+        "region": "Region X",
+        "province": "MISAMIS ORIENTAL",
+        "coordinates": {
+          "latitude": 8.5067185,
+          "longitude": 124.6604183,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "EQUI-PARCO CONSTRUCTION COMPANY, TRIPARCO DEVELOPMENT CORPORATION",
+    "bidders": [
+      {
+        "name": "TRIPARCO DEVELOPMENT CORPORATION (23327) / EQUI-PARCO CONSTRUCTION COMPANY (14332) (JV ID: JV-21-5977)",
+        "pcabId": "",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "ADFIL CORPORATION (14437)",
+        "pcabId": "14437",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "C'ZARLES CONSTRUCTION & SUPPLY (23426)",
+        "pcabId": "23426",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "GICAR CONSTRUCTION, INC. (12624)",
+        "pcabId": "12624",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "GRACE CONSTRUCTION CORPORATION (3771)",
+        "pcabId": "3771",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "JEJOR'S CONSTRUCTION CORPORATION (5143)",
+        "pcabId": "5143",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "LORENZO CONSTRUCTION & DEVELOPMENT CORP. (4284)",
+        "pcabId": "4284",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "MAC BUILDERS CORP. (FORMERLY: MAC BUILDERS DEVELOPMENT CORPORATION) (7249)",
+        "pcabId": "7249",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "MAMSAR CONSTRUCTION AND INDUSTRIAL CORPORATION (15885)",
+        "pcabId": "15885",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "M. MONTESCLAROS ENTERPRISES, INC. (6506)",
+        "pcabId": "6506",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "MONOLITHIC CONSTRUCTION & CONCRETE PRODUCTS, INC. (5733)",
+        "pcabId": "5733",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "NORTHERN BUILDERS (8789)",
+        "pcabId": "8789",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "PREMIUM MEGASTRUCTURES INC. (36079)",
+        "pcabId": "36079",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "RAMISES CONSTRUCTION (17351)",
+        "pcabId": "17351",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "RELY CONSTRUCTION & SUPPLY INC.(FORMERLY: RELY CONSTRUCTION AND SUPPLY) (10433)",
+        "pcabId": "10433",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "SUNWEST, INC. (FORMERLY: SUNWEST CONSTRUCTION & DEVELOPMENT CORPORATION) (15906)",
+        "pcabId": "15906",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "UKC BUILDERS, INC. (10759)",
+        "pcabId": "10759",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "ULTICON BUILDERS, INC. (17267)",
+        "pcabId": "17267",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "VICENTE T. LAO CONSTRUCTION (7040)",
+        "pcabId": "7040",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION OF BYPASS AND DIVERSION ROADS, CDO-NEW WESTERN DIVERSION ROAD (MACABALAN-BONBON BRIDGE AND ACCESS ROAD), PACKAGE 8, CAGAYAN DE ORO CITY",
+      "abc": "144750000.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2021-10-26 00:00:00.0000000",
+      "bidSubmissionDeadline": "2021-11-15 00:00:00.0000000",
+      "dateOfAward": "2022-03-22 00:00:00.0000000",
+      "awardAmount": "137490484.6"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/22K00026 - BCCCP.pdf",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/22k00026-triparco_epcc.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/ROA_22K00026_Tiparco-Equiparco.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/22k00026-triparco_epcc.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 8.5067185,
+    "longitude": 124.6604183,
+    "coordinates": [
+      {
+        "componentId": "P00604411MN-CW1",
+        "description": "Construction of Viaduct - CDO-New Western Diversion Road (Macabalan-Bonbon Bridge and Access Road), Package 8, Cagayan de Oro City",
+        "latitude": 8.5067185,
+        "longitude": 124.6604183,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 3,
+      "latestImageDate": "2025-09-25 08:22:22.582000",
+      "hasImages": true
+    }
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "data": {
+    "contractId": "20KB0065",
+    "description": "ROAD WIDENING ALONG SAYRE HIGHWAY (JCT BUKIDNON-DAVAO CITY ROAD-COTABATO BOUNDARY), K1566+000-K1568+000, K1574+000-K1575+000, DON CARLOS-KITAOTAO, BUKIDNON",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 96500000,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region X",
+      "province": "Bukidnon 2nd DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 7.6204114,
+        "longitude": 125.0095036,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "JT GAMOLO CONSTRUCTION, INCORPORATION (FORMERLY:J.T. GAMOLO CONSTRUCTION) (15759)",
+    "startDate": "2020-03-18",
+    "completionDate": "2021-06-25",
+    "infraYear": "2020",
+    "contractEffectivityDate": "2020-03-18",
+    "expiryDate": "2021-06-25",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2020 OO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00400219MN-CW1",
+        "description": "Road Widening - Sayre Highway (Jct Bukidnon-Davao City Rd-Cotabato Bdry) - K1566 + 000 - K1568 + 000, K1574 + 000 - K1575 + 000",
+        "infraType": "Roads",
+        "typeOfWork": "Road Widening",
+        "region": "Region X",
+        "province": "BUKIDNON",
+        "coordinates": {
+          "latitude": 7.6204114,
+          "longitude": 125.0095036,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00400219MN-CW2",
+        "description": "Off-Carriageway Improvement: Construction of Median/Center Island - Sayre Highway (Jct Bukidnon-Davao City Rd-Cotabato Bdry) - K1566 + 000 - K1568 + 000, K1574 + 000 - K1575 + 000",
+        "infraType": "Roads",
+        "typeOfWork": "Off-Carriageway Improvement: Construction of Median/Center Island",
+        "region": "Region X",
+        "province": "BUKIDNON",
+        "coordinates": {
+          "latitude": 7.6826797,
+          "longitude": 124.9973397,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "JT GAMOLO CONSTRUCTION, INCORPORATION (FORMERLY:J.T. GAMOLO CONSTRUCTION)",
+    "bidders": [
+      {
+        "name": "JT GAMOLO CONSTRUCTION, INCORPORATION (FORMERLY:J.T. GAMOLO CONSTRUCTION) (15759)",
+        "pcabId": "15759",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "B. VICENCIO BUILDERS (BVB), INC. (FORMERLY:B. VICENCIO CONSTRUCTION) (9687)",
+        "pcabId": "9687",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "DAVAO CONCRETE PRODUCTS CONSTRUCTION AND TRADING CORPORATION (FORMERLY: DAVAO CONCRETE PRODUCTS) (12090)",
+        "pcabId": "12090",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "FFJJ CONSTRUCTION (16712)",
+        "pcabId": "16712",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "GEMMA CONSTRUCTION SUPPLY, INC.(FORMERLY:GEMMA CON (5044)",
+        "pcabId": "5044",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "ITP CONSTRUCTION, INC. (9392)",
+        "pcabId": "9392",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "M. MONTESCLAROS ENTERPRISES, INC. (6506)",
+        "pcabId": "6506",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "MONOLITHIC CONSTRUCTION & CONCRETE PRODUCTS, INC. (5733)",
+        "pcabId": "5733",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "RFB CONSTRUCTION CORPORATION (41742)",
+        "pcabId": "41742",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "RHODWILL PARTS & HARDWARE AND CONSTRUCTION SERVICE (18871)",
+        "pcabId": "18871",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "RRN CONSTRUCTION & DEV'T. CORP. (FORMERLY: RRN CONSTRUCTION) (20228)",
+        "pcabId": "20228",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "TEDDIE CONSTRUCTION DEVELOPMENT, INC. (6313)",
+        "pcabId": "6313",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "THREE W BUILDERS, INC. (10722)",
+        "pcabId": "10722",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "TKS BUILDERS & SUPPLIES (23415)",
+        "pcabId": "23415",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "ROAD WIDENING ALONG SAYRE HIGHWAY (JCT BUKIDNON-DAVAO CITY ROAD-COTABATO BOUNDARY), K1566+000-K1568+000, K1574+000-K1575+000, DON CARLOS-KITAOTAO, BUKIDNON",
+      "abc": "96500000.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2019-12-05 00:00:00.0000000",
+      "bidSubmissionDeadline": "2020-01-03 00:00:00.0000000",
+      "dateOfAward": "2020-02-21 00:00:00.0000000",
+      "awardAmount": "91665591.78"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/20KB0065.rar",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/20kb0065 contract.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/20kb0065 noa.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/20kb0065 contract.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 7.6204114,
+    "longitude": 125.0095036,
+    "coordinates": [
+      {
+        "componentId": "P00400219MN-CW1",
+        "description": "Road Widening - Sayre Highway (Jct Bukidnon-Davao City Rd-Cotabato Bdry) - K1566 + 000 - K1568 + 000, K1574 + 000 - K1575 + 000",
+        "latitude": 7.6204114,
+        "longitude": 125.0095036,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00400219MN-CW2",
+        "description": "Off-Carriageway Improvement: Construction of Median/Center Island - Sayre Highway (Jct Bukidnon-Davao City Rd-Cotabato Bdry) - K1566 + 000 - K1568 + 000, K1574 + 000 - K1575 + 000",
+        "latitude": 7.6826797,
+        "longitude": 124.9973397,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 15,
+      "latestImageDate": "2021-07-29 04:08:41.924999",
+      "hasImages": true
+    }
+  }
+}

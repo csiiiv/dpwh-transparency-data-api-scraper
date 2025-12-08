@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "15AI0394",
+    "description": "CONST/MAINT OF FLOOD MITIGATION STRUCTUES & DRAINAGE SYSTEMS-AGNO RIVER BASIN FLOOD CTRL PROJ-CONST",
+    "category": "Flood Control and Drainage",
+    "status": "Completed",
+    "budget": 9419979.26,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region I",
+      "province": "Pangasinan 3rd DEO",
+      "infraType": "Flood Control and Drainage",
+      "coordinates": {
+        "latitude": 16.0722,
+        "longitude": 120.7539,
+        "verified": false
+      }
+    },
+    "infraType": "Flood Control and Drainage",
+    "contractor": "A.C. SOLIVEN CONSTRUCTION & GENERAL MERCHANDISE (19278)",
+    "startDate": "2016-02-25",
+    "completionDate": "2016-05-15",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-02-25",
+    "expiryDate": "2016-05-24",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-2",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00020221LZ-CW1",
+        "description": "Construction of Dike - Agno River Basin Flood Control Project-Construction of Dike with Protection Works, San Rafael West, San Nicolas, Pangasinan 6th LD",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Construction of Dike",
+        "region": "Region I",
+        "province": "PANGASINAN",
+        "coordinates": {
+          "latitude": 16.0722,
+          "longitude": 120.7539,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "A.C. SOLIVEN CONSTRUCTION & GENERAL MERCHANDISE",
+    "bidders": [
+      {
+        "name": "A.C. SOLIVEN CONSTRUCTION & GENERAL MERCHANDISE (19278)",
+        "pcabId": "19278",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "BET CONSTRUCTION & SUPPLY (31764)",
+        "pcabId": "31764",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONST/MAINT OF FLOOD MITIGATION STRUCTUES & DRAINAGE SYSTEMS-AGNO RIVER BASIN FLOOD CTRL PROJ-CONST",
+      "abc": "9799999.95",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-12-03 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-12-22 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "9423094.6100000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/april/15AI0394 contract.pdf",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/april/15AI0394 award.pdf",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/april/15AI0394 contract.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 16.0722,
+    "longitude": 120.7539,
+    "coordinates": [
+      {
+        "componentId": "P00020221LZ-CW1",
+        "description": "Construction of Dike - Agno River Basin Flood Control Project-Construction of Dike with Protection Works, San Rafael West, San Nicolas, Pangasinan 6th LD",
+        "latitude": 16.0722,
+        "longitude": 120.7539,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

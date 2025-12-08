@@ -1,0 +1,97 @@
+{
+  "data": {
+    "contractId": "24KH0100",
+    "description": "CONSTRUCTION OF 4STY12CL, LUMBIA NATIONAL HIGH SCHOOL, CAGAYAN DE ORO CITY",
+    "category": "Buildings and Facilities",
+    "status": "On-Going",
+    "budget": 39878320.59,
+    "amountPaid": 0,
+    "progress": 95.35,
+    "location": {
+      "region": "Region X",
+      "province": "Cagayan de Oro City 1st DEO",
+      "infraType": "Buildings and Facilities",
+      "coordinates": {
+        "latitude": 8.4016583,
+        "longitude": 124.5970083,
+        "verified": false
+      }
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "CAGALAWAN ENTERPRISES (38019)",
+    "startDate": "2024-12-20",
+    "completionDate": null,
+    "infraYear": "2023",
+    "contractEffectivityDate": "2024-12-20",
+    "expiryDate": "2025-10-10",
+    "nysReason": null,
+    "programName": "Outside Infra",
+    "sourceOfFunds": "Outside Infra - GAA 2023 DepEd BEFF",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00775768MN-CW1",
+        "description": "Construction of 4-Storey Classrooms - Construction of 4STY12CL School Building, Lumbia National High School, Cagayan de Oro City, Misamis Oriental",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of 4-Storey Classrooms",
+        "region": "Region X",
+        "province": "MISAMIS ORIENTAL",
+        "coordinates": {
+          "latitude": 8.4016583,
+          "longitude": 124.5970083,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "CAGALAWAN ENTERPRISES",
+    "bidders": [
+      {
+        "name": "CAGALAWAN ENTERPRISES (38019)",
+        "pcabId": "38019",
+        "participation": 100,
+        "isWinner": true
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION OF 4STY12CL, LUMBIA NATIONAL HIGH SCHOOL, CAGAYAN DE ORO CITY",
+      "abc": "39899749.37",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2024-07-27 00:00:00.0000000",
+      "bidSubmissionDeadline": "2024-08-22 00:00:00.0000000",
+      "dateOfAward": "2024-12-17 00:00:00.0000000",
+      "awardAmount": "39878320.59"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/24kh0100.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/24kh0100_contract.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/noa_24kh0100.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/24kh0100_ntp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 8.4016583,
+    "longitude": 124.5970083,
+    "coordinates": [
+      {
+        "componentId": "P00775768MN-CW1",
+        "description": "Construction of 4-Storey Classrooms - Construction of 4STY12CL School Building, Lumbia National High School, Cagayan de Oro City, Misamis Oriental",
+        "latitude": 8.4016583,
+        "longitude": 124.5970083,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 12,
+      "latestImageDate": "2025-10-30 02:06:19.351000",
+      "hasImages": true
+    }
+  }
+}

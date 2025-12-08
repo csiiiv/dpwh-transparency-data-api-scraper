@@ -1,0 +1,97 @@
+{
+  "data": {
+    "contractId": "15BC0174",
+    "description": "REHAB/RECONSTRUCTION OF NATIONAL ROADS W/ SLIPS, SLOPE COLLAPSE AND LANDSLIDE ALONG CADCADIR-KABUGAO ROAD, K0602+262-K0602+510",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 46584393.8,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region II",
+      "province": "Cagayan 2nd DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 18.5306873965778,
+        "longitude": 121.015609672096,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "JLL PULSAR CONSTRUCTION CORPORATION (FORMERLY: PULSAR CONSTRUCTION) (24422)",
+    "startDate": "2016-03-08",
+    "completionDate": "2017-05-25",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-03-08",
+    "expiryDate": "2016-10-07",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00005785LZ-CW1",
+        "description": "Construction of Road Slope Protection Structure - Cadcadir-Kabugao Rd - K0602+262 - K0602+510",
+        "infraType": "Roads",
+        "typeOfWork": "Construction of Road Slope Protection Structure",
+        "region": "Region II",
+        "province": "CAGAYAN",
+        "coordinates": {
+          "latitude": 18.5306873965778,
+          "longitude": 121.015609672096,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "JLL PULSAR CONSTRUCTION CORPORATION (FORMERLY: PULSAR CONSTRUCTION)",
+    "bidders": [
+      {
+        "name": "JLL PULSAR CONSTRUCTION CORPORATION (FORMERLY: PULSAR CONSTRUCTION) (24422)",
+        "pcabId": "24422",
+        "participation": 100,
+        "isWinner": true
+      }
+    ],
+    "procurement": {
+      "contractName": "REHAB/RECONSTRUCTION OF NATIONAL ROADS W/ SLIPS, SLOPE COLLAPSE AND LANDSLIDE ALONG CADCADIR-KABUGAO ROAD, K0602+262-K0602+510",
+      "abc": "48510000.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-12-31 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-01-28 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "46564393.8000000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/may/15BC0174-Contract Agreement.jpg",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/15bc0174-noa.pdf",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/ntp/16/may/15BC0174-NTP.jpg",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 18.5306873965778,
+    "longitude": 121.015609672096,
+    "coordinates": [
+      {
+        "componentId": "P00005785LZ-CW1",
+        "description": "Construction of Road Slope Protection Structure - Cadcadir-Kabugao Rd - K0602+262 - K0602+510",
+        "latitude": 18.5306873965778,
+        "longitude": 121.015609672096,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

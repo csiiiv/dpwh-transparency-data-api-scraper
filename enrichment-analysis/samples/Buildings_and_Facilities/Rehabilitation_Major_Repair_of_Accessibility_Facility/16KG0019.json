@@ -1,0 +1,172 @@
+{
+  "data": {
+    "contractId": "16KG0019",
+    "description": "CLUSTER IV - CONST./REHAB. OF ACCESSIBILITY FACILITIES FOR PHYSICALLY CHALLENGED PERSONS IN THE MUNICIPALITY OF SND, LANAO DEL NORTE (BANGAAN ES,BANSARVIL ES,BAUYAN ES,DOBLISTON ES,DANGULAAN ES,PIGKALAWAG ES, PIKINIT ES, SND ES,TAGULO ES & PANDANAN ES)",
+    "category": "Buildings and Facilities",
+    "status": "Completed",
+    "budget": 1656799.7,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region X",
+      "province": "Lanao del Norte 2nd DEO",
+      "infraType": "Buildings and Facilities",
+      "coordinates": null
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "NDP CONSTRUCTION DEVELOPMENT (39524)",
+    "startDate": "2016-04-29",
+    "completionDate": "2016-05-18",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-04-29",
+    "expiryDate": "2016-05-18",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-3",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00030561MN-CW1",
+        "description": "Construction of Accessibility Facility - Construction of Toilet/Ramp for Physically Challenged Persons in Municipality of Sultan Naga Dimaporo, Lanao Del Norte, Bangaan Elementary School",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of Accessibility Facility",
+        "region": "Region X",
+        "province": "LANAO DEL NORTE",
+        "coordinates": null
+      },
+      {
+        "componentId": "P00030562MN-CW1",
+        "description": "Construction of Accessibility Facility - Construction of Toilet/Ramp for Physically Challenged Persons in Municipality of Sultan Naga Dimaporo, Lanao Del Norte, Bansarvil Elementary School",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of Accessibility Facility",
+        "region": "Region X",
+        "province": "LANAO DEL NORTE",
+        "coordinates": null
+      },
+      {
+        "componentId": "P00030563MN-CW1",
+        "description": "Construction of Accessibility Facility - Construction of Toilet/Ramp for Physically Challenged Persons in Municipality of Sultan Naga Dimaporo, Lanao Del Norte, Bauyan Elementary School",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of Accessibility Facility",
+        "region": "Region X",
+        "province": "LANAO DEL NORTE",
+        "coordinates": null
+      },
+      {
+        "componentId": "P00030564MN-CW1",
+        "description": "Construction of Accessibility Facility - Construction of Toilet/Ramp for Physically Challenged Persons in Municipality of Sultan Naga Dimaporo, Lanao Del Norte, Dobliston Elementary School",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of Accessibility Facility",
+        "region": "Region X",
+        "province": "LANAO DEL NORTE",
+        "coordinates": null
+      },
+      {
+        "componentId": "P00030565MN-CW1",
+        "description": "Construction of Accessibility Facility - Construction of Toilet/Ramp for Physically Challenged Persons in Municipality of Sultan Naga Dimaporo, Lanao Del Norte, Dangulaan Elementary School",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of Accessibility Facility",
+        "region": "Region X",
+        "province": "LANAO DEL NORTE",
+        "coordinates": null
+      },
+      {
+        "componentId": "P00030566MN-CW1",
+        "description": "Construction of Accessibility Facility - Construction of Toilet/Ramp for Physically Challenged Persons in Municipality of Sultan Naga Dimaporo, Lanao Del Norte, Pigkalawag Elementary School",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of Accessibility Facility",
+        "region": "Region X",
+        "province": "LANAO DEL NORTE",
+        "coordinates": null
+      },
+      {
+        "componentId": "P00030567MN-CW1",
+        "description": "Construction of Accessibility Facility - Construction of Toilet/Ramp for Physically Challenged Persons in Municipality of Sultan Naga Dimaporo, Lanao Del Norte, Pikinit Elementary School",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of Accessibility Facility",
+        "region": "Region X",
+        "province": "LANAO DEL NORTE",
+        "coordinates": null
+      },
+      {
+        "componentId": "P00030568MN-CW1",
+        "description": "Construction of Accessibility Facility - Construction of Toilet/Ramp for Physically Challenged Persons in Municipality of Sultan Naga Dimaporo, Lanao Del Norte, SNS Elementary School",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of Accessibility Facility",
+        "region": "Region X",
+        "province": "LANAO DEL NORTE",
+        "coordinates": null
+      },
+      {
+        "componentId": "P00030569MN-CW1",
+        "description": "Construction of Accessibility Facility - Construction of Toilet/Ramp for Physically Challenged Persons in Municipality of Sultan Naga Dimaporo, Lanao Del Norte, Tagulo Elementary School",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of Accessibility Facility",
+        "region": "Region X",
+        "province": "LANAO DEL NORTE",
+        "coordinates": null
+      },
+      {
+        "componentId": "P00030570MN-CW1",
+        "description": "Rehabilitation/Major Repair of Accessibility Facility - Construction of Toilet/Ramp for Physically Challenged Persons in Municipality of Sultan Naga Dimaporo, Lanao Del Norte, Pandanan Elementary School",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Rehabilitation/Major Repair of Accessibility Facility",
+        "region": "Region X",
+        "province": "LANAO DEL NORTE",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "NDP CONSTRUCTION DEVELOPMENT",
+    "bidders": [
+      {
+        "name": "NDP CONSTRUCTION DEVELOPMENT (39524)",
+        "pcabId": "39524",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "AHM BUILDERS (39815)",
+        "pcabId": "39815",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "AL-AMEN BUILDERS (36458)",
+        "pcabId": "36458",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CLUSTER IV - CONST./REHAB. OF ACCESSIBILITY FACILITIES FOR PHYSICALLY CHALLENGED PERSONS IN THE MUNICIPALITY OF SND, LANAO DEL NORTE (BANGAAN ES,BANSARVIL ES,BAUYAN ES,DOBLISTON ES,DANGULAAN ES,PIGKALAWAG ES, PIKINIT ES, SND ES,TAGULO ES & PANDANAN ES)",
+      "abc": "1662576.30",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-03-23 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-04-11 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "1,656,799.70"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/16kg0019_contract_agreement.pdf",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/september/19NOA.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/16kg0019_contract_agreement.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

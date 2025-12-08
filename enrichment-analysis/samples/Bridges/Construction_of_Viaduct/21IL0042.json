@@ -1,0 +1,109 @@
+{
+  "data": {
+    "contractId": "21IL0042",
+    "description": "NETWORK DEVELOPMENT - CONSTRUCTION OF MISSING LINKS / NEW ROADS LILOAN - SAN RICARDO CIRCUMFERENTIAL ROAD (CONSTRUCTION OF VIADUCT), SOUTHERN LEYTE, SAN RICARDO, SOUTHERN LEYTE",
+    "category": "Bridges",
+    "status": "Completed",
+    "budget": 144750000,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region VIII",
+      "province": "Southern Leyte 1st DEO",
+      "infraType": "Bridges",
+      "coordinates": {
+        "latitude": 10.0399036,
+        "longitude": 125.2459867,
+        "verified": false
+      }
+    },
+    "infraType": "Bridges",
+    "contractor": "888 ACY ENTERPRISES (32898)",
+    "startDate": "2021-06-14",
+    "completionDate": "2023-04-04",
+    "infraYear": "2021",
+    "contractEffectivityDate": "2021-06-14",
+    "expiryDate": "2023-04-04",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2021 OO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00505511VS-CW1",
+        "description": "Construction of Viaduct - Liloan-San Ricardo Circumferential Road (Construction of Viaduct), Southern Leyte",
+        "infraType": "Bridges",
+        "typeOfWork": "Construction of Viaduct",
+        "region": "Region VIII",
+        "province": "SOUTHERN LEYTE",
+        "coordinates": {
+          "latitude": 10.0399036,
+          "longitude": 125.2459867,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "888 ACY ENTERPRISES",
+    "bidders": [
+      {
+        "name": "888 ACY ENTERPRISES (32898)",
+        "pcabId": "32898",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "A.C. RIVERO DEVELOPMENT CORPORATION (5122)",
+        "pcabId": "5122",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "FFJJ CONSTRUCTION (16712)",
+        "pcabId": "16712",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "NETWORK DEVELOPMENT - CONSTRUCTION OF MISSING LINKS / NEW ROADS LILOAN - SAN RICARDO CIRCUMFERENTIAL ROAD (CONSTRUCTION OF VIADUCT), SOUTHERN LEYTE, SAN RICARDO, SOUTHERN LEYTE",
+      "abc": "144750000.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2020-12-14 00:00:00.0000000",
+      "bidSubmissionDeadline": "2021-03-16 00:00:00.0000000",
+      "dateOfAward": "2021-05-28 00:00:00.0000000",
+      "awardAmount": "142722614.5"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/BID DOCS42.pdf",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/21il0042 agreement.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/21il0042 noa.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/21il0042 agreement.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 10.0399036,
+    "longitude": 125.2459867,
+    "coordinates": [
+      {
+        "componentId": "P00505511VS-CW1",
+        "description": "Construction of Viaduct - Liloan-San Ricardo Circumferential Road (Construction of Viaduct), Southern Leyte",
+        "latitude": 10.0399036,
+        "longitude": 125.2459867,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 37,
+      "latestImageDate": "2024-05-31 01:18:41.398000",
+      "hasImages": true
+    }
+  }
+}

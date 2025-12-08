@@ -1,0 +1,145 @@
+{
+  "data": {
+    "contractId": "15CD0303",
+    "description": "PREVENTIVE MAINTENANCE ASPHALT OVERLAY ALONG STA.MARIA - NORZAGARAY ROAD K0034+296 - K0034+496 ; K0034+758 - K0036+137 ; K0036+168 - K0036+483 ; K0039+000 - K0039+631 STA.MARIA, BULACAN",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 28596740.69,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region III",
+      "province": "Bulacan 2nd DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 14.8370917195943,
+        "longitude": 120.977267340788,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "C.T. LEONCIO CONSTRUCTION & TRADING (17371)",
+    "startDate": "2016-02-22",
+    "completionDate": "2016-06-07",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-02-22",
+    "expiryDate": "2016-06-08",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00000638LZ-CW1",
+        "description": "Preventive Maintenance of Road: Concrete Reblocking - Sta Maria-Norzagaray Rd  K0034+296 - K0034+496, K0034+758 - K0036+137, K0036+168 - K0036+483, K0039+000 - K0039+631",
+        "infraType": "Roads",
+        "typeOfWork": "Preventive Maintenance of Road: Concrete Reblocking",
+        "region": "Region III",
+        "province": "BULACAN",
+        "coordinates": {
+          "latitude": 14.8370917195943,
+          "longitude": 120.977267340788,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "C.T. LEONCIO CONSTRUCTION & TRADING",
+    "bidders": [
+      {
+        "name": "C.T. LEONCIO CONSTRUCTION & TRADING (17371)",
+        "pcabId": "17371",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "ALL EML CONSTRUCTION CORPORATION (FORMERLY: E.M.L. CONSTRUCTION & TRADING) (10151)",
+        "pcabId": "10151",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "D. M. HOUSE CONSTRUCTION, INC. (25810)",
+        "pcabId": "25810",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "G.D.L. CONSTRUCTION (22796)",
+        "pcabId": "22796",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "L.M.G. CONSTRUCTION INCORPORATED (FORMERLY: LMG CONSTRUCTION) (5719)",
+        "pcabId": "5719",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "ORANI CONSTRUCTION AND SUPPLY CORPORATION (FORMERLY:ORANI BUILDERS & SUPPLY) (05349)",
+        "pcabId": "05349",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "POLYMER-VIC CONSTRUCTION (6157)",
+        "pcabId": "6157",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "ROMA CONSTRUCTION & DEVELOPMENT CORPORATION (6514)",
+        "pcabId": "6514",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "STO. CRISTO CONSTRUCTION & TRADING INC. (FOR: STO. CRISTO CONSTRUCTION & TRADING) (26096)",
+        "pcabId": "26096",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "PREVENTIVE MAINTENANCE ASPHALT OVERLAY ALONG STA.MARIA - NORZAGARAY ROAD K0034+296 - K0034+496 ; K0034+758 - K0036+137 ; K0036+168 - K0036+483 ; K0039+000 - K0039+631 STA.MARIA, BULACAN",
+      "abc": "32367748.91",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-12-23 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-01-21 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "25691698.4500000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/september/CA 301,302,303.zip",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/september/NOA 301,302,303,304,305.zip",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/ntp/16/august/NTP 15CD0300,301,302,303,304,305.zip",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 14.8370917195943,
+    "longitude": 120.977267340788,
+    "coordinates": [
+      {
+        "componentId": "P00000638LZ-CW1",
+        "description": "Preventive Maintenance of Road: Concrete Reblocking - Sta Maria-Norzagaray Rd  K0034+296 - K0034+496, K0034+758 - K0036+137, K0036+168 - K0036+483, K0039+000 - K0039+631",
+        "latitude": 14.8370917195943,
+        "longitude": 120.977267340788,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

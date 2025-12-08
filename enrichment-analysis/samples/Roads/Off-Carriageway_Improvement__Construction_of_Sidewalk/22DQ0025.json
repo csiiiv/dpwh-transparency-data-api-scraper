@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "22DQ0025",
+    "description": "ORGANIZATIONAL OUTCOME 1 : ENSURE SAFE AND RELIABLE NATIONAL ROAD SYSTEM - NETWORK DEVELOPMENT PROGRAM - OFF-CARRIAGEWAY IMPROVEMENT - SECONDARY ROADS - CARMONA DIV RD - K0047 + 584 - K0047 + 598, K0048 + 398 - K0048 + 498, K0048 + 676 - K0048 + 719",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 1360330.26,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region IV-A",
+      "province": "Cavite 3rd DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 14.31505,
+        "longitude": 121.0526316,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "T.E. TRINIDAD CONSTRUCTION (43287)",
+    "startDate": "2022-02-09",
+    "completionDate": "2022-03-20",
+    "infraYear": "2022",
+    "contractEffectivityDate": "2022-02-09",
+    "expiryDate": "2022-05-09",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2022 OO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00605853LZ-CW1",
+        "description": "Off-Carriageway Improvement: Construction of Sidewalk - Carmona Div Rd - K0047 + 584 - K0047 + 598, K0048 + 398 - K0048 + 498, K0048 + 676 - K0048 + 719",
+        "infraType": "Roads",
+        "typeOfWork": "Off-Carriageway Improvement: Construction of Sidewalk",
+        "region": "Region IV-A",
+        "province": "CAVITE",
+        "coordinates": {
+          "latitude": 14.31505,
+          "longitude": 121.0526316,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "T.E. TRINIDAD CONSTRUCTION",
+    "bidders": [
+      {
+        "name": "T.E. TRINIDAD CONSTRUCTION (43287)",
+        "pcabId": "43287",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "FE S. REYES GENERAL CONTRACTOR CORP. (09015)",
+        "pcabId": "09015",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "ORGANIZATIONAL OUTCOME 1 : ENSURE SAFE AND RELIABLE NATIONAL ROAD SYSTEM - NETWORK DEVELOPMENT PROGRAM - OFF-CARRIAGEWAY IMPROVEMENT - SECONDARY ROADS - CARMONA DIV RD - K0047 + 584 - K0047 + 598, K0048 + 398 - K0048 + 498, K0048 + 676 - K0048 + 719",
+      "abc": "1363156.12",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2021-11-12 00:00:00.0000000",
+      "bidSubmissionDeadline": "2021-12-07 00:00:00.0000000",
+      "dateOfAward": "2022-01-24 00:00:00.0000000",
+      "awardAmount": "1296361.47"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/22DQ0025 BID DOCS WITH PLANS.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/22DQ0025 Contract Agreement.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/22dq0025_notice_of_award_and_bac_reso.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/22DQ0025 Contract Agreement.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 14.31505,
+    "longitude": 121.0526316,
+    "coordinates": [
+      {
+        "componentId": "P00605853LZ-CW1",
+        "description": "Off-Carriageway Improvement: Construction of Sidewalk - Carmona Div Rd - K0047 + 584 - K0047 + 598, K0048 + 398 - K0048 + 498, K0048 + 676 - K0048 + 719",
+        "latitude": 14.31505,
+        "longitude": 121.0526316,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 3,
+      "latestImageDate": "2022-08-30 07:39:33.555000",
+      "hasImages": true
+    }
+  }
+}

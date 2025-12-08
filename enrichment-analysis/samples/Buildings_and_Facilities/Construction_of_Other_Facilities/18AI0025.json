@@ -1,0 +1,97 @@
+{
+  "data": {
+    "contractId": "18AI0025",
+    "description": "CONSTRUCTION OF COVERED COURT-LANANPIN NHS, BRGY. PINMALUDPOD, URDANETA CITY, PANGASINAN",
+    "category": "Buildings and Facilities",
+    "status": "Completed",
+    "budget": 2910400,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region I",
+      "province": "Pangasinan 3rd DEO",
+      "infraType": "Buildings and Facilities",
+      "coordinates": {
+        "latitude": 15.9763,
+        "longitude": 120.5392933,
+        "verified": false
+      }
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "T.J. VELASCO CONSTRUCTION & SUPPLY (10560)",
+    "startDate": "2018-03-22",
+    "completionDate": "2018-06-29",
+    "infraYear": "2018",
+    "contractEffectivityDate": "2018-03-22",
+    "expiryDate": "2018-06-29",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2018 LP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00250839LZ-CW1",
+        "description": "Construction of Other Facilities - Construction of Covered Court- Lananpin National High School, Brgy. Pinmaludpod, Urdaneta City, Pangasinan",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of Other Facilities",
+        "region": "Region I",
+        "province": "PANGASINAN",
+        "coordinates": {
+          "latitude": 15.9763,
+          "longitude": 120.5392933,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "T.J. VELASCO CONSTRUCTION & SUPPLY",
+    "bidders": [
+      {
+        "name": "T.J. VELASCO CONSTRUCTION & SUPPLY (10560)",
+        "pcabId": "10560",
+        "participation": 100,
+        "isWinner": true
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION OF COVERED COURT-LANANPIN NHS, BRGY. PINMALUDPOD, URDANETA CITY, PANGASINAN",
+      "abc": "2970000.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2018-02-01 00:00:00.0000000",
+      "bidSubmissionDeadline": "2018-02-20 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "2910400"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/18AI0025.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/18ai0025 contract_25C-918050714050.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/18ai0025 award_25C-918050714051.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/18ai0025 contract_25C-918050714050.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 15.9763,
+    "longitude": 120.5392933,
+    "coordinates": [
+      {
+        "componentId": "P00250839LZ-CW1",
+        "description": "Construction of Other Facilities - Construction of Covered Court- Lananpin National High School, Brgy. Pinmaludpod, Urdaneta City, Pangasinan",
+        "latitude": 15.9763,
+        "longitude": 120.5392933,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

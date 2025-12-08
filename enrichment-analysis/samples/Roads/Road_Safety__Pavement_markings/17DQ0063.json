@@ -1,0 +1,203 @@
+{
+  "data": {
+    "contractId": "17DQ0063",
+    "description": "LOCALLY FUNDED PROJECTS - LOCAL INFRASTRUCTURE PROGRAM (LIP) - ROADS AND BRIDGES - LOCAL ROADS, CONCRETING OF ROAD, BARANGAY MOLINO 6, BACOOR, CAVITE, REPAIR/REHABILITATION OF ROADS, M. ALVAREZ ROAD, BACOOR, CAVITE, IMPROVEMENT OF MAJOR INTERSECTION AT TA",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 21655422.67,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region IV-A",
+      "province": "Cavite 1st DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 14.416577,
+        "longitude": 120.988118,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "R2A CONSTRUCTION & TRADING CORPORATION (31922)",
+    "startDate": "2017-07-26",
+    "completionDate": "2018-05-21",
+    "infraYear": "2017",
+    "contractEffectivityDate": "2017-07-26",
+    "expiryDate": "2018-05-21",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2017 LFP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00147558LZ-CW1",
+        "description": "Construction of Concrete Road - Concreting of road, Barangay Molino 6, Bacoor, Cavite",
+        "infraType": "Roads",
+        "typeOfWork": "Construction of Concrete Road",
+        "region": "Region IV-A",
+        "province": "CAVITE",
+        "coordinates": {
+          "latitude": 14.416577,
+          "longitude": 120.988118,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00147560LZ-CW1",
+        "description": "Rehabilitation of Concrete Road - Repair/rehabilitation of Roads, M. Alvarez Road, Bacoor, Cavite",
+        "infraType": "Roads",
+        "typeOfWork": "Rehabilitation of Concrete Road",
+        "region": "Region IV-A",
+        "province": "CAVITE",
+        "coordinates": {
+          "latitude": 14.407131,
+          "longitude": 120.990645,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00147561LZ-CW1",
+        "description": "Road Safety: Pavement markings - Improvement of Major intersection at Talaba-Evangelista Junction, Bacoor , Cavite",
+        "infraType": "Roads",
+        "typeOfWork": "Road Safety: Pavement markings",
+        "region": "Region IV-A",
+        "province": "CAVITE",
+        "coordinates": {
+          "latitude": 14.462189,
+          "longitude": 120.959592,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00147562LZ-CW1",
+        "description": "Road Safety: Pavement markings - Improvement of Major intersection at Aguinaldo/Bacoor Boulevard Intersection, Bacoor , Cavite",
+        "infraType": "Roads",
+        "typeOfWork": "Road Safety: Pavement markings",
+        "region": "Region IV-A",
+        "province": "CAVITE",
+        "coordinates": {
+          "latitude": 14.459562,
+          "longitude": 120.959812,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00147563LZ-CW1",
+        "description": "Road Safety: Pavement markings - Improvement of Major intersection at Daang Hari/Molino Road, Bacoor, Cavite",
+        "infraType": "Roads",
+        "typeOfWork": "Road Safety: Pavement markings",
+        "region": "Region IV-A",
+        "province": "CAVITE",
+        "coordinates": {
+          "latitude": 14.386042,
+          "longitude": 120.977886,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "R2A CONSTRUCTION & TRADING CORPORATION",
+    "bidders": [
+      {
+        "name": "R2A CONSTRUCTION & TRADING CORPORATION (31922)",
+        "pcabId": "31922",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "LVRO CONSTRUCTION & SUPPLY (18116)",
+        "pcabId": "18116",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "TRIMLUV BUILDERS AND SUPPLY (33467)",
+        "pcabId": "33467",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "TWO ACES CONSTRUCTION & SUPPLY (15413)",
+        "pcabId": "15413",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "LOCALLY FUNDED PROJECTS - LOCAL INFRASTRUCTURE PROGRAM (LIP) - ROADS AND BRIDGES - LOCAL ROADS, CONCRETING OF ROAD, BARANGAY MOLINO 6, BACOOR, CAVITE, REPAIR/REHABILITATION OF ROADS, M. ALVAREZ ROAD, BACOOR, CAVITE, IMPROVEMENT OF MAJOR INTERSECTION AT TA",
+      "abc": "22799981.75",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2017-05-29 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-06-20 00:00:00.0000000",
+      "dateOfAward": "2017-06-26 00:00:00.0000000",
+      "awardAmount": "21,655,422.67"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "",
+      "noticeOfAward": "",
+      "noticeToProceed": "",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 14.416577,
+    "longitude": 120.988118,
+    "coordinates": [
+      {
+        "componentId": "P00147558LZ-CW1",
+        "description": "Construction of Concrete Road - Concreting of road, Barangay Molino 6, Bacoor, Cavite",
+        "latitude": 14.416577,
+        "longitude": 120.988118,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00147560LZ-CW1",
+        "description": "Rehabilitation of Concrete Road - Repair/rehabilitation of Roads, M. Alvarez Road, Bacoor, Cavite",
+        "latitude": 14.407131,
+        "longitude": 120.990645,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00147561LZ-CW1",
+        "description": "Road Safety: Pavement markings - Improvement of Major intersection at Talaba-Evangelista Junction, Bacoor , Cavite",
+        "latitude": 14.462189,
+        "longitude": 120.959592,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00147562LZ-CW1",
+        "description": "Road Safety: Pavement markings - Improvement of Major intersection at Aguinaldo/Bacoor Boulevard Intersection, Bacoor , Cavite",
+        "latitude": 14.459562,
+        "longitude": 120.959812,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00147563LZ-CW1",
+        "description": "Road Safety: Pavement markings - Improvement of Major intersection at Daang Hari/Molino Road, Bacoor, Cavite",
+        "latitude": 14.386042,
+        "longitude": 120.977886,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

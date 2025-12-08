@@ -1,0 +1,177 @@
+{
+  "data": {
+    "contractId": "22DD0051",
+    "description": "ORGANIZATIONAL OUTCOME 1: ENSURE SAFE AND RELIABLE NATIONAL ROAD SYSTEM, NETWORK DEVELOPMENT PROGRAM, CONSTRUCTION OF BY - PASS AND DIVERSION ROADS, MANILA-BATANGAS BYPASS RD PACKAGE F, BATANGAS",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 55757700,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region IV-A",
+      "province": "Batangas 4th DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 13.96018,
+        "longitude": 121.16518,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "THREE W BUILDERS, INC. (10722)",
+    "startDate": "2022-02-15",
+    "completionDate": "2022-08-25",
+    "infraYear": "2022",
+    "contractEffectivityDate": "2022-02-15",
+    "expiryDate": "2022-08-25",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - Flood Control: Construction - Drainage (e.g., Closed and Open Conduits, Spillway), Roads: Rehabilitation - PCCP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00608582LZ-CW1",
+        "description": "Construction of Concrete Road - Manila-Batangas Bypass Rd Package F, Batangas",
+        "infraType": "Roads",
+        "typeOfWork": "Construction of Concrete Road",
+        "region": "Region IV-A",
+        "province": "BATANGAS",
+        "coordinates": {
+          "latitude": 13.96018,
+          "longitude": 121.16518,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00608582LZ-CW2",
+        "description": "Construction of Drainage Structure along Road - Manila-Batangas Bypass Rd Package F, Batangas",
+        "infraType": "Roads",
+        "typeOfWork": "Construction of Drainage Structure along Road",
+        "region": "Region IV-A",
+        "province": "BATANGAS",
+        "coordinates": {
+          "latitude": 13.96018,
+          "longitude": 121.16518,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00608582LZ-CW3",
+        "description": "Off-Carriageway Improvement: Construction of Sidewalk - Manila-Batangas Bypass Rd Package F, Batangas",
+        "infraType": "Roads",
+        "typeOfWork": "Off-Carriageway Improvement: Construction of Sidewalk",
+        "region": "Region IV-A",
+        "province": "BATANGAS",
+        "coordinates": {
+          "latitude": 13.96018,
+          "longitude": 121.16518,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "THREE W BUILDERS, INC.",
+    "bidders": [
+      {
+        "name": "THREE W BUILDERS, INC. (10722)",
+        "pcabId": "10722",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "ALL EML CONSTRUCTION CORPORATION (FORMERLY: E.M.L. CONSTRUCTION & TRADING) (10151)",
+        "pcabId": "10151",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "HONEYVILLECONST AND DEVELOPMENT CORPORATION (32160)",
+        "pcabId": "32160",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "IKM BUILDERS AND CONSTRUCTION SUPPLY CORPORATION (FORMERLY: IKM BUILDERS & CONSTRUCTION SUPPLY) (30252)",
+        "pcabId": "30252",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "MUNTOPAR BUILDERS CORP. (29800)",
+        "pcabId": "29800",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "ST. MATTHEW GEN. CONTRACTOR & DEVELOPMENT CORP. ([REVOKED] 40908)",
+        "pcabId": "[REVOKED] 40908",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "SUPREME ABF CONST. & CONST. SUPPLY COMPANY INC. (25226)",
+        "pcabId": "25226",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "ORGANIZATIONAL OUTCOME 1: ENSURE SAFE AND RELIABLE NATIONAL ROAD SYSTEM, NETWORK DEVELOPMENT PROGRAM, CONSTRUCTION OF BY - PASS AND DIVERSION ROADS, MANILA-BATANGAS BYPASS RD PACKAGE F, BATANGAS",
+      "abc": "57900000.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2021-10-27 00:00:00.0000000",
+      "bidSubmissionDeadline": "2021-11-17 00:00:00.0000000",
+      "dateOfAward": "2022-02-09 00:00:00.0000000",
+      "awardAmount": "55757700"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/PLAN2 22DD0051.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/22DD0051 CA.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/22dd0051_noa.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/22DD0051 CA.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 13.96018,
+    "longitude": 121.16518,
+    "coordinates": [
+      {
+        "componentId": "P00608582LZ-CW1",
+        "description": "Construction of Concrete Road - Manila-Batangas Bypass Rd Package F, Batangas",
+        "latitude": 13.96018,
+        "longitude": 121.16518,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00608582LZ-CW2",
+        "description": "Construction of Drainage Structure along Road - Manila-Batangas Bypass Rd Package F, Batangas",
+        "latitude": 13.96018,
+        "longitude": 121.16518,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00608582LZ-CW3",
+        "description": "Off-Carriageway Improvement: Construction of Sidewalk - Manila-Batangas Bypass Rd Package F, Batangas",
+        "latitude": 13.96018,
+        "longitude": 121.16518,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 7,
+      "latestImageDate": "2024-09-10 06:13:17.759000",
+      "hasImages": true
+    }
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "data": {
+    "contractId": "15AD0158",
+    "description": "CONC,OF LUBONG-SUAGAYAN-SABUANAN FMR,STA.LUCIA,ILOCOS SUR",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 4722779.64,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region I",
+      "province": "Ilocos Sur 2nd DEO",
+      "infraType": "Roads",
+      "coordinates": null
+    },
+    "infraType": "Roads",
+    "contractor": "FIRST NORTHWAY DEVELOPMENT & CONSTRUCTION CORP. (11645)",
+    "startDate": "2016-01-25",
+    "completionDate": "2016-04-29",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-01-25",
+    "expiryDate": "2016-03-01",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 Locally Funded Projects",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00044608LZ-CW1",
+        "description": "Road Upgrading Gravel to Paved - Concreting of Lubong-Suagayan-Sabuanan FMR, Sta. Lucia, Ilocos Sur",
+        "infraType": "Roads",
+        "typeOfWork": "Road Upgrading Gravel to Paved",
+        "region": "Region I",
+        "province": "ILOCOS SUR",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "FIRST NORTHWAY DEVELOPMENT & CONSTRUCTION CORP.",
+    "bidders": [
+      {
+        "name": "FIRST NORTHWAY DEVELOPMENT & CONSTRUCTION CORP. (11645)",
+        "pcabId": "11645",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "VIGAN FORTUNE CONSTRUCTION (3887)",
+        "pcabId": "3887",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONC,OF LUBONG-SUAGAYAN-SABUANAN FMR,STA.LUCIA,ILOCOS SUR",
+      "abc": "4900000.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-10-27 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-11-17 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "4723433.6000000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/february/15AD0158 CA274.pdf",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/february/15AD0158 NOA273.pdf",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/february/15AD0158 CA274.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

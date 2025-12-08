@@ -1,0 +1,85 @@
+{
+  "data": {
+    "contractId": "15DB0121",
+    "description": "IMPROVEMENT OF ROAD WITH DRAINAGE FACILITIES, BUCANA, NASUGBU, BATANGAS",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 979950,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region IV-A",
+      "province": "Batangas 1st DEO",
+      "infraType": "Roads",
+      "coordinates": null
+    },
+    "infraType": "Roads",
+    "contractor": "RICH ADS CONSTRUCTION CORP. (FORMERLY RICH ADS CON (31157)",
+    "startDate": "2016-01-31",
+    "completionDate": "2016-03-15",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-01-31",
+    "expiryDate": "2016-03-15",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 Locally Funded Projects",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00045899LZ-CW1",
+        "description": "Road Upgrading Raising of Grade - Improvement of Road with Drainage Facilities, Bucana, Nasugbu, Batangas",
+        "infraType": "Roads",
+        "typeOfWork": "Road Upgrading Raising of Grade",
+        "region": "Region IV-A",
+        "province": "BATANGAS",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "RICH ADS CONSTRUCTION CORP. (FORMERLY RICH ADS CON",
+    "bidders": [
+      {
+        "name": "RICH ADS CONSTRUCTION CORP. (FORMERLY RICH ADS CON (31157)",
+        "pcabId": "31157",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "F. CASALME CONSTRUCTION & SUPPLY (33657)",
+        "pcabId": "33657",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "IMPROVEMENT OF ROAD WITH DRAINAGE FACILITIES, BUCANA, NASUGBU, BATANGAS",
+      "abc": "1000000.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-11-04 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-11-23 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "979950.0000000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/15db0121_noa_roa.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/15db0121_ntp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

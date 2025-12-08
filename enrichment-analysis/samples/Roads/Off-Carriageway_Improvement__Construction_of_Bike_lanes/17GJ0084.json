@@ -1,0 +1,127 @@
+{
+  "data": {
+    "contractId": "17GJ0084",
+    "description": "OFF-CARRIAGEWAY IMPROVEMENT: CONSTRUCTION OF BIKE LANES - ILOILO - ANTIQUE RD - K0001+(-540) - K0001+638, CHAINAGE 544 - CHAINAGE 1+721",
+    "category": "Roads",
+    "status": "Terminated",
+    "budget": 284338.32,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region VI",
+      "province": "Iloilo City DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 10.6991293495186,
+        "longitude": 122.549811585745,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "J. CORDON CONSTRUCTION & SUPPLY (32982)",
+    "startDate": "2017-06-15",
+    "completionDate": "2018-10-25",
+    "infraYear": "2017",
+    "contractEffectivityDate": "2017-06-15",
+    "expiryDate": "2018-03-23",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2017 MFO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00106516VS-CW1",
+        "description": "Off-Carriageway Improvement: Construction of Bike lanes - Iloilo-Antique Rd - K0001 + (-954) - K0001 + 899",
+        "infraType": "Roads",
+        "typeOfWork": "Off-Carriageway Improvement: Construction of Bike lanes",
+        "region": "Region VI",
+        "province": "ILOILO",
+        "coordinates": {
+          "latitude": 10.6991293495186,
+          "longitude": 122.549811585745,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "J. CORDON CONSTRUCTION & SUPPLY",
+    "bidders": [
+      {
+        "name": "J. CORDON CONSTRUCTION & SUPPLY (32982)",
+        "pcabId": "32982",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "ALJ CONSTRUCTION AND SUPPLY (30571)",
+        "pcabId": "30571",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "DALANON CONSTRUCTION CORPORATION (FORMERLY:DALANON CONSTRUCTION REF. SUPPLY & SERVICE) (11205)",
+        "pcabId": "11205",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "SBF CONSTRUCTION & DEVELOPMENT CORPORATION (11470)",
+        "pcabId": "11470",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "TOPMOST DEVELOPMENT & MKTG. CORP. (13361)",
+        "pcabId": "13361",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "TRIBU DESIGN & CONSTRUCTION (12756)",
+        "pcabId": "12756",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "OFF-CARRIAGEWAY IMPROVEMENT: CONSTRUCTION OF BIKE LANES - ILOILO - ANTIQUE RD - K0001+(-540) - K0001+638, CHAINAGE 544 - CHAINAGE 1+721",
+      "abc": "12111420.57",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2017-05-11 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-05-30 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "11,505,575.71"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/17GJ0084.zip",
+      "contractAgreement": "",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/noa_17gj0084.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/ntp_17gj0084.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 10.6991293495186,
+    "longitude": 122.549811585745,
+    "coordinates": [
+      {
+        "componentId": "P00106516VS-CW1",
+        "description": "Off-Carriageway Improvement: Construction of Bike lanes - Iloilo-Antique Rd - K0001 + (-954) - K0001 + 899",
+        "latitude": 10.6991293495186,
+        "longitude": 122.549811585745,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

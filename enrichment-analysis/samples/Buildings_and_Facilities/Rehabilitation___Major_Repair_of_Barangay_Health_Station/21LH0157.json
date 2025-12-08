@@ -1,0 +1,169 @@
+{
+  "data": {
+    "contractId": "21LH0157",
+    "description": "CONST. OF THE FF. PROJECTS AT BRGY. NEW VALENCIA, TUGBOK DIST., D.C., LGSF-BPD, ELCAC (1) CONST. OF WATER SUPPLY SYSTEM AT PUROK 2, BRGY. NEW VALENCIA, D.C. (2) CONST. OF DAY CARE CENTER AT PUROK 6, BRGY. NEW VALENCIA, D.C. (3) REHAB/IMPV'T. OF HEALTH CEN",
+    "category": "Hospitals, Other Buildings, Water Supply Systems",
+    "status": "Completed",
+    "budget": 19700528.32,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region XI",
+      "province": "Davao City 2nd DEO",
+      "infraType": "Water Provision and Storage",
+      "coordinates": {
+        "latitude": 7.1682036,
+        "longitude": 125.5375178,
+        "verified": false
+      }
+    },
+    "infraType": "Water Provision and Storage",
+    "contractor": "JB DANTE BUILDERS & SUPPLY (48487)",
+    "startDate": "2022-09-27",
+    "completionDate": "2022-12-20",
+    "infraYear": "2021",
+    "contractEffectivityDate": "2022-09-27",
+    "expiryDate": "2023-02-23",
+    "nysReason": null,
+    "programName": "Outside Infra",
+    "sourceOfFunds": "Outside Infra - Trust Funds 2021",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00599215MN-CW1",
+        "description": "Construction of Water Supply Systems - Construction of Water Supply System at Purok 2, Brgy. New Valencia, Davao City",
+        "infraType": "Water Provision and Storage",
+        "typeOfWork": "Construction of Water Supply Systems",
+        "region": "Region XI",
+        "province": "DAVAO DEL SUR",
+        "coordinates": {
+          "latitude": 7.1682036,
+          "longitude": 125.5375178,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00599216MN-CW1",
+        "description": "Construction of Other Building - Construction of Day Care Center at Purok 6, Brgy. New Valencia, Davao City",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of Other Building",
+        "region": "Region XI",
+        "province": "DAVAO DEL SUR",
+        "coordinates": {
+          "latitude": 7.1830372,
+          "longitude": 125.5541553,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00599217MN-CW1",
+        "description": "Rehabilitation / Major Repair of Barangay Health Station - Rehabilitation/Improvement of Health Center at Purok 1, Brgy. New Valencia, Davao City",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Rehabilitation / Major Repair of Barangay Health Station",
+        "region": "Region XI",
+        "province": "DAVAO DEL SUR",
+        "coordinates": {
+          "latitude": 7.1716983,
+          "longitude": 125.53832,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00599218MN-CW1",
+        "description": "Repair/Rehabilitation of Other Buildings - Rehabilitation/Improvement of Evacuation Center at Purok 1, Brgy. New Valencia, Davao City",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Repair/Rehabilitation of Other Buildings",
+        "region": "Region XI",
+        "province": "DAVAO DEL SUR",
+        "coordinates": {
+          "latitude": 7.171675,
+          "longitude": 125.5384617,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "JB DANTE BUILDERS & SUPPLY",
+    "bidders": [
+      {
+        "name": "JB DANTE BUILDERS & SUPPLY (48487)",
+        "pcabId": "48487",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "R.C. MELGAZO BUILDERS (35652)",
+        "pcabId": "35652",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONST. OF THE FF. PROJECTS AT BRGY. NEW VALENCIA, TUGBOK DIST., D.C., LGSF-BPD, ELCAC (1) CONST. OF WATER SUPPLY SYSTEM AT PUROK 2, BRGY. NEW VALENCIA, D.C. (2) CONST. OF DAY CARE CENTER AT PUROK 6, BRGY. NEW VALENCIA, D.C. (3) REHAB/IMPV'T. OF HEALTH CEN",
+      "abc": "19900000.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2022-06-07 00:00:00.0000000",
+      "bidSubmissionDeadline": "2022-06-28 00:00:00.0000000",
+      "dateOfAward": "2022-09-06 00:00:00.0000000",
+      "awardAmount": "19700528.32"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/21lh0157noa.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/21lh0157ntp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 7.1682036,
+    "longitude": 125.5375178,
+    "coordinates": [
+      {
+        "componentId": "P00599215MN-CW1",
+        "description": "Construction of Water Supply Systems - Construction of Water Supply System at Purok 2, Brgy. New Valencia, Davao City",
+        "latitude": 7.1682036,
+        "longitude": 125.5375178,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00599216MN-CW1",
+        "description": "Construction of Other Building - Construction of Day Care Center at Purok 6, Brgy. New Valencia, Davao City",
+        "latitude": 7.1830372,
+        "longitude": 125.5541553,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00599217MN-CW1",
+        "description": "Rehabilitation / Major Repair of Barangay Health Station - Rehabilitation/Improvement of Health Center at Purok 1, Brgy. New Valencia, Davao City",
+        "latitude": 7.1716983,
+        "longitude": 125.53832,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00599218MN-CW1",
+        "description": "Repair/Rehabilitation of Other Buildings - Rehabilitation/Improvement of Evacuation Center at Purok 1, Brgy. New Valencia, Davao City",
+        "latitude": 7.171675,
+        "longitude": 125.5384617,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 8,
+      "latestImageDate": "2025-03-26 07:44:42.773999",
+      "hasImages": true
+    }
+  }
+}

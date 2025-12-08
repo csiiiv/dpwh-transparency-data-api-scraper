@@ -1,0 +1,115 @@
+{
+  "data": {
+    "contractId": "18CK0091",
+    "description": "CONSTRUCTION OF TWO (2) STOREY DPWH TARLAC 2ND DISTRICT ENGINEERING OFFICE BUILDING INCLUDING SITE DEVELOPMENT AND OTHER FACILITIES, CONCEPCION, TARLAC",
+    "category": "Buildings and Facilities",
+    "status": "Completed",
+    "budget": 83788977.68,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region III",
+      "province": "Tarlac 2nd DEO",
+      "infraType": "Buildings and Facilities",
+      "coordinates": {
+        "latitude": 15.3048189,
+        "longitude": 120.6359676,
+        "verified": false
+      }
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "STO. CRISTO CONSTRUCTION & TRADING INC. (FOR: STO. CRISTO CONSTRUCTION & TRADING) (26096)",
+    "startDate": "2018-03-22",
+    "completionDate": "2019-03-16",
+    "infraYear": "2018",
+    "contractEffectivityDate": "2018-03-22",
+    "expiryDate": "2019-03-16",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2018 LP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00255948LZ-CW1",
+        "description": "Construction of Other Facilities - Construction of Two-Storey DPWH Tarlac 2nd District Engineering Office Building including Site Development and Other Facilities at Concepcion, Tarlac",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of Other Facilities",
+        "region": "Region III",
+        "province": "TARLAC",
+        "coordinates": {
+          "latitude": 15.3048189,
+          "longitude": 120.6359676,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "STO. CRISTO CONSTRUCTION & TRADING INC. (FOR: STO. CRISTO CONSTRUCTION & TRADING)",
+    "bidders": [
+      {
+        "name": "STO. CRISTO CONSTRUCTION & TRADING INC. (FOR: STO. CRISTO CONSTRUCTION & TRADING) (26096)",
+        "pcabId": "26096",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "L.S.D.  CONSTRUCTION & SUPPLIES (8980)",
+        "pcabId": "8980",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "ORANI CONSTRUCTION AND SUPPLY CORPORATION (FORMERLY:ORANI BUILDERS & SUPPLY) (05349)",
+        "pcabId": "05349",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "ST. TIMOTHY CONSTRUCTION CORPORATION ([REVOKED] 39196)",
+        "pcabId": "[REVOKED] 39196",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION OF TWO (2) STOREY DPWH TARLAC 2ND DISTRICT ENGINEERING OFFICE BUILDING INCLUDING SITE DEVELOPMENT AND OTHER FACILITIES, CONCEPCION, TARLAC",
+      "abc": "88236606.20",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2018-01-27 00:00:00.0000000",
+      "bidSubmissionDeadline": "2018-02-15 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "83788977.68"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/ITB-Revised-(01-24-2014)-CY-2017-Bridge -Road-Concreting-Tinang Road-Concepcion-Tarlac-Widening Bridge-Sapang Balen Bridge-Concepcion-Capas Road-Concepcion-Tarlac-P15-500M.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/CONTRACT-18CK0091.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/NOA-18CK0091.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/CONTRACT-18CK0091.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 15.3048189,
+    "longitude": 120.6359676,
+    "coordinates": [
+      {
+        "componentId": "P00255948LZ-CW1",
+        "description": "Construction of Other Facilities - Construction of Two-Storey DPWH Tarlac 2nd District Engineering Office Building including Site Development and Other Facilities at Concepcion, Tarlac",
+        "latitude": 15.3048189,
+        "longitude": 120.6359676,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

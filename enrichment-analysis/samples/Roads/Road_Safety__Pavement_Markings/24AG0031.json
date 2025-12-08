@@ -1,0 +1,109 @@
+{
+  "data": {
+    "contractId": "24AG0031",
+    "description": "SPECIAL ROAD FUND - MOTOR VEHICLE USER'S CHARGE (MVUC) AS PER R.A. 11239 - INSTALLATION OF SIGNAGE AND PAVEMENT MARKINGS ALONG ALAMINOS - BOLINAO RD (S05901LZ) - K0354 + 505 - K0355 + 505, BOLINAO, PANGASINAN",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 2055998.5,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region I",
+      "province": "Pangasinan 1st DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 16.3416306,
+        "longitude": 119.8926358,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "ST. ALMERS CONSTRUCTION AND ENTERPRISE (42876)",
+    "startDate": "2024-02-08",
+    "completionDate": "2024-02-27",
+    "infraYear": "2024",
+    "contractEffectivityDate": "2024-02-08",
+    "expiryDate": "2024-02-27",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2024 SSP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00837535LZ-CW1",
+        "description": "Road Safety: Pavement Markings - Installation of Signage and Pavement Markings along Alaminos-Bolinao Rd (S05901LZ) - K0354 + 505 - K0355 + 505, Bolinao, Pangasinan",
+        "infraType": "Roads",
+        "typeOfWork": "Road Safety: Pavement Markings",
+        "region": "Region I",
+        "province": "PANGASINAN",
+        "coordinates": {
+          "latitude": 16.3416306,
+          "longitude": 119.8926358,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "ST. ALMERS CONSTRUCTION AND ENTERPRISE",
+    "bidders": [
+      {
+        "name": "ST. ALMERS CONSTRUCTION AND ENTERPRISE (42876)",
+        "pcabId": "42876",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "CABERTO CONSTRUCTION AND SUPPLY (43886)",
+        "pcabId": "43886",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "SZCON BUILDERS INC. (43523)",
+        "pcabId": "43523",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "SPECIAL ROAD FUND - MOTOR VEHICLE USER'S CHARGE (MVUC) AS PER R.A. 11239 - INSTALLATION OF SIGNAGE AND PAVEMENT MARKINGS ALONG ALAMINOS - BOLINAO RD (S05901LZ) - K0354 + 505 - K0355 + 505, BOLINAO, PANGASINAN",
+      "abc": "2058000.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2023-10-10 00:00:00.0000000",
+      "bidSubmissionDeadline": "2023-10-31 00:00:00.0000000",
+      "dateOfAward": "2024-02-02 00:00:00.0000000",
+      "awardAmount": "1952598.5"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/24ag0031_pbdplan.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/24ag0031_-_contract_agreement.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/24ag0031_notice_of_award.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/24ag0031_ntp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 16.3416306,
+    "longitude": 119.8926358,
+    "coordinates": [
+      {
+        "componentId": "P00837535LZ-CW1",
+        "description": "Road Safety: Pavement Markings - Installation of Signage and Pavement Markings along Alaminos-Bolinao Rd (S05901LZ) - K0354 + 505 - K0355 + 505, Bolinao, Pangasinan",
+        "latitude": 16.3416306,
+        "longitude": 119.8926358,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 3,
+      "latestImageDate": "2024-08-22 01:27:04.118000",
+      "hasImages": true
+    }
+  }
+}

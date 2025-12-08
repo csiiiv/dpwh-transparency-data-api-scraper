@@ -1,0 +1,147 @@
+{
+  "data": {
+    "contractId": "15AD0159",
+    "description": "PACKAGE I:CONC OF FMR,A.ALONG BRYG.CAPPA-CAPPA-ANSAD,B.BRGY.CAPPA-CAPPA,C.BRGY.ANSAD,SAN ESTEBAN,I.S",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 9498114.19,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region I",
+      "province": "Ilocos Sur 2nd DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 17.322541,
+        "longitude": 120.4579405,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "MBB CONSTRUCTION AND SUPPLY (FORMERLY: MBB CONSTRUCTION) (11363)",
+    "startDate": "2016-03-14",
+    "completionDate": "2016-12-23",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-03-14",
+    "expiryDate": "2016-07-02",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 Locally Funded Projects",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00044605LZ-CW1",
+        "description": "Road Upgrading Gravel to Paved - Concreting of Farm-To-Market Road along Brgy. Cappa-Cappa-Ansad Road, San Esteban, Ilocos Sur",
+        "infraType": "Roads",
+        "typeOfWork": "Road Upgrading Gravel to Paved",
+        "region": "Region I",
+        "province": "ILOCOS SUR",
+        "coordinates": {
+          "latitude": 17.322541,
+          "longitude": 120.4579405,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00044606LZ-CW1",
+        "description": "Construction of Concrete Road - Concreting of Farm-To-Market Road, Brgy. Ansad, San Esteban, Ilocos Sur",
+        "infraType": "Roads",
+        "typeOfWork": "Construction of Concrete Road",
+        "region": "Region I",
+        "province": "ILOCOS SUR",
+        "coordinates": {
+          "latitude": 17.3223541,
+          "longitude": 120.4579405,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00044607LZ-CW1",
+        "description": "Road Upgrading Gravel to Paved - Concreting of Farm-To-Market Road, Brgy. Cappa-Cappa, San Esteban, Ilocos Sur",
+        "infraType": "Roads",
+        "typeOfWork": "Road Upgrading Gravel to Paved",
+        "region": "Region I",
+        "province": "ILOCOS SUR",
+        "coordinates": {
+          "latitude": 17.3290493,
+          "longitude": 120.4547164,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "MBB CONSTRUCTION AND SUPPLY (FORMERLY: MBB CONSTRUCTION)",
+    "bidders": [
+      {
+        "name": "MBB CONSTRUCTION AND SUPPLY (FORMERLY: MBB CONSTRUCTION) (11363)",
+        "pcabId": "11363",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "M.V. SABALBURO CONSTRUCTION AND SUPPLY (32561)",
+        "pcabId": "32561",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "PACKAGE I:CONC OF FMR,A.ALONG BRYG.CAPPA-CAPPA-ANSAD,B.BRGY.CAPPA-CAPPA,C.BRGY.ANSAD,SAN ESTEBAN,I.S",
+      "abc": "9800000.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-10-27 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-11-17 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "9498114.1900000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/15AD0159 CA137.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/15AD0159 NOA133.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/15AD0159 CA137.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 17.322541,
+    "longitude": 120.4579405,
+    "coordinates": [
+      {
+        "componentId": "P00044605LZ-CW1",
+        "description": "Road Upgrading Gravel to Paved - Concreting of Farm-To-Market Road along Brgy. Cappa-Cappa-Ansad Road, San Esteban, Ilocos Sur",
+        "latitude": 17.322541,
+        "longitude": 120.4579405,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00044606LZ-CW1",
+        "description": "Construction of Concrete Road - Concreting of Farm-To-Market Road, Brgy. Ansad, San Esteban, Ilocos Sur",
+        "latitude": 17.3223541,
+        "longitude": 120.4579405,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00044607LZ-CW1",
+        "description": "Road Upgrading Gravel to Paved - Concreting of Farm-To-Market Road, Brgy. Cappa-Cappa, San Esteban, Ilocos Sur",
+        "latitude": 17.3290493,
+        "longitude": 120.4547164,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

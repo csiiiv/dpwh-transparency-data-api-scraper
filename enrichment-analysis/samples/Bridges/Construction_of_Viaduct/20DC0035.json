@@ -1,0 +1,115 @@
+{
+  "data": {
+    "contractId": "20DC0035",
+    "description": "CONVERGENCE AND SPECIAL SUPPORT PROGRAM, CONSTRUCTION/IMPROVEMENT OF ACCESS ROADS LEADING TO DECLARED TOURISM DESTINATIONS, TAAL LAKE CIRCUMFERENTIAL ROAD (VIADUCT-PHASE IV), STA. TERESITA, BATANGAS",
+    "category": "Bridges",
+    "status": "Completed",
+    "budget": 94089244.37,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region IV-A",
+      "province": "Batangas 3rd DEO",
+      "infraType": "Bridges",
+      "coordinates": {
+        "latitude": 13.9064544,
+        "longitude": 120.9823875,
+        "verified": false
+      }
+    },
+    "infraType": "Bridges",
+    "contractor": "R.V.  LABORTE BUILDERS (20459)",
+    "startDate": "2020-02-28",
+    "completionDate": "2022-07-21",
+    "infraYear": "2020",
+    "contractEffectivityDate": "2020-02-28",
+    "expiryDate": "2021-07-21",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2020 CSSP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00432131LZ-CW1",
+        "description": "Construction of Viaduct - Taal Lake Circumferential Road (Viaduct - Phase IV), Santa Teresita, Batangas",
+        "infraType": "Bridges",
+        "typeOfWork": "Construction of Viaduct",
+        "region": "Region IV-A",
+        "province": "BATANGAS",
+        "coordinates": {
+          "latitude": 13.9064544,
+          "longitude": 120.9823875,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "R.V.  LABORTE BUILDERS",
+    "bidders": [
+      {
+        "name": "R.V.  LABORTE BUILDERS (20459)",
+        "pcabId": "20459",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "N.D.M. SANCHEZ BUILDERS & DEVELOPMENT CORPORATION (35410)",
+        "pcabId": "35410",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "VICTORIA DEVELOPMENT AND VENTURES CORP. (FOR: VICTORIA DEV'T AND CONST. CORP.) (32638)",
+        "pcabId": "32638",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "WAYCON BUILDERS AND CONSTRUCTION SUPPLY CORP. (FOR:WAYCON BUILDERS & CONSTRUCTION SUPPLY) (34778)",
+        "pcabId": "34778",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONVERGENCE AND SPECIAL SUPPORT PROGRAM, CONSTRUCTION/IMPROVEMENT OF ACCESS ROADS LEADING TO DECLARED TOURISM DESTINATIONS, TAAL LAKE CIRCUMFERENTIAL ROAD (VIADUCT-PHASE IV), STA. TERESITA, BATANGAS",
+      "abc": "96500000.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2019-11-22 00:00:00.0000000",
+      "bidSubmissionDeadline": "2019-12-12 00:00:00.0000000",
+      "dateOfAward": "2020-02-14 00:00:00.0000000",
+      "awardAmount": "91679632"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/BID DOCS_20DC0035.rar",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/contract_20DC0035.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/award_20DC0035.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/contract_20DC0035.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 13.9064544,
+    "longitude": 120.9823875,
+    "coordinates": [
+      {
+        "componentId": "P00432131LZ-CW1",
+        "description": "Construction of Viaduct - Taal Lake Circumferential Road (Viaduct - Phase IV), Santa Teresita, Batangas",
+        "latitude": 13.9064544,
+        "longitude": 120.9823875,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 4,
+      "latestImageDate": "2023-01-10 13:17:18.862999",
+      "hasImages": true
+    }
+  }
+}

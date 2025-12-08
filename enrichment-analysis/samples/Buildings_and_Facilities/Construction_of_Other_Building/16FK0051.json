@@ -1,0 +1,499 @@
+{
+  "data": {
+    "contractId": "16FK0051",
+    "description": "CONSTRUCTION OF 19-UNITS DAY CARE CENTER, FIRST DISTRICT OF SORSOGON",
+    "category": "Buildings and Facilities",
+    "status": "Completed",
+    "budget": 14896956.65,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region V",
+      "province": "Sorsogon DEO",
+      "infraType": "Buildings and Facilities",
+      "coordinates": {
+        "latitude": 12.901,
+        "longitude": 123.822,
+        "verified": false
+      }
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "RODA CONSTRUCTION & GENERAL SUPPLY (19674)",
+    "startDate": "2017-01-03",
+    "completionDate": "2017-07-01",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2017-01-03",
+    "expiryDate": "2017-07-01",
+    "nysReason": null,
+    "programName": "Outside Infra",
+    "sourceOfFunds": "Outside Infra - Trust Funds 2016",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00099030LZ-CW1",
+        "description": "Construction of Multi Purpose Building - Construction of Day Care Center, Brgy. Cogon, Castilla, Sorsogon",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of Multi Purpose Building",
+        "region": "Region V",
+        "province": "SORSOGON",
+        "coordinates": {
+          "latitude": 12.901,
+          "longitude": 123.822,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00099031LZ-CW1",
+        "description": "Construction of Multi Purpose Building - Construction of Day Care Center, Brgy. Buenavista, Castilla, Sorsogon",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of Multi Purpose Building",
+        "region": "Region V",
+        "province": "SORSOGON",
+        "coordinates": {
+          "latitude": 12.86056,
+          "longitude": 123.75835,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00099032LZ-CW1",
+        "description": "Construction of Other Building - Construction of Day Care Center, Brgy. Quirapi, Castilla, Sorsogon",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of Other Building",
+        "region": "Region V",
+        "province": "SORSOGON",
+        "coordinates": {
+          "latitude": 12.87383,
+          "longitude": 123.77922,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00099033LZ-CW1",
+        "description": "Construction of Multi Purpose Building - Construction of Day Care Center, Brgy. Bagong Sirang, Castilla, Sorsogon",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of Multi Purpose Building",
+        "region": "Region V",
+        "province": "SORSOGON",
+        "coordinates": {
+          "latitude": 12.915992,
+          "longitude": 123.856911,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00099034LZ-CW1",
+        "description": "Construction of Multi Purpose Building - Construction of Day Care Center, Brgy. Tomalaytay, Castilla, Sorsogon",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of Multi Purpose Building",
+        "region": "Region V",
+        "province": "SORSOGON",
+        "coordinates": {
+          "latitude": 12.880239,
+          "longitude": 123.801818,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00099035LZ-CW1",
+        "description": "Construction of Other Building - Construction of Day Care Center, Brgy. Amomonting, Castilla, Sorsogon",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of Other Building",
+        "region": "Region V",
+        "province": "SORSOGON",
+        "coordinates": {
+          "latitude": 12.91838,
+          "longitude": 123.806702,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00099036LZ-CW1",
+        "description": "Construction of Multi Purpose Building - Construction of Day Care Center, Brgy. Dancalan, Donsol, Sorsogon",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of Multi Purpose Building",
+        "region": "Region V",
+        "province": "SORSOGON",
+        "coordinates": {
+          "latitude": 12.9141,
+          "longitude": 123.58561,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00099037LZ-CW1",
+        "description": "Construction of Other Building - Construction of Day Care Center, Brgy. Tongdol, Donsol, Sorsogon",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of Other Building",
+        "region": "Region V",
+        "province": "SORSOGON",
+        "coordinates": {
+          "latitude": 12.97119,
+          "longitude": 123.64067,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00099038LZ-CW1",
+        "description": "Construction of Multi Purpose Building - Construction of Day Care Center, Brgy. Juan Adre, Donsol, Sorsogon",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of Multi Purpose Building",
+        "region": "Region V",
+        "province": "SORSOGON",
+        "coordinates": {
+          "latitude": 12.97513,
+          "longitude": 123.5878,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00099039LZ-CW1",
+        "description": "Construction of Multi Purpose Building - Construction of Day Care Center, Brgy. Cristo, Donsol, Sorsogon",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of Multi Purpose Building",
+        "region": "Region V",
+        "province": "SORSOGON",
+        "coordinates": {
+          "latitude": 12.93024,
+          "longitude": 123.62029,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00099040LZ-CW1",
+        "description": "Construction of Multi Purpose Building - Construction of Day Care Center, Brgy. Baras, Donsol, Sorsogon",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of Multi Purpose Building",
+        "region": "Region V",
+        "province": "SORSOGON",
+        "coordinates": {
+          "latitude": 13.004,
+          "longitude": 123.60685,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00099041LZ-CW1",
+        "description": "Construction of Multi Purpose Building - Construction of Day Care Center, Brgy. Alin, Donsol, Sorsogon",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of Multi Purpose Building",
+        "region": "Region V",
+        "province": "SORSOGON",
+        "coordinates": {
+          "latitude": 12.99524,
+          "longitude": 123.60785,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00099042LZ-CW1",
+        "description": "Construction of Multi Purpose Building - Construction of Day Care Center, Brgy. Anibong, Magallanes, Sorsogon",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of Multi Purpose Building",
+        "region": "Region V",
+        "province": "SORSOGON",
+        "coordinates": {
+          "latitude": 12.85017,
+          "longitude": 123.9067,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00099043LZ-CW1",
+        "description": "Construction of Other Building - Construction of Day Care Center, Brgy. Biton, Magallanes, Sorsogon",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of Other Building",
+        "region": "Region V",
+        "province": "SORSOGON",
+        "coordinates": {
+          "latitude": 12.75852,
+          "longitude": 123.84635,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00099044LZ-CW1",
+        "description": "Construction of Multi Purpose Building - Construction of Day Care Center, Brgy. Binisitahan Norte, Magallanes, Sorsogon",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of Multi Purpose Building",
+        "region": "Region V",
+        "province": "SORSOGON",
+        "coordinates": {
+          "latitude": 12.83167,
+          "longitude": 123.83722,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00099045LZ-CW1",
+        "description": "Construction of Multi Purpose Building - Construction of Day Care Center, Brgy. Incarizan, Magallanes, Sorsogon",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of Multi Purpose Building",
+        "region": "Region V",
+        "province": "SORSOGON",
+        "coordinates": {
+          "latitude": 12.84028,
+          "longitude": 123.88426,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00099046LZ-CW1",
+        "description": "Construction of Multi Purpose Building - Construction of Day Care Center, Brgy. Banacod, Magallanes, Sorsogon",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of Multi Purpose Building",
+        "region": "Region V",
+        "province": "SORSOGON",
+        "coordinates": {
+          "latitude": 12.82844,
+          "longitude": 123.83861,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00099047LZ-CW1",
+        "description": "Construction of Multi Purpose Building - Construction of Day Care Center, Brgy. Palanas, Pilar, Sorsogon",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of Multi Purpose Building",
+        "region": "Region V",
+        "province": "SORSOGON",
+        "coordinates": {
+          "latitude": 12.921,
+          "longitude": 123.736,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00099048LZ-CW1",
+        "description": "Construction of Multi Purpose Building - Construction of Day Care Center, Brgy. Lourdes, Pilar, Sorsogon",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of Multi Purpose Building",
+        "region": "Region V",
+        "province": "ABRA",
+        "coordinates": {
+          "latitude": 13.027355,
+          "longitude": 123.686707,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "RODA CONSTRUCTION & GENERAL SUPPLY",
+    "bidders": [
+      {
+        "name": "RODA CONSTRUCTION & GENERAL SUPPLY (19674)",
+        "pcabId": "19674",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "R.K.X. ODIAMAR  CONSTRUCTION (16107)",
+        "pcabId": "16107",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION OF 19-UNITS DAY CARE CENTER, FIRST DISTRICT OF SORSOGON",
+      "abc": "15048000.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-11-23 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-12-13 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "14,896,956.65"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/16fk0051-contract.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/16FK0051-AWARD.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/16fk0051-ntp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 12.901,
+    "longitude": 123.822,
+    "coordinates": [
+      {
+        "componentId": "P00099030LZ-CW1",
+        "description": "Construction of Multi Purpose Building - Construction of Day Care Center, Brgy. Cogon, Castilla, Sorsogon",
+        "latitude": 12.901,
+        "longitude": 123.822,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00099031LZ-CW1",
+        "description": "Construction of Multi Purpose Building - Construction of Day Care Center, Brgy. Buenavista, Castilla, Sorsogon",
+        "latitude": 12.86056,
+        "longitude": 123.75835,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00099032LZ-CW1",
+        "description": "Construction of Other Building - Construction of Day Care Center, Brgy. Quirapi, Castilla, Sorsogon",
+        "latitude": 12.87383,
+        "longitude": 123.77922,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00099033LZ-CW1",
+        "description": "Construction of Multi Purpose Building - Construction of Day Care Center, Brgy. Bagong Sirang, Castilla, Sorsogon",
+        "latitude": 12.915992,
+        "longitude": 123.856911,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00099034LZ-CW1",
+        "description": "Construction of Multi Purpose Building - Construction of Day Care Center, Brgy. Tomalaytay, Castilla, Sorsogon",
+        "latitude": 12.880239,
+        "longitude": 123.801818,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00099035LZ-CW1",
+        "description": "Construction of Other Building - Construction of Day Care Center, Brgy. Amomonting, Castilla, Sorsogon",
+        "latitude": 12.91838,
+        "longitude": 123.806702,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00099036LZ-CW1",
+        "description": "Construction of Multi Purpose Building - Construction of Day Care Center, Brgy. Dancalan, Donsol, Sorsogon",
+        "latitude": 12.9141,
+        "longitude": 123.58561,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00099037LZ-CW1",
+        "description": "Construction of Other Building - Construction of Day Care Center, Brgy. Tongdol, Donsol, Sorsogon",
+        "latitude": 12.97119,
+        "longitude": 123.64067,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00099038LZ-CW1",
+        "description": "Construction of Multi Purpose Building - Construction of Day Care Center, Brgy. Juan Adre, Donsol, Sorsogon",
+        "latitude": 12.97513,
+        "longitude": 123.5878,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00099039LZ-CW1",
+        "description": "Construction of Multi Purpose Building - Construction of Day Care Center, Brgy. Cristo, Donsol, Sorsogon",
+        "latitude": 12.93024,
+        "longitude": 123.62029,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00099040LZ-CW1",
+        "description": "Construction of Multi Purpose Building - Construction of Day Care Center, Brgy. Baras, Donsol, Sorsogon",
+        "latitude": 13.004,
+        "longitude": 123.60685,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00099041LZ-CW1",
+        "description": "Construction of Multi Purpose Building - Construction of Day Care Center, Brgy. Alin, Donsol, Sorsogon",
+        "latitude": 12.99524,
+        "longitude": 123.60785,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00099042LZ-CW1",
+        "description": "Construction of Multi Purpose Building - Construction of Day Care Center, Brgy. Anibong, Magallanes, Sorsogon",
+        "latitude": 12.85017,
+        "longitude": 123.9067,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00099043LZ-CW1",
+        "description": "Construction of Other Building - Construction of Day Care Center, Brgy. Biton, Magallanes, Sorsogon",
+        "latitude": 12.75852,
+        "longitude": 123.84635,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00099044LZ-CW1",
+        "description": "Construction of Multi Purpose Building - Construction of Day Care Center, Brgy. Binisitahan Norte, Magallanes, Sorsogon",
+        "latitude": 12.83167,
+        "longitude": 123.83722,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00099045LZ-CW1",
+        "description": "Construction of Multi Purpose Building - Construction of Day Care Center, Brgy. Incarizan, Magallanes, Sorsogon",
+        "latitude": 12.84028,
+        "longitude": 123.88426,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00099046LZ-CW1",
+        "description": "Construction of Multi Purpose Building - Construction of Day Care Center, Brgy. Banacod, Magallanes, Sorsogon",
+        "latitude": 12.82844,
+        "longitude": 123.83861,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00099047LZ-CW1",
+        "description": "Construction of Multi Purpose Building - Construction of Day Care Center, Brgy. Palanas, Pilar, Sorsogon",
+        "latitude": 12.921,
+        "longitude": 123.736,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00099048LZ-CW1",
+        "description": "Construction of Multi Purpose Building - Construction of Day Care Center, Brgy. Lourdes, Pilar, Sorsogon",
+        "latitude": 13.027355,
+        "longitude": 123.686707,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

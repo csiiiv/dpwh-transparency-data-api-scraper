@@ -1,0 +1,169 @@
+{
+  "data": {
+    "contractId": "23F00429",
+    "description": "CONVERGENCE AND SPECIAL SUPPORT PROGRAM-SPECIAL ROAD FUND-MOTOR VEHICLE USER'S CHARGE (MVUC) AS PER R.A. 11239-INSTALLATION OF ROAD SAFETY DEVICES ALONG ROLANDO A. ANDAYA HIGHWAY, RAGAY, CAMARINES SUR, RAGAY, CAMARINES SUR (1ST LEGISLATIVE DISTRICT)",
+    "category": "Roads",
+    "status": "On-Going",
+    "budget": 96614749.71,
+    "amountPaid": 0,
+    "progress": 93.41,
+    "location": {
+      "region": "Region V",
+      "province": "Region V",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 13.9475468271868,
+        "longitude": 122.552193048835,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "I&E CONSTRUCTION CORPORATION (FORMERLY: I&E CONSTR (10410)",
+    "startDate": "2024-03-27",
+    "completionDate": null,
+    "infraYear": "2023",
+    "contractEffectivityDate": "2024-03-27",
+    "expiryDate": "2024-09-20",
+    "nysReason": null,
+    "programName": "Outside Infra",
+    "sourceOfFunds": "Outside Infra - Unprogrammed Appropriations 2023",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00761730LZ-CW1",
+        "description": "Road Safety: Roadway Lighting - Installation of Road Safety Devices along Rolando A. Andaya Highway, Ragay, Camarines Sur",
+        "infraType": "Roads",
+        "typeOfWork": "Road Safety: Roadway Lighting",
+        "region": "Region V",
+        "province": "CAMARINES SUR",
+        "coordinates": {
+          "latitude": 13.9475468271868,
+          "longitude": 122.552193048835,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "I&E CONSTRUCTION CORPORATION (FORMERLY: I&E CONSTR",
+    "bidders": [
+      {
+        "name": "I&E CONSTRUCTION CORPORATION (FORMERLY: I&E CONSTR (10410)",
+        "pcabId": "10410",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "6RM CONSTRUCTION AND DEVT. CORP. (FORMERLY R.R. MA (174)",
+        "pcabId": "174",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "ANDROMEDA CONSTRUCTION SERVICES AND SUPPLY (41609)",
+        "pcabId": "41609",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "CHIARA2300 INCORPORATED (8736)",
+        "pcabId": "8736",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "EGB CONSTRUCTION CORPORATION (FORMERLY: EGB CONSTRUCTION) (13722)",
+        "pcabId": "13722",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "KAEL CONSTRUCTION AND SUPPLY (49152)",
+        "pcabId": "49152",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "KANAWAY BUILDERS CORPORATION (37886)",
+        "pcabId": "37886",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "MONOLITHIC CONSTRUCTION & CONCRETE PRODUCTS, INC. (5733)",
+        "pcabId": "5733",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "NFH CONSTRUCTION & SUPPLY (16055)",
+        "pcabId": "16055",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "NORTHERN BUILDERS (8789)",
+        "pcabId": "8789",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "SCP CONSTRUCTION (8797)",
+        "pcabId": "8797",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "ST. GERRARD CONSTRUCTION GEN. CONTRACTOR & DEVELOPMENT CORP. (FORMERLY:ST. GERRARD CONSTRUCTION) ([REVOKED] 31762)",
+        "pcabId": "[REVOKED] 31762",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "WELEX CONSTRUCTION, INCORPORATED (FORMERLY WELEX C (9323)",
+        "pcabId": "9323",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONVERGENCE AND SPECIAL SUPPORT PROGRAM-SPECIAL ROAD FUND-MOTOR VEHICLE USER'S CHARGE (MVUC) AS PER R.A. 11239-INSTALLATION OF ROAD SAFETY DEVICES ALONG ROLANDO A. ANDAYA HIGHWAY, RAGAY, CAMARINES SUR, RAGAY, CAMARINES SUR (1ST LEGISLATIVE DISTRICT)",
+      "abc": "99705730.06",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2024-01-17 00:00:00.0000000",
+      "bidSubmissionDeadline": "2024-02-14 00:00:00.0000000",
+      "dateOfAward": "2024-03-04 00:00:00.0000000",
+      "awardAmount": "96614749.71"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/23f00429_bid_docs_plans.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/23f00429_contract.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/23f00429_notice_of_award.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/23f00429_ntp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 13.9475468271868,
+    "longitude": 122.552193048835,
+    "coordinates": [
+      {
+        "componentId": "P00761730LZ-CW1",
+        "description": "Road Safety: Roadway Lighting - Installation of Road Safety Devices along Rolando A. Andaya Highway, Ragay, Camarines Sur",
+        "latitude": 13.9475468271868,
+        "longitude": 122.552193048835,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

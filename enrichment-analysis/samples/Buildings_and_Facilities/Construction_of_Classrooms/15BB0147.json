@@ -1,0 +1,85 @@
+{
+  "data": {
+    "contractId": "15BB0147",
+    "description": "CONSTRUCTION OF 2 CL SCHOOL BUILDING AT CARAOAN ES, GONZAGA, CAGAYAN 1ST LD",
+    "category": "Buildings and Facilities",
+    "status": "Completed",
+    "budget": 1682242.79,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region II",
+      "province": "Cagayan 1st DEO",
+      "infraType": "Buildings and Facilities",
+      "coordinates": null
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "MILESTONE 888 CONSTRUCTION INC. (31224)",
+    "startDate": "2016-02-22",
+    "completionDate": "2016-07-07",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-02-22",
+    "expiryDate": "2016-05-16",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 Locally Funded Projects",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00051053LZ-CW1",
+        "description": "Construction of Classrooms - Construction of 2 CL School Building at Caraoan Elementary School, Gozaga, Cagayan 1st LD",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of Classrooms",
+        "region": "Region II",
+        "province": "CAGAYAN",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "MILESTONE 888 CONSTRUCTION INC.",
+    "bidders": [
+      {
+        "name": "MILESTONE 888 CONSTRUCTION INC. (31224)",
+        "pcabId": "31224",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "REYROSE CONSTRUCTION (20742)",
+        "pcabId": "20742",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION OF 2 CL SCHOOL BUILDING AT CARAOAN ES, GONZAGA, CAGAYAN 1ST LD",
+      "abc": "1732500.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-01-27 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-02-09 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "1682242.7900000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/july/15BB0147-002.pdf",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/july/15BB0147-003.pdf",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/july/15BB0147-002.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

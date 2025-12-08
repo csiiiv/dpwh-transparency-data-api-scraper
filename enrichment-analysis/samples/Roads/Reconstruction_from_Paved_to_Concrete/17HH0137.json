@@ -1,0 +1,157 @@
+{
+  "data": {
+    "contractId": "17HH0137",
+    "description": "CONSTRUCTION / IMPROVEMENT OF ACCESS ROADS LEADING TO DECLARED TOURISM DESTINATIONS, P. DEL ROSARIO EXTENSION, LEADING TO COLON STREET, BRGY. SAMBAG I, CEBU CITY",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 19609819.3,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region VII",
+      "province": "Cebu City DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 10.3000483,
+        "longitude": 123.8909933,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "LEGACY CONSTRUCTION CORPORATION (FORMERLY: LEGACY CONSTRUCTION) (22465)",
+    "startDate": "2018-02-21",
+    "completionDate": "2018-09-21",
+    "infraYear": "2018",
+    "contractEffectivityDate": "2018-02-21",
+    "expiryDate": "2018-08-22",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2018 Other Infrastructure (CSSP)",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00230224VS-CW1",
+        "description": "Reconstruction from Paved to Concrete - P. del Rosario Extension, leading to Colon Street, Brgy. Sambag I (Pob.), Cebu City",
+        "infraType": "Roads",
+        "typeOfWork": "Reconstruction from Paved to Concrete",
+        "region": "Region VII",
+        "province": "CEBU",
+        "coordinates": {
+          "latitude": 10.3000483,
+          "longitude": 123.8909933,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "LEGACY CONSTRUCTION CORPORATION (FORMERLY: LEGACY CONSTRUCTION)",
+    "bidders": [
+      {
+        "name": "LEGACY CONSTRUCTION CORPORATION (FORMERLY: LEGACY CONSTRUCTION) (22465)",
+        "pcabId": "22465",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "EDANNA CONSTRUCTION (25492)",
+        "pcabId": "25492",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "GOLDFIN CONSTRUCTION & DEVELOPMENT CORPORATION (FORMERLY: GOLDFIN CONSTRUCTION) (21343)",
+        "pcabId": "21343",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "GONZALODO ENTERPRISES (30681)",
+        "pcabId": "30681",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "LVRO CONSTRUCTION & SUPPLY (18116)",
+        "pcabId": "18116",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "NXBUILD CONSTRUCTION (42299)",
+        "pcabId": "42299",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "P.B. OBIAL CONSTRUCTION (16784)",
+        "pcabId": "16784",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "PLD CONSTRUCTION AND DEVELOPMENT INC. (FORMERLY: PLD CONSTRUCTION) (01859)",
+        "pcabId": "01859",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "QUIRANTE CONSTRUCTION CORPORATION (FORMERLY: QUIRANTE CONSTRUCTION) (32827)",
+        "pcabId": "32827",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "VEN RAY CONSTRUCTION CORPORATION (18310)",
+        "pcabId": "18310",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "WTG CONSTRUCTION & DEVELOPMENT CORPORATION (7494)",
+        "pcabId": "7494",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION / IMPROVEMENT OF ACCESS ROADS LEADING TO DECLARED TOURISM DESTINATIONS, P. DEL ROSARIO EXTENSION, LEADING TO COLON STREET, BRGY. SAMBAG I, CEBU CITY",
+      "abc": "21063140.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2017-12-22 00:00:00.0000000",
+      "bidSubmissionDeadline": "2018-01-25 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "19609819.3"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/BID DOCS 17HH0124-0138.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/17HH0137 - Contract.PDF",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/17HH0137 - NOA.PDF",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/17HH0137 - Contract.PDF",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 10.3000483,
+    "longitude": 123.8909933,
+    "coordinates": [
+      {
+        "componentId": "P00230224VS-CW1",
+        "description": "Reconstruction from Paved to Concrete - P. del Rosario Extension, leading to Colon Street, Brgy. Sambag I (Pob.), Cebu City",
+        "latitude": 10.3000483,
+        "longitude": 123.8909933,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

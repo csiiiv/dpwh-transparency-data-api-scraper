@@ -1,0 +1,133 @@
+{
+  "data": {
+    "contractId": "16CD0110",
+    "description": "VALENZUELA-OBANDO-MEYCAUAYAN FLOOD CONTROL PROJECT CONSTRUCTION/UPGRADING OF PUMPING STATION AT BRGY.ZAMORA MEYCAUAYAN,BULACAN",
+    "category": "Flood Control and Drainage",
+    "status": "Completed",
+    "budget": 4603618.72,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region III",
+      "province": "Bulacan 2nd DEO",
+      "infraType": "Flood Control and Drainage",
+      "coordinates": {
+        "latitude": 14.737947,
+        "longitude": 120.951606,
+        "verified": false
+      }
+    },
+    "infraType": "Flood Control and Drainage",
+    "contractor": "ALPHA & OMEGA GEN. CONTRACTOR & DEVELOPMENT CORP. ([REVOKED] 38958)",
+    "startDate": "2016-05-30",
+    "completionDate": "2016-11-16",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-05-30",
+    "expiryDate": "2016-11-16",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-2",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00022743LZ-CW1",
+        "description": "Construction of Flood Mitigation Facility - Valenzuela-Obando-Meycauayan Flood Control Project-Construction/Upgrading of Pumping Station at Brgy. Zamora, Meycauayan, Bulacan",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Construction of Flood Mitigation Facility",
+        "region": "Region III",
+        "province": "BULACAN",
+        "coordinates": {
+          "latitude": 14.737947,
+          "longitude": 120.951606,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "ALPHA & OMEGA GEN. CONTRACTOR & DEVELOPMENT CORP.",
+    "bidders": [
+      {
+        "name": "ALPHA & OMEGA GEN. CONTRACTOR & DEVELOPMENT CORP. ([REVOKED] 38958)",
+        "pcabId": "[REVOKED] 38958",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "KARPA BUILDERS AND TRADING (33003)",
+        "pcabId": "33003",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "PUREGOLD CONSTRUCTION & DEVT. CORP. (34258)",
+        "pcabId": "34258",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "ST. TIMOTHY CONSTRUCTION CORPORATION ([REVOKED] 39196)",
+        "pcabId": "[REVOKED] 39196",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "TRIMLUV BUILDERS AND SUPPLY (33467)",
+        "pcabId": "33467",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "VERGUZ CONSTRUCTION (26641)",
+        "pcabId": "26641",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "WINPRO CONSTRUCTION (37527)",
+        "pcabId": "37527",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "VALENZUELA-OBANDO-MEYCAUAYAN FLOOD CONTROL PROJECT CONSTRUCTION/UPGRADING OF PUMPING STATION AT BRGY.ZAMORA MEYCAUAYAN,BULACAN",
+      "abc": "4849998.65",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-03-02 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-03-22 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "4,603,618.72"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/october/110.pdf",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/october/110.pdf",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/october/110.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 14.737947,
+    "longitude": 120.951606,
+    "coordinates": [
+      {
+        "componentId": "P00022743LZ-CW1",
+        "description": "Construction of Flood Mitigation Facility - Valenzuela-Obando-Meycauayan Flood Control Project-Construction/Upgrading of Pumping Station at Brgy. Zamora, Meycauayan, Bulacan",
+        "latitude": 14.737947,
+        "longitude": 120.951606,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

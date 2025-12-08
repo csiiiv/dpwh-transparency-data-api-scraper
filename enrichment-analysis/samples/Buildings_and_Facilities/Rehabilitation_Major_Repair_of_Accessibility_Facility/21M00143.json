@@ -1,0 +1,379 @@
+{
+  "data": {
+    "contractId": "21M00143",
+    "description": "CONSTRUCTION/REHABILITATION/IMPROVEMENT OF FACILITIES FOR PERSONS WITH DISABILITIES (PWD) AND ELDERLIES/SENIOR CITIZENS INCLUDING GENDER-RESPONSIVE FACILITIES, REGIONAL OFFICE XII, COT",
+    "category": "Buildings and Facilities",
+    "status": "Completed",
+    "budget": 23565790.63,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region XII",
+      "province": "Region XII",
+      "infraType": "Buildings and Facilities",
+      "coordinates": {
+        "latitude": 6.114309,
+        "longitude": 125.171,
+        "verified": false
+      }
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "EVERTON GEN. CONSTRUCTION AND DEVELOPMENT CO. (41373)",
+    "startDate": "2022-03-18",
+    "completionDate": "2022-12-28",
+    "infraYear": "2021",
+    "contractEffectivityDate": "2022-03-18",
+    "expiryDate": "2022-12-12",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2021 CSSP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00538258MN-CW1",
+        "description": "Construction of Accessibility Facility - Construction of Accessibility Facility at Public Building in Brgy. Dadiangas West, General Santos City, South Cotabato",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of Accessibility Facility",
+        "region": "Region XII",
+        "province": "SOUTH COTABATO",
+        "coordinates": {
+          "latitude": 6.114309,
+          "longitude": 125.171,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00538259MN-CW1",
+        "description": "Rehabilitation/Major Repair of Accessibility Facility - Rehabilitation of Accessibility Facility at Public Building in PNP Office, Pigcawayan, Cotabato",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Rehabilitation/Major Repair of Accessibility Facility",
+        "region": "Region XII",
+        "province": "COTABATO (NORTH COTABATO)",
+        "coordinates": {
+          "latitude": 7.2773917,
+          "longitude": 124.4248611,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00538260MN-CW1",
+        "description": "Construction of Accessibility Facility - Construction of Accessibility Facility at Public Building in Brgy. Lanao, Kidapawan City, Cotabato",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of Accessibility Facility",
+        "region": "Region XII",
+        "province": "COTABATO (NORTH COTABATO)",
+        "coordinates": {
+          "latitude": 7.0259909,
+          "longitude": 125.0738754,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00538261MN-CW1",
+        "description": "Construction of Accessibility Facility - Construction of Accessibility Facility at Public Building in DENR-CENRO Region XII, Matalam, Cotabato",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of Accessibility Facility",
+        "region": "Region XII",
+        "province": "COTABATO (NORTH COTABATO)",
+        "coordinates": {
+          "latitude": 7.090275,
+          "longitude": 124.8928972,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00538262MN-CW1",
+        "description": "Construction of Accessibility Facility - Construction of Accessibility Facility at Public Building in Alabel, Sarangani",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of Accessibility Facility",
+        "region": "Region XII",
+        "province": "SARANGANI",
+        "coordinates": {
+          "latitude": 6.059334,
+          "longitude": 125.284299,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00538263MN-CW1",
+        "description": "Construction of Accessibility Facility - Construction of Accessibility Facility at Public Building in Brgy. Calumpang, General Santos City, South Cotabato",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of Accessibility Facility",
+        "region": "Region XII",
+        "province": "SOUTH COTABATO",
+        "coordinates": {
+          "latitude": 6.072717,
+          "longitude": 125.140448,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00538264MN-CW1",
+        "description": "Construction of Accessibility Facility - Construction of Accessibility Facility at Public Building in Brgy. Ligaya, General Santos City, South Cotabato",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of Accessibility Facility",
+        "region": "Region XII",
+        "province": "SOUTH COTABATO",
+        "coordinates": {
+          "latitude": 6.156175,
+          "longitude": 125.232947,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00538265MN-CW1",
+        "description": "Construction of Accessibility Facility - Construction of Accessibility Facility at Public Building in Brgy. San Jose, General Santos City, South Cotabato",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of Accessibility Facility",
+        "region": "Region XII",
+        "province": "SOUTH COTABATO",
+        "coordinates": {
+          "latitude": 6.07069,
+          "longitude": 125.023862,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00538266MN-CW1",
+        "description": "Construction of Accessibility Facility - Construction of Accessibility Facility at Public Building in Brgy. Tinagacan, General Santos City, South Cotabato",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of Accessibility Facility",
+        "region": "Region XII",
+        "province": "SOUTH COTABATO",
+        "coordinates": {
+          "latitude": 6.210982,
+          "longitude": 125.237977,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00538267MN-CW1",
+        "description": "Construction of Accessibility Facility - Construction of Accessibility Facility at Public Building in Brgy. Sinawal, General Santos City, South Cotabato",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of Accessibility Facility",
+        "region": "Region XII",
+        "province": "SOUTH COTABATO",
+        "coordinates": {
+          "latitude": 6.133037,
+          "longitude": 125.107821,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00538268MN-CW1",
+        "description": "Construction of Accessibility Facility - Construction of Accessibility Facility at Public Building in Koronadal City, South Cotabato",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of Accessibility Facility",
+        "region": "Region XII",
+        "province": "SOUTH COTABATO",
+        "coordinates": {
+          "latitude": 6.452339,
+          "longitude": 124.875685,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00538269MN-CW1",
+        "description": "Construction of Accessibility Facility - Construction of Accessibility Facility at Public Building in DPWH Sultan Kudarat 1st DEO Compound, Brgy. Kalawag II, Isulan, Sultan Kudarat",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of Accessibility Facility",
+        "region": "Region XII",
+        "province": "SULTAN KUDARAT",
+        "coordinates": {
+          "latitude": 6.6318011,
+          "longitude": 124.6086527,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00538270MN-CW1",
+        "description": "Construction of Accessibility Facility - Construction of Accessibility Facility at Public Building in Brgy. Poblacion, Lebak, Sultan Kudarat",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of Accessibility Facility",
+        "region": "Region XII",
+        "province": "SULTAN KUDARAT",
+        "coordinates": {
+          "latitude": 6.6433702,
+          "longitude": 124.0709457,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "EVERTON GEN. CONSTRUCTION AND DEVELOPMENT CO.",
+    "bidders": [
+      {
+        "name": "EVERTON GEN. CONSTRUCTION AND DEVELOPMENT CO. (41373)",
+        "pcabId": "41373",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "MIGO CONSTRUCTION (34663)",
+        "pcabId": "34663",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "PREHTI CONSTRUCTION SERVICES (44638)",
+        "pcabId": "44638",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "THE TRENDSETTER CONSTRUCTION AND SUPPLY CORP. (43157)",
+        "pcabId": "43157",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION/REHABILITATION/IMPROVEMENT OF FACILITIES FOR PERSONS WITH DISABILITIES (PWD) AND ELDERLIES/SENIOR CITIZENS INCLUDING  GENDER-RESPONSIVE FACILITIES, REGIONAL OFFICE XII, COT",
+      "abc": "28950000.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2021-10-27 00:00:00.0000000",
+      "bidSubmissionDeadline": "2021-11-24 00:00:00.0000000",
+      "dateOfAward": "2022-01-25 00:00:00.0000000",
+      "awardAmount": "21423446.03"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/30_Invitation to Bid_November 17, 2021 1.pdf",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/21M00143-CA.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/21m00143-noa.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/21M00143-CA.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 6.114309,
+    "longitude": 125.171,
+    "coordinates": [
+      {
+        "componentId": "P00538258MN-CW1",
+        "description": "Construction of Accessibility Facility - Construction of Accessibility Facility at Public Building in Brgy. Dadiangas West, General Santos City, South Cotabato",
+        "latitude": 6.114309,
+        "longitude": 125.171,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00538259MN-CW1",
+        "description": "Rehabilitation/Major Repair of Accessibility Facility - Rehabilitation of Accessibility Facility at Public Building in PNP Office, Pigcawayan, Cotabato",
+        "latitude": 7.2773917,
+        "longitude": 124.4248611,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00538260MN-CW1",
+        "description": "Construction of Accessibility Facility - Construction of Accessibility Facility at Public Building in Brgy. Lanao, Kidapawan City, Cotabato",
+        "latitude": 7.0259909,
+        "longitude": 125.0738754,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00538261MN-CW1",
+        "description": "Construction of Accessibility Facility - Construction of Accessibility Facility at Public Building in DENR-CENRO Region XII, Matalam, Cotabato",
+        "latitude": 7.090275,
+        "longitude": 124.8928972,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00538262MN-CW1",
+        "description": "Construction of Accessibility Facility - Construction of Accessibility Facility at Public Building in Alabel, Sarangani",
+        "latitude": 6.059334,
+        "longitude": 125.284299,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00538263MN-CW1",
+        "description": "Construction of Accessibility Facility - Construction of Accessibility Facility at Public Building in Brgy. Calumpang, General Santos City, South Cotabato",
+        "latitude": 6.072717,
+        "longitude": 125.140448,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00538264MN-CW1",
+        "description": "Construction of Accessibility Facility - Construction of Accessibility Facility at Public Building in Brgy. Ligaya, General Santos City, South Cotabato",
+        "latitude": 6.156175,
+        "longitude": 125.232947,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00538265MN-CW1",
+        "description": "Construction of Accessibility Facility - Construction of Accessibility Facility at Public Building in Brgy. San Jose, General Santos City, South Cotabato",
+        "latitude": 6.07069,
+        "longitude": 125.023862,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00538266MN-CW1",
+        "description": "Construction of Accessibility Facility - Construction of Accessibility Facility at Public Building in Brgy. Tinagacan, General Santos City, South Cotabato",
+        "latitude": 6.210982,
+        "longitude": 125.237977,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00538267MN-CW1",
+        "description": "Construction of Accessibility Facility - Construction of Accessibility Facility at Public Building in Brgy. Sinawal, General Santos City, South Cotabato",
+        "latitude": 6.133037,
+        "longitude": 125.107821,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00538268MN-CW1",
+        "description": "Construction of Accessibility Facility - Construction of Accessibility Facility at Public Building in Koronadal City, South Cotabato",
+        "latitude": 6.452339,
+        "longitude": 124.875685,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00538269MN-CW1",
+        "description": "Construction of Accessibility Facility - Construction of Accessibility Facility at Public Building in DPWH Sultan Kudarat 1st DEO Compound, Brgy. Kalawag II, Isulan, Sultan Kudarat",
+        "latitude": 6.6318011,
+        "longitude": 124.6086527,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00538270MN-CW1",
+        "description": "Construction of Accessibility Facility - Construction of Accessibility Facility at Public Building in Brgy. Poblacion, Lebak, Sultan Kudarat",
+        "latitude": 6.6433702,
+        "longitude": 124.0709457,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 15,
+      "latestImageDate": "2025-09-25 07:59:58.266000",
+      "hasImages": true
+    }
+  }
+}

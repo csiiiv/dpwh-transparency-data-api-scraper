@@ -1,0 +1,85 @@
+{
+  "data": {
+    "contractId": "16EH0075",
+    "description": "CONSTRUCTION OF SLOPE PROTECTION ALONG TABLAS CIRCUMFERENTIAL ROAD, K0066 + 000 - K0070 + 000 (AS PER RBIA), BRGY. BACHAWAN, SAN AGUSTIN, ROMBLON",
+    "category": "Flood Control and Drainage",
+    "status": "Completed",
+    "budget": 36781002.76,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region IV-B",
+      "province": "Romblon DEO",
+      "infraType": "Flood Control and Drainage",
+      "coordinates": null
+    },
+    "infraType": "Flood Control and Drainage",
+    "contractor": "LIM GENERAL CONTRACTOR CORPORATION (8482)",
+    "startDate": "2016-04-04",
+    "completionDate": "2019-04-13",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-04-04",
+    "expiryDate": "2016-11-29",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-2",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00020675LZ-CW1",
+        "description": "Construction of Slope Protection Structure - Construction of slope protection along Tablas Circumferential Road, K0066+000-K0070+000, Brgy. Bachawan, San Agustin, Romblon",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Construction of Slope Protection Structure",
+        "region": "Region IV-B",
+        "province": "ROMBLON",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "LIM GENERAL CONTRACTOR CORPORATION",
+    "bidders": [
+      {
+        "name": "LIM GENERAL CONTRACTOR CORPORATION (8482)",
+        "pcabId": "8482",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "ARKY CONSTRUCTION AND SUPPLY (32692)",
+        "pcabId": "32692",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION OF SLOPE PROTECTION ALONG TABLAS CIRCUMFERENTIAL ROAD, K0066 + 000 - K0070 + 000 (AS PER RBIA), BRGY. BACHAWAN, SAN AGUSTIN, ROMBLON",
+      "abc": "38376799.51",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-02-19 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-03-09 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "36,781,002.76"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "",
+      "noticeOfAward": "",
+      "noticeToProceed": "",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

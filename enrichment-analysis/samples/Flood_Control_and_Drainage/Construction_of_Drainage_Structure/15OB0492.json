@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "15OB0492",
+    "description": "IMPROVEMENT/REHABILITATION (CONCRETE/DRAIANGE) AT NANIRAHAN STREET, BRGY. MABINI J. RIZAL, MANDALUYONG CITY",
+    "category": "Flood Control and Drainage",
+    "status": "Completed",
+    "budget": 8684324.89,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "National Capital Region",
+      "province": "Metro Manila 1st DEO",
+      "infraType": "Flood Control and Drainage",
+      "coordinates": {
+        "latitude": 14.5861738,
+        "longitude": 121.022087,
+        "verified": false
+      }
+    },
+    "infraType": "Flood Control and Drainage",
+    "contractor": "NUKAZA TRADING AND CONSTRUCTION SERVICES (32067)",
+    "startDate": "2016-02-17",
+    "completionDate": "2016-09-03",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-02-17",
+    "expiryDate": "2016-08-12",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - Flood Control/Hydraulics/Drainage, Roads: Rehabilitation - PCCP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00052968LZ-CW1",
+        "description": "Construction of Drainage Structure - Improvement/Rehabilitation (Concrete/Drainage) at Nanirahan Street, Barangay Mabini-J. Rizal, Mandaluyong City Lone District",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Construction of Drainage Structure",
+        "region": "National Capital Region",
+        "province": "METROPOLITAN MANILA",
+        "coordinates": {
+          "latitude": 14.5861738,
+          "longitude": 121.022087,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "NUKAZA TRADING AND CONSTRUCTION SERVICES",
+    "bidders": [
+      {
+        "name": "NUKAZA TRADING AND CONSTRUCTION SERVICES (32067)",
+        "pcabId": "32067",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "E.A.  RAMIREZ CONSTRUCTION, INC. (11631)",
+        "pcabId": "11631",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "IMPROVEMENT/REHABILITATION (CONCRETE/DRAIANGE) AT NANIRAHAN STREET, BRGY. MABINI J. RIZAL, MANDALUYONG CITY",
+      "abc": "9649260.61",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-12-23 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-01-14 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "8684324.8900000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "",
+      "noticeOfAward": "",
+      "noticeToProceed": "",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 14.5861738,
+    "longitude": 121.022087,
+    "coordinates": [
+      {
+        "componentId": "P00052968LZ-CW1",
+        "description": "Construction of Drainage Structure - Improvement/Rehabilitation (Concrete/Drainage) at Nanirahan Street, Barangay Mabini-J. Rizal, Mandaluyong City Lone District",
+        "latitude": 14.5861738,
+        "longitude": 121.022087,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

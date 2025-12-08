@@ -1,0 +1,100 @@
+{
+  "data": {
+    "contractId": "25F00215",
+    "description": "ORGANIZATIONAL OUTCOME 1: ENSURE SAFE AND RELIABLE NATIONAL ROAD SYSTEM - BRIDGE PROGRAM - WIDENING OF PERMANENT BRIDGES - MARCOS BR. (B00042CN) ALONG CATANDUANES CIR RD (PHASE III), VIRAC, CATANDUANES (LONE DISTRICT)",
+    "category": "Bridges",
+    "status": "On-Going",
+    "budget": 23727723.78,
+    "amountPaid": 0,
+    "progress": 31,
+    "location": {
+      "region": "Region V",
+      "province": "Region V",
+      "infraType": "Bridges",
+      "coordinates": null
+    },
+    "infraType": "Bridges",
+    "contractor": "KCS CONSTRUCTION & SUPPLY (19641)",
+    "startDate": "2025-05-30",
+    "completionDate": null,
+    "infraYear": "2025",
+    "contractEffectivityDate": "2025-05-30",
+    "expiryDate": "2025-12-26",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2025 OO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00916369LZ-CW1",
+        "description": "Widening of Bridge - Marcos Br. (B00042CN) along Catanduanes Cir Rd (Phase III)",
+        "infraType": "Bridges",
+        "typeOfWork": "Widening of Bridge",
+        "region": "Region V",
+        "province": "CATANDUANES",
+        "coordinates": null
+      },
+      {
+        "componentId": "P00916369LZ-CW2",
+        "description": "Construction of Bridge Approach - Marcos Br. (B00042CN) along Catanduanes Cir Rd (Phase III)",
+        "infraType": "Bridges",
+        "typeOfWork": "Construction of Bridge Approach",
+        "region": "Region V",
+        "province": "CATANDUANES",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "KCS CONSTRUCTION & SUPPLY",
+    "bidders": [
+      {
+        "name": "KCS CONSTRUCTION & SUPPLY (19641)",
+        "pcabId": "19641",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "AL-JON CONSTRUCTION DEVELOPMENT, INC. (FORMERLY: ALJON CONSTRUCTION & SUPPLY) (34481)",
+        "pcabId": "34481",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "MPIRE NINE CONSTRUCTION OPC (55800)",
+        "pcabId": "55800",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "ORGANIZATIONAL OUTCOME 1: ENSURE SAFE AND RELIABLE NATIONAL ROAD SYSTEM - BRIDGE PROGRAM - WIDENING OF PERMANENT BRIDGES - MARCOS BR. (B00042CN) ALONG CATANDUANES CIR RD (PHASE III), VIRAC, CATANDUANES (LONE DISTRICT)",
+      "abc": "28080198.63",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2025-02-07 00:00:00.0000000",
+      "bidSubmissionDeadline": "2025-02-28 00:00:00.0000000",
+      "dateOfAward": "2025-03-21 00:00:00.0000000",
+      "awardAmount": "23727723.78"
+    },
+    "links": {
+      "advertisement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/advertisement/25f00215_bid_docs_plans.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/25f00215_contract.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/25f00215_noa.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/25f00215_ntp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

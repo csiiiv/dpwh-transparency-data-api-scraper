@@ -1,0 +1,151 @@
+{
+  "data": {
+    "contractId": "22MB0007",
+    "description": "OFF-CARRIAGEWAY IMPROVEMENT - PRIMARY ROADS - DIGOS - MAKAR RD - K1650 + 745 - K1651 + 739",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 8313288.43,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region XII",
+      "province": "South Cotabato 1st DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 6.1189056,
+        "longitude": 125.1814889,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "FREDEN CONSTRUCTION (22665)",
+    "startDate": "2022-03-29",
+    "completionDate": "2022-08-31",
+    "infraYear": "2022",
+    "contractEffectivityDate": "2022-03-29",
+    "expiryDate": "2022-07-29",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2022 OO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00602465MN-CW1",
+        "description": "Off-Carriageway Improvement: Construction of Traffic Island - Digos-Makar Rd - K1650 + 745 - K1651 + 739",
+        "infraType": "Roads",
+        "typeOfWork": "Off-Carriageway Improvement: Construction of Traffic Island",
+        "region": "Region XII",
+        "province": "SOUTH COTABATO",
+        "coordinates": {
+          "latitude": 6.1189056,
+          "longitude": 125.1814889,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "FREDEN CONSTRUCTION",
+    "bidders": [
+      {
+        "name": "FREDEN CONSTRUCTION (22665)",
+        "pcabId": "22665",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "A.L. ACHARON CONSTRUCTION AND SUPPLY (33068)",
+        "pcabId": "33068",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "C E K CONSTRUCTION AND WATER SUPPLY (13713)",
+        "pcabId": "13713",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "CRF CONSTRUCTION INC. (48133)",
+        "pcabId": "48133",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "CS CONST. AND SUPPLY INC. (FORMERLY: CS CONSTRUCTION AND SUPPLY) (24237)",
+        "pcabId": "24237",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "DRU CONSTRUCTION (46523)",
+        "pcabId": "46523",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "DUMALAG SURVEYING AND ENGINEERING SERVICES (36273)",
+        "pcabId": "36273",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "MFN BUILDERS (36402)",
+        "pcabId": "36402",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "R. FABALE CONSTRUCTION CORP. (43868)",
+        "pcabId": "43868",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "SOKABE CONSTRUCTION (45464)",
+        "pcabId": "45464",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "OFF-CARRIAGEWAY IMPROVEMENT - PRIMARY ROADS - DIGOS - MAKAR RD - K1650 + 745 - K1651 + 739",
+      "abc": "8313340.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2021-11-26 00:00:00.0000000",
+      "bidSubmissionDeadline": "2021-12-15 00:00:00.0000000",
+      "dateOfAward": "2022-03-22 00:00:00.0000000",
+      "awardAmount": "8210000"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/IB's Summary 2022 -4TH batch-sgd.pdf",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/22mb0007_contract_agreement.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/22mb0007_notice_of_award.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/22mb0007_notice_to_proceed.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 6.1189056,
+    "longitude": 125.1814889,
+    "coordinates": [
+      {
+        "componentId": "P00602465MN-CW1",
+        "description": "Off-Carriageway Improvement: Construction of Traffic Island - Digos-Makar Rd - K1650 + 745 - K1651 + 739",
+        "latitude": 6.1189056,
+        "longitude": 125.1814889,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 3,
+      "latestImageDate": "2022-09-01 01:09:31.580000",
+      "hasImages": true
+    }
+  }
+}

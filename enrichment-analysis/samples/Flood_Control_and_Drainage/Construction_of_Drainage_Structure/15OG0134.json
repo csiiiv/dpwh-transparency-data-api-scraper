@@ -1,0 +1,91 @@
+{
+  "data": {
+    "contractId": "15OG0134",
+    "description": "CONST./ REHAB OF DRAINAGE SYSTEM AT D. TUAZON AVE. (QUEZON AVE. TO N. RAMIREZ ST.) INTERMITTENT...",
+    "category": "Flood Control and Drainage",
+    "status": "Completed",
+    "budget": 18438720.12,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "National Capital Region",
+      "province": "Quezon City 2nd DEO",
+      "infraType": "Flood Control and Drainage",
+      "coordinates": null
+    },
+    "infraType": "Flood Control and Drainage",
+    "contractor": "C & F CONSTRUCTION & DEVELOPMENT CORPORATION (3509)",
+    "startDate": "2016-02-03",
+    "completionDate": "2016-08-15",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-02-03",
+    "expiryDate": "2016-08-15",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - Flood Control/Hydraulics/Drainage, Roads: Rehabilitation - PCCP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00044301LZ-CW1",
+        "description": "Construction of Drainage Structure - Construction/Rehabilitation of Drainage System at D. Tuazon Ave. (Quezon Ave to N. Ramirez St) Intermittent Section, Quezon City 4th LD",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Construction of Drainage Structure",
+        "region": "National Capital Region",
+        "province": "METROPOLITAN MANILA",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "C & F CONSTRUCTION & DEVELOPMENT CORPORATION",
+    "bidders": [
+      {
+        "name": "C & F CONSTRUCTION & DEVELOPMENT CORPORATION (3509)",
+        "pcabId": "3509",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "L.M.G. CONSTRUCTION INCORPORATED (FORMERLY: LMG CONSTRUCTION) (5719)",
+        "pcabId": "5719",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "R.E. ORLINA CONSTRUCTION CORPORATION (17176)",
+        "pcabId": "17176",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONST./ REHAB OF DRAINAGE SYSTEM AT D. TUAZON AVE. (QUEZON AVE. TO N. RAMIREZ ST.) INTERMITTENT...",
+      "abc": "19599045.73",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-11-19 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-12-08 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "18438783.1200000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "",
+      "noticeOfAward": "",
+      "noticeToProceed": "",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

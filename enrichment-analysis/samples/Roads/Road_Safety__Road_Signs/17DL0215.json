@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "17DL0215",
+    "description": "INSTALLATION OF ROAD SIGNAGES ALONG DAANG MAHARLIKAK0135+(-732) TO K0246+724",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 11994578.56,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region IV-A",
+      "province": "Quezon 4th DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 13.964501,
+        "longitude": 121.659915,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "PHILIPPINE CHEMSTEEL INDUSTRIES, INC. (16965)",
+    "startDate": "2017-10-05",
+    "completionDate": "2018-01-02",
+    "infraYear": "2017",
+    "contractEffectivityDate": "2017-10-05",
+    "expiryDate": "2018-01-02",
+    "nysReason": null,
+    "programName": "Outside Infra",
+    "sourceOfFunds": "Outside Infra - Special Road Support Fund 2017",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00190206LZ-CW1",
+        "description": "Road Safety: Road Signs - Installation Of Road Signages Along Daang Maharlika K0135+(-732) - K0246+724",
+        "infraType": "Roads",
+        "typeOfWork": "Road Safety: Road Signs",
+        "region": "Region IV-A",
+        "province": "QUEZON",
+        "coordinates": {
+          "latitude": 13.964501,
+          "longitude": 121.659915,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "PHILIPPINE CHEMSTEEL INDUSTRIES, INC.",
+    "bidders": [
+      {
+        "name": "PHILIPPINE CHEMSTEEL INDUSTRIES, INC. (16965)",
+        "pcabId": "16965",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "R.A. MENDIOLA CONSTRUCTION & DEVELOPER (33651)",
+        "pcabId": "33651",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "INSTALLATION OF ROAD SIGNAGES ALONG DAANG MAHARLIKA K0135+(-732) TO K0246+724",
+      "abc": "12114663.50",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2017-09-06 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-09-26 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "11,994,578.56"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/noa_17dl0215.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/17dl0215-_ntp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 13.964501,
+    "longitude": 121.659915,
+    "coordinates": [
+      {
+        "componentId": "P00190206LZ-CW1",
+        "description": "Road Safety: Road Signs - Installation Of Road Signages Along Daang Maharlika K0135+(-732) - K0246+724",
+        "latitude": 13.964501,
+        "longitude": 121.659915,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

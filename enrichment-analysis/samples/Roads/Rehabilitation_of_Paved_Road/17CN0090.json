@@ -1,0 +1,109 @@
+{
+  "data": {
+    "contractId": "17CN0090",
+    "description": "REPAIR/REHAB. OF BRGY. SAN JOAQUIN - BRGY. CADAYACAN ROAD, MARIA AURORA (STA. 0+000 - STA. 0+200)",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 5603508.47,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region III",
+      "province": "Aurora DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 15.813498,
+        "longitude": 121.466783,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "MORNING STEEL CONSTRUCTION (30698)",
+    "startDate": "2017-05-15",
+    "completionDate": "2017-08-23",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2017-05-15",
+    "expiryDate": "2017-08-16",
+    "nysReason": null,
+    "programName": "Outside Infra",
+    "sourceOfFunds": "Outside Infra - GAA 2016 NDRRMF",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00095362LZ-CW1",
+        "description": "Rehabilitation of Paved Road - Repair/Rehabilitation of Brgy. San Joaquin-Brgy. Cadayacan Road, Maria Aurora (Sta.0+000-Sta.0+200)",
+        "infraType": "Roads",
+        "typeOfWork": "Rehabilitation of Paved Road",
+        "region": "Region III",
+        "province": "AURORA",
+        "coordinates": {
+          "latitude": 15.813498,
+          "longitude": 121.466783,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "MORNING STEEL CONSTRUCTION",
+    "bidders": [
+      {
+        "name": "MORNING STEEL CONSTRUCTION (30698)",
+        "pcabId": "30698",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "JOHN DEE B. BUSTAMANTE CONSTRUCTION (30458)",
+        "pcabId": "30458",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "R.N.G.M. CONSTRUCTION CORPORATION (FORMERLY: R.N.G.M.  CONSTRUCTION) (20281)",
+        "pcabId": "20281",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "REPAIR/REHAB. OF BRGY. SAN JOAQUIN - BRGY. CADAYACAN ROAD, MARIA AURORA (STA. 0+000 - STA. 0+200)",
+      "abc": "5776755.22",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2017-04-04 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-04-11 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "5,603,508.47"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/NOTICE OF PROCUREMENT 17CN0090.pdf",
+      "contractAgreement": "",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/17cn0090-noa.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/17cn0090-ntp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 15.813498,
+    "longitude": 121.466783,
+    "coordinates": [
+      {
+        "componentId": "P00095362LZ-CW1",
+        "description": "Rehabilitation of Paved Road - Repair/Rehabilitation of Brgy. San Joaquin-Brgy. Cadayacan Road, Maria Aurora (Sta.0+000-Sta.0+200)",
+        "latitude": 15.813498,
+        "longitude": 121.466783,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

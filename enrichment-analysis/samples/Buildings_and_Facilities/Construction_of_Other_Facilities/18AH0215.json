@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "18AH0215",
+    "description": "DEVELOPMENT OF PANGAPISAN PORT, LINGAYEN,PANGASINAN",
+    "category": "Buildings and Facilities",
+    "status": "Completed",
+    "budget": 4655000,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region I",
+      "province": "Pangasinan 2nd DEO",
+      "infraType": "Buildings and Facilities",
+      "coordinates": {
+        "latitude": 16.0414663,
+        "longitude": 120.200424,
+        "verified": false
+      }
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "BRYLLE TRADING & CONSTRUCTION SUPPLIES (32880)",
+    "startDate": "2018-07-02",
+    "completionDate": "2018-09-29",
+    "infraYear": "2018",
+    "contractEffectivityDate": "2018-07-02",
+    "expiryDate": "2018-07-31",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2018 LP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00240087LZ-CW1",
+        "description": "Construction of Other Facilities - Development of Pangapisan Port, Pangasinan",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of Other Facilities",
+        "region": "Region I",
+        "province": "PANGASINAN",
+        "coordinates": {
+          "latitude": 16.0414663,
+          "longitude": 120.200424,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "BRYLLE TRADING & CONSTRUCTION SUPPLIES",
+    "bidders": [
+      {
+        "name": "BRYLLE TRADING & CONSTRUCTION SUPPLIES (32880)",
+        "pcabId": "32880",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "JASA GD 2000 CONSTRUCTION CORPORATION (FORMERLY:JASA BUILDER'S) (31330)",
+        "pcabId": "31330",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "DEVELOPMENT OF PANGAPISAN PORT, LINGAYEN,PANGASINAN",
+      "abc": "4900000.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2018-05-18 00:00:00.0000000",
+      "bidSubmissionDeadline": "2018-06-07 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "4655000"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/18AH0215 ITB,BD,CP,TF,PLANS.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/ca_-_18ah0215.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/noa_-_18ah0215.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/ntp_-_18ah0215.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 16.0414663,
+    "longitude": 120.200424,
+    "coordinates": [
+      {
+        "componentId": "P00240087LZ-CW1",
+        "description": "Construction of Other Facilities - Development of Pangapisan Port, Pangasinan",
+        "latitude": 16.0414663,
+        "longitude": 120.200424,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

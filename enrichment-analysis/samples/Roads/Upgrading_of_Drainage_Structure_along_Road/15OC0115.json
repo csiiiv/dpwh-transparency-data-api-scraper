@@ -1,0 +1,115 @@
+{
+  "data": {
+    "contractId": "15OC0115",
+    "description": "REHABILITATION/UPGRADING AND DRAINAGE IMPROVEMENT OF J. LUNA ST. AND ITS VICINITY, FROM C-5 ROAD-BLUE BOZ ST.-FLORAVILLE ST.-J. LUNA ST.-MAKATI PATEROS RIVER, DISTRICT II, MAKATI CITY, METRO MANILA",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 18142100.72,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "National Capital Region",
+      "province": "Metro Manila 2nd DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 14.537288,
+        "longitude": 121.063901,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "VNKC CONSTRUCTION (12614)",
+    "startDate": "2016-02-04",
+    "completionDate": "2018-01-24",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-02-04",
+    "expiryDate": "2016-07-02",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-2",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00020041LZ-CW1",
+        "description": "Upgrading of Drainage Structure along Road - Rehabilitation/Upgrading & Drainage Improvement of J. Luna Street & its Vicinity, from C-5 Road-Blue Boz St.- Floraville St.- J. Luna St.- Makati-Pateros River, District II, Makati City, Metro Manila",
+        "infraType": "Roads",
+        "typeOfWork": "Upgrading of Drainage Structure along Road",
+        "region": "National Capital Region",
+        "province": "METROPOLITAN MANILA",
+        "coordinates": {
+          "latitude": 14.537288,
+          "longitude": 121.063901,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "VNKC CONSTRUCTION",
+    "bidders": [
+      {
+        "name": "VNKC CONSTRUCTION (12614)",
+        "pcabId": "12614",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "C & F CONSTRUCTION & DEVELOPMENT CORPORATION (3509)",
+        "pcabId": "3509",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "FERDSTAR BUILDERS INC. (4965)",
+        "pcabId": "4965",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "R.E. ORLINA CONSTRUCTION CORPORATION (17176)",
+        "pcabId": "17176",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "REHABILITATION/UPGRADING AND DRAINAGE IMPROVEMENT OF J. LUNA ST. AND ITS VICINITY, FROM C-5 ROAD-BLUE BOZ ST.-FLORAVILLE ST.-J. LUNA ST.-MAKATI PATEROS RIVER, DISTRICT II, MAKATI CITY, METRO MANILA",
+      "abc": "19300000.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-11-27 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-12-16 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "18142100.7200000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/15oc0115_contract_agreement.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/15oc0115_noa_and_resolution.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/15oc0115_ntp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 14.537288,
+    "longitude": 121.063901,
+    "coordinates": [
+      {
+        "componentId": "P00020041LZ-CW1",
+        "description": "Upgrading of Drainage Structure along Road - Rehabilitation/Upgrading & Drainage Improvement of J. Luna Street & its Vicinity, from C-5 Road-Blue Boz St.- Floraville St.- J. Luna St.- Makati-Pateros River, District II, Makati City, Metro Manila",
+        "latitude": 14.537288,
+        "longitude": 121.063901,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

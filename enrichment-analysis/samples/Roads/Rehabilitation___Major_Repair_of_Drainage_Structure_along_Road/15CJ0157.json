@@ -1,0 +1,109 @@
+{
+  "data": {
+    "contractId": "15CJ0157",
+    "description": "CONST./MAINT. OF FMSDS-REP./REHAB. OF REINFORCED CONC. SLOPE PROTECTION ALONG TARLAC RIVER CONTROL,",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 45618869.89,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region III",
+      "province": "Tarlac DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 15.535039,
+        "longitude": 120.592548,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "NORTHERN BUILDERS (8789)",
+    "startDate": "2016-01-21",
+    "completionDate": "2016-07-18",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-01-21",
+    "expiryDate": "2016-07-18",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-2",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00020496LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Drainage Structure along Road - Repair/Rehab. of Reinforced Concrete Slope Protection along Tarlac River Control, Brgy. Sta. Cruz, Tarlac City, Tarlac 2nd LD",
+        "infraType": "Roads",
+        "typeOfWork": "Rehabilitation / Major Repair of Drainage Structure along Road",
+        "region": "Region III",
+        "province": "TARLAC",
+        "coordinates": {
+          "latitude": 15.535039,
+          "longitude": 120.592548,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "NORTHERN BUILDERS",
+    "bidders": [
+      {
+        "name": "NORTHERN BUILDERS (8789)",
+        "pcabId": "8789",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "A.C. SOLIVEN CONSTRUCTION & GENERAL MERCHANDISE (19278)",
+        "pcabId": "19278",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "ROYAL CROWN MONARCH CONSTRUCTION & SUPPLIES CORP. (09036)",
+        "pcabId": "09036",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONST./MAINT. OF FMSDS-REP./REHAB. OF REINFORCED CONC. SLOPE PROTECTION ALONG TARLAC RIVER CONTROL,",
+      "abc": "48019994.46",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-11-19 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-12-09 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "45618869.8900000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/15cj0157_contract.pdf",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/january/15CJ0157001.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/15cj0157_contract.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 15.535039,
+    "longitude": 120.592548,
+    "coordinates": [
+      {
+        "componentId": "P00020496LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Drainage Structure along Road - Repair/Rehab. of Reinforced Concrete Slope Protection along Tarlac River Control, Brgy. Sta. Cruz, Tarlac City, Tarlac 2nd LD",
+        "latitude": 15.535039,
+        "longitude": 120.592548,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

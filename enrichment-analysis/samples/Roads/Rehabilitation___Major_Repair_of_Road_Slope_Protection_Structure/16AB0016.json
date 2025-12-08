@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "16AB0016",
+    "description": "REHAB/RECONS OF NATL RDS WITH SLIPS,SLOPE COLLAPSE & LANDSLIDES,IN-APAYAO RD,KO517+704-K0517+734, K0520+213-K0520+333, K0522+794-K0522+809, K0523+041-K0523+051, K0523+284-K0523+294, K0523+411-K0523+421, K0523+682-K0523+702......K0532+105-K0532+125",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 38023502.74,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region I",
+      "province": "Ilocos Norte 2nd DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 18.12416,
+        "longitude": 120.758043,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "KVC CONSTRUCTION (28959) / REMIGIO GENERAL CONSTRUCTION (2298)",
+    "startDate": "2016-03-28",
+    "completionDate": "2017-02-27",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-03-28",
+    "expiryDate": "2017-03-07",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00005742LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Road Slope Protection Structure - Ilocos Norte-Apayao Rd - K0517+704 - K0517+734, K0520+213 - K0520+333, K0522+794 - K0522+809, K0523+041 - K0523+051, K0523+284 - K0523+294, K0523+411 - K0523+421, K0523+682 - K0523+702, K0",
+        "infraType": "Roads",
+        "typeOfWork": "Rehabilitation / Major Repair of Road Slope Protection Structure",
+        "region": "Region I",
+        "province": "ILOCOS NORTE",
+        "coordinates": {
+          "latitude": 18.12416,
+          "longitude": 120.758043,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "KVC CONSTRUCTION, REMIGIO GENERAL CONSTRUCTION",
+    "bidders": [
+      {
+        "name": "KVC CONSTRUCTION (28959) / REMIGIO GENERAL CONSTRUCTION (2298) (JV ID: JV-15-594)",
+        "pcabId": "",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "AJ TAYLAN CONSTRUCTION CORPORATION (2336)",
+        "pcabId": "2336",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "REHAB/RECONS OF NATL RDS WITH SLIPS,SLOPE COLLAPSE & LANDSLIDES,IN-APAYAO RD,KO517+704-K0517+734, K0520+213-K0520+333, K0522+794-K0522+809, K0523+041-K0523+051, K0523+284-K0523+294, K0523+411-K0523+421, K0523+682-K0523+702......K0532+105-K0532+125",
+      "abc": "38023701.81",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-10-29 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-11-19 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "36122337.13"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/november/16AB0016CA.pdf",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/april/16AB0016NOA.pdf",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/april/16AB0016CA.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 18.12416,
+    "longitude": 120.758043,
+    "coordinates": [
+      {
+        "componentId": "P00005742LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Road Slope Protection Structure - Ilocos Norte-Apayao Rd - K0517+704 - K0517+734, K0520+213 - K0520+333, K0522+794 - K0522+809, K0523+041 - K0523+051, K0523+284 - K0523+294, K0523+411 - K0523+421, K0523+682 - K0523+702, K0",
+        "latitude": 18.12416,
+        "longitude": 120.758043,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

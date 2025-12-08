@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "15OF0259",
+    "description": "ROAD IMPROVEMENT IST TO 8TH STREETS, VETERANS VILLAGE, BRGY. PASONG TAMO, Q.C.",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 13467126.15,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "National Capital Region",
+      "province": "Quezon City 1st DEO",
+      "infraType": "Roads",
+      "coordinates": null
+    },
+    "infraType": "Roads",
+    "contractor": "L.M.G. CONSTRUCTION INCORPORATED (FORMERLY: LMG CONSTRUCTION) (5719)",
+    "startDate": "2016-02-15",
+    "completionDate": "2017-05-01",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-02-15",
+    "expiryDate": "2016-09-11",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - Flood Control/Hydraulics/Drainage, Roads: Rehabilitation - PCCP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00053548LZ-CW1",
+        "description": "Upgrading of Drainage Structure along Road - Road improvement, 1st to 8th Streets, Veterans Village, Barangay Pasong Tamo, Quezon City 6th LD",
+        "infraType": "Roads",
+        "typeOfWork": "Upgrading of Drainage Structure along Road",
+        "region": "National Capital Region",
+        "province": "METROPOLITAN MANILA",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "L.M.G. CONSTRUCTION INCORPORATED (FORMERLY: LMG CONSTRUCTION)",
+    "bidders": [
+      {
+        "name": "L.M.G. CONSTRUCTION INCORPORATED (FORMERLY: LMG CONSTRUCTION) (5719)",
+        "pcabId": "5719",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "A.L. DARE CONSTRUCTION CORP. (FOR: A.L. DARE CONST.) (11932)",
+        "pcabId": "11932",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "FRAMECON BUILDERS (22482)",
+        "pcabId": "22482",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "GREENWALL CONSTRUCTION (14457)",
+        "pcabId": "14457",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "MCB ZAMORA CONSTRUCTION & SUPPLY (32006)",
+        "pcabId": "32006",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "ROAD IMPROVEMENT IST TO 8TH STREETS, VETERANS VILLAGE, BRGY. PASONG TAMO, Q.C.",
+      "abc": "14474886.34",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-12-23 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-01-14 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "13467126.1500000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/contract_agreement259.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/notice_of_award_259.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/notice_to_proceed_259.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

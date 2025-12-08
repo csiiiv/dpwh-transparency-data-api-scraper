@@ -1,0 +1,91 @@
+{
+  "data": {
+    "contractId": "16CE0305",
+    "description": "RESTORATION OF SCOURED/ERODED RIVER BANK, DAANG MAHARLIKA ROAD, BRGY. PUTLAN, CARRANGLAN, NUEVA ECIJA, K192+190 TO K192+350",
+    "category": "Flood Control and Drainage",
+    "status": "Completed",
+    "budget": 14247508.06,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region III",
+      "province": "Nueva Ecija 1st DEO",
+      "infraType": "Flood Control and Drainage",
+      "coordinates": null
+    },
+    "infraType": "Flood Control and Drainage",
+    "contractor": "LISA CONSTRUCTION (24134)",
+    "startDate": "2017-03-12",
+    "completionDate": "2017-07-27",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2017-03-12",
+    "expiryDate": "2017-07-27",
+    "nysReason": null,
+    "programName": "Outside Infra",
+    "sourceOfFunds": "Outside Infra - GAA 2016 NDRRMF",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00095316LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Slope Protection Structure - Restoration of Scoured/Eroded River Bank, Daang Maharlika Road, Brgy. Putlan, Carranglan, Nueva Ecija, K0192+190- K0192+350",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Rehabilitation / Major Repair of Slope Protection Structure",
+        "region": "Region III",
+        "province": "NUEVA ECIJA",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "LISA CONSTRUCTION",
+    "bidders": [
+      {
+        "name": "LISA CONSTRUCTION (24134)",
+        "pcabId": "24134",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "IRC CONSTRUCTION & SUPPLIES (29943)",
+        "pcabId": "29943",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "L.M.G. CONSTRUCTION INCORPORATED (FORMERLY: LMG CONSTRUCTION) (5719)",
+        "pcabId": "5719",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "RESTORATION OF SCOURED/ERODED RIVER BANK, DAANG MAHARLIKA ROAD, BRGY. PUTLAN, CARRANGLAN, NUEVA ECIJA, K192+190 TO K192+350",
+      "abc": "14538399.55",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-12-29 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-01-19 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "14,247,508.06"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/ca16ce0305.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/16ce0305_noa.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/ntp16ce0305.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

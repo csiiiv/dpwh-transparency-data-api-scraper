@@ -1,0 +1,115 @@
+{
+  "data": {
+    "contractId": "22HJ0081",
+    "description": "REHABILITATION OF MULTI-PURPOSE FACILITY, GUIHULNGAN CITY, NEGROS ORIENTAL",
+    "category": "Flood Control and Drainage",
+    "status": "Completed",
+    "budget": 9900000,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Negros Island Region",
+      "province": "Negros Oriental 1st DEO",
+      "infraType": "Flood Control and Drainage",
+      "coordinates": {
+        "latitude": 10.1010214,
+        "longitude": 123.25245,
+        "verified": false
+      }
+    },
+    "infraType": "Flood Control and Drainage",
+    "contractor": "ALOJA BUILDERS AND REALTY (39144)",
+    "startDate": "2022-03-30",
+    "completionDate": "2023-07-02",
+    "infraYear": "2022",
+    "contractEffectivityDate": "2022-03-30",
+    "expiryDate": "2022-12-25",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2022 CSSP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00633322VS-CW1",
+        "description": "Rehabilitation / Major Repair of Flood Mitigation Facility - Rehabilitation of Multi-Purpose Facility, Guihulngan City, Negros Oriental",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Rehabilitation / Major Repair of Flood Mitigation Facility",
+        "region": "Negros Island Region",
+        "province": "NEGROS ORIENTAL",
+        "coordinates": {
+          "latitude": 10.1010214,
+          "longitude": 123.25245,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "ALOJA BUILDERS AND REALTY",
+    "bidders": [
+      {
+        "name": "ALOJA BUILDERS AND REALTY (39144)",
+        "pcabId": "39144",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "GRAM CONSTRUCTION AND SUPPLY (35029)",
+        "pcabId": "35029",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "J.A. CONST. AND TRADING CORP. (FOR: J.A. CONSTRUCTION) (35189)",
+        "pcabId": "35189",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "MAI CONSTRUCTION & SUPPLY (30839)",
+        "pcabId": "30839",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "REHABILITATION OF MULTI-PURPOSE FACILITY, GUIHULNGAN CITY, NEGROS ORIENTAL",
+      "abc": "9900000.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2022-02-17 00:00:00.0000000",
+      "bidSubmissionDeadline": "2022-03-08 00:00:00.0000000",
+      "dateOfAward": "2022-03-22 00:00:00.0000000",
+      "awardAmount": "9840000"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/22HJ0081-1.rar",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/22HJ0081 CONTRACT.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/22HJ0081 NOA.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/22HJ0081 CONTRACT.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 10.1010214,
+    "longitude": 123.25245,
+    "coordinates": [
+      {
+        "componentId": "P00633322VS-CW1",
+        "description": "Rehabilitation / Major Repair of Flood Mitigation Facility - Rehabilitation of Multi-Purpose Facility, Guihulngan City, Negros Oriental",
+        "latitude": 10.1010214,
+        "longitude": 123.25245,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 6,
+      "latestImageDate": "2023-08-31 14:39:47.888999",
+      "hasImages": true
+    }
+  }
+}

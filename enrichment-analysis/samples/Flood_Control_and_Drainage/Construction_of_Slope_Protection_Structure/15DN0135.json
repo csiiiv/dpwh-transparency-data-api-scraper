@@ -1,0 +1,97 @@
+{
+  "data": {
+    "contractId": "15DN0135",
+    "description": "FLOOD MANAGEMENT SERVICES-CONSTRUCTION/ MAINTENANCE OF FLOOD MITIGATION STRUCTURES AND DRAINAGE SYSTEM CONSTRUCTION OF SPILLWAY, SITIO SAN JOSEPH, BRGY. SAN JOSE, ANTIPOLO CITY, 2ND LD",
+    "category": "Flood Control and Drainage",
+    "status": "Completed",
+    "budget": 9180052.46,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region IV-A",
+      "province": "Rizal 1st DEO",
+      "infraType": "Flood Control and Drainage",
+      "coordinates": null
+    },
+    "infraType": "Flood Control and Drainage",
+    "contractor": "FRAMECON BUILDERS (22482)",
+    "startDate": "2016-01-12",
+    "completionDate": "2016-05-10",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-01-12",
+    "expiryDate": "2016-05-10",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-2",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00020625LZ-CW1",
+        "description": "Construction of Slope Protection Structure - Construction of Spillway, Sitio San Joseph, Brgy. San Jose, Antipolo City, 2nd LD",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Construction of Slope Protection Structure",
+        "region": "Region IV-A",
+        "province": "RIZAL",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "FRAMECON BUILDERS",
+    "bidders": [
+      {
+        "name": "FRAMECON BUILDERS (22482)",
+        "pcabId": "22482",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "GENETIAN BUILDERS AND ENTERPRISES INCORPORATED (FORMERLY: GENETIAN BUILDERS) (18052)",
+        "pcabId": "18052",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "HONEYVILLECONST AND DEVELOPMENT CORPORATION (32160)",
+        "pcabId": "32160",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "PRECIOUS CONSTRUCTION (32995)",
+        "pcabId": "32995",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "FLOOD MANAGEMENT SERVICES-CONSTRUCTION/ MAINTENANCE OF FLOOD MITIGATION STRUCTURES AND DRAINAGE SYSTEM CONSTRUCTION OF SPILLWAY, SITIO SAN JOSEPH, BRGY. SAN JOSE, ANTIPOLO CITY, 2ND LD",
+      "abc": "9800000.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-11-19 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-12-08 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "9180052.4600000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/april/Contract-15DN0135.pdf",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/april/NOA-15DN0135.pdf",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/april/Contract-15DN0135.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "17OC0014",
+    "description": "REHABILITATION/UPGRADING AND DRAINAGE IMPROVEMENT OF CATON STREET AND ITS VICINITY, BARANGAY LA PAZ, DISTRICT I,MAKATI CITY, METRO MANILA",
+    "category": "Flood Control and Drainage",
+    "status": "Completed",
+    "budget": 9023442,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "National Capital Region",
+      "province": "Metro Manila 2nd DEO",
+      "infraType": "Flood Control and Drainage",
+      "coordinates": null
+    },
+    "infraType": "Flood Control and Drainage",
+    "contractor": "FRAMECON BUILDERS (22482)",
+    "startDate": "2017-02-08",
+    "completionDate": "2017-08-06",
+    "infraYear": "2017",
+    "contractEffectivityDate": "2017-02-08",
+    "expiryDate": "2017-08-06",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2017 LFP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00142500LZ-CW1",
+        "description": "Upgrading of Drainage Structure - Rehabilitation/Upgrading and Drainage Improvement of Caton Street and its Vicinity, Brgy. La paz, Makati City, Metro Manila",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Upgrading of Drainage Structure",
+        "region": "National Capital Region",
+        "province": "METROPOLITAN MANILA",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "FRAMECON BUILDERS",
+    "bidders": [
+      {
+        "name": "FRAMECON BUILDERS (22482)",
+        "pcabId": "22482",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "C & F CONSTRUCTION & DEVELOPMENT CORPORATION (3509)",
+        "pcabId": "3509",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "EMPAULE CONSTRUCTION AND TRADING, INC. (FORMERLY: E. M. PAULE CONSTRUCTION AND TRADING INC.) (19006)",
+        "pcabId": "19006",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "MPJR BUILDERS COMPANY (20446)",
+        "pcabId": "20446",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "VNKC CONSTRUCTION (12614)",
+        "pcabId": "12614",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "REHABILITATION/UPGRADING AND DRAINAGE IMPROVEMENT OF CATON STREET AND ITS VICINITY, BARANGAY LA PAZ, DISTRICT I, MAKATI CITY, METRO MANILA",
+      "abc": "9650000.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-12-29 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-01-17 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "9,120,233.40"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/17OC0014.rar",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/17oc0014_ca.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/17oc0014_noa_and_reso.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/17oc0014_ntp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

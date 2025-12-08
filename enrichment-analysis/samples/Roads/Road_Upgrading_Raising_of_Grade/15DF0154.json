@@ -1,0 +1,100 @@
+{
+  "data": {
+    "contractId": "15DF0154",
+    "description": "LOCAL INFRASTUCTURE PROGRAM - IMPROVEMENT OF ROAD, BARANGAY MANGGAHAN, KAWIT AND IMPROVEMENT OF ROAD",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 6016220.76,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region IV-A",
+      "province": "Cavite 1st DEO",
+      "infraType": "Roads",
+      "coordinates": null
+    },
+    "infraType": "Roads",
+    "contractor": "R.V. RIETA TRADING & GENERAL CONSTRUCTION (28671)",
+    "startDate": "2016-02-02",
+    "completionDate": "2016-04-16",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-02-02",
+    "expiryDate": "2016-04-16",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - Flood Control/Hydraulics/Drainage, Roads: Construction - PCCP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00046015LZ-CW1",
+        "description": "Road Upgrading Raising of Grade - Improvement of Road with Drainage, Barangay Silangan I, Rosario, Cavite 1st LD",
+        "infraType": "Roads",
+        "typeOfWork": "Road Upgrading Raising of Grade",
+        "region": "Region IV-A",
+        "province": "CAVITE",
+        "coordinates": null
+      },
+      {
+        "componentId": "P00046016LZ-CW1",
+        "description": "Road Upgrading Raising of Grade - Improvement of Road, Barangay Manggahan, Kawit, Cavite 1st LD",
+        "infraType": "Roads",
+        "typeOfWork": "Road Upgrading Raising of Grade",
+        "region": "Region IV-A",
+        "province": "CAVITE",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "R.V. RIETA TRADING & GENERAL CONSTRUCTION",
+    "bidders": [
+      {
+        "name": "R.V. RIETA TRADING & GENERAL CONSTRUCTION (28671)",
+        "pcabId": "28671",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "DAUGHTER OF MOSES CONSTRUCTION (38195)",
+        "pcabId": "38195",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "R.A. YOLANGCO CONSTRUCTION AND TRADING (FORMERLY: (15602)",
+        "pcabId": "15602",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "LOCAL INFRASTUCTURE PROGRAM - IMPROVEMENT OF ROAD, BARANGAY MANGGAHAN, KAWIT AND IMPROVEMENT OF ROAD",
+      "abc": "6435000.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-11-04 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-11-24 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "6016668.6400000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/ca_15df0154.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/noa_15df0154.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/ntp_15df0154.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "data": {
+    "contractId": "15AG0141",
+    "description": "CONCRETING OF BRGY. DEWEY ROAD (SEGMENT-2) AT BOLINAO, PANGASINAN",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 4603488,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region I",
+      "province": "Pangasinan 1st DEO",
+      "infraType": "Roads",
+      "coordinates": null
+    },
+    "infraType": "Roads",
+    "contractor": "JONIK TRADING & CONSTRUCTION (20612)",
+    "startDate": "2016-01-14",
+    "completionDate": "2016-04-11",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-01-14",
+    "expiryDate": "2016-04-12",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 Locally Funded Projects",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00045468LZ-CW1",
+        "description": "Road Upgrading Gravel to Paved - Concreting of Barangay Dewey Road, Barangay Dewey, Bolinao, Pangasinan",
+        "infraType": "Roads",
+        "typeOfWork": "Road Upgrading Gravel to Paved",
+        "region": "Region I",
+        "province": "PANGASINAN",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "JONIK TRADING & CONSTRUCTION",
+    "bidders": [
+      {
+        "name": "JONIK TRADING & CONSTRUCTION (20612)",
+        "pcabId": "20612",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "JASA GD 2000 CONSTRUCTION CORPORATION (FORMERLY:JASA BUILDER'S) (31330)",
+        "pcabId": "31330",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "R.A. MATIAS CONSTRUCTION AND DEVELOPERS INC. (FORMERLY : R.A. MATIAS CONSTRUCTION AND DEVELOPERS) (26346)",
+        "pcabId": "26346",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONCRETING OF BRGY. DEWEY ROAD (SEGMENT-2) AT BOLINAO, PANGASINAN",
+      "abc": "4848952.47",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-11-12 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-12-01 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "4603488.0000000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/april/15AG0141CONTRACT.pdf",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/may/15AG0141AWARD.pdf",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/april/15AG0141CONTRACT.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

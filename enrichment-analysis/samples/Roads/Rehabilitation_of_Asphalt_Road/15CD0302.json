@@ -1,0 +1,181 @@
+{
+  "data": {
+    "contractId": "15CD0302",
+    "description": "REHAB/RECONST/UPGRADING OF DAMAGED PAVED NATIONAL ROAD, STA.MARIA - NORZAGARAY ROAD K0032+ (-824) - K0032+401 ; K0039+938 - K0040+007 ; K0041+767 - K0042+669, STA. MARIA, BULACAN",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 30272948.64,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region III",
+      "province": "Bulacan 2nd DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 14.8178457163457,
+        "longitude": 120.959270826632,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "C & F CONSTRUCTION & DEVELOPMENT CORPORATION (3509)",
+    "startDate": "2016-03-29",
+    "completionDate": "2016-06-12",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-03-29",
+    "expiryDate": "2016-06-12",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00001602LZ-CW1",
+        "description": "Rehabilitation of Asphalt Road - Sta Maria-Norzagaray Rd - K0032+-824 - K0032+401, K0039+938-K0040+007, K0041+767-K0042+669",
+        "infraType": "Roads",
+        "typeOfWork": "Rehabilitation of Asphalt Road",
+        "region": "Region III",
+        "province": "BULACAN",
+        "coordinates": {
+          "latitude": 14.8178457163457,
+          "longitude": 120.959270826632,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "C & F CONSTRUCTION & DEVELOPMENT CORPORATION",
+    "bidders": [
+      {
+        "name": "C & F CONSTRUCTION & DEVELOPMENT CORPORATION (3509)",
+        "pcabId": "3509",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "ALGIMAR CONSTRUCTION CORPORATION (15232)",
+        "pcabId": "15232",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "ARKY CONSTRUCTION AND SUPPLY (32692)",
+        "pcabId": "32692",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "DCEBUILDERS CORPORATION (FORMERLY: DCESTRANERO CORPORATION) (29347)",
+        "pcabId": "29347",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "D. M. HOUSE CONSTRUCTION, INC. (25810)",
+        "pcabId": "25810",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "E.P.L. GENERAL CONSTRUCTION AND SUPPLY INC. (15559)",
+        "pcabId": "15559",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "FFJJ CONSTRUCTION (16712)",
+        "pcabId": "16712",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "HENSCHA PHILS. INC. (34164)",
+        "pcabId": "34164",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "HPL GENERAL CONSTRUCTION (22289)",
+        "pcabId": "22289",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "JAMARI CONSTRUCTION (FORMERLY FRAE CONSTRUCTION) (21580)",
+        "pcabId": "21580",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "L.M.G. CONSTRUCTION INCORPORATED (FORMERLY: LMG CONSTRUCTION) (5719)",
+        "pcabId": "5719",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "M.R. VARGAS CONSTRUCTION CORPORATION (FORMERLY: M.R. VARGAS CONSTRUCTION) (8215)",
+        "pcabId": "8215",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "PRECIOUS CONSTRUCTION (32995)",
+        "pcabId": "32995",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "ROMA CONSTRUCTION & DEVELOPMENT CORPORATION (6514)",
+        "pcabId": "6514",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "STO. CRISTO CONSTRUCTION & TRADING INC. (FOR: STO. CRISTO CONSTRUCTION & TRADING) (26096)",
+        "pcabId": "26096",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "REHAB/RECONST/UPGRADING OF DAMAGED PAVED NATIONAL ROAD, STA.MARIA - NORZAGARAY ROAD K0032+ (-824) - K0032+401 ; K0039+938 - K0040+007 ; K0041+767 - K0042+669, STA. MARIA, BULACAN",
+      "abc": "31866263.77",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-12-23 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-01-21 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "30272948.6400000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/september/CA 301,302,303.zip",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/noa_15cd0302.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/ntp_15cd0302.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 14.8178457163457,
+    "longitude": 120.959270826632,
+    "coordinates": [
+      {
+        "componentId": "P00001602LZ-CW1",
+        "description": "Rehabilitation of Asphalt Road - Sta Maria-Norzagaray Rd - K0032+-824 - K0032+401, K0039+938-K0040+007, K0041+767-K0042+669",
+        "latitude": 14.8178457163457,
+        "longitude": 120.959270826632,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

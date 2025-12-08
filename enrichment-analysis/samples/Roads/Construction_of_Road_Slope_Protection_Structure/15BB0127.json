@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "15BB0127",
+    "description": "ASSET PRESERVTN OF NAT'L RD W/ SLIPS,SLOPECOLAPSE ALONG BAYBAYOG-BAGGAO-DALIN-STA.MARGARITARD,BAGGAO",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 4709184.37,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region II",
+      "province": "Cagayan 1st DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 17.9058635268934,
+        "longitude": 121.769347541465,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "MEGAY CONSTRUCTION INC. (FORMERLY: MEGAY CONSTRUCTION) (34354)",
+    "startDate": "2016-01-21",
+    "completionDate": "2016-06-18",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-01-21",
+    "expiryDate": "2016-03-19",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00005771LZ-CW1",
+        "description": "Construction of Road Slope Protection Structure - Baybayog-Baggao-Dalin-Sta. Margarita Rd - K0527+800 - K0527+970",
+        "infraType": "Roads",
+        "typeOfWork": "Construction of Road Slope Protection Structure",
+        "region": "Region II",
+        "province": "CAGAYAN",
+        "coordinates": {
+          "latitude": 17.9058635268934,
+          "longitude": 121.769347541465,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "MEGAY CONSTRUCTION INC. (FORMERLY: MEGAY CONSTRUCTION)",
+    "bidders": [
+      {
+        "name": "MEGAY CONSTRUCTION INC. (FORMERLY: MEGAY CONSTRUCTION) (34354)",
+        "pcabId": "34354",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "D.J.D. CONSTRUCTION INC. (FORMERLY: D. J. D. CONSTRUCTION) (32217)",
+        "pcabId": "32217",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "ASSET PRESERVTN OF NAT'L RD W/ SLIPS,SLOPECOLAPSE ALONG BAYBAYOG-BAGGAO-DALIN-STA.MARGARITARD,BAGGAO",
+      "abc": "4880000.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-11-16 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-12-08 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "4709184.3700000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/march/15BB0127-002.pdf",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/march/15BB0127-003.pdf",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/march/15BB0127-002.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 17.9058635268934,
+    "longitude": 121.769347541465,
+    "coordinates": [
+      {
+        "componentId": "P00005771LZ-CW1",
+        "description": "Construction of Road Slope Protection Structure - Baybayog-Baggao-Dalin-Sta. Margarita Rd - K0527+800 - K0527+970",
+        "latitude": 17.9058635268934,
+        "longitude": 121.769347541465,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

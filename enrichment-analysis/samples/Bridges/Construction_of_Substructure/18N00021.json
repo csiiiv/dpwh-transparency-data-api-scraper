@@ -1,0 +1,139 @@
+{
+  "data": {
+    "contractId": "18N00021",
+    "description": "CONSTRUCTION OF NEW PERMANENT BRIDGES, SIMULAO BR. (PARALLEL BR.) ALONG DAANG MAHARLIKA (AGUSAN - DAVAO SECTION),INLC. ROW, AGUSAN DEL SUR",
+    "category": "Bridges",
+    "status": "Completed",
+    "budget": 138429737.29,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region XIII",
+      "province": "Region XIII",
+      "infraType": "Bridges",
+      "coordinates": {
+        "latitude": 8.1384162,
+        "longitude": 126.0212765,
+        "verified": false
+      }
+    },
+    "infraType": "Bridges",
+    "contractor": "ADFIL CORPORATION (14437)",
+    "startDate": "2018-03-26",
+    "completionDate": "2020-08-11",
+    "infraYear": "2018",
+    "contractEffectivityDate": "2018-03-26",
+    "expiryDate": "2020-08-18",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2018 OO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00201519MN-CW1",
+        "description": "Construction of Substructure - Simulao Br. (Parallel Br.) along Daang Maharlika (Agusan-Davao Sect) incl. ROW",
+        "infraType": "Bridges",
+        "typeOfWork": "Construction of Substructure",
+        "region": "Region XIII",
+        "province": "SURIGAO DEL SUR",
+        "coordinates": {
+          "latitude": 8.1384162,
+          "longitude": 126.0212765,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "ADFIL CORPORATION",
+    "bidders": [
+      {
+        "name": "ADFIL CORPORATION (14437)",
+        "pcabId": "14437",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "B. VICENCIO BUILDERS (BVB), INC. (FORMERLY:B. VICENCIO CONSTRUCTION) (9687)",
+        "pcabId": "9687",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "CONCEPCION BASIC BUILDERS INC. (5255)",
+        "pcabId": "5255",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "EQUI-PARCO CONSTRUCTION COMPANY (14332)",
+        "pcabId": "14332",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "MAC BUILDERS CORP. (FORMERLY: MAC BUILDERS DEVELOPMENT CORPORATION) (7249)",
+        "pcabId": "7249",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "MONOLITHIC CONSTRUCTION & CONCRETE PRODUCTS, INC. (5733)",
+        "pcabId": "5733",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "PREMIUM MEGASTRUCTURES INC. (36079)",
+        "pcabId": "36079",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "UNIMASTERS CONGLOMERATION, INCORPORATED (3390)",
+        "pcabId": "3390",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION OF NEW PERMANENT BRIDGES, SIMULAO BR. (PARALLEL BR.) ALONG DAANG MAHARLIKA (AGUSAN - DAVAO SECTION),INLC. ROW, AGUSAN DEL SUR",
+      "abc": "138430250.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2017-11-11 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-12-18 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "126012113.7"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/18N00021 ITB AND BID DOCS.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/CONTRACT 18N00021.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/noa_18n00021.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/ntp_18n00021.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 8.1384162,
+    "longitude": 126.0212765,
+    "coordinates": [
+      {
+        "componentId": "P00201519MN-CW1",
+        "description": "Construction of Substructure - Simulao Br. (Parallel Br.) along Daang Maharlika (Agusan-Davao Sect) incl. ROW",
+        "latitude": 8.1384162,
+        "longitude": 126.0212765,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "data": {
+    "contractId": "17CN0114",
+    "description": "REPAIR OF ACCESS ROAD LEADING TO SABANG-BALER ROAD TO SABANG GARDEN MALLS AND GARDEN PLAZAS, BRGY. SABANG, BALER, AURORA",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 1403690.29,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region III",
+      "province": "Aurora DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 15.76222,
+        "longitude": 121.565833,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "R.N.G.M. CONSTRUCTION CORPORATION (FORMERLY: R.N.G.M.  CONSTRUCTION) (20281)",
+    "startDate": "2017-06-13",
+    "completionDate": "2017-08-29",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2017-06-13",
+    "expiryDate": "2017-08-29",
+    "nysReason": null,
+    "programName": "Outside Infra",
+    "sourceOfFunds": "Outside Infra - GAA 2016 NDRRMF",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00095348LZ-CW1",
+        "description": "Rehabilitation of Paved Road - Repair of access road leading to Sabang-Baler Road to Sabang Garden Malls and Garden Plazas, Barangay Sabang, Baler",
+        "infraType": "Roads",
+        "typeOfWork": "Rehabilitation of Paved Road",
+        "region": "Region III",
+        "province": "AURORA",
+        "coordinates": {
+          "latitude": 15.76222,
+          "longitude": 121.565833,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "R.N.G.M. CONSTRUCTION CORPORATION (FORMERLY: R.N.G.M.  CONSTRUCTION)",
+    "bidders": [
+      {
+        "name": "R.N.G.M. CONSTRUCTION CORPORATION (FORMERLY: R.N.G.M.  CONSTRUCTION) (20281)",
+        "pcabId": "20281",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "MORNING STEEL CONSTRUCTION (30698)",
+        "pcabId": "30698",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "RADIANCE TRADERS & BUILDERS (32891)",
+        "pcabId": "32891",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "REPAIR OF ACCESS ROAD LEADING TO SABANG-BALER ROAD TO SABANG GARDEN MALLS AND GARDEN PLAZAS, BRGY. SABANG, BALER, AURORA",
+      "abc": "1447773.11",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2017-04-27 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-05-17 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "1,403,690.29"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/ITB 17CN0113-116; 17CN0022.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/17cn0114-ca.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/noa_17cn0114.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/17cn0114-ntp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 15.76222,
+    "longitude": 121.565833,
+    "coordinates": [
+      {
+        "componentId": "P00095348LZ-CW1",
+        "description": "Rehabilitation of Paved Road - Repair of access road leading to Sabang-Baler Road to Sabang Garden Malls and Garden Plazas, Barangay Sabang, Baler",
+        "latitude": 15.76222,
+        "longitude": 121.565833,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

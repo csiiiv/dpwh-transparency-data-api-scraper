@@ -1,0 +1,97 @@
+{
+  "data": {
+    "contractId": "21OB0287",
+    "description": "BIKE LANES MARIKINA CITY",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 47019521,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "National Capital Region",
+      "province": "Metro Manila 1st DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 14.64859,
+        "longitude": 121.1168597,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "PHILIPPINE CHEMSTEEL INDUSTRIES, INC. (16965)",
+    "startDate": "2021-11-15",
+    "completionDate": "2021-12-14",
+    "infraYear": "2021",
+    "contractEffectivityDate": "2021-11-15",
+    "expiryDate": "2021-12-14",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2021 CSSP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00534595LZ-CW1",
+        "description": "Off-Carriageway Improvement: Construction of Bike lanes - Bike Lanes Marikina City",
+        "infraType": "Roads",
+        "typeOfWork": "Off-Carriageway Improvement: Construction of Bike lanes",
+        "region": "National Capital Region",
+        "province": "METROPOLITAN MANILA",
+        "coordinates": {
+          "latitude": 14.64859,
+          "longitude": 121.1168597,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "PHILIPPINE CHEMSTEEL INDUSTRIES, INC.",
+    "bidders": [
+      {
+        "name": "PHILIPPINE CHEMSTEEL INDUSTRIES, INC. (16965)",
+        "pcabId": "16965",
+        "participation": 100,
+        "isWinner": true
+      }
+    ],
+    "procurement": {
+      "contractName": "BIKE LANES MARIKINA CITY",
+      "abc": "49499334.85",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2021-02-26 00:00:00.0000000",
+      "bidSubmissionDeadline": "2021-04-20 00:00:00.0000000",
+      "dateOfAward": "2021-04-28 00:00:00.0000000",
+      "awardAmount": "47019521"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/Invitation to Bid for Bidding on March 18, 2021.pdf",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/21-287-CA.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/-NOA287.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/21-287-CA.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 14.64859,
+    "longitude": 121.1168597,
+    "coordinates": [
+      {
+        "componentId": "P00534595LZ-CW1",
+        "description": "Off-Carriageway Improvement: Construction of Bike lanes - Bike Lanes Marikina City",
+        "latitude": 14.64859,
+        "longitude": 121.1168597,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 10,
+      "latestImageDate": "2023-08-25 12:31:05.768000",
+      "hasImages": true
+    }
+  }
+}

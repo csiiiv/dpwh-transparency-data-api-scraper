@@ -1,0 +1,109 @@
+{
+  "data": {
+    "contractId": "16CH0086",
+    "description": "EXPANSION/REPAIR/RENOVATION OF RHU, SASMUAN (SEXMOAN) RHU, BRGY. SAN NICOLAS 2ND, SASMUAN (SEXMOAN),",
+    "category": "Buildings and Facilities",
+    "status": "Completed",
+    "budget": 1388022.5,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region III",
+      "province": "Pampanga 2nd DEO",
+      "infraType": "Buildings and Facilities",
+      "coordinates": {
+        "latitude": 14.9427824195951,
+        "longitude": 120.621745726585,
+        "verified": false
+      }
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "R.G. DIAZ  BUILDERS & TRADING (23814)",
+    "startDate": "2017-01-16",
+    "completionDate": "2017-04-15",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2017-01-16",
+    "expiryDate": "2017-04-15",
+    "nysReason": null,
+    "programName": "Outside Infra",
+    "sourceOfFunds": "Outside Infra - GAA 2016 DOH HFEP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00061265LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Hospital - Expansion/repair/renovation of RHU, Sasmuan (Sexmoan) RHU, Sasmuan (Sexmoan), Pampanga",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Rehabilitation / Major Repair of Hospital",
+        "region": "Region III",
+        "province": "PAMPANGA",
+        "coordinates": {
+          "latitude": 14.9427824195951,
+          "longitude": 120.621745726585,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "R.G. DIAZ  BUILDERS & TRADING",
+    "bidders": [
+      {
+        "name": "R.G. DIAZ  BUILDERS & TRADING (23814)",
+        "pcabId": "23814",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "MICKAJETTE CONSTRUCTION AND TRADING (35239)",
+        "pcabId": "35239",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "RBDIWA BUILDERS AND CONSTRUCTION SUPPLY (36022)",
+        "pcabId": "36022",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "EXPANSION/REPAIR/RENOVATION OF RHU, SASMUAN (SEXMOAN) RHU, BRGY. SAN NICOLAS 2ND, SASMUAN (SEXMOAN),",
+      "abc": "1492539.31",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-11-25 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-12-16 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "1,388,022.50"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "",
+      "noticeOfAward": "",
+      "noticeToProceed": "",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 14.9427824195951,
+    "longitude": 120.621745726585,
+    "coordinates": [
+      {
+        "componentId": "P00061265LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Hospital - Expansion/repair/renovation of RHU, Sasmuan (Sexmoan) RHU, Sasmuan (Sexmoan), Pampanga",
+        "latitude": 14.9427824195951,
+        "longitude": 120.621745726585,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

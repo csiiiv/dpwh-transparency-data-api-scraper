@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "15B00112",
+    "description": "CONST'N & MAINTENANCE OF BRIDGE ALONG NAT'L RDS.;REHAB/MAJOR REPAIR OF PERMANENT BRIDGE:LIWAN BRIDGE",
+    "category": "Bridges",
+    "status": "Completed",
+    "budget": 4780999,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region II",
+      "province": "Region II",
+      "infraType": "Bridges",
+      "coordinates": {
+        "latitude": 17.510001444718,
+        "longitude": 121.642398403988,
+        "verified": false
+      }
+    },
+    "infraType": "Bridges",
+    "contractor": "ORANI CONSTRUCTION AND SUPPLY CORPORATION (FORMERLY:ORANI BUILDERS & SUPPLY) (05349)",
+    "startDate": "2016-03-01",
+    "completionDate": "2016-05-20",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-03-01",
+    "expiryDate": "2016-05-20",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00001857LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Bridge - Liwan Br. (B01118LZ) along Kalinga-Cagayan Rd (Calanan-Enrile Section)",
+        "infraType": "Bridges",
+        "typeOfWork": "Rehabilitation / Major Repair of Bridge",
+        "region": "Region II",
+        "province": "CAGAYAN",
+        "coordinates": {
+          "latitude": 17.510001444718,
+          "longitude": 121.642398403988,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "ORANI CONSTRUCTION AND SUPPLY CORPORATION (FORMERLY:ORANI BUILDERS & SUPPLY)",
+    "bidders": [
+      {
+        "name": "ORANI CONSTRUCTION AND SUPPLY CORPORATION (FORMERLY:ORANI BUILDERS & SUPPLY) (05349)",
+        "pcabId": "05349",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "ORANI CONSTRUCTION AND SUPPLY CORPORATION (FORMERLY:ORANI BUILDERS & SUPPLY) (5349)",
+        "pcabId": "5349",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONST'N & MAINTENANCE OF BRIDGE ALONG NAT'L RDS.;REHAB/MAJOR REPAIR OF PERMANENT BRIDGE:LIWAN BRIDGE",
+      "abc": "4875000.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-12-21 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-01-11 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "4733008.2500000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/may/15b00112-Cont.agreemnt.pdf",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/may/15b00112-Noa.pdf",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/may/15b00112-Cont.agreemnt.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 17.510001444718,
+    "longitude": 121.642398403988,
+    "coordinates": [
+      {
+        "componentId": "P00001857LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Bridge - Liwan Br. (B01118LZ) along Kalinga-Cagayan Rd (Calanan-Enrile Section)",
+        "latitude": 17.510001444718,
+        "longitude": 121.642398403988,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

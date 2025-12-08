@@ -1,0 +1,163 @@
+{
+  "data": {
+    "contractId": "15CD0242",
+    "description": "REHABILITATION OF OBANDO RIVER WALL, OBANDO, BULACAN",
+    "category": "Flood Control and Drainage",
+    "status": "Completed",
+    "budget": 46507233.46,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region III",
+      "province": "Bulacan 2nd DEO",
+      "infraType": "Flood Control and Drainage",
+      "coordinates": {
+        "latitude": 14.7113,
+        "longitude": 120.933726,
+        "verified": false
+      }
+    },
+    "infraType": "Flood Control and Drainage",
+    "contractor": "L.R. TIQUI BUILDERS, INC. (13810)",
+    "startDate": "2016-02-15",
+    "completionDate": "2016-08-02",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-02-15",
+    "expiryDate": "2016-08-02",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-2",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00020426LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Flood Control Structure - Rehabilitation of Obando River Wall, Obando, Bulacan",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Rehabilitation / Major Repair of Flood Control Structure",
+        "region": "Region III",
+        "province": "BULACAN",
+        "coordinates": {
+          "latitude": 14.7113,
+          "longitude": 120.933726,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "L.R. TIQUI BUILDERS, INC.",
+    "bidders": [
+      {
+        "name": "L.R. TIQUI BUILDERS, INC. (13810)",
+        "pcabId": "13810",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "A.C. SOLIVEN CONSTRUCTION & GENERAL MERCHANDISE (19278)",
+        "pcabId": "19278",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "ANTONIO V. NIDEA CONST., INC.(FORMERLY ANTONIO V. (6382)",
+        "pcabId": "6382",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "BICOL GOLDROCK CONSTRUCTION CORPORATION (32376)",
+        "pcabId": "32376",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "FFJJ CONSTRUCTION (16712)",
+        "pcabId": "16712",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "GVDPM CONSTRUCTION CORP. (FORMERLY: ZM CONSTRUCTIO (9052)",
+        "pcabId": "9052",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "HG-III CONSTRUCTION AND DEVELOPMENT CORPORATION (F (8431)",
+        "pcabId": "8431",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "HPL GENERAL CONSTRUCTION (22289)",
+        "pcabId": "22289",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "ITP CONSTRUCTION, INC. (9392)",
+        "pcabId": "9392",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "NFH CONSTRUCTION & SUPPLY (16055)",
+        "pcabId": "16055",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "R.A. PAHATI CONST. & SUPPLY, INC. (35843)",
+        "pcabId": "35843",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "SUPREME ABF CONST. & CONST. SUPPLY COMPANY INC. (25226)",
+        "pcabId": "25226",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "REHABILITATION OF OBANDO RIVER WALL, OBANDO, BULACAN",
+      "abc": "48997902.80",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-11-19 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-12-08 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "46508009.3400000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/september/CA 242,243,245.zip",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/noa_15cd0242.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/15cd0242.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 14.7113,
+    "longitude": 120.933726,
+    "coordinates": [
+      {
+        "componentId": "P00020426LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Flood Control Structure - Rehabilitation of Obando River Wall, Obando, Bulacan",
+        "latitude": 14.7113,
+        "longitude": 120.933726,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

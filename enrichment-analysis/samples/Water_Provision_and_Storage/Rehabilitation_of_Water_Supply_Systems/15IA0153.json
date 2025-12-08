@@ -1,0 +1,79 @@
+{
+  "data": {
+    "contractId": "15IA0153",
+    "description": "REPAIR AND REHAB. OF WATER SYSTEM, BRGY. CAPIÑAHAN, NAVAL, BILIRAN PROVINCE",
+    "category": "Water Provision and Storage",
+    "status": "Completed",
+    "budget": 1830000,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region VIII",
+      "province": "Biliran DEO",
+      "infraType": "Water Provision and Storage",
+      "coordinates": null
+    },
+    "infraType": "Water Provision and Storage",
+    "contractor": "BNL CONSTRUCTION (15725)",
+    "startDate": "2016-02-05",
+    "completionDate": "2016-03-04",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-02-05",
+    "expiryDate": "2016-03-05",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 Locally Funded Projects",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00047399VS-CW1",
+        "description": "Rehabilitation of Water Supply Systems - Repair/Rehabilitation of Water Sytem, Barangay Capi±ahan, Naval, Biliran Lone District",
+        "infraType": "Water Provision and Storage",
+        "typeOfWork": "Rehabilitation of Water Supply Systems",
+        "region": "Region VIII",
+        "province": "BILIRAN",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "BNL CONSTRUCTION",
+    "bidders": [
+      {
+        "name": "BNL CONSTRUCTION (15725)",
+        "pcabId": "15725",
+        "participation": 100,
+        "isWinner": true
+      }
+    ],
+    "procurement": {
+      "contractName": "REPAIR AND REHAB. OF WATER SYSTEM, BRGY. CAPIÑAHAN, NAVAL, BILIRAN PROVINCE",
+      "abc": "1871963.54",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-12-10 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-12-29 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "1830000.0000000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/15ia0153_notice_of_award.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/15ia0153_notice_to_proceed.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "data": {
+    "contractId": "16AG0108",
+    "description": "CONSTRUCTION/REHAB. OF BOLINAO COMMUNITY HOSPITAL AT BOLINAO, PANGASINAN",
+    "category": "Buildings and Facilities",
+    "status": "Completed",
+    "budget": 3290750,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region I",
+      "province": "Pangasinan 1st DEO",
+      "infraType": "Buildings and Facilities",
+      "coordinates": null
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "POL CONSTRUCTION INC. (FORMERLY: CASIPIT TRADING & CONSTRUCTION) (11624)",
+    "startDate": "2017-06-09",
+    "completionDate": "2017-12-14",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2017-06-09",
+    "expiryDate": "2017-12-15",
+    "nysReason": null,
+    "programName": "Outside Infra",
+    "sourceOfFunds": "Outside Infra - GAA 2016 DOH HFEP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00061123LZ-CW1",
+        "description": "Construction of Hospital - Construction/Rehabilitation of Bolinao Community Hospital, Bolinao, Pangasinan",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of Hospital",
+        "region": "Region I",
+        "province": "PANGASINAN",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "POL CONSTRUCTION INC. (FORMERLY: CASIPIT TRADING & CONSTRUCTION)",
+    "bidders": [
+      {
+        "name": "POL CONSTRUCTION INC. (FORMERLY: CASIPIT TRADING & CONSTRUCTION) (11624)",
+        "pcabId": "11624",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "ALCEL CONSTRUCTION (15129)",
+        "pcabId": "15129",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "JONIK TRADING & CONSTRUCTION (20612)",
+        "pcabId": "20612",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION/REHAB. OF BOLINAO COMMUNITY HOSPITAL AT BOLINAO, PANGASINAN",
+      "abc": "3465000.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2017-04-28 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-05-19 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "3,290,750.00"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/16AG0108-ITB,TF,PBD,PLANO.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/16AG0108CONTRACT.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/16AG0108AWARD.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/16AG0108CONTRACT.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

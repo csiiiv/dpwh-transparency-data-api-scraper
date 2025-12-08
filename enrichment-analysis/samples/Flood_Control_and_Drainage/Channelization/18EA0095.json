@@ -1,0 +1,125 @@
+{
+  "data": {
+    "contractId": "18EA0095",
+    "description": "CHANNELIZATION (CHANEL IMPROVEMENT) OF LAPU-LAPU FISHING PORT TO ESTUARY SECTION), STA. CRUZ, MARIND",
+    "category": "Flood Control Structures, Waterway",
+    "status": "Completed",
+    "budget": 93267764.23,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region IV-B",
+      "province": "Marinduque DEO",
+      "infraType": "Flood Control and Drainage",
+      "coordinates": {
+        "latitude": 13.487185,
+        "longitude": 122.0367027,
+        "verified": false
+      }
+    },
+    "infraType": "Flood Control and Drainage",
+    "contractor": "SUNWEST, INC. (FORMERLY: SUNWEST CONSTRUCTION & DEVELOPMENT CORPORATION) (15906)",
+    "startDate": "2018-05-31",
+    "completionDate": "2019-05-25",
+    "infraYear": "2018",
+    "contractEffectivityDate": "2018-05-31",
+    "expiryDate": "2019-05-25",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2018 OO-2",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00223235LZ-CW1",
+        "description": "Construction of Flood Mitigation Structure - Channelization (Channel Improvement) of Lapu-Lapu River (Lapu-Lapu Fishing Port to Estuary Section), Sta. Cruz, Marinduque",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Construction of Flood Mitigation Structure",
+        "region": "Region IV-B",
+        "province": "MARINDUQUE",
+        "coordinates": {
+          "latitude": 13.487185,
+          "longitude": 122.0367027,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00223235LZ-CW2",
+        "description": "Channelization - Channelization (Channel Improvement) of Lapu-Lapu River (Lapu-Lapu Fishing Port to Estuary Section), Sta. Cruz, Marinduque",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Channelization",
+        "region": "Region IV-B",
+        "province": "MARINDUQUE",
+        "coordinates": {
+          "latitude": 13.4864885,
+          "longitude": 122.0345133,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "SUNWEST, INC. (FORMERLY: SUNWEST CONSTRUCTION & DEVELOPMENT CORPORATION)",
+    "bidders": [
+      {
+        "name": "SUNWEST, INC. (FORMERLY: SUNWEST CONSTRUCTION & DEVELOPMENT CORPORATION) (15906)",
+        "pcabId": "15906",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "ED1SON DEVELOPMENT & CONSTRUCTION INC. (2400)",
+        "pcabId": "2400",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CHANNELIZATION (CHANEL IMPROVEMENT) OF LAPU-LAPU FISHING PORT TO ESTUARY SECTION), STA. CRUZ, MARIND",
+      "abc": "96499952.27",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2018-03-28 00:00:00.0000000",
+      "bidSubmissionDeadline": "2018-04-17 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "93264368.53"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/18EA0095 - Plans.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/18EA0095 - Contract.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/18ea0095_-_noa.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/18EA0095 - Contract.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 13.487185,
+    "longitude": 122.0367027,
+    "coordinates": [
+      {
+        "componentId": "P00223235LZ-CW1",
+        "description": "Construction of Flood Mitigation Structure - Channelization (Channel Improvement) of Lapu-Lapu River (Lapu-Lapu Fishing Port to Estuary Section), Sta. Cruz, Marinduque",
+        "latitude": 13.487185,
+        "longitude": 122.0367027,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00223235LZ-CW2",
+        "description": "Channelization - Channelization (Channel Improvement) of Lapu-Lapu River (Lapu-Lapu Fishing Port to Estuary Section), Sta. Cruz, Marinduque",
+        "latitude": 13.4864885,
+        "longitude": 122.0345133,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

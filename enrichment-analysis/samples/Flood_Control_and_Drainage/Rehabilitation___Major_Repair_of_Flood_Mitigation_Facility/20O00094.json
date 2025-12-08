@@ -1,0 +1,109 @@
+{
+  "data": {
+    "contractId": "20O00094",
+    "description": "UPGRADING/REHABILITATION OF NORTH NAVOTAS PUMPING STATION AND REPAIR OF NAVOTAS NAVIGATIONAL GATE (PHASE I)",
+    "category": "Flood Control and Drainage",
+    "status": "Completed",
+    "budget": 382428672.32,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Central Office",
+      "province": "Flood Control Management Cluster",
+      "infraType": "Flood Control and Drainage",
+      "coordinates": {
+        "latitude": 14.676225,
+        "longitude": 120.931267,
+        "verified": false
+      }
+    },
+    "infraType": "Flood Control and Drainage",
+    "contractor": "E. F. CHUA CONSTRUCTION, INC. (37826) / PETER G. CHUA BUILDERS (25367)",
+    "startDate": "2021-05-11",
+    "completionDate": "2022-11-01",
+    "infraYear": "2021",
+    "contractEffectivityDate": "2021-05-11",
+    "expiryDate": "2022-11-01",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2021 OO-2",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00421315LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Flood Mitigation Facility - Upgrading/Rehabilitation of North Navotas Pumping Station and Repair of Navigation Gate, Navotas City",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Rehabilitation / Major Repair of Flood Mitigation Facility",
+        "region": "National Capital Region",
+        "province": "METROPOLITAN MANILA",
+        "coordinates": {
+          "latitude": 14.676225,
+          "longitude": 120.931267,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "E. F. CHUA CONSTRUCTION, INC., PETER G. CHUA BUILDERS",
+    "bidders": [
+      {
+        "name": "E. F. CHUA CONSTRUCTION, INC. (37826) / PETER G. CHUA BUILDERS (25367) (JV ID: JV-20-0001)",
+        "pcabId": "",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "J.D. LEGASPI CONSTRUCTION (9608) / S.A. PLEYTO CONSTRUCTION CORPORATION (33269) (JV ID: JV-20-4017)",
+        "pcabId": "",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "TOKWING CONSTRUCTION, CORP.(FOR;  TOKWING CONSTRUC (9650)",
+        "pcabId": "9650",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "UPGRADING/REHABILITATION OF NORTH NAVOTAS PUMPING STATION AND REPAIR OF NAVOTAS NAVIGATIONAL GATE (PHASE I)",
+      "abc": "382534056.47",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2020-11-17 00:00:00.0000000",
+      "bidSubmissionDeadline": "2020-12-07 00:00:00.0000000",
+      "dateOfAward": "2020-12-22 00:00:00.0000000",
+      "awardAmount": "370749958"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/9499102104 ITBB.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/20O00094 Contract Agreement North Navotas.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/NOA 20O00094.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/20O00094 Contract Agreement North Navotas.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 14.676225,
+    "longitude": 120.931267,
+    "coordinates": [
+      {
+        "componentId": "P00421315LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Flood Mitigation Facility - Upgrading/Rehabilitation of North Navotas Pumping Station and Repair of Navigation Gate, Navotas City",
+        "latitude": 14.676225,
+        "longitude": 120.931267,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

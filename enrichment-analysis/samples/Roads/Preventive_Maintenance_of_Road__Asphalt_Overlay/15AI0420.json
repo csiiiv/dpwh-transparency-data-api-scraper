@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "15AI0420",
+    "description": "PREVENTIVE MAINT BASED ON PAVEMENT MGMT SYSTEM/HIGHWAY DEVT & MGMT-4 (HDM-4) (INTERMITTENT SECTIONS)",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 30323502.91,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region I",
+      "province": "Pangasinan 3rd DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 16.0466085369065,
+        "longitude": 120.59781398143,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "ORIENTAL SALES CENTER AND CONTRACTOR (33630)",
+    "startDate": "2016-02-29",
+    "completionDate": "2016-08-26",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-02-29",
+    "expiryDate": "2016-08-26",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00000600LZ-CW1",
+        "description": "Preventive Maintenance of Road: Asphalt Overlay - Binalonan-Asingan-Santa Maria Rd - K0190+919 - K0193+011",
+        "infraType": "Roads",
+        "typeOfWork": "Preventive Maintenance of Road: Asphalt Overlay",
+        "region": "Region I",
+        "province": "PANGASINAN",
+        "coordinates": {
+          "latitude": 16.0466085369065,
+          "longitude": 120.59781398143,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "ORIENTAL SALES CENTER AND CONTRACTOR",
+    "bidders": [
+      {
+        "name": "ORIENTAL SALES CENTER AND CONTRACTOR (33630)",
+        "pcabId": "33630",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "AQUINO-DELA CRUZ ENGINEERING & CONSTRUCTION (16751)",
+        "pcabId": "16751",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "PREVENTIVE MAINT BASED ON PAVEMENT MGMT SYSTEM/HIGHWAY DEVT & MGMT-4 (HDM-4) (INTERMITTENT SECTIONS)",
+      "abc": "31919580.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-12-10 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-12-29 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "30323502.9100000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/may/15AI0420 Contract.pdf",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/may/15AI0420 award.pdf",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/may/15AI0420 Contract.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 16.0466085369065,
+    "longitude": 120.59781398143,
+    "coordinates": [
+      {
+        "componentId": "P00000600LZ-CW1",
+        "description": "Preventive Maintenance of Road: Asphalt Overlay - Binalonan-Asingan-Santa Maria Rd - K0190+919 - K0193+011",
+        "latitude": 16.0466085369065,
+        "longitude": 120.59781398143,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

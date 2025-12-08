@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "18AI0050",
+    "description": "CONSTN OF COVERED COURT AT BRGY. ANONAS, URDANETA CITY, PANGASINAN",
+    "category": "Buildings and Facilities",
+    "status": "Completed",
+    "budget": 6229799.65,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region I",
+      "province": "Pangasinan 3rd DEO",
+      "infraType": "Buildings and Facilities",
+      "coordinates": {
+        "latitude": 15.9973717,
+        "longitude": 120.57653,
+        "verified": false
+      }
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "BET CONSTRUCTION & SUPPLY (31764)",
+    "startDate": "2018-07-03",
+    "completionDate": "2018-11-29",
+    "infraYear": "2018",
+    "contractEffectivityDate": "2018-07-03",
+    "expiryDate": "2018-11-29",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2018 LP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00250429LZ-CW1",
+        "description": "Construction of Other Facilities - Construction of Covered Court, Brgy. Anonas, Urdaneta City, Pangasinan",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of Other Facilities",
+        "region": "Region I",
+        "province": "PANGASINAN",
+        "coordinates": {
+          "latitude": 15.9973717,
+          "longitude": 120.57653,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "BET CONSTRUCTION & SUPPLY",
+    "bidders": [
+      {
+        "name": "BET CONSTRUCTION & SUPPLY (31764)",
+        "pcabId": "31764",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "MIGHTYWAY CONSTRUCTION AND SUPPLY (40895)",
+        "pcabId": "40895",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTN OF COVERED COURT AT BRGY. ANONAS, URDANETA CITY, PANGASINAN",
+      "abc": "6435000.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2018-02-12 00:00:00.0000000",
+      "bidSubmissionDeadline": "2018-06-20 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "6229799.65"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/18AI0050.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/CONTRACT004.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/18ai0050_-_noa.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/CONTRACT004.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 15.9973717,
+    "longitude": 120.57653,
+    "coordinates": [
+      {
+        "componentId": "P00250429LZ-CW1",
+        "description": "Construction of Other Facilities - Construction of Covered Court, Brgy. Anonas, Urdaneta City, Pangasinan",
+        "latitude": 15.9973717,
+        "longitude": 120.57653,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

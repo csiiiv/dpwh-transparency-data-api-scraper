@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "16BE0158",
+    "description": "UPGRADING/REPAIR/IMPROVEMENT/EXPANSION OF GOV. FAUSTNO N. DY MEMORIAL HOSPITAL ILAGAN CITY, ISABELA",
+    "category": "Buildings and Facilities",
+    "status": "Completed",
+    "budget": 16889971.66,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region II",
+      "province": "Isabela 1st DEO",
+      "infraType": "Buildings and Facilities",
+      "coordinates": {
+        "latitude": 17.13251,
+        "longitude": 121.868735,
+        "verified": false
+      }
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "EGB CONSTRUCTION CORPORATION (FORMERLY: EGB CONSTRUCTION) (13722)",
+    "startDate": "2016-12-18",
+    "completionDate": "2017-05-18",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-12-18",
+    "expiryDate": "2017-05-18",
+    "nysReason": null,
+    "programName": "Outside Infra",
+    "sourceOfFunds": "Outside Infra - GAA 2016 DOH HFEP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00061222LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Hospital - Upgrading/Repair/Improvement/Expansion of existing building, Gov. Faustino N. Dy, Sr. Memorial Hospital, Ilagan, Isabela",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Rehabilitation / Major Repair of Hospital",
+        "region": "Region II",
+        "province": "ISABELA",
+        "coordinates": {
+          "latitude": 17.13251,
+          "longitude": 121.868735,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "EGB CONSTRUCTION CORPORATION (FORMERLY: EGB CONSTRUCTION)",
+    "bidders": [
+      {
+        "name": "EGB CONSTRUCTION CORPORATION (FORMERLY: EGB CONSTRUCTION) (13722)",
+        "pcabId": "13722",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "FRAGERR CONSTRUCTION (12722)",
+        "pcabId": "12722",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "UPGRADING/REPAIR/IMPROVEMENT/EXPANSION OF GOV. FAUSTNO N. DY MEMORIAL HOSPITAL ILAGAN CITY, ISABELA",
+      "abc": "17412463.04",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-11-11 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-12-02 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "16889971.66"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/16be0158_noareso.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/16be0158_ntp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 17.13251,
+    "longitude": 121.868735,
+    "coordinates": [
+      {
+        "componentId": "P00061222LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Hospital - Upgrading/Repair/Improvement/Expansion of existing building, Gov. Faustino N. Dy, Sr. Memorial Hospital, Ilagan, Isabela",
+        "latitude": 17.13251,
+        "longitude": 121.868735,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

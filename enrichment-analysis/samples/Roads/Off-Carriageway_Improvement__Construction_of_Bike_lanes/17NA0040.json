@@ -1,0 +1,155 @@
+{
+  "data": {
+    "contractId": "17NA0040",
+    "description": "OFF-CARRIAGEWAY IMPROVEMENT INCLUDING DRAINAGE (PRIMARY, BUTUAN CITY-CAGAYAN DE ORO CITY - ILIGAN CITY ROAD (AGUSAN-MISAMIS OR. ROAD) K1250+(-)542-K1252+605, K1254+000-K1254+857 (S00391MN) BUENAVISTA, AGUSAN DEL NORTE, 2ND L.D.",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 40144066.94,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region XIII",
+      "province": "Agusan del Norte DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 8.95273010763901,
+        "longitude": 125.456784889944,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "BLIMEX CONSTRUCTION & SUPPLY (27259)",
+    "startDate": "2017-06-15",
+    "completionDate": "2018-03-31",
+    "infraYear": "2017",
+    "contractEffectivityDate": "2017-06-15",
+    "expiryDate": "2018-05-09",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2017 MFO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00106031MN-CW1",
+        "description": "Off-Carriageway Improvement: Shoulder Paving / Construction - Butuan City-Cagayan de Oro City-Iligan City Road (Agusan-Misamis Or. Road), Agusan del Norte K1250+(-542) - K1252+605, K1254+000 - K1254+857 (S00391MN)",
+        "infraType": "Roads",
+        "typeOfWork": "Off-Carriageway Improvement: Shoulder Paving / Construction",
+        "region": "Region XIII",
+        "province": "AGUSAN DEL NORTE",
+        "coordinates": {
+          "latitude": 8.95273010763901,
+          "longitude": 125.456784889944,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00106031MN-CW2",
+        "description": "Off-Carriageway Improvement: Construction of Bike lanes - Butuan City-Cagayan de Oro City-Iligan City Road (Agusan-Misamis Or. Road), Agusan del Norte K1250+(-542) - K1252+605, K1254+000 - K1254+857 (S00391MN)",
+        "infraType": "Roads",
+        "typeOfWork": "Off-Carriageway Improvement: Construction of Bike lanes",
+        "region": "Region XIII",
+        "province": "AGUSAN DEL NORTE",
+        "coordinates": {
+          "latitude": 8.9683130423531,
+          "longitude": 125.420406142073,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "BLIMEX CONSTRUCTION & SUPPLY",
+    "bidders": [
+      {
+        "name": "BLIMEX CONSTRUCTION & SUPPLY (27259)",
+        "pcabId": "27259",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "ED1SON DEVELOPMENT & CONSTRUCTION INC. (2400)",
+        "pcabId": "2400",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "EQUI-PARCO CONSTRUCTION COMPANY (14332)",
+        "pcabId": "14332",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "GICAR CONSTRUCTION, INC. (12624)",
+        "pcabId": "12624",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "GRACE CONSTRUCTION CORPORATION (3771)",
+        "pcabId": "3771",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "RONWOOD CORPORATION (DOING BUSINESS UNDER THE NAME (25311)",
+        "pcabId": "25311",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "SYNDTITE CONSTRUCTION CORPORATION (FORMERLY: R.C. TAGALA CONSTRUCTION) (11597)",
+        "pcabId": "11597",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "OFF-CARRIAGEWAY IMPROVEMENT INCLUDING DRAINAGE (PRIMARY, BUTUAN CITY-CAGAYAN DE ORO CITY - ILIGAN CITY ROAD (AGUSAN-MISAMIS OR. ROAD) K1250+(-)542-K1252+605, K1254+000-K1254+857 (S00391MN) BUENAVISTA, AGUSAN DEL NORTE, 2ND L.D.",
+      "abc": "49690500.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-12-09 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-05-08 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "38,260,356.51"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/18na0040 itb, bidding docs and plans.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/17na0040_contract.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/17na0040_noa.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/17na0040_ntp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 8.95273010763901,
+    "longitude": 125.456784889944,
+    "coordinates": [
+      {
+        "componentId": "P00106031MN-CW1",
+        "description": "Off-Carriageway Improvement: Shoulder Paving / Construction - Butuan City-Cagayan de Oro City-Iligan City Road (Agusan-Misamis Or. Road), Agusan del Norte K1250+(-542) - K1252+605, K1254+000 - K1254+857 (S00391MN)",
+        "latitude": 8.95273010763901,
+        "longitude": 125.456784889944,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00106031MN-CW2",
+        "description": "Off-Carriageway Improvement: Construction of Bike lanes - Butuan City-Cagayan de Oro City-Iligan City Road (Agusan-Misamis Or. Road), Agusan del Norte K1250+(-542) - K1252+605, K1254+000 - K1254+857 (S00391MN)",
+        "latitude": 8.9683130423531,
+        "longitude": 125.420406142073,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "data": {
+    "contractId": "18CH0044",
+    "description": "CONSTRUCTION/MAINTENANCE OF FLOOD MITIGATION STRUCTURES AND DRAINAGE SYSTEMS, UPGRADING OF BOX CULVERT ALOMG JOSE ABAD SANTOS AVENUE (JASA) SAN AGUTIN SECTION, LUBAO, PAMPANGA",
+    "category": "Flood Control and Drainage",
+    "status": "Completed",
+    "budget": 14691268.89,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region III",
+      "province": "Pampanga 2nd DEO",
+      "infraType": "Flood Control and Drainage",
+      "coordinates": {
+        "latitude": 14.9247735,
+        "longitude": 120.584905,
+        "verified": false
+      }
+    },
+    "infraType": "Flood Control and Drainage",
+    "contractor": "OMICRON CONSTRUCTION INC.(FORMERLY: OMICRON CONSTRUCTION) (9575)",
+    "startDate": "2018-03-14",
+    "completionDate": "2018-09-09",
+    "infraYear": "2018",
+    "contractEffectivityDate": "2018-03-14",
+    "expiryDate": "2018-09-09",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2018 OO-2",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00222097LZ-CW1",
+        "description": "Upgrading of Drainage Structure - Upgrading of Box Culvert along Jose Abad Santos Avenue (JASA), San Agustin Section, Lubao, Pampanga",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Upgrading of Drainage Structure",
+        "region": "Region III",
+        "province": "PAMPANGA",
+        "coordinates": {
+          "latitude": 14.9247735,
+          "longitude": 120.584905,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "OMICRON CONSTRUCTION INC.(FORMERLY: OMICRON CONSTRUCTION)",
+    "bidders": [
+      {
+        "name": "OMICRON CONSTRUCTION INC.(FORMERLY: OMICRON CONSTRUCTION) (9575)",
+        "pcabId": "9575",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "CEDAR CONSTRUCTION (24865)",
+        "pcabId": "24865",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "JQM CONSTRUCTION AND TRADING (36354)",
+        "pcabId": "36354",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "J.S. LIM CONSTRUCTION AND TRADING,OPC (FORMERLY:J.S.LIM (12107)",
+        "pcabId": "12107",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "MICKAJETTE CONSTRUCTION AND TRADING (35239)",
+        "pcabId": "35239",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "R.D. SADSAD CONSTRUCTION & TRADING (19240)",
+        "pcabId": "19240",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION/MAINTENANCE OF FLOOD MITIGATION STRUCTURES AND DRAINAGE SYSTEMS, UPGRADING OF BOX CULVERT ALOMG JOSE ABAD SANTOS AVENUE (JASA) SAN AGUTIN SECTION, LUBAO, PAMPANGA",
+      "abc": "14705769.78",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2017-12-08 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-12-29 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "13950005.63"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/18CH0044-BIDOCS.pdf",
+      "contractAgreement": "",
+      "noticeOfAward": "",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/18ch0044-contract.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 14.9247735,
+    "longitude": 120.584905,
+    "coordinates": [
+      {
+        "componentId": "P00222097LZ-CW1",
+        "description": "Upgrading of Drainage Structure - Upgrading of Box Culvert along Jose Abad Santos Avenue (JASA), San Agustin Section, Lubao, Pampanga",
+        "latitude": 14.9247735,
+        "longitude": 120.584905,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

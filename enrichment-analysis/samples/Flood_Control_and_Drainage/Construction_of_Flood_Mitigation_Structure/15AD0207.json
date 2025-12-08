@@ -1,0 +1,85 @@
+{
+  "data": {
+    "contractId": "15AD0207",
+    "description": "CONSTRUCTION OF GABION REVETMENT, MACAOAYAN SECTION, BURGOS, ILOCOS SUR",
+    "category": "Flood Control and Drainage",
+    "status": "Completed",
+    "budget": 9448919.44,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region I",
+      "province": "Ilocos Sur 2nd DEO",
+      "infraType": "Flood Control and Drainage",
+      "coordinates": null
+    },
+    "infraType": "Flood Control and Drainage",
+    "contractor": "WERR CORPORATION INTERNATIONAL (14133) / CLEOFEL CONSTRUCTION (31515)",
+    "startDate": "2016-03-09",
+    "completionDate": "2016-10-05",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-03-09",
+    "expiryDate": "2016-09-25",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-2",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00022199LZ-CW1",
+        "description": "Construction of Flood Mitigation Structure - Construction of Gabion Revetment, Macaoayan Section, Burgos, Ilocos Sur",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Construction of Flood Mitigation Structure",
+        "region": "Region I",
+        "province": "ILOCOS SUR",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "CLEOFEL CONSTRUCTION, WERR CORPORATION INTERNATIONAL",
+    "bidders": [
+      {
+        "name": "WERR CORPORATION INTERNATIONAL (14133) / CLEOFEL CONSTRUCTION (31515) (JV ID: JV-15-1251)",
+        "pcabId": "",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "E.E. MADAYAG CONSTRUCTION (25029)",
+        "pcabId": "25029",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION OF GABION REVETMENT,  MACAOAYAN SECTION, BURGOS, ILOCOS SUR",
+      "abc": "9742880.75",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-01-26 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-02-23 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "9450590.2900000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/april/15AD0207 CA096.pdf",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/april/15AD0207 NOA095.pdf",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/april/15AD0207 CA096.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

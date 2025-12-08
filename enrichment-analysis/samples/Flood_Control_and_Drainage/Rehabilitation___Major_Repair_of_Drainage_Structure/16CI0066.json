@@ -1,0 +1,91 @@
+{
+  "data": {
+    "contractId": "16CI0066",
+    "description": "REPAIR/REHAB OF DAMAGED OUTFALL OF THE DRAINAGE SYSTEM OF OMNR ALONG ABACAN RIVER, STA 0+000 TO STA",
+    "category": "Flood Control and Drainage",
+    "status": "Completed",
+    "budget": 2216416.4,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region III",
+      "province": "Pampanga 3rd DEO",
+      "infraType": "Flood Control and Drainage",
+      "coordinates": null
+    },
+    "infraType": "Flood Control and Drainage",
+    "contractor": "E.L. GOMEZ CONSTRUCTION (31522)",
+    "startDate": "2016-12-12",
+    "completionDate": "2017-01-25",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-12-12",
+    "expiryDate": "2017-01-25",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 Locally Funded Projects",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00055870LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Drainage Structure - Repair/Rehabilitation of Damaged Outfall of the Drainage System of Old Manila North Road (OMNR) along Abacan River, Sta. 0+000 to Sta. 0+032.00, Malabanias Section, Brgy. Malabanias, Angeles City",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Rehabilitation / Major Repair of Drainage Structure",
+        "region": "Region III",
+        "province": "PAMPANGA",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "E.L. GOMEZ CONSTRUCTION",
+    "bidders": [
+      {
+        "name": "E.L. GOMEZ CONSTRUCTION (31522)",
+        "pcabId": "31522",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "GEOHEART CONSTRUCTION & TRADING (33316)",
+        "pcabId": "33316",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "RBDIWA BUILDERS AND CONSTRUCTION SUPPLY (36022)",
+        "pcabId": "36022",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "REPAIR/REHAB OF DAMAGED OUTFALL OF THE DRAINAGE SYSTEM OF OMNR ALONG ABACAN RIVER, STA 0+000 TO STA",
+      "abc": "2333318.71",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-10-20 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-11-10 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "2,216,654.71"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "",
+      "noticeOfAward": "",
+      "noticeToProceed": "",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

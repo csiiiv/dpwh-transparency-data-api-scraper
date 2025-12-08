@@ -1,0 +1,109 @@
+{
+  "data": {
+    "contractId": "17OA0105",
+    "description": "COMPLETION OF LYING-IN CONCEPCION HEALTH CENTER, MALABON CITY",
+    "category": "Buildings and Facilities",
+    "status": "Completed",
+    "budget": 1999860.06,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "National Capital Region",
+      "province": "Malabon-Navotas DEO",
+      "infraType": "Buildings and Facilities",
+      "coordinates": {
+        "latitude": 14.668435,
+        "longitude": 120.946399,
+        "verified": false
+      }
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "DOUBLE Z CONSTRUCTION AND SUPPLY (41342)",
+    "startDate": "2018-07-01",
+    "completionDate": "2018-09-28",
+    "infraYear": "2017",
+    "contractEffectivityDate": "2018-07-01",
+    "expiryDate": "2018-09-28",
+    "nysReason": null,
+    "programName": "Outside Infra",
+    "sourceOfFunds": "Outside Infra - GAA 2017 DOH HFEP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00199217LZ-CW1",
+        "description": "Construction of Rural Health Unit - Completion of Lying-In Concepcion Health Center, Malabon City",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of Rural Health Unit",
+        "region": "National Capital Region",
+        "province": "METROPOLITAN MANILA",
+        "coordinates": {
+          "latitude": 14.668435,
+          "longitude": 120.946399,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "DOUBLE Z CONSTRUCTION AND SUPPLY",
+    "bidders": [
+      {
+        "name": "DOUBLE Z CONSTRUCTION AND SUPPLY (41342)",
+        "pcabId": "41342",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "G.A. PINEDA CONSTRUCTION (3428)",
+        "pcabId": "3428",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "JBERNARDO CONSTRUCTION AND SUPPLY (42108)",
+        "pcabId": "42108",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "COMPLETION OF LYING-IN CONCEPCION HEALTH CENTER, MALABON CITY",
+      "abc": "1989946.14",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2018-04-27 00:00:00.0000000",
+      "bidSubmissionDeadline": "2018-05-17 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "1930248.45"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/IB 18OA0097, 17OA0105.pdf",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/17OA0105 CONTRACT.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/17OA0105 NOA.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/17OA0105 CONTRACT.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 14.668435,
+    "longitude": 120.946399,
+    "coordinates": [
+      {
+        "componentId": "P00199217LZ-CW1",
+        "description": "Construction of Rural Health Unit - Completion of Lying-In Concepcion Health Center, Malabon City",
+        "latitude": 14.668435,
+        "longitude": 120.946399,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

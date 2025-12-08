@@ -1,0 +1,679 @@
+{
+  "data": {
+    "contractId": "17PK0057",
+    "description": "CLUSTER 2 - IMPLEMENTATION OF VARIOUS CALAMITY - RELATED PROJECTS DAMAGED BY TYPHOON LAWIN ALONG KALINGA-ABRA ROAD AND BALBALAN-PINUKPUK ROAD",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 14454097.59,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Cordillera Administrative Region",
+      "province": "Upper Kalinga DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 17.4946857686957,
+        "longitude": 121.209264568307,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "BHM CONSTRUCTION (30724)",
+    "startDate": "2017-11-27",
+    "completionDate": "2018-07-02",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2017-11-27",
+    "expiryDate": "2018-03-26",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 Locally Funded Projects",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00055965LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Road Slope Protection Structure - Repair/Rehabilitation  along Balbalan-Pinukpuk Road, K0492+225 to K0492+235",
+        "infraType": "Roads",
+        "typeOfWork": "Rehabilitation / Major Repair of Road Slope Protection Structure",
+        "region": "Cordillera Administrative Region",
+        "province": "KALINGA",
+        "coordinates": null
+      },
+      {
+        "componentId": "P00055966LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Drainage Structure along Road - Repair/Rehabilitation along Balbalan-Pinukpuk Road, K0487+120 to K487+165",
+        "infraType": "Roads",
+        "typeOfWork": "Rehabilitation / Major Repair of Drainage Structure along Road",
+        "region": "Cordillera Administrative Region",
+        "province": "KALINGA",
+        "coordinates": null
+      },
+      {
+        "componentId": "P00055967LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Road Slope Protection Structure - Repair/Rehabilitation along Balbalan-Pinukpuk Road, K0488+513 to K488+528",
+        "infraType": "Roads",
+        "typeOfWork": "Rehabilitation / Major Repair of Road Slope Protection Structure",
+        "region": "Cordillera Administrative Region",
+        "province": "KALINGA",
+        "coordinates": null
+      },
+      {
+        "componentId": "P00055968LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Road Slope Protection Structure - Repair/Rehabilitation along Kalinga Abra-Road, K0489+650-K0489+662",
+        "infraType": "Roads",
+        "typeOfWork": "Rehabilitation / Major Repair of Road Slope Protection Structure",
+        "region": "Cordillera Administrative Region",
+        "province": "KALINGA",
+        "coordinates": {
+          "latitude": 17.4946857686957,
+          "longitude": 121.209264568307,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00055969LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Road Slope Protection Structure - Repair/Rehabilitation along Kalinga Abra-Road, K0492+037-K0492+043",
+        "infraType": "Roads",
+        "typeOfWork": "Rehabilitation / Major Repair of Road Slope Protection Structure",
+        "region": "Cordillera Administrative Region",
+        "province": "KALINGA",
+        "coordinates": null
+      },
+      {
+        "componentId": "P00055970LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Road Slope Protection Structure - Repair/Rehabilitation along Kalinga-Abra Road, K0467+500 to K0467+503",
+        "infraType": "Roads",
+        "typeOfWork": "Rehabilitation / Major Repair of Road Slope Protection Structure",
+        "region": "Cordillera Administrative Region",
+        "province": "KALINGA",
+        "coordinates": {
+          "latitude": 17.385493929764,
+          "longitude": 121.184904429764,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00055971LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Road Slope Protection Structure - Repair/Rehabilitation along Kalinga-Abra Road, K0467+700 to K0467+708",
+        "infraType": "Roads",
+        "typeOfWork": "Rehabilitation / Major Repair of Road Slope Protection Structure",
+        "region": "Cordillera Administrative Region",
+        "province": "KALINGA",
+        "coordinates": {
+          "latitude": 17.3858990378976,
+          "longitude": 121.183099442191,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00055972LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Road Slope Protection Structure - Repair/Rehabilitation along Kalinga-Abra Road, K0477+500 to K0477+513",
+        "infraType": "Roads",
+        "typeOfWork": "Rehabilitation / Major Repair of Road Slope Protection Structure",
+        "region": "Cordillera Administrative Region",
+        "province": "KALINGA",
+        "coordinates": {
+          "latitude": 17.4331304492158,
+          "longitude": 121.197038559057,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00055973LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Road Slope Protection Structure - Repair/Rehabilitation along Kalinga-Abra Road, K0486+100 to K0486+300 (IS)",
+        "infraType": "Roads",
+        "typeOfWork": "Rehabilitation / Major Repair of Road Slope Protection Structure",
+        "region": "Cordillera Administrative Region",
+        "province": "KALINGA",
+        "coordinates": {
+          "latitude": 17.4848563833295,
+          "longitude": 121.226411753746,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00055974LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Road Slope Protection Structure - Repair/Rehabilitation along Kalinga-Abra Road, K0488+520-K0488+528",
+        "infraType": "Roads",
+        "typeOfWork": "Rehabilitation / Major Repair of Road Slope Protection Structure",
+        "region": "Cordillera Administrative Region",
+        "province": "KALINGA",
+        "coordinates": {
+          "latitude": 17.4902575705733,
+          "longitude": 121.21530511286,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00055975LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Road Slope Protection Structure - Repair/Rehabilitation along Kalinga-Abra Road, K0489+300-K0489+319, K0489+334-K0489-339(I.S.)",
+        "infraType": "Roads",
+        "typeOfWork": "Rehabilitation / Major Repair of Road Slope Protection Structure",
+        "region": "Cordillera Administrative Region",
+        "province": "KALINGA",
+        "coordinates": {
+          "latitude": 17.4926956660574,
+          "longitude": 121.210928759813,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00055976LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Road Slope Protection Structure - Repair/Rehabilitation along Kalinga-Abra Road, K0489+350-K0489+361",
+        "infraType": "Roads",
+        "typeOfWork": "Rehabilitation / Major Repair of Road Slope Protection Structure",
+        "region": "Cordillera Administrative Region",
+        "province": "KALINGA",
+        "coordinates": {
+          "latitude": 17.4930239710356,
+          "longitude": 121.210591954734,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00055977LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Road Slope Protection Structure - Repair/Rehabilitation along Kalinga-Abra Road, K0490+189-K0490+203",
+        "infraType": "Roads",
+        "typeOfWork": "Rehabilitation / Major Repair of Road Slope Protection Structure",
+        "region": "Cordillera Administrative Region",
+        "province": "KALINGA",
+        "coordinates": {
+          "latitude": 17.490474,
+          "longitude": 121.214996,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00055978LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Road Slope Protection Structure - Repair/Rehabilitation along Kalinga-Abra Road, K0491+750-K0491+774",
+        "infraType": "Roads",
+        "typeOfWork": "Rehabilitation / Major Repair of Road Slope Protection Structure",
+        "region": "Cordillera Administrative Region",
+        "province": "KALINGA",
+        "coordinates": {
+          "latitude": 17.4966957374565,
+          "longitude": 121.194551901208,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00055979LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Road Slope Protection Structure - Repair/Rehabilitation along Kalinga-Abra Road, K0492+037-K0492+049",
+        "infraType": "Roads",
+        "typeOfWork": "Rehabilitation / Major Repair of Road Slope Protection Structure",
+        "region": "Cordillera Administrative Region",
+        "province": "KALINGA",
+        "coordinates": {
+          "latitude": 17.4958604699994,
+          "longitude": 121.191860988662,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00055980LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Road Slope Protection Structure - Repair/Rehabilitation along Kalinga-Abra Road, K0492+083-K0492+092",
+        "infraType": "Roads",
+        "typeOfWork": "Rehabilitation / Major Repair of Road Slope Protection Structure",
+        "region": "Cordillera Administrative Region",
+        "province": "KALINGA",
+        "coordinates": {
+          "latitude": 17.4960720431457,
+          "longitude": 121.191505397132,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00055981LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Road Slope Protection Structure - Repair/Rehabilitation along Kalinga-Abra Road, K0492+093-K0492+099",
+        "infraType": "Roads",
+        "typeOfWork": "Rehabilitation / Major Repair of Road Slope Protection Structure",
+        "region": "Cordillera Administrative Region",
+        "province": "KALINGA",
+        "coordinates": {
+          "latitude": 17.4961491567834,
+          "longitude": 121.191452054701,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00055982LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Road Slope Protection Structure - Repair/Rehabilitation along Kalinga-Abra Road, K0492+153-K0492+167",
+        "infraType": "Roads",
+        "typeOfWork": "Rehabilitation / Major Repair of Road Slope Protection Structure",
+        "region": "Cordillera Administrative Region",
+        "province": "KALINGA",
+        "coordinates": {
+          "latitude": 17.4966165566203,
+          "longitude": 121.191190127125,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00055983LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Road Slope Protection Structure - Repair/Rehabilitation along Kalinga-Abra Road, K0493+054-K0493+059",
+        "infraType": "Roads",
+        "typeOfWork": "Rehabilitation / Major Repair of Road Slope Protection Structure",
+        "region": "Cordillera Administrative Region",
+        "province": "KALINGA",
+        "coordinates": {
+          "latitude": 17.4982872906145,
+          "longitude": 121.18573115321,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00055984LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Road Slope Protection Structure - Repair/Rehabilitation along Kalinga-Abra Road, K0493+054-K0493+074",
+        "infraType": "Roads",
+        "typeOfWork": "Rehabilitation / Major Repair of Road Slope Protection Structure",
+        "region": "Cordillera Administrative Region",
+        "province": "KALINGA",
+        "coordinates": {
+          "latitude": 17.4982872906145,
+          "longitude": 121.18573115321,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00055985LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Road Slope Protection Structure - Repair/Rehabilitation along Kalinga-Abra Road, K0493+352-K0493+364",
+        "infraType": "Roads",
+        "typeOfWork": "Rehabilitation / Major Repair of Road Slope Protection Structure",
+        "region": "Cordillera Administrative Region",
+        "province": "KALINGA",
+        "coordinates": {
+          "latitude": 17.4977998925515,
+          "longitude": 121.184587549967,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00055986LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Road Slope Protection Structure - Repair/Rehabilitation along Kalinga-Abra Road, K0493+375-K0493+385",
+        "infraType": "Roads",
+        "typeOfWork": "Rehabilitation / Major Repair of Road Slope Protection Structure",
+        "region": "Cordillera Administrative Region",
+        "province": "KALINGA",
+        "coordinates": {
+          "latitude": 17.497895310324,
+          "longitude": 121.184389145863,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00055987LZ-CW1",
+        "description": "Road Safety: Guardrails (Old) - Repair/Rehabilitation along Kalinga-Abra Road, K0497+480-K0497+512, K0497+540-K0497+555",
+        "infraType": "Roads",
+        "typeOfWork": "Road Safety: Guardrails (Old)",
+        "region": "Cordillera Administrative Region",
+        "province": "KALINGA",
+        "coordinates": {
+          "latitude": 17.5005044652944,
+          "longitude": 121.163766318445,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00055988LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Road Slope Protection Structure - Repair/Rehabilitation along Kalinga-Abra Road, K0508+700-K0508+709.40",
+        "infraType": "Roads",
+        "typeOfWork": "Rehabilitation / Major Repair of Road Slope Protection Structure",
+        "region": "Cordillera Administrative Region",
+        "province": "KALINGA",
+        "coordinates": {
+          "latitude": 17.4990927265079,
+          "longitude": 121.094251015814,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00055989LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Road Slope Protection Structure - Repair/Rehabilitation along Kalinga-Abra Road, K0515+800-K0515+812",
+        "infraType": "Roads",
+        "typeOfWork": "Rehabilitation / Major Repair of Road Slope Protection Structure",
+        "region": "Cordillera Administrative Region",
+        "province": "KALINGA",
+        "coordinates": {
+          "latitude": 17.4840193000646,
+          "longitude": 121.051575349678,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00055990LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Road Slope Protection Structure - Repair/Rehabilitation along Kalinga-Abra Road, K0518+(-025)-K0518+(-011)",
+        "infraType": "Roads",
+        "typeOfWork": "Rehabilitation / Major Repair of Road Slope Protection Structure",
+        "region": "Cordillera Administrative Region",
+        "province": "KALINGA",
+        "coordinates": {
+          "latitude": 17.4894284035417,
+          "longitude": 121.036751960322,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00055991LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Road Slope Protection Structure - Repair/Rehabilitation along Kalinga-Abra Road, K0519+070-K0519+077",
+        "infraType": "Roads",
+        "typeOfWork": "Rehabilitation / Major Repair of Road Slope Protection Structure",
+        "region": "Cordillera Administrative Region",
+        "province": "KALINGA",
+        "coordinates": {
+          "latitude": 17.486565365292,
+          "longitude": 121.030715551237,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00055992LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Road Slope Protection Structure - Repair/Rehabilitation along Kalinga-Abra Road, K0522+200-K0522+213",
+        "infraType": "Roads",
+        "typeOfWork": "Rehabilitation / Major Repair of Road Slope Protection Structure",
+        "region": "Cordillera Administrative Region",
+        "province": "KALINGA",
+        "coordinates": {
+          "latitude": 17.4929750222151,
+          "longitude": 121.015878866445,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00055995LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Road Slope Protection Structure - Repair/Rehabilitation of Road along Balbalan-Pinukpuk Road, K0487+800 to K487+808",
+        "infraType": "Roads",
+        "typeOfWork": "Rehabilitation / Major Repair of Road Slope Protection Structure",
+        "region": "Cordillera Administrative Region",
+        "province": "KALINGA",
+        "coordinates": null
+      },
+      {
+        "componentId": "P00055996LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Road Slope Protection Structure - Repair/Rehabilitation of Road along Kalinga-Abra Road, K0476+600 to K04676+615",
+        "infraType": "Roads",
+        "typeOfWork": "Rehabilitation / Major Repair of Road Slope Protection Structure",
+        "region": "Cordillera Administrative Region",
+        "province": "KALINGA",
+        "coordinates": null
+      },
+      {
+        "componentId": "P00055997LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Road Slope Protection Structure - Repair/Rehabilitation/Improvement along Kalinga-Abra Road, K0469+100 to K0469+130, (IS)",
+        "infraType": "Roads",
+        "typeOfWork": "Rehabilitation / Major Repair of Road Slope Protection Structure",
+        "region": "Cordillera Administrative Region",
+        "province": "KALINGA",
+        "coordinates": {
+          "latitude": 17.3901082241282,
+          "longitude": 121.18587665615,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "BHM CONSTRUCTION",
+    "bidders": [
+      {
+        "name": "BHM CONSTRUCTION (30724)",
+        "pcabId": "30724",
+        "participation": 100,
+        "isWinner": true
+      }
+    ],
+    "procurement": {
+      "contractName": "CLUSTER 2 - IMPLEMENTATION OF VARIOUS CALAMITY - RELATED PROJECTS DAMAGED BY TYPHOON \"LAWIN\" ALONG KALINGA-ABRA ROAD AND BALBALAN-PINUKPUK ROAD",
+      "abc": "15222739.14",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2017-09-14 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-10-03 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "14,454,097.59"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/17PK0057.rar",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/17PK0057 - Contract of Agreement.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/17PK0057 - Notice of Award.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/17PK0057 - Contract of Agreement.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 17.4946857686957,
+    "longitude": 121.209264568307,
+    "coordinates": [
+      {
+        "componentId": "P00055968LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Road Slope Protection Structure - Repair/Rehabilitation along Kalinga Abra-Road, K0489+650-K0489+662",
+        "latitude": 17.4946857686957,
+        "longitude": 121.209264568307,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00055970LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Road Slope Protection Structure - Repair/Rehabilitation along Kalinga-Abra Road, K0467+500 to K0467+503",
+        "latitude": 17.385493929764,
+        "longitude": 121.184904429764,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00055971LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Road Slope Protection Structure - Repair/Rehabilitation along Kalinga-Abra Road, K0467+700 to K0467+708",
+        "latitude": 17.3858990378976,
+        "longitude": 121.183099442191,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00055972LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Road Slope Protection Structure - Repair/Rehabilitation along Kalinga-Abra Road, K0477+500 to K0477+513",
+        "latitude": 17.4331304492158,
+        "longitude": 121.197038559057,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00055973LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Road Slope Protection Structure - Repair/Rehabilitation along Kalinga-Abra Road, K0486+100 to K0486+300 (IS)",
+        "latitude": 17.4848563833295,
+        "longitude": 121.226411753746,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00055974LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Road Slope Protection Structure - Repair/Rehabilitation along Kalinga-Abra Road, K0488+520-K0488+528",
+        "latitude": 17.4902575705733,
+        "longitude": 121.21530511286,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00055975LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Road Slope Protection Structure - Repair/Rehabilitation along Kalinga-Abra Road, K0489+300-K0489+319, K0489+334-K0489-339(I.S.)",
+        "latitude": 17.4926956660574,
+        "longitude": 121.210928759813,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00055976LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Road Slope Protection Structure - Repair/Rehabilitation along Kalinga-Abra Road, K0489+350-K0489+361",
+        "latitude": 17.4930239710356,
+        "longitude": 121.210591954734,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00055977LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Road Slope Protection Structure - Repair/Rehabilitation along Kalinga-Abra Road, K0490+189-K0490+203",
+        "latitude": 17.490474,
+        "longitude": 121.214996,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00055978LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Road Slope Protection Structure - Repair/Rehabilitation along Kalinga-Abra Road, K0491+750-K0491+774",
+        "latitude": 17.4966957374565,
+        "longitude": 121.194551901208,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00055979LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Road Slope Protection Structure - Repair/Rehabilitation along Kalinga-Abra Road, K0492+037-K0492+049",
+        "latitude": 17.4958604699994,
+        "longitude": 121.191860988662,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00055980LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Road Slope Protection Structure - Repair/Rehabilitation along Kalinga-Abra Road, K0492+083-K0492+092",
+        "latitude": 17.4960720431457,
+        "longitude": 121.191505397132,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00055981LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Road Slope Protection Structure - Repair/Rehabilitation along Kalinga-Abra Road, K0492+093-K0492+099",
+        "latitude": 17.4961491567834,
+        "longitude": 121.191452054701,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00055982LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Road Slope Protection Structure - Repair/Rehabilitation along Kalinga-Abra Road, K0492+153-K0492+167",
+        "latitude": 17.4966165566203,
+        "longitude": 121.191190127125,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00055983LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Road Slope Protection Structure - Repair/Rehabilitation along Kalinga-Abra Road, K0493+054-K0493+059",
+        "latitude": 17.4982872906145,
+        "longitude": 121.18573115321,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00055984LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Road Slope Protection Structure - Repair/Rehabilitation along Kalinga-Abra Road, K0493+054-K0493+074",
+        "latitude": 17.4982872906145,
+        "longitude": 121.18573115321,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00055985LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Road Slope Protection Structure - Repair/Rehabilitation along Kalinga-Abra Road, K0493+352-K0493+364",
+        "latitude": 17.4977998925515,
+        "longitude": 121.184587549967,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00055986LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Road Slope Protection Structure - Repair/Rehabilitation along Kalinga-Abra Road, K0493+375-K0493+385",
+        "latitude": 17.497895310324,
+        "longitude": 121.184389145863,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00055987LZ-CW1",
+        "description": "Road Safety: Guardrails (Old) - Repair/Rehabilitation along Kalinga-Abra Road, K0497+480-K0497+512, K0497+540-K0497+555",
+        "latitude": 17.5005044652944,
+        "longitude": 121.163766318445,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00055988LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Road Slope Protection Structure - Repair/Rehabilitation along Kalinga-Abra Road, K0508+700-K0508+709.40",
+        "latitude": 17.4990927265079,
+        "longitude": 121.094251015814,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00055989LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Road Slope Protection Structure - Repair/Rehabilitation along Kalinga-Abra Road, K0515+800-K0515+812",
+        "latitude": 17.4840193000646,
+        "longitude": 121.051575349678,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00055990LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Road Slope Protection Structure - Repair/Rehabilitation along Kalinga-Abra Road, K0518+(-025)-K0518+(-011)",
+        "latitude": 17.4894284035417,
+        "longitude": 121.036751960322,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00055991LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Road Slope Protection Structure - Repair/Rehabilitation along Kalinga-Abra Road, K0519+070-K0519+077",
+        "latitude": 17.486565365292,
+        "longitude": 121.030715551237,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00055992LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Road Slope Protection Structure - Repair/Rehabilitation along Kalinga-Abra Road, K0522+200-K0522+213",
+        "latitude": 17.4929750222151,
+        "longitude": 121.015878866445,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00055997LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Road Slope Protection Structure - Repair/Rehabilitation/Improvement along Kalinga-Abra Road, K0469+100 to K0469+130, (IS)",
+        "latitude": 17.3901082241282,
+        "longitude": 121.18587665615,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

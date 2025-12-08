@@ -1,0 +1,79 @@
+{
+  "data": {
+    "contractId": "16MA0106",
+    "description": "DREDGING OF RIO GRANDE DE MINDANAO (UPSTREAM OF DELTA BRIDGE). COTABATO CITY",
+    "category": "Flood Control and Drainage",
+    "status": "Completed",
+    "budget": 47109445.13,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region XII",
+      "province": "Cotabato City DEO",
+      "infraType": "Flood Control and Drainage",
+      "coordinates": null
+    },
+    "infraType": "Flood Control and Drainage",
+    "contractor": "MUST ENTERPRISES (13336)",
+    "startDate": "2017-05-12",
+    "completionDate": "2018-01-30",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2017-05-12",
+    "expiryDate": "2018-01-30",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-2",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00022780MN-CW1",
+        "description": "Dredging / Desilting - Dredging of Rio Grande de Mindanao (Upstream of Delta Bridge), Cotabato City",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Dredging / Desilting",
+        "region": "Region XII",
+        "province": "MAGUINDANAO",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "MUST ENTERPRISES",
+    "bidders": [
+      {
+        "name": "MUST ENTERPRISES (13336)",
+        "pcabId": "13336",
+        "participation": 100,
+        "isWinner": true
+      }
+    ],
+    "procurement": {
+      "contractName": "DREDGING OF RIO GRANDE DE MINDANAO (UPSTREAM OF DELTA BRIDGE). COTABATO CITY",
+      "abc": "48074811.78",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2017-04-04 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-04-18 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "47,109,445.13"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/16ma0106-noa.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/16ma0106-ntp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

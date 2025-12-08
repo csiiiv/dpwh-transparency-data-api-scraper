@@ -1,0 +1,85 @@
+{
+  "data": {
+    "contractId": "16EI0026",
+    "description": "CONSTRUCTION OF TAWAS BAILEY BRIDGE, BRGY. TAWAS, BONGABONG, ORIENTAL MINDORO",
+    "category": "Bridges",
+    "status": "Completed",
+    "budget": 3721499.93,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region IV-B",
+      "province": "Southern Mindoro DEO",
+      "infraType": "Bridges",
+      "coordinates": null
+    },
+    "infraType": "Bridges",
+    "contractor": "GREEN ISLAND ENTERPRISES (36835)",
+    "startDate": "2016-03-28",
+    "completionDate": "2016-09-19",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-03-28",
+    "expiryDate": "2016-09-19",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 Locally Funded Projects",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00047213LZ-CW1",
+        "description": "Construction of Bailey Bridge - Construction of Tawas Bailey Bridge (28.8M), Barangay Tawas, Bongabong, Oriental Mindoro 2nd LD",
+        "infraType": "Bridges",
+        "typeOfWork": "Construction of Bailey Bridge",
+        "region": "Region IV-B",
+        "province": "ORIENTAL MINDORO",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "GREEN ISLAND ENTERPRISES",
+    "bidders": [
+      {
+        "name": "GREEN ISLAND ENTERPRISES (36835)",
+        "pcabId": "36835",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "ORIENT STAR CONSTRUCTION, INC. (FORMERLY: ORIENT S (7183)",
+        "pcabId": "7183",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION OF TAWAS BAILEY BRIDGE, BRGY. TAWAS, BONGABONG, ORIENTAL MINDORO",
+      "abc": "3919295.62",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-02-24 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-03-14 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "3,721,499.93"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "",
+      "noticeOfAward": "",
+      "noticeToProceed": "",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

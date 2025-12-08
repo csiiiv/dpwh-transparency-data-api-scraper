@@ -1,0 +1,85 @@
+{
+  "data": {
+    "contractId": "15CL0086",
+    "description": "CONSTRUCTION OF SCHOOL BUILDING OF RAMON MAGSAYSAY TECHNOLOGICAL UNIVERSITY (STA. CRUZ CAMPUS), BRGY",
+    "category": "Buildings and Facilities",
+    "status": "Completed",
+    "budget": 5304992.68,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region III",
+      "province": "Zambales 1st DEO",
+      "infraType": "Buildings and Facilities",
+      "coordinates": null
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "JECK CONSTRUCTION (24189)",
+    "startDate": "2016-02-12",
+    "completionDate": "2016-06-10",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-02-12",
+    "expiryDate": "2016-06-10",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 Locally Funded Projects",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00040118LZ-CW1",
+        "description": "Construction of School Buildings - Construction of School Building of Ramon Magsaysay Technological University (Sta. Cruz Campus), Barangay Naulo, Sta. Cruz, Zambales 2nd LD",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of School Buildings",
+        "region": "Region III",
+        "province": "ZAMBALES",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "JECK CONSTRUCTION",
+    "bidders": [
+      {
+        "name": "JECK CONSTRUCTION (24189)",
+        "pcabId": "24189",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "JITS CONSTRUCTION CORPORATION (13232)",
+        "pcabId": "13232",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION OF SCHOOL BUILDING OF RAMON MAGSAYSAY TECHNOLOGICAL UNIVERSITY (STA. CRUZ CAMPUS), BRGY",
+      "abc": "5879997.52",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-12-08 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-12-28 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "5304992.6800000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/march/15CL0086 Contract.pdf",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/march/15CL0086 Award.pdf",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/march/15CL0086 Contract.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

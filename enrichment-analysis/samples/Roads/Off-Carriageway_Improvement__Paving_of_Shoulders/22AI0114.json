@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "22AI0114",
+    "description": "CONSTRUCTION OF BY-PASS AND DIVERSION ROADS, TAYUG-SAN QUINTIN ROAD, PANGASINAN",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 14478146.91,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region I",
+      "province": "Pangasinan 3rd DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 15.9857103,
+        "longitude": 120.8125539,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "AQUINO-DELA CRUZ ENGINEERING & CONSTRUCTION (16751)",
+    "startDate": "2022-03-16",
+    "completionDate": "2022-09-21",
+    "infraYear": "2022",
+    "contractEffectivityDate": "2022-03-16",
+    "expiryDate": "2022-06-13",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2022 OO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00608647LZ-CW1",
+        "description": "Off-Carriageway Improvement: Paving of Shoulders - Tayug-San Quintin Road, Pangasinan",
+        "infraType": "Roads",
+        "typeOfWork": "Off-Carriageway Improvement: Paving of Shoulders",
+        "region": "Region I",
+        "province": "PANGASINAN",
+        "coordinates": {
+          "latitude": 15.9857103,
+          "longitude": 120.8125539,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "AQUINO-DELA CRUZ ENGINEERING & CONSTRUCTION",
+    "bidders": [
+      {
+        "name": "AQUINO-DELA CRUZ ENGINEERING & CONSTRUCTION (16751)",
+        "pcabId": "16751",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "JEUSMACK BUILDERS & CONSTRUCTION SUPPLY (42334)",
+        "pcabId": "42334",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION OF BY-PASS AND DIVERSION ROADS, TAYUG-SAN QUINTIN ROAD, PANGASINAN",
+      "abc": "14700000.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2021-12-18 00:00:00.0000000",
+      "bidSubmissionDeadline": "2022-01-10 00:00:00.0000000",
+      "dateOfAward": "2022-03-04 00:00:00.0000000",
+      "awardAmount": "14478146.91"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/tech & fin 22AI0114.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/22AI0114 CONTRACT.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/22AI0114 NOA.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/22AI0114 CONTRACT.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 15.9857103,
+    "longitude": 120.8125539,
+    "coordinates": [
+      {
+        "componentId": "P00608647LZ-CW1",
+        "description": "Off-Carriageway Improvement: Paving of Shoulders - Tayug-San Quintin Road, Pangasinan",
+        "latitude": 15.9857103,
+        "longitude": 120.8125539,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 9,
+      "latestImageDate": "2023-01-16 01:01:18.700000",
+      "hasImages": true
+    }
+  }
+}

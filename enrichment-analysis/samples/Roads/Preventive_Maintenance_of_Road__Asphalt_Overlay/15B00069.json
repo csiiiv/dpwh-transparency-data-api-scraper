@@ -1,0 +1,85 @@
+{
+  "data": {
+    "contractId": "15B00069",
+    "description": "REHAB./RECONST'N/UPGRADING OF DAMAGED PAVED NAT'L RD. INCLUDING DRAINAGE BASED ON PVM'T MNG'T SYSTEM",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 28274761.84,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region II",
+      "province": "Region II",
+      "infraType": "Roads",
+      "coordinates": null
+    },
+    "infraType": "Roads",
+    "contractor": "JERCON TRADE CONSTRUCTION DEVELOPMENT CORP (FROMERLY: CAUAYAN UNITED ENTERPRISES & CONST. BUILDERS) (8816)",
+    "startDate": "2016-02-21",
+    "completionDate": "2016-08-12",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-02-21",
+    "expiryDate": "2016-08-18",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00017138LZ-CW1",
+        "description": "Preventive Maintenance of Road: Asphalt Overlay - Daang Maharlika (LZ) - K0317+000 - K0318+131",
+        "infraType": "Roads",
+        "typeOfWork": "Preventive Maintenance of Road: Asphalt Overlay",
+        "region": "Region II",
+        "province": "ISABELA",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "JERCON TRADE CONSTRUCTION DEVELOPMENT CORP (FROMERLY: CAUAYAN UNITED ENTERPRISES & CONST. BUILDERS)",
+    "bidders": [
+      {
+        "name": "JERCON TRADE CONSTRUCTION DEVELOPMENT CORP (FROMERLY: CAUAYAN UNITED ENTERPRISES & CONST. BUILDERS) (8816)",
+        "pcabId": "8816",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "JLL PULSAR CONSTRUCTION CORPORATION (FORMERLY: PULSAR CONSTRUCTION) (24422)",
+        "pcabId": "24422",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "REHAB./RECONST'N/UPGRADING OF DAMAGED PAVED NAT'L RD. INCLUDING DRAINAGE BASED ON PVM'T MNG'T SYSTEM",
+      "abc": "28275000.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-11-10 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-12-01 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "26909288.5100000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/may/15b00069-Cont.agreemnt.pdf",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/may/15b00069-Noa.pdf",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/may/15b00069-Cont.agreemnt.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

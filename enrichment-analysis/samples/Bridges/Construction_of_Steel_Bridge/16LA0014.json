@@ -1,0 +1,97 @@
+{
+  "data": {
+    "contractId": "16LA0014",
+    "description": "CONSTRUCTION OF HANGING BRIDGE, MAINIT, NABUNTURAN, COMVAL PROVINCE",
+    "category": "Bridges",
+    "status": "Completed",
+    "budget": 984856.57,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region XI",
+      "province": "Davao de Oro 1st DEO",
+      "infraType": "Bridges",
+      "coordinates": {
+        "latitude": 7.49266831,
+        "longitude": 126.01937183,
+        "verified": false
+      }
+    },
+    "infraType": "Bridges",
+    "contractor": "FFJJ CONSTRUCTION (16712)",
+    "startDate": "2016-03-10",
+    "completionDate": "2016-05-31",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-03-10",
+    "expiryDate": "2016-04-11",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 Locally Funded Projects",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00047258MN-CW1",
+        "description": "Construction of Steel Bridge - Hanging Bridge, Mainit , Nabunturan, Compostela Valley",
+        "infraType": "Bridges",
+        "typeOfWork": "Construction of Steel Bridge",
+        "region": "Region XI",
+        "province": "DAVAO DE ORO",
+        "coordinates": {
+          "latitude": 7.49266831,
+          "longitude": 126.01937183,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "FFJJ CONSTRUCTION",
+    "bidders": [
+      {
+        "name": "FFJJ CONSTRUCTION (16712)",
+        "pcabId": "16712",
+        "participation": 100,
+        "isWinner": true
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION OF HANGING BRIDGE, MAINIT, NABUNTURAN, COMVAL PROVINCE",
+      "abc": "989866.61",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-11-11 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-12-09 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "984,856.57"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/april/CONTRACT AGREEMENT.16LA0014.PDF",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/april/NOA.16LA0014.PDF",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/april/CONTRACT AGREEMENT.16LA0014.PDF",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 7.49266831,
+    "longitude": 126.01937183,
+    "coordinates": [
+      {
+        "componentId": "P00047258MN-CW1",
+        "description": "Construction of Steel Bridge - Hanging Bridge, Mainit , Nabunturan, Compostela Valley",
+        "latitude": 7.49266831,
+        "longitude": 126.01937183,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

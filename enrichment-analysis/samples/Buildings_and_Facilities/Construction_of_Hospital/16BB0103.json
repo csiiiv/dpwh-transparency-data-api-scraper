@@ -1,0 +1,97 @@
+{
+  "data": {
+    "contractId": "16BB0103",
+    "description": "COMPLETION OF STA. ANA PALAWIG BIRTHING CENTER (RHU) AT STA. ANA, CAGAYAN",
+    "category": "Buildings and Facilities",
+    "status": "Completed",
+    "budget": 987000,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region II",
+      "province": "Cagayan 1st DEO",
+      "infraType": "Buildings and Facilities",
+      "coordinates": {
+        "latitude": 18.45782666,
+        "longitude": 122.14387,
+        "verified": false
+      }
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "E.V. INTERIOR CONSTRUCTION (39699)",
+    "startDate": "2016-12-20",
+    "completionDate": "2017-03-14",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-12-20",
+    "expiryDate": "2017-02-17",
+    "nysReason": null,
+    "programName": "Outside Infra",
+    "sourceOfFunds": "Outside Infra - GAA 2016 DOH HFEP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00061205LZ-CW1",
+        "description": "Construction of Hospital - Completion, Sta. Ana, Palawig Birthing Center, Sta. Ana, Cagayan",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of Hospital",
+        "region": "Region II",
+        "province": "CAGAYAN",
+        "coordinates": {
+          "latitude": 18.45782666,
+          "longitude": 122.14387,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "E.V. INTERIOR CONSTRUCTION",
+    "bidders": [
+      {
+        "name": "E.V. INTERIOR CONSTRUCTION (39699)",
+        "pcabId": "39699",
+        "participation": 100,
+        "isWinner": true
+      }
+    ],
+    "procurement": {
+      "contractName": "COMPLETION OF STA. ANA PALAWIG BIRTHING CENTER (RHU) AT STA. ANA, CAGAYAN",
+      "abc": "990000.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-11-17 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-12-08 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "987,000.00"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/16bb0103_ca.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/16bb0103_noa.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/16bb0103_ntp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 18.45782666,
+    "longitude": 122.14387,
+    "coordinates": [
+      {
+        "componentId": "P00061205LZ-CW1",
+        "description": "Construction of Hospital - Completion, Sta. Ana, Palawig Birthing Center, Sta. Ana, Cagayan",
+        "latitude": 18.45782666,
+        "longitude": 122.14387,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

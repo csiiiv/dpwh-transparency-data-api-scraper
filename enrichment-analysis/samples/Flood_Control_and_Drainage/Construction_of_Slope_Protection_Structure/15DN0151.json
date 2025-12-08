@@ -1,0 +1,109 @@
+{
+  "data": {
+    "contractId": "15DN0151",
+    "description": "FLOOD MANAGEMENT SERVICES- CONST./MAINT. OF FLOOD MITIGATION STRUCTURES & DRAINAGE SYSTEM, CONST. OF SPILLWAY, SITIO BINAYOYO, BRGY. SAN JUAN, ANTIPOLO CITY, 2ND LD",
+    "category": "Flood Control and Drainage",
+    "status": "Completed",
+    "budget": 14552999.45,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region IV-A",
+      "province": "Rizal 1st DEO",
+      "infraType": "Flood Control and Drainage",
+      "coordinates": {
+        "latitude": 14.392326,
+        "longitude": 121.135796,
+        "verified": false
+      }
+    },
+    "infraType": "Flood Control and Drainage",
+    "contractor": "STO. CRISTO CONSTRUCTION & TRADING INC. (FOR: STO. CRISTO CONSTRUCTION & TRADING) (26096)",
+    "startDate": "2016-01-12",
+    "completionDate": "2016-07-09",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-01-12",
+    "expiryDate": "2016-07-09",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-2",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00020629LZ-CW1",
+        "description": "Construction of Slope Protection Structure - Construction of Spillway, Sitio Binayoyo, Brgy. Calawis & Brgy. San Juan, Antipolo City, 2nd LD",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Construction of Slope Protection Structure",
+        "region": "Region IV-A",
+        "province": "RIZAL",
+        "coordinates": {
+          "latitude": 14.392326,
+          "longitude": 121.135796,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "STO. CRISTO CONSTRUCTION & TRADING INC. (FOR: STO. CRISTO CONSTRUCTION & TRADING)",
+    "bidders": [
+      {
+        "name": "STO. CRISTO CONSTRUCTION & TRADING INC. (FOR: STO. CRISTO CONSTRUCTION & TRADING) (26096)",
+        "pcabId": "26096",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "CHA CONSTRUCTION & SUPPLY (28420) / FLS CONSTRUCTION & BUILDERS (32554) (JV ID: JV-15-800)",
+        "pcabId": "",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "PRECIOUS CONSTRUCTION (32995)",
+        "pcabId": "32995",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "FLOOD MANAGEMENT SERVICES- CONST./MAINT. OF FLOOD MITIGATION STRUCTURES & DRAINAGE SYSTEM, CONST. OF SPILLWAY, SITIO BINAYOYO, BRGY. SAN JUAN, ANTIPOLO CITY, 2ND LD",
+      "abc": "14700000.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-11-20 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-12-11 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "14552999.4500000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/15dn0151_noa.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/15dn0151_ntp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 14.392326,
+    "longitude": 121.135796,
+    "coordinates": [
+      {
+        "componentId": "P00020629LZ-CW1",
+        "description": "Construction of Slope Protection Structure - Construction of Spillway, Sitio Binayoyo, Brgy. Calawis & Brgy. San Juan, Antipolo City, 2nd LD",
+        "latitude": 14.392326,
+        "longitude": 121.135796,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "data": {
+    "contractId": "15DJ0117",
+    "description": "CONSTRUCTION OF BY-PASSES/DIVERSION ROADS, INCL. ROW, CONSTRUCTION OF TUMBAGA BRIDGE AND APPROACHES ALONG SARIAYA BY-PASS ROAD, SARIAYA, QUEZON 2ND LD",
+    "category": "Bridges",
+    "status": "Completed",
+    "budget": 39200000,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region IV-A",
+      "province": "Quezon 2nd DEO",
+      "infraType": "Bridges",
+      "coordinates": {
+        "latitude": 13.952428,
+        "longitude": 121.523101,
+        "verified": false
+      }
+    },
+    "infraType": "Bridges",
+    "contractor": "JBL BUILDERS (36227) / FERDSTAR BUILDERS INC. (4965)",
+    "startDate": "2016-01-28",
+    "completionDate": "2019-12-04",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-01-28",
+    "expiryDate": "2020-04-20",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - Bridges-Construction-Concrete, Flood Control/Hydraulics/River Control, Roads: Construction - PCCP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00013007LZ-CW1",
+        "description": "Construction of Bridge - Sariaya By-pass (Construction of Tumbaga Bridge), Sariaya, Quezon 2nd LD",
+        "infraType": "Bridges",
+        "typeOfWork": "Construction of Bridge",
+        "region": "Region IV-A",
+        "province": "QUEZON",
+        "coordinates": {
+          "latitude": 13.952428,
+          "longitude": 121.523101,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "FERDSTAR BUILDERS INC., JBL BUILDERS",
+    "bidders": [
+      {
+        "name": "FERDSTAR BUILDERS INC. (4965) / JBL BUILDERS (36227) (JV ID: JV-15-813)",
+        "pcabId": "",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "C.T. LEONCIO CONSTRUCTION & TRADING (17371)",
+        "pcabId": "17371",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "HONEYVILLECONST AND DEVELOPMENT CORPORATION (32160)",
+        "pcabId": "32160",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "ORANI CONSTRUCTION AND SUPPLY CORPORATION (FORMERLY:ORANI BUILDERS & SUPPLY) (05349)",
+        "pcabId": "05349",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "PRECIOUS CONSTRUCTION (32995)",
+        "pcabId": "32995",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION OF BY-PASSES/DIVERSION ROADS, INCL. ROW, CONSTRUCTION OF TUMBAGA BRIDGE AND APPROACHES ALONG SARIAYA BY-PASS ROAD, SARIAYA, QUEZON 2ND LD",
+      "abc": "39067693.54",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-11-24 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-12-15 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "36827148.2800000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/march/15dj0117 contract.pdf",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/march/15dj0117 award_1.pdf",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/march/15dj0117 contract.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 13.952428,
+    "longitude": 121.523101,
+    "coordinates": [
+      {
+        "componentId": "P00013007LZ-CW1",
+        "description": "Construction of Bridge - Sariaya By-pass (Construction of Tumbaga Bridge), Sariaya, Quezon 2nd LD",
+        "latitude": 13.952428,
+        "longitude": 121.523101,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

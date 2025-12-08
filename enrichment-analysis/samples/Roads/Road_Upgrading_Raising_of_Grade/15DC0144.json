@@ -1,0 +1,85 @@
+{
+  "data": {
+    "contractId": "15DC0144",
+    "description": "LOCALLY-FUNDED PROJECTS, LOCAL INFRASTRUCTURE PROGRAM (LIP), ROADS AND BRIDGES, LOCAL ROADS, IMPROVE",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 1921634.67,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region IV-A",
+      "province": "Batangas 3rd DEO",
+      "infraType": "Roads",
+      "coordinates": null
+    },
+    "infraType": "Roads",
+    "contractor": "STRUKTURA TEKNIKA SERVICES CO. (16646)",
+    "startDate": "2016-02-15",
+    "completionDate": "2016-04-14",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-02-15",
+    "expiryDate": "2016-04-14",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 Locally Funded Projects",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00045953LZ-CW1",
+        "description": "Road Upgrading Raising of Grade - Improvement of Road, Sta. Clara, Sto. Tomas, Batangas",
+        "infraType": "Roads",
+        "typeOfWork": "Road Upgrading Raising of Grade",
+        "region": "Region IV-A",
+        "province": "BATANGAS",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "STRUKTURA TEKNIKA SERVICES CO.",
+    "bidders": [
+      {
+        "name": "STRUKTURA TEKNIKA SERVICES CO. (16646)",
+        "pcabId": "16646",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "P-SQUARE CONTRACTING & SERVICES (17963)",
+        "pcabId": "17963",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "LOCALLY-FUNDED PROJECTS, LOCAL INFRASTRUCTURE PROGRAM (LIP), ROADS AND BRIDGES, LOCAL ROADS, IMPROVE",
+      "abc": "1980000.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-12-10 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-12-29 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "1921634.6700000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/july/contract_15DC0144.pdf",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/july/award_15DC0144.pdf",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/july/contract_15DC0144.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

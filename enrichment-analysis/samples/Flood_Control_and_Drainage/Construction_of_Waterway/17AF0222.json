@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "17AF0222",
+    "description": "ESTABLISHMENT OF PONGPONG SPRING DEV. PROJ., PONG-PONG, STO. TOMAS, LA UNION",
+    "category": "Flood Control and Drainage",
+    "status": "Completed",
+    "budget": 569174.15,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region I",
+      "province": "La Union 2nd DEO",
+      "infraType": "Flood Control and Drainage",
+      "coordinates": {
+        "latitude": 16.296581,
+        "longitude": 120.407783,
+        "verified": false
+      }
+    },
+    "infraType": "Flood Control and Drainage",
+    "contractor": "VILLAR GENERAL CONSTRUCTION AND SUPPLIES (22540)",
+    "startDate": "2018-04-30",
+    "completionDate": "2018-11-04",
+    "infraYear": "2017",
+    "contractEffectivityDate": "2018-04-30",
+    "expiryDate": "2018-05-29",
+    "nysReason": null,
+    "programName": "Outside Infra",
+    "sourceOfFunds": "Outside Infra - Trust Funds 2017",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00199247LZ-CW1",
+        "description": "Construction of Waterway - Establishment of Pong-pong Spring Development Project, Brgy. Pong-pong, Sto. Tomas, La Union",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Construction of Waterway",
+        "region": "Region I",
+        "province": "LA UNION",
+        "coordinates": {
+          "latitude": 16.296581,
+          "longitude": 120.407783,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "VILLAR GENERAL CONSTRUCTION AND SUPPLIES",
+    "bidders": [
+      {
+        "name": "VILLAR GENERAL CONSTRUCTION AND SUPPLIES (22540)",
+        "pcabId": "22540",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "A.P.B. CONSTRUCTION (17055)",
+        "pcabId": "17055",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "ESTABLISHMENT OF PONGPONG SPRING DEV. PROJ., PONG-PONG, STO. TOMAS, LA UNION",
+      "abc": "599262.85",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2017-12-20 00:00:00.0000000",
+      "bidSubmissionDeadline": "2018-01-11 00:00:00.0000000",
+      "dateOfAward": "2018-04-13 00:00:00.0000000",
+      "awardAmount": "569174.15"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/17AF0222.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/17af222_cont.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/17af222_noa.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/17af222_ntp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 16.296581,
+    "longitude": 120.407783,
+    "coordinates": [
+      {
+        "componentId": "P00199247LZ-CW1",
+        "description": "Construction of Waterway - Establishment of Pong-pong Spring Development Project, Brgy. Pong-pong, Sto. Tomas, La Union",
+        "latitude": 16.296581,
+        "longitude": 120.407783,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

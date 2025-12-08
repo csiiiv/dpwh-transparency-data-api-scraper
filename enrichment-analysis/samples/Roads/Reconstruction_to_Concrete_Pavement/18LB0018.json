@@ -1,0 +1,173 @@
+{
+  "data": {
+    "contractId": "18LB0018",
+    "description": "CONSTRUCTION OF CONCRETE ROAD, SLAUGHTER HOUSE ROAD UNTIL F. TORRES BRIDGE, PACKAGE 4, DAVAO CITY",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 16850116.49,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region XI",
+      "province": "Davao City DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 7.0798123,
+        "longitude": 125.6039668,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "TKS BUILDERS & SUPPLIES (23415)",
+    "startDate": "2018-06-07",
+    "completionDate": "2019-01-07",
+    "infraYear": "2018",
+    "contractEffectivityDate": "2018-06-07",
+    "expiryDate": "2019-01-07",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2018 OO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00200433MN-CW1",
+        "description": "Reconstruction to Concrete Pavement - Slaughter House Road until F. Torres Bridge, Package 4, Davao City",
+        "infraType": "Roads",
+        "typeOfWork": "Reconstruction to Concrete Pavement",
+        "region": "Region XI",
+        "province": "DAVAO ORIENTAL",
+        "coordinates": {
+          "latitude": 7.0798123,
+          "longitude": 125.6039668,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00200433MN-CW2",
+        "description": "Additional Lane Width - Slaughter House Road until F. Torres Bridge, Package 4, Davao City",
+        "infraType": "Roads",
+        "typeOfWork": "Additional Lane Width",
+        "region": "Region XI",
+        "province": "DAVAO ORIENTAL",
+        "coordinates": {
+          "latitude": 7.0832938,
+          "longitude": 125.5962927,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "TKS BUILDERS & SUPPLIES",
+    "bidders": [
+      {
+        "name": "TKS BUILDERS & SUPPLIES (23415)",
+        "pcabId": "23415",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "A.Y.U. ENGINEERING & CONSTRUCTION (25632)",
+        "pcabId": "25632",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "DIGOS TESSTON CONST. & SUPPLIES (8921)",
+        "pcabId": "8921",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "D.L CERVANTES CONSTRUCTION CORPORATION (FORMERLY: (13799)",
+        "pcabId": "13799",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "LOTRIM CONSTRUCTION, INC. (12273)",
+        "pcabId": "12273",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "MPJR BUILDERS COMPANY (20446)",
+        "pcabId": "20446",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "O. G. SANTOS CONSTRUCTION (2050)",
+        "pcabId": "2050",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "RELY CONSTRUCTION & SUPPLY INC.(FORMERLY: RELY CONSTRUCTION AND SUPPLY) (10433)",
+        "pcabId": "10433",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "R. SEMILLA CONSTRUCTION & MARKETING (9263)",
+        "pcabId": "9263",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "TEDDIE CONSTRUCTION DEVELOPMENT, INC. (6313)",
+        "pcabId": "6313",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION OF CONCRETE ROAD, SLAUGHTER HOUSE ROAD UNTIL F. TORRES BRIDGE, PACKAGE 4, DAVAO CITY",
+      "abc": "16850120.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2017-11-29 00:00:00.0000000",
+      "bidSubmissionDeadline": "2018-02-08 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "16343557.82"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/18LB0018 C A.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/18LB0018 NOA.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/18LB0018 C A.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 7.0798123,
+    "longitude": 125.6039668,
+    "coordinates": [
+      {
+        "componentId": "P00200433MN-CW1",
+        "description": "Reconstruction to Concrete Pavement - Slaughter House Road until F. Torres Bridge, Package 4, Davao City",
+        "latitude": 7.0798123,
+        "longitude": 125.6039668,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00200433MN-CW2",
+        "description": "Additional Lane Width - Slaughter House Road until F. Torres Bridge, Package 4, Davao City",
+        "latitude": 7.0832938,
+        "longitude": 125.5962927,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

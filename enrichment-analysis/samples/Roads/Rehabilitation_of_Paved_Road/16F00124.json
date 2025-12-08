@@ -1,0 +1,363 @@
+{
+  "data": {
+    "contractId": "16F00124",
+    "description": "CLUSTER II - REHAB./REPAIR OF VARIOUS LOCAL ROADS/OTHER INFRASTRUCTURE IN CAMALIG, DARAGA AND LEGAZPI CITY, ALBAY 2ND LD",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 15751581.78,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region V",
+      "province": "Region V",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 13.15555556,
+        "longitude": 123.6488889,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "ANTONIO V. NIDEA CONST., INC.(FORMERLY ANTONIO V. (6382)",
+    "startDate": "2017-06-05",
+    "completionDate": "2017-09-12",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2017-06-05",
+    "expiryDate": "2017-09-12",
+    "nysReason": null,
+    "programName": "Outside Infra",
+    "sourceOfFunds": "Outside Infra - GAA 2016 NDRRMF",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00095083LZ-CW1",
+        "description": "Rehabilitation of Concrete Road - Rehabilitation/Repair of Sitio Capantawan, Imalnod Road (400 lm), Legazpi City, Albay",
+        "infraType": "Roads",
+        "typeOfWork": "Rehabilitation of Concrete Road",
+        "region": "Region V",
+        "province": "ALBAY",
+        "coordinates": null
+      },
+      {
+        "componentId": "P00095084LZ-CW1",
+        "description": "Rehabilitation of Concrete Road - Rehabilitation/Repair of Sitio Maypajo-Sitio Santicon Road (600 lm), Legazpi City, Albay",
+        "infraType": "Roads",
+        "typeOfWork": "Rehabilitation of Concrete Road",
+        "region": "Region V",
+        "province": "ALBAY",
+        "coordinates": null
+      },
+      {
+        "componentId": "P00095085LZ-CW1",
+        "description": "Rehabilitation of Concrete Road - Rehabilitation/Repair along Various National Road, Legazpi City, Albay 2nd District",
+        "infraType": "Roads",
+        "typeOfWork": "Rehabilitation of Concrete Road",
+        "region": "Region V",
+        "province": "ALBAY",
+        "coordinates": null
+      },
+      {
+        "componentId": "P00095088LZ-CW1",
+        "description": "Rehabilitation of Concrete Road - Rehabilitation/Repair of Tagoytoy-Mina-Tinago Road (100 lm), Camalig, Albay",
+        "infraType": "Roads",
+        "typeOfWork": "Rehabilitation of Concrete Road",
+        "region": "Region V",
+        "province": "ALBAY",
+        "coordinates": null
+      },
+      {
+        "componentId": "P00095089LZ-CW1",
+        "description": "Rehabilitation of Concrete Road - Rehabilitation/Repair of Maninila-Del Rosario Road (100 lm), Camalig, Albay",
+        "infraType": "Roads",
+        "typeOfWork": "Rehabilitation of Concrete Road",
+        "region": "Region V",
+        "province": "ALBAY",
+        "coordinates": null
+      },
+      {
+        "componentId": "P00095090LZ-CW1",
+        "description": "Rehabilitation of Concrete Road - Rehabilitation/Repair of Bantonan-Palanog Road (100 lm), Camalig, Albay",
+        "infraType": "Roads",
+        "typeOfWork": "Rehabilitation of Concrete Road",
+        "region": "Region V",
+        "province": "ALBAY",
+        "coordinates": null
+      },
+      {
+        "componentId": "P00095091LZ-CW1",
+        "description": "Rehabilitation of Concrete Road - Rehabilitation/Repair of Iluluan-Manawan Road (50 lm), Camalig, Albay",
+        "infraType": "Roads",
+        "typeOfWork": "Rehabilitation of Concrete Road",
+        "region": "Region V",
+        "province": "ALBAY",
+        "coordinates": null
+      },
+      {
+        "componentId": "P00095092LZ-CW1",
+        "description": "Rehabilitation of Concrete Road - Rehabilitation/Repair of Cotmon-Solong-Calabidongan Road (100 lm), Camalig, Albay",
+        "infraType": "Roads",
+        "typeOfWork": "Rehabilitation of Concrete Road",
+        "region": "Region V",
+        "province": "ALBAY",
+        "coordinates": null
+      },
+      {
+        "componentId": "P00095093LZ-CW1",
+        "description": "Rehabilitation of Concrete Road - Rehabilitation/Repair of Ilawod-Ligban-Gotob-Taladong Road (100 lm), Camalig, Albay",
+        "infraType": "Roads",
+        "typeOfWork": "Rehabilitation of Concrete Road",
+        "region": "Region V",
+        "province": "ALBAY",
+        "coordinates": null
+      },
+      {
+        "componentId": "P00095094LZ-CW1",
+        "description": "Rehabilitation of Concrete Road - Rehabilitation/Repair of Pariaan-Binaderahan Road (50 lm), Camalig, Albay",
+        "infraType": "Roads",
+        "typeOfWork": "Rehabilitation of Concrete Road",
+        "region": "Region V",
+        "province": "ALBAY",
+        "coordinates": null
+      },
+      {
+        "componentId": "P00095095LZ-CW1",
+        "description": "Rehabilitation of Concrete Road - Rehabilitation/Repair of Anislag Resettlement Site Access Road, Daraga, Albay",
+        "infraType": "Roads",
+        "typeOfWork": "Rehabilitation of Concrete Road",
+        "region": "Region V",
+        "province": "ALBAY",
+        "coordinates": null
+      },
+      {
+        "componentId": "P00095098LZ-CW1",
+        "description": "Rehabilitation of Concrete Road - Rehabilitation/Repair of Hoyop-Hoyopan Road (455 lm), Camalig, Albay",
+        "infraType": "Roads",
+        "typeOfWork": "Rehabilitation of Concrete Road",
+        "region": "Region V",
+        "province": "ALBAY",
+        "coordinates": null
+      },
+      {
+        "componentId": "P00095106LZ-CW1",
+        "description": "Rehabilitation of Concrete Road - Rehabilitation and Repair of Construction of Slope Protection along Baligang-Caguiba Road (250 lm), Camalig, Albay",
+        "infraType": "Roads",
+        "typeOfWork": "Rehabilitation of Concrete Road",
+        "region": "Region V",
+        "province": "ALBAY",
+        "coordinates": null
+      },
+      {
+        "componentId": "P00095107LZ-CW1",
+        "description": "Rehabilitation of Concrete Road - Rehabilitation and Repair of Construction of Slope Protection along Libod-Bariw Road (200 lm), Camalig, Albay",
+        "infraType": "Roads",
+        "typeOfWork": "Rehabilitation of Concrete Road",
+        "region": "Region V",
+        "province": "ALBAY",
+        "coordinates": null
+      },
+      {
+        "componentId": "P00095108LZ-CW1",
+        "description": "Rehabilitation of Paved Road - Rehabilitation/Repair of Bantonan-Palanog Road (100 lm), Camalig, Albay",
+        "infraType": "Roads",
+        "typeOfWork": "Rehabilitation of Paved Road",
+        "region": "Region V",
+        "province": "ALBAY",
+        "coordinates": {
+          "latitude": 13.15555556,
+          "longitude": 123.6488889,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00095109LZ-CW1",
+        "description": "Rehabilitation of Paved Road - Rehabilitation/Repair of Iluluan-Manawan Road (50 lm), Camalig, Albay",
+        "infraType": "Roads",
+        "typeOfWork": "Rehabilitation of Paved Road",
+        "region": "Region V",
+        "province": "ALBAY",
+        "coordinates": {
+          "latitude": 13.12722222,
+          "longitude": 123.5961111,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00095110LZ-CW1",
+        "description": "Rehabilitation of Paved Road - Rehabilitation/Repair of Cotmon-Solong-Calabidongan Road (100 lm), Camalig, Albay",
+        "infraType": "Roads",
+        "typeOfWork": "Rehabilitation of Paved Road",
+        "region": "Region V",
+        "province": "ALBAY",
+        "coordinates": {
+          "latitude": 13.11916667,
+          "longitude": 123.6311111,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00095111LZ-CW1",
+        "description": "Rehabilitation of Concrete Road - Rehabilitation/Restoration of Ilawod-Ligban-Gotob-Taladong Road (100 lm), Camalig, Albay",
+        "infraType": "Roads",
+        "typeOfWork": "Rehabilitation of Concrete Road",
+        "region": "Region V",
+        "province": "ALBAY",
+        "coordinates": null
+      },
+      {
+        "componentId": "P00095112LZ-CW1",
+        "description": "Rehabilitation of Concrete Road - Rehabilitation/Restoration of Pariaan-Binaderahan Road (50 lm), Camalig, Albay",
+        "infraType": "Roads",
+        "typeOfWork": "Rehabilitation of Concrete Road",
+        "region": "Region V",
+        "province": "ALBAY",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "ANTONIO V. NIDEA CONST., INC.(FORMERLY ANTONIO V.",
+    "bidders": [
+      {
+        "name": "ANTONIO V. NIDEA CONST., INC.(FORMERLY ANTONIO V. (6382)",
+        "pcabId": "6382",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "ALXM CONSTRUCTION & DEV'T. CORP. (FORMERLY:ALXM CONSTRUCTION) (33436)",
+        "pcabId": "33436",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "DSB CONSTRUCTION  & SUPPLY, INC. (FORMERLY: DSB CO (16126)",
+        "pcabId": "16126",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "ELKANKONSTRAK DEVELOPMENT CORPORATION (26220)",
+        "pcabId": "26220",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "HONEYVILLECONST AND DEVELOPMENT CORPORATION (32160)",
+        "pcabId": "32160",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "MAKAPA CORPORATION (30029)",
+        "pcabId": "30029",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "NUMERICAL GATE CONSTRUCTION & SUPPLY CORPORATION (34122)",
+        "pcabId": "34122",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "PHILWORKS CONSTRUCTION & SUPPLY (32103)",
+        "pcabId": "32103",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "PRECIOUS CONSTRUCTION (32995)",
+        "pcabId": "32995",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "RCDS CONSTRUCTION & SUPPLY, INC.(FOR RCDS CONST. (32331)",
+        "pcabId": "32331",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "ROLCO CONSTRUCTION & DEVELOPMENT CORPORATION ( FOR (29686)",
+        "pcabId": "29686",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "TR CONSTRUCTION CORPORATION (FOR: TR CONSTRUCTION) (11697)",
+        "pcabId": "11697",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "WCS CONSTRUCTION, INC. (6516)",
+        "pcabId": "6516",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "WEARR ENTERPRISES & DEVELOPMENT CORP. (14123)",
+        "pcabId": "14123",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CLUSTER II - REHAB./REPAIR OF VARIOUS LOCAL ROADS/OTHER INFRASTRUCTURE IN CAMALIG, DARAGA AND LEGAZPI CITY, ALBAY 2ND LD",
+      "abc": "16478816.84",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2017-03-07 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-03-27 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "15,751,581.78"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/Plans 16F00124.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/Contract 16F00124.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/NOA 16F00124.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/Contract 16F00124.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 13.15555556,
+    "longitude": 123.6488889,
+    "coordinates": [
+      {
+        "componentId": "P00095108LZ-CW1",
+        "description": "Rehabilitation of Paved Road - Rehabilitation/Repair of Bantonan-Palanog Road (100 lm), Camalig, Albay",
+        "latitude": 13.15555556,
+        "longitude": 123.6488889,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00095109LZ-CW1",
+        "description": "Rehabilitation of Paved Road - Rehabilitation/Repair of Iluluan-Manawan Road (50 lm), Camalig, Albay",
+        "latitude": 13.12722222,
+        "longitude": 123.5961111,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00095110LZ-CW1",
+        "description": "Rehabilitation of Paved Road - Rehabilitation/Repair of Cotmon-Solong-Calabidongan Road (100 lm), Camalig, Albay",
+        "latitude": 13.11916667,
+        "longitude": 123.6311111,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

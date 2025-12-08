@@ -1,0 +1,91 @@
+{
+  "data": {
+    "contractId": "15DB0150",
+    "description": "WATER SUPPLY PROJECT IN BRGY. PARAISO, CALATAGAN, BATANGAS",
+    "category": "Water Provision and Storage",
+    "status": "Completed",
+    "budget": 1928210,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region IV-A",
+      "province": "Batangas 1st DEO",
+      "infraType": "Water Provision and Storage",
+      "coordinates": null
+    },
+    "infraType": "Water Provision and Storage",
+    "contractor": "RICH ADS CONSTRUCTION CORP. (FORMERLY RICH ADS CON (31157)",
+    "startDate": "2016-02-03",
+    "completionDate": "2016-04-02",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-02-03",
+    "expiryDate": "2016-04-02",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 Locally Funded Projects",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00047317LZ-CW1",
+        "description": "Construction of Water Supply Systems - Water System Project in Brgy. Paraiso, Calatagan",
+        "infraType": "Water Provision and Storage",
+        "typeOfWork": "Construction of Water Supply Systems",
+        "region": "Region IV-A",
+        "province": "BATANGAS",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "RICH ADS CONSTRUCTION CORP. (FORMERLY RICH ADS CON",
+    "bidders": [
+      {
+        "name": "RICH ADS CONSTRUCTION CORP. (FORMERLY RICH ADS CON (31157)",
+        "pcabId": "31157",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "F. CASALME CONSTRUCTION & SUPPLY (33657)",
+        "pcabId": "33657",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "TDR CONSTRUCTION & SUPPLY (8560)",
+        "pcabId": "8560",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "WATER SUPPLY PROJECT IN BRGY. PARAISO, CALATAGAN, BATANGAS",
+      "abc": "1980000.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-11-24 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-12-14 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "1928210.0000000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/15db0150_noa_roa.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/15db0150_ntp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

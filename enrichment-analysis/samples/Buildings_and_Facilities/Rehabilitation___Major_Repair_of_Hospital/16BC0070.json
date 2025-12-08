@@ -1,0 +1,109 @@
+{
+  "data": {
+    "contractId": "16BC0070",
+    "description": "REPAIR/REHAB./UPGRADING OF BARANGAY HEALTH STATION, SAN JUAN, ALLACAPAN, CAGAYAN",
+    "category": "Buildings and Facilities",
+    "status": "Completed",
+    "budget": 969260.71,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region II",
+      "province": "Cagayan 2nd DEO",
+      "infraType": "Buildings and Facilities",
+      "coordinates": {
+        "latitude": 18.60533934,
+        "longitude": 121.17231858,
+        "verified": false
+      }
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "OCP CONSTRUCTION (38490)",
+    "startDate": "2016-12-19",
+    "completionDate": "2017-05-15",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-12-19",
+    "expiryDate": "2017-03-18",
+    "nysReason": null,
+    "programName": "Outside Infra",
+    "sourceOfFunds": "Outside Infra - GAA 2016 DOH HFEP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00061207LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Hospital - Repair/Rehab/Upgrading, Allacapan, San Juan BHS, Allacapan, Cagayan",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Rehabilitation / Major Repair of Hospital",
+        "region": "Region II",
+        "province": "CAGAYAN",
+        "coordinates": {
+          "latitude": 18.60533934,
+          "longitude": 121.17231858,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "OCP CONSTRUCTION",
+    "bidders": [
+      {
+        "name": "OCP CONSTRUCTION (38490)",
+        "pcabId": "38490",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "DANDEX CONSTRUCTION (36946)",
+        "pcabId": "36946",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "E.C.T. CONSTRUCTION (10060)",
+        "pcabId": "10060",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "REPAIR/REHAB./UPGRADING OF BARANGAY HEALTH STATION, SAN JUAN, ALLACAPAN, CAGAYAN",
+      "abc": "990000.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-11-10 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-12-01 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "969,260.71"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/december/16BC0070-NOA.pdf",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/ntp/16/december/16BC0070-NTP.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 18.60533934,
+    "longitude": 121.17231858,
+    "coordinates": [
+      {
+        "componentId": "P00061207LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Hospital - Repair/Rehab/Upgrading, Allacapan, San Juan BHS, Allacapan, Cagayan",
+        "latitude": 18.60533934,
+        "longitude": 121.17231858,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

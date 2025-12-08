@@ -1,0 +1,127 @@
+{
+  "data": {
+    "contractId": "19CC0241",
+    "description": "CONSTRUCTION OF FLYOVERS/INTERCHANGES/UNDERPASSES/ LONG SPAN BRIDGES - BONGA MENOR FLYOVER AT PLARIDEL BYPASS (BUSTOS SECTION) BUSTOS, BULACAN",
+    "category": "Bridges",
+    "status": "Completed",
+    "budget": 72374691.98,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region III",
+      "province": "Bulacan 1st DEO",
+      "infraType": "Bridges",
+      "coordinates": {
+        "latitude": 14.9501528,
+        "longitude": 120.9281906,
+        "verified": false
+      }
+    },
+    "infraType": "Bridges",
+    "contractor": "L.R. TIQUI BUILDERS, INC. (13810)",
+    "startDate": "2019-09-02",
+    "completionDate": "2021-01-23",
+    "infraYear": "2019",
+    "contractEffectivityDate": "2019-09-02",
+    "expiryDate": "2021-01-26",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2019 OO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00304221LZ-CW1",
+        "description": "Construction of Flyover - Bonga-Menor Flyover at Plaridel Bypass (Bustos Section)",
+        "infraType": "Bridges",
+        "typeOfWork": "Construction of Flyover",
+        "region": "Region III",
+        "province": "BULACAN",
+        "coordinates": {
+          "latitude": 14.9501528,
+          "longitude": 120.9281906,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "L.R. TIQUI BUILDERS, INC.",
+    "bidders": [
+      {
+        "name": "L.R. TIQUI BUILDERS, INC. (13810)",
+        "pcabId": "13810",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "J.H. PAJARA CONSTRUCTION CORPORATION (1890)",
+        "pcabId": "1890",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "L.M.G. CONSTRUCTION INCORPORATED (FORMERLY: LMG CONSTRUCTION) (5719)",
+        "pcabId": "5719",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "VICTORIA DEVELOPMENT AND VENTURES CORP. (FOR: VICTORIA DEV'T AND CONST. CORP.) (32638)",
+        "pcabId": "32638",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "W.D. NAVARRO CONSTRUCTION CO. (14327)",
+        "pcabId": "14327",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "WILKINSON CONSTRUCTION (21422)",
+        "pcabId": "21422",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION OF FLYOVERS/INTERCHANGES/UNDERPASSES/ LONG SPAN BRIDGES - BONGA MENOR FLYOVER AT PLARIDEL BYPASS (BUSTOS SECTION) BUSTOS, BULACAN",
+      "abc": "72371523.22",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2019-07-09 00:00:00.0000000",
+      "bidSubmissionDeadline": "2019-07-30 00:00:00.0000000",
+      "dateOfAward": "2019-08-19 00:00:00.0000000",
+      "awardAmount": "70138750.48"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/bds19cc0241.pdf",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/cwa 19cc0241.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/noa 19cc0243.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/cwa 19cc0241.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 14.9501528,
+    "longitude": 120.9281906,
+    "coordinates": [
+      {
+        "componentId": "P00304221LZ-CW1",
+        "description": "Construction of Flyover - Bonga-Menor Flyover at Plaridel Bypass (Bustos Section)",
+        "latitude": 14.9501528,
+        "longitude": 120.9281906,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "data": {
+    "contractId": "15EB0271",
+    "description": "CONSTRUCTION OF BANAKAN BRIDGE, TANGKALAN, MAMBURA, MINDORO OCCIDENTAL (PHASE 1), MAMBUAO, OCCIDENTAL MINDORO",
+    "category": "Bridges",
+    "status": "Completed",
+    "budget": 28245386.76,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region IV-B",
+      "province": "Mindoro Occidental DEO",
+      "infraType": "Bridges",
+      "coordinates": null
+    },
+    "infraType": "Bridges",
+    "contractor": "NEW MINDORENOS LUMBER, HARDWARE AND GEN MERCHANDISE (31745) / THREE W BUILDERS, INC. (10722)",
+    "startDate": "2016-03-17",
+    "completionDate": "2017-07-15",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-03-17",
+    "expiryDate": "2016-09-16",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 Locally Funded Projects",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00054442LZ-CW1",
+        "description": "Construction of Bridge - Construction of Banakan Bridge, Tangkalan, Mamburao, Mindoro Occidental",
+        "infraType": "Bridges",
+        "typeOfWork": "Construction of Bridge",
+        "region": "Region IV-B",
+        "province": "OCCIDENTAL MINDORO",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "NEW MINDORENOS LUMBER, HARDWARE AND GEN MERCHANDISE, THREE W BUILDERS, INC.",
+    "bidders": [
+      {
+        "name": "NEW MINDORENOS LUMBER, HARDWARE AND GEN MERCHANDISE (31745) / THREE W BUILDERS, INC. (10722) (JV ID: JV-15-1007)",
+        "pcabId": "",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "RUBYLIM CONSTRUCTION & SUPPLIES, INC. (FORMERLY: RUBY LIM CONSTRUCTION & SUPPLIES) (11685)",
+        "pcabId": "11685",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "SYNDTITE CONSTRUCTION CORPORATION (FORMERLY: R.C. TAGALA CONSTRUCTION) (11597)",
+        "pcabId": "11597",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION OF BANAKAN BRIDGE, TANGKALAN, MAMBURA, MINDORO OCCIDENTAL (PHASE 1), MAMBUAO, OCCIDENTAL MINDORO",
+      "abc": "29700000.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-12-23 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-02-23 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "28245386.7600000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/november/15EB0271-CONTRACT.pdf",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/november/15EB0271-NOA.pdf",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/november/15EB0271-CONTRACT.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

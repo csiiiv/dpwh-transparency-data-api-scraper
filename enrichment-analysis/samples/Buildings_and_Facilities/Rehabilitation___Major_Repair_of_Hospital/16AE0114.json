@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "16AE0114",
+    "description": "REHABILITATION OF MAIN HOSPITAL BUILDING, BACNOTAN DISTRICT HOSPITAL, BACNOTAN, LA UNION (RE-ADVERTISEMENT)",
+    "category": "Buildings and Facilities",
+    "status": "Completed",
+    "budget": 9731099.9,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region I",
+      "province": "La Union 1st DEO",
+      "infraType": "Buildings and Facilities",
+      "coordinates": {
+        "latitude": 16.7255848048306,
+        "longitude": 120.350558795294,
+        "verified": false
+      }
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "MY BUILDERS AND CONSTRUCTION (22687)",
+    "startDate": "2017-07-13",
+    "completionDate": "2018-03-09",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2017-07-13",
+    "expiryDate": "2018-01-08",
+    "nysReason": null,
+    "programName": "Outside Infra",
+    "sourceOfFunds": "Outside Infra - GAA 2016 DOH HFEP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00061096LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Hospital - Rehabilitaion of Main Hospiatal Bldg., Bacnotan District Hospital, Bacnotan, La Union",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Rehabilitation / Major Repair of Hospital",
+        "region": "Region I",
+        "province": "LA UNION",
+        "coordinates": {
+          "latitude": 16.7255848048306,
+          "longitude": 120.350558795294,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "MY BUILDERS AND CONSTRUCTION",
+    "bidders": [
+      {
+        "name": "MY BUILDERS AND CONSTRUCTION (22687)",
+        "pcabId": "22687",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "ARM-ASIA CONSTRUCTION & ENGINEERING (27561)",
+        "pcabId": "27561",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "REHABILITATION OF MAIN HOSPITAL BUILDING, BACNOTAN DISTRICT HOSPITAL, BACNOTAN, LA UNION (RE-ADVERTISEMENT)",
+      "abc": "9950000.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2017-05-24 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-06-19 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "9,731,099.90"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/16AE0114 Plans.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/16AE0114 CONTRACT.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/16AE0114 NOA.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/16AE0114 CONTRACT.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 16.7255848048306,
+    "longitude": 120.350558795294,
+    "coordinates": [
+      {
+        "componentId": "P00061096LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Hospital - Rehabilitaion of Main Hospiatal Bldg., Bacnotan District Hospital, Bacnotan, La Union",
+        "latitude": 16.7255848048306,
+        "longitude": 120.350558795294,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

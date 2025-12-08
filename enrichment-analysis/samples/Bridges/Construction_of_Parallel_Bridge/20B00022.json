@@ -1,0 +1,97 @@
+{
+  "data": {
+    "contractId": "20B00022",
+    "description": "ORGANIZATIONAL OUTCOME 1: ENSURE SAFE AND RELIABLE NATIONAL ROAD SYSTEM: BRIDGE PROGRAM: WIDENING OF PERMANENT BRIDGES: MINANGA BRIDGE (B01129LZ) ALONG DAANG MAHARLIKA (LZ) (PARALLEL BRIDGE), TUMAUINI, ISABELA",
+    "category": "Bridges",
+    "status": "On-Going",
+    "budget": 374534001.61,
+    "amountPaid": 0,
+    "progress": 95.27,
+    "location": {
+      "region": "Region II",
+      "province": "Region II",
+      "infraType": "Bridges",
+      "coordinates": {
+        "latitude": 17.2673056,
+        "longitude": 121.8316275,
+        "verified": false
+      }
+    },
+    "infraType": "Bridges",
+    "contractor": "ADVANCED FOUNDATION CONSTRUCTION SYSTEMS CORP. (15449)",
+    "startDate": "2020-07-27",
+    "completionDate": null,
+    "infraYear": "2020",
+    "contractEffectivityDate": "2020-07-27",
+    "expiryDate": "2023-01-12",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2020 OO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00401810LZ-CW1",
+        "description": "Construction of Parallel Bridge - Minanga Parallel Br. along Daang Maharlika (LZ)",
+        "infraType": "Bridges",
+        "typeOfWork": "Construction of Parallel Bridge",
+        "region": "Region II",
+        "province": "ISABELA",
+        "coordinates": {
+          "latitude": 17.2673056,
+          "longitude": 121.8316275,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "ADVANCED FOUNDATION CONSTRUCTION SYSTEMS CORP.",
+    "bidders": [
+      {
+        "name": "ADVANCED FOUNDATION CONSTRUCTION SYSTEMS CORP. (15449)",
+        "pcabId": "15449",
+        "participation": 100,
+        "isWinner": true
+      }
+    ],
+    "procurement": {
+      "contractName": "ORGANIZATIONAL OUTCOME 1: ENSURE SAFE AND RELIABLE NATIONAL ROAD SYSTEM: BRIDGE PROGRAM: WIDENING OF PERMANENT BRIDGES: MINANGA BRIDGE (B01129LZ) ALONG DAANG MAHARLIKA (LZ) (PARALLEL BRIDGE), TUMAUINI, ISABELA",
+      "abc": "382188598.99",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2020-06-06 00:00:00.0000000",
+      "bidSubmissionDeadline": "2020-06-30 00:00:00.0000000",
+      "dateOfAward": "2020-07-14 00:00:00.0000000",
+      "awardAmount": "374534001.6"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/20B00022.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/20b00022_contract_agreement.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/20B00022 NOA.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/20b00022_ntp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 17.2673056,
+    "longitude": 121.8316275,
+    "coordinates": [
+      {
+        "componentId": "P00401810LZ-CW1",
+        "description": "Construction of Parallel Bridge - Minanga Parallel Br. along Daang Maharlika (LZ)",
+        "latitude": 17.2673056,
+        "longitude": 121.8316275,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 2,
+      "latestImageDate": "2021-01-28 01:27:40.411000",
+      "hasImages": true
+    }
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "data": {
+    "contractId": "16D00039",
+    "description": "LOCALLY FUNDED PROJECTS UPGRADING/IMPROVEMENT OF EXISTING ASPHALT PAVEMENT OF IPB ROAD AND CONSTRUCTION OF TWO BRIDGES, UNIVERSITY OF THE PHILIPPINES-LOS BAÑOS, LAGUNA",
+    "category": "Bridges, Roads",
+    "status": "Completed",
+    "budget": 54449999.67,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region IV-A",
+      "province": "Region IV-A",
+      "infraType": "Roads",
+      "coordinates": null
+    },
+    "infraType": "Roads",
+    "contractor": "WERR CORPORATION INTERNATIONAL (14133)",
+    "startDate": "2016-05-18",
+    "completionDate": "2018-09-03",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-05-24",
+    "expiryDate": "2018-02-16",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - Bridges-Construction-Concrete, Flood Control/Hydraulics/River Control",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00053249LZ-CW1",
+        "description": "Construction of Asphalt Road - Upgrading/Improvement of existing asphalt Pavement and construction of two Bridges, IPB Road, University of the Philippines - Los Ba±os, Laguna -  Roads: Sta 0+480-Sta 0+806.29; Sta 0+818.29-Sta 1+119.15; Sta 1+131.15-Sta 2+",
+        "infraType": "Roads",
+        "typeOfWork": "Construction of Asphalt Road",
+        "region": "Region IV-A",
+        "province": "LAGUNA",
+        "coordinates": null
+      },
+      {
+        "componentId": "P00053249LZ-CW2",
+        "description": "Construction of Bridge - Upgrading/Improvement of existing asphalt Pavement and construction of two Bridges, IPB Road, University of the Philippines - Los Ba±os, Laguna -  Roads: Sta 0+480-Sta 0+806.29; Sta 0+818.29-Sta 1+119.15; Sta 1+131.15-Sta 2+169.88",
+        "infraType": "Bridges",
+        "typeOfWork": "Construction of Bridge",
+        "region": "Region IV-A",
+        "province": "LAGUNA",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "WERR CORPORATION INTERNATIONAL",
+    "bidders": [
+      {
+        "name": "WERR CORPORATION INTERNATIONAL (14133)",
+        "pcabId": "14133",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "LEGAZPI PREMIUM DEVELOPMENT CORPORATION (20701)",
+        "pcabId": "20701",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "ST. GERRARD CONSTRUCTION GEN. CONTRACTOR & DEVELOPMENT CORP. (FORMERLY:ST. GERRARD CONSTRUCTION) ([REVOKED] 31762)",
+        "pcabId": "[REVOKED] 31762",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "LOCALLY FUNDED PROJECTS UPGRADING/IMPROVEMENT OF EXISTING ASPHALT PAVEMENT OF IPB ROAD AND CONSTRUCTION OF TWO BRIDGES, UNIVERSITY OF THE PHILIPPINES-LOS BAÑOS, LAGUNA",
+      "abc": "53625000.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-03-08 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-03-29 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "53,098,850.77"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/july/16D00039_CA0001.pdf",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/july/16D00039_NOA0001.pdf",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/july/16D00039_CA0001.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

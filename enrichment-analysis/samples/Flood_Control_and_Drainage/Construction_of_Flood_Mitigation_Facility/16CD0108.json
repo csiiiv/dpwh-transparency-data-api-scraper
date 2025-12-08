@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "16CD0108",
+    "description": "VALENZUELA-OBANDO-MEYCAUAYAN FLOOD CONTROL PROJECT CONSTRUCTION OF RELIEF PUMPING STATION AT ROSAL ST. BRGY.PANGHULO,OBANDO,BULACAN",
+    "category": "Flood Control and Drainage",
+    "status": "Completed",
+    "budget": 9205279.59,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region III",
+      "province": "Bulacan 2nd DEO",
+      "infraType": "Flood Control and Drainage",
+      "coordinates": {
+        "latitude": 14.69897,
+        "longitude": 120.945039,
+        "verified": false
+      }
+    },
+    "infraType": "Flood Control and Drainage",
+    "contractor": "STO. CRISTO CONSTRUCTION & TRADING INC. (FOR: STO. CRISTO CONSTRUCTION & TRADING) (26096)",
+    "startDate": "2016-05-30",
+    "completionDate": "2016-11-15",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-05-30",
+    "expiryDate": "2016-11-16",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-2",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00022741LZ-CW1",
+        "description": "Construction of Flood Mitigation Facility - Valenzuela-Obando-Meycauayan Flood Control Project-Construction of Relief Pumping Station at Rosal St., Brgy. Panghulo, Obando, Bulacan",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Construction of Flood Mitigation Facility",
+        "region": "Region III",
+        "province": "BULACAN",
+        "coordinates": {
+          "latitude": 14.69897,
+          "longitude": 120.945039,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "STO. CRISTO CONSTRUCTION & TRADING INC. (FOR: STO. CRISTO CONSTRUCTION & TRADING)",
+    "bidders": [
+      {
+        "name": "STO. CRISTO CONSTRUCTION & TRADING INC. (FOR: STO. CRISTO CONSTRUCTION & TRADING) (26096)",
+        "pcabId": "26096",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "KATHA BUILDERS & SUPPLIES INC. (34651)",
+        "pcabId": "34651",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "VALENZUELA-OBANDO-MEYCAUAYAN FLOOD CONTROL PROJECT CONSTRUCTION OF RELIEF PUMPING STATION AT ROSAL ST. BRGY.PANGHULO,OBANDO,BULACAN",
+      "abc": "9699998.37",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-03-02 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-03-22 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "9,205,279.59"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/october/108.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/noa_16cd0108.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/ntp_16cd0108.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 14.69897,
+    "longitude": 120.945039,
+    "coordinates": [
+      {
+        "componentId": "P00022741LZ-CW1",
+        "description": "Construction of Flood Mitigation Facility - Valenzuela-Obando-Meycauayan Flood Control Project-Construction of Relief Pumping Station at Rosal St., Brgy. Panghulo, Obando, Bulacan",
+        "latitude": 14.69897,
+        "longitude": 120.945039,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

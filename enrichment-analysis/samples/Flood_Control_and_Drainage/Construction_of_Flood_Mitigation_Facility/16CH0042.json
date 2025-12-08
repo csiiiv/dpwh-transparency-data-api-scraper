@@ -1,0 +1,133 @@
+{
+  "data": {
+    "contractId": "16CH0042",
+    "description": "CONSTRUCTION OF SLOPE PROTECTION OF GUMAIN RIVER, BRGY. GUTAD TO CONSUELO, FLORIDABLANCA, PAMPANGA",
+    "category": "Flood Control and Drainage",
+    "status": "Completed",
+    "budget": 29505406.95,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region III",
+      "province": "Pampanga 2nd DEO",
+      "infraType": "Flood Control and Drainage",
+      "coordinates": {
+        "latitude": 14.947743,
+        "longitude": 120.500426,
+        "verified": false
+      }
+    },
+    "infraType": "Flood Control and Drainage",
+    "contractor": "TOKWING CONSTRUCTION, CORP.(FOR;  TOKWING CONSTRUC (9650)",
+    "startDate": "2016-08-01",
+    "completionDate": "2017-01-17",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-08-01",
+    "expiryDate": "2016-12-28",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-2",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00022697LZ-CW1",
+        "description": "Construction of Flood Mitigation Facility - Construction of Slope Protection of Gumain River along Barangay Gutad to Consuelo, Floridablanca, Pampanga",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Construction of Flood Mitigation Facility",
+        "region": "Region III",
+        "province": "PAMPANGA",
+        "coordinates": {
+          "latitude": 14.947743,
+          "longitude": 120.500426,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "TOKWING CONSTRUCTION, CORP.(FOR;  TOKWING CONSTRUC",
+    "bidders": [
+      {
+        "name": "TOKWING CONSTRUCTION, CORP.(FOR;  TOKWING CONSTRUC (9650)",
+        "pcabId": "9650",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "FERDSTAR BUILDERS INC. (4965)",
+        "pcabId": "4965",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "HG-III CONSTRUCTION AND DEVELOPMENT CORPORATION (F (8431)",
+        "pcabId": "8431",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "HIGH STRENGTH DEV. CORPORATION (31976)",
+        "pcabId": "31976",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "OMICRON CONSTRUCTION INC.(FORMERLY: OMICRON CONSTRUCTION) (9575)",
+        "pcabId": "9575",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "ORANI CONSTRUCTION AND SUPPLY CORPORATION (FORMERLY:ORANI BUILDERS & SUPPLY) (05349)",
+        "pcabId": "05349",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "STO. CRISTO CONSTRUCTION & TRADING INC. (FOR: STO. CRISTO CONSTRUCTION & TRADING) (26096)",
+        "pcabId": "26096",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION OF SLOPE PROTECTION OF GUMAIN RIVER, BRGY. GUTAD TO CONSUELO, FLORIDABLANCA, PAMPANGA",
+      "abc": "29537616.82",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-05-30 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-06-29 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "28,060,874.25"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/16ch0042_contract_agreement.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/16ch0042_notice_of_award.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/16ch0042_notice_to_proceed.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 14.947743,
+    "longitude": 120.500426,
+    "coordinates": [
+      {
+        "componentId": "P00022697LZ-CW1",
+        "description": "Construction of Flood Mitigation Facility - Construction of Slope Protection of Gumain River along Barangay Gutad to Consuelo, Floridablanca, Pampanga",
+        "latitude": 14.947743,
+        "longitude": 120.500426,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

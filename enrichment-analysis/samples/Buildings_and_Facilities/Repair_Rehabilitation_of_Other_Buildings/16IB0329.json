@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "16IB0329",
+    "description": "REPAIR/REHABILITATION OF TEN (10) MARKET BUILDINGS, DOLORES EASTERN SAMAR.",
+    "category": "Buildings and Facilities",
+    "status": "Completed",
+    "budget": 12211366.71,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region VIII",
+      "province": "Eastern Samar DEO",
+      "infraType": "Buildings and Facilities",
+      "coordinates": {
+        "latitude": 12.034836,
+        "longitude": 125.482778,
+        "verified": false
+      }
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "PABLO S. LABASBAS CONSTRUCTION CORPORATION (FORMERLY: PABLOS. LABASBAS CONSTRUCTION CORPORATION) (6302)",
+    "startDate": "2017-04-17",
+    "completionDate": "2017-09-13",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2017-04-17",
+    "expiryDate": "2017-09-13",
+    "nysReason": null,
+    "programName": "Outside Infra",
+    "sourceOfFunds": "Outside Infra - GAA 2016 NDRRMF",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00095303VS-CW1",
+        "description": "Repair/Rehabilitation of Other Buildings - Repair/Rehabilitation of ten (10) Market Buildings, Dolores Eastern Samar",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Repair/Rehabilitation of Other Buildings",
+        "region": "Region VIII",
+        "province": "EASTERN SAMAR",
+        "coordinates": {
+          "latitude": 12.034836,
+          "longitude": 125.482778,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "PABLO S. LABASBAS CONSTRUCTION CORPORATION (FORMERLY: PABLOS. LABASBAS CONSTRUCTION CORPORATION)",
+    "bidders": [
+      {
+        "name": "PABLO S. LABASBAS CONSTRUCTION CORPORATION (FORMERLY: PABLOS. LABASBAS CONSTRUCTION CORPORATION) (6302)",
+        "pcabId": "6302",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "A.C. RIVERO DEVELOPMENT CORPORATION (5122)",
+        "pcabId": "5122",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "REPAIR/REHABILITATION OF TEN (10) MARKET BUILDINGS, DOLORES EASTERN SAMAR.",
+      "abc": "12788910.48",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2017-01-17 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-02-07 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "12,225,570.63"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/ITB 17IB0076, 16IB0329, 16IB0330.rar",
+      "contractAgreement": "",
+      "noticeOfAward": "",
+      "noticeToProceed": "",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 12.034836,
+    "longitude": 125.482778,
+    "coordinates": [
+      {
+        "componentId": "P00095303VS-CW1",
+        "description": "Repair/Rehabilitation of Other Buildings - Repair/Rehabilitation of ten (10) Market Buildings, Dolores Eastern Samar",
+        "latitude": 12.034836,
+        "longitude": 125.482778,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

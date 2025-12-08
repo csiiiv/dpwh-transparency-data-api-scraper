@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "17KA0008",
+    "description": "FLARING OF INTERSECTION ALONG JCT SH-AGLAYAN-ALANIB-TICALAAN RD (AGLAYAN-BASAK)  AND JCT SH AGLAYAN- ZAMBOANGUITA RDINTERSECTION - K1518 + -223MALAYBALAY CITY",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 18395095.66,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region X",
+      "province": "Bukidnon 1st DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 8.05361111,
+        "longitude": 125.13527778,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "JT GAMOLO CONSTRUCTION, INCORPORATION (FORMERLY:J.T. GAMOLO CONSTRUCTION) (15759)",
+    "startDate": "2017-03-27",
+    "completionDate": "2018-07-31",
+    "infraYear": "2017",
+    "contractEffectivityDate": "2017-03-27",
+    "expiryDate": "2018-04-13",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2017 MFO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00107059MN-CW1",
+        "description": "Off-Carriageway Improvement: Flaring of Intersections / Improvement of Intersections - Flaring of Intersection along Jct SH-Aglayan-Alanib-Ticalaan Rd (Aglayan-Basak) and Jct SH Aglayan-Zamboanguita Rd Intersection - K1518 + -223",
+        "infraType": "Roads",
+        "typeOfWork": "Off-Carriageway Improvement: Flaring of Intersections / Improvement of Intersections",
+        "region": "Region X",
+        "province": "BUKIDNON",
+        "coordinates": {
+          "latitude": 8.05361111,
+          "longitude": 125.13527778,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "JT GAMOLO CONSTRUCTION, INCORPORATION (FORMERLY:J.T. GAMOLO CONSTRUCTION)",
+    "bidders": [
+      {
+        "name": "JT GAMOLO CONSTRUCTION, INCORPORATION (FORMERLY:J.T. GAMOLO CONSTRUCTION) (15759)",
+        "pcabId": "15759",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "RUPLINO SEISMUNDO CONSTRUCTION CORPORATION (FORMERLY: R.R. SEISMUNDO CONSTRUCTION & SUPPLY) (10961)",
+        "pcabId": "10961",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "FLARING OF INTERSECTION ALONG JCT SH-AGLAYAN- ALANIB-TICALAAN RD (AGLAYAN-BASAK)  AND  JCT SH AGLAYAN- ZAMBOANGUITA RD INTERSECTION - K1518 + -223 MALAYBALAY CITY",
+      "abc": "19600000.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-10-26 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-11-15 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "18591932.2"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/08 contract.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/08 award.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/08 contract.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 8.05361111,
+    "longitude": 125.13527778,
+    "coordinates": [
+      {
+        "componentId": "P00107059MN-CW1",
+        "description": "Off-Carriageway Improvement: Flaring of Intersections / Improvement of Intersections - Flaring of Intersection along Jct SH-Aglayan-Alanib-Ticalaan Rd (Aglayan-Basak) and Jct SH Aglayan-Zamboanguita Rd Intersection - K1518 + -223",
+        "latitude": 8.05361111,
+        "longitude": 125.13527778,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

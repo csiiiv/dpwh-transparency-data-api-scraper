@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "22KE0072",
+    "description": "REHABILITATION OF BARANGAY HEALTH STATION BONBON, CATARMAN, CAMIGUIN",
+    "category": "Buildings and Facilities",
+    "status": "Completed",
+    "budget": 4947041.97,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region X",
+      "province": "Camiguin DEO",
+      "infraType": "Buildings and Facilities",
+      "coordinates": {
+        "latitude": 9.1949667,
+        "longitude": 124.6375435,
+        "verified": false
+      }
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "R AND L BUILDERS AND CONSTRUCTION SUPPLY CORP. (47567)",
+    "startDate": "2022-06-29",
+    "completionDate": "2022-12-01",
+    "infraYear": "2022",
+    "contractEffectivityDate": "2022-06-29",
+    "expiryDate": "2022-12-01",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2022 CSSP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00634397MN-CW1",
+        "description": "Rehabilitation / Major Repair of Barangay Health Station - Rehabilitation of Brgy. Health Station, Bonbon, Catarman, Camiguin",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Rehabilitation / Major Repair of Barangay Health Station",
+        "region": "Region X",
+        "province": "CAMIGUIN",
+        "coordinates": {
+          "latitude": 9.1949667,
+          "longitude": 124.6375435,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "R AND L BUILDERS AND CONSTRUCTION SUPPLY CORP.",
+    "bidders": [
+      {
+        "name": "R AND L BUILDERS AND CONSTRUCTION SUPPLY CORP. (47567)",
+        "pcabId": "47567",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "CRIZEL CONSTRUCTION & CONCRETE PRODUCTS (20835)",
+        "pcabId": "20835",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "REHABILITATION OF BARANGAY HEALTH STATION BONBON, CATARMAN, CAMIGUIN",
+      "abc": "4949976.76",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2022-05-21 00:00:00.0000000",
+      "bidSubmissionDeadline": "2022-06-14 00:00:00.0000000",
+      "dateOfAward": "2022-06-27 00:00:00.0000000",
+      "awardAmount": "4947041.97"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/Bidding Documents 22KE0072.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/22ke0072_contract_agreement.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/NOA 22KE0072.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/22ke0072_contract_agreement.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 9.1949667,
+    "longitude": 124.6375435,
+    "coordinates": [
+      {
+        "componentId": "P00634397MN-CW1",
+        "description": "Rehabilitation / Major Repair of Barangay Health Station - Rehabilitation of Brgy. Health Station, Bonbon, Catarman, Camiguin",
+        "latitude": 9.1949667,
+        "longitude": 124.6375435,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 6,
+      "latestImageDate": "2023-01-18 03:22:30.279000",
+      "hasImages": true
+    }
+  }
+}

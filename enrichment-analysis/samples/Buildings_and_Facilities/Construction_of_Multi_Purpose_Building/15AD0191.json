@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "15AD0191",
+    "description": "CONSTN OF MPB TAGUDIN MUNICIPAL HALL,BRGY.POBLACION,TAGUDIN, ILOCOS SUR",
+    "category": "Buildings and Facilities",
+    "status": "Completed",
+    "budget": 9503899.29,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region I",
+      "province": "Ilocos Sur 2nd DEO",
+      "infraType": "Buildings and Facilities",
+      "coordinates": {
+        "latitude": 16.93404,
+        "longitude": 120.4459,
+        "verified": false
+      }
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "VIGAN FORTUNE CONSTRUCTION (3887)",
+    "startDate": "2016-03-23",
+    "completionDate": "2016-12-07",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-03-23",
+    "expiryDate": "2016-11-27",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 Locally Funded Projects",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00040857LZ-CW1",
+        "description": "Construction of Multi Purpose Building - Construction of Multipurpose Bulding, Tagudin Mun. Hall, Barangay Poblacion, Tagudin, Ilocos Sur",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of Multi Purpose Building",
+        "region": "Region I",
+        "province": "ILOCOS SUR",
+        "coordinates": {
+          "latitude": 16.93404,
+          "longitude": 120.4459,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "VIGAN FORTUNE CONSTRUCTION",
+    "bidders": [
+      {
+        "name": "VIGAN FORTUNE CONSTRUCTION (3887)",
+        "pcabId": "3887",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "P.T. DIAMOND MERCHANDISE AND CONSTRUCTION (15451)",
+        "pcabId": "15451",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTN OF MPB TAGUDIN MUNICIPAL HALL,BRGY.POBLACION,TAGUDIN, ILOCOS SUR",
+      "abc": "9800000.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-01-08 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-02-03 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "9504160.3100000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/march/15AD0191 CA059.pdf",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/march/15AD0191 NOA058.pdf",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/march/15AD0191 CA059.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 16.93404,
+    "longitude": 120.4459,
+    "coordinates": [
+      {
+        "componentId": "P00040857LZ-CW1",
+        "description": "Construction of Multi Purpose Building - Construction of Multipurpose Bulding, Tagudin Mun. Hall, Barangay Poblacion, Tagudin, Ilocos Sur",
+        "latitude": 16.93404,
+        "longitude": 120.4459,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

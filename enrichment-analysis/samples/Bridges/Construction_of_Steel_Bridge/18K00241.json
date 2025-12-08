@@ -1,0 +1,185 @@
+{
+  "data": {
+    "contractId": "18K00241",
+    "description": "CLUSTER 41 CONST. OF BYPASS AND DIVERSION ROADS IN BUKIDNON",
+    "category": "Bridges, Roads",
+    "status": "Completed",
+    "budget": 274073561.81,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region X",
+      "province": "Region X",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 8.5254767,
+        "longitude": 124.77541,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "NORTHERN BUILDERS (8789)",
+    "startDate": "2018-07-23",
+    "completionDate": "2023-03-15",
+    "infraYear": "2018",
+    "contractEffectivityDate": "2018-07-23",
+    "expiryDate": "2023-03-30",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2018 OO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00200352MN-CW1",
+        "description": "Construction of Concrete Road - Misamis Oriental-Bukidnon Bypass Road (PHIVEDEC-ALAE SECTION), Package 3, Misamis Oriental",
+        "infraType": "Roads",
+        "typeOfWork": "Construction of Concrete Road",
+        "region": "Region X",
+        "province": "LANAO DEL NORTE",
+        "coordinates": {
+          "latitude": 8.5254767,
+          "longitude": 124.77541,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00200353MN-CW1",
+        "description": "Construction of Steel Bridge - Misamis Oriental-Bukidnon Bypass Road (PHIVEDEC-ALAE Section), Package 2, incl. Bridge, Bukidnon",
+        "infraType": "Bridges",
+        "typeOfWork": "Construction of Steel Bridge",
+        "region": "Region X",
+        "province": "BUKIDNON",
+        "coordinates": {
+          "latitude": 8.5063733,
+          "longitude": 124.7964083,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "NORTHERN BUILDERS",
+    "bidders": [
+      {
+        "name": "NORTHERN BUILDERS (8789)",
+        "pcabId": "8789",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "EQUI-PARCO CONSTRUCTION COMPANY (14332) / TRIPARCO DEVELOPMENT CORPORATION (23327) (JV ID: JV-17-2362)",
+        "pcabId": "",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "ADFIL CORPORATION (14437)",
+        "pcabId": "14437",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "ARN BUILDERS, INC. (FOR: ARN BUILDERS) (18930)",
+        "pcabId": "18930",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "CAVDEAL-CAVITE IDEAL INT'L. CONST. & DEV'T. CORP. (05599)",
+        "pcabId": "05599",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "GRACE CONSTRUCTION CORPORATION (3771)",
+        "pcabId": "3771",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "M. MONTESCLAROS ENTERPRISES, INC. (6506)",
+        "pcabId": "6506",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "MONOLITHIC CONSTRUCTION & CONCRETE PRODUCTS, INC. (5733)",
+        "pcabId": "5733",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "R.D. POLICARPIO & COMPANY INC. (4414)",
+        "pcabId": "4414",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "UKC BUILDERS, INC. (10759)",
+        "pcabId": "10759",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "ULTICON BUILDERS, INC. (17267)",
+        "pcabId": "17267",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "VICENTE T. LAO CONSTRUCTION (7040)",
+        "pcabId": "7040",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CLUSTER \"41\" CONST. OF BYPASS AND DIVERSION ROADS IN BUKIDNON",
+      "abc": "288535000.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2018-03-01 00:00:00.0000000",
+      "bidSubmissionDeadline": "2018-04-17 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "274073561.8"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/18K00241-NEW.pdf",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/18k00241-northern-2-6.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/18k00241-northern.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/18k00241-northern-1.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 8.5254767,
+    "longitude": 124.77541,
+    "coordinates": [
+      {
+        "componentId": "P00200352MN-CW1",
+        "description": "Construction of Concrete Road - Misamis Oriental-Bukidnon Bypass Road (PHIVEDEC-ALAE SECTION), Package 3, Misamis Oriental",
+        "latitude": 8.5254767,
+        "longitude": 124.77541,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00200353MN-CW1",
+        "description": "Construction of Steel Bridge - Misamis Oriental-Bukidnon Bypass Road (PHIVEDEC-ALAE Section), Package 2, incl. Bridge, Bukidnon",
+        "latitude": 8.5063733,
+        "longitude": 124.7964083,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

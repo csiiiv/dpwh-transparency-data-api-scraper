@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "17OC0114",
+    "description": "COMPLETION OF FOUR (4) STOREY TWELVE (12) CLASSROOM SCHOOL BUILDING AT PARAÑAQUE NATIONAL HIGH SCHOOL DON GALO ANNEXPARAÑAQUE CITY, METRO MANILA",
+    "category": "Buildings and Facilities",
+    "status": "Completed",
+    "budget": 1901163.56,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "National Capital Region",
+      "province": "Metro Manila 2nd DEO",
+      "infraType": "Buildings and Facilities",
+      "coordinates": {
+        "latitude": 14.5070562,
+        "longitude": 120.9934696,
+        "verified": false
+      }
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "GRAC-TA BUILDERS (38078)",
+    "startDate": "2018-02-15",
+    "completionDate": "2018-04-25",
+    "infraYear": "2018",
+    "contractEffectivityDate": "2018-02-15",
+    "expiryDate": "2018-05-15",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2018 LP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00252488LZ-CW1",
+        "description": "Construction of 4-Storey Classrooms - Completion of 4 Storey 12 Classroom School Building at Para±aque National High School-Don Galo Annex, Para±aque City",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of 4-Storey Classrooms",
+        "region": "National Capital Region",
+        "province": "METROPOLITAN MANILA",
+        "coordinates": {
+          "latitude": 14.5070562,
+          "longitude": 120.9934696,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "GRAC-TA BUILDERS",
+    "bidders": [
+      {
+        "name": "GRAC-TA BUILDERS (38078)",
+        "pcabId": "38078",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "R.C. PALLARCA CONSTRUCTION (35863)",
+        "pcabId": "35863",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "COMPLETION OF FOUR (4) STOREY TWELVE (12) CLASSROOM SCHOOL BUILDING AT PARAÑAQUE NATIONAL HIGH SCHOOL DON GALO ANNEX PARAÑAQUE CITY, METRO MANILA",
+      "abc": "1950000.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2017-11-02 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-11-23 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "1901163.56"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/17OC0114.zip",
+      "contractAgreement": "",
+      "noticeOfAward": "",
+      "noticeToProceed": "",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 14.5070562,
+    "longitude": 120.9934696,
+    "coordinates": [
+      {
+        "componentId": "P00252488LZ-CW1",
+        "description": "Construction of 4-Storey Classrooms - Completion of 4 Storey 12 Classroom School Building at Para±aque National High School-Don Galo Annex, Para±aque City",
+        "latitude": 14.5070562,
+        "longitude": 120.9934696,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

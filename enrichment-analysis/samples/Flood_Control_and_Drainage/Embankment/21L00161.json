@@ -1,0 +1,293 @@
+{
+  "data": {
+    "contractId": "21L00161",
+    "description": "DAVAO CITY COASTAL BYPASS ROAD (BAGO APLAYA - TIMES BEACH - ROXAS AVENUE), PACKAGE 32, DAVAO CITY",
+    "category": "Flood Control Structures, Roads",
+    "status": "Completed",
+    "budget": 248004971.15,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region XI",
+      "province": "Region XI",
+      "infraType": "Flood Control and Drainage",
+      "coordinates": {
+        "latitude": 7.0777761,
+        "longitude": 125.6269958,
+        "verified": false
+      }
+    },
+    "infraType": "Flood Control and Drainage",
+    "contractor": "ULTICON BUILDERS, INC. (17267)",
+    "startDate": "2021-09-29",
+    "completionDate": "2022-03-15",
+    "infraYear": "2021",
+    "contractEffectivityDate": "2021-09-29",
+    "expiryDate": "2022-08-14",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2021 OO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00509748MN-CW8",
+        "description": "Embankment - Davao City Coastal Bypass Road (Bago-Aplaya-Times Beach-Roxas Avenue), Davao City",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Embankment",
+        "region": "Region XI",
+        "province": "DAVAO DEL SUR",
+        "coordinates": {
+          "latitude": 7.0777761,
+          "longitude": 125.6269958,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00509748MN-CW9",
+        "description": "Construction of Road Slope Protection Structure - Davao City Coastal Bypass Road (Bago-Aplaya-Times Beach-Roxas Avenue), Davao City",
+        "infraType": "Roads",
+        "typeOfWork": "Construction of Road Slope Protection Structure",
+        "region": "Region XI",
+        "province": "DAVAO DEL SUR",
+        "coordinates": {
+          "latitude": 7.0780702,
+          "longitude": 125.6270828,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "ULTICON BUILDERS, INC.",
+    "bidders": [
+      {
+        "name": "ULTICON BUILDERS, INC. (17267)",
+        "pcabId": "17267",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "AKN CONSTRUCTION CORPORATION (11845)",
+        "pcabId": "11845",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "ALGON ENGINEERING CONSTRUCTION CORPORATION (270)",
+        "pcabId": "270",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "ALPHA & OMEGA GEN. CONTRACTOR & DEVELOPMENT CORP. ([REVOKED] 38958)",
+        "pcabId": "[REVOKED] 38958",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "ARCINUE COMM'L CORPORATION (6746)",
+        "pcabId": "6746",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "CAVDEAL-CAVITE IDEAL INT'L. CONST. & DEV'T. CORP. (05599)",
+        "pcabId": "05599",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "COASTLAND CONSTRUCTION & DEVELOPMENT CORP. (11487)",
+        "pcabId": "11487",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "D.L CERVANTES CONSTRUCTION CORPORATION (FORMERLY: (13799)",
+        "pcabId": "13799",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "ED1SON DEVELOPMENT & CONSTRUCTION INC. (2400)",
+        "pcabId": "2400",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "E.M. CUERPO, INC. (30963)",
+        "pcabId": "30963",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "FFJJ CONSTRUCTION (16712)",
+        "pcabId": "16712",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "GEMMA CONSTRUCTION SUPPLY, INC.(FORMERLY:GEMMA CON (5044)",
+        "pcabId": "5044",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "GICAR CONSTRUCTION, INC. (12624)",
+        "pcabId": "12624",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "GRACE CONSTRUCTION CORPORATION (3771)",
+        "pcabId": "3771",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "GVDPM CONSTRUCTION CORP. (FORMERLY: ZM CONSTRUCTIO (9052)",
+        "pcabId": "9052",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "H2 LANDMARK BUILDERS, INC. (7400)",
+        "pcabId": "7400",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "HALREY CONSTRUCTION INC. (2267)",
+        "pcabId": "2267",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "IBC INTERNATIONAL BUILDERS CORPORATION (8576)",
+        "pcabId": "8576",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "INFRAHUB CONSTRUCTION AND DEVELOPMENT CORP. (FORMERLY: OSCAR R. SARMIENTO CONSTRUCTION, INC.) (1411)",
+        "pcabId": "1411",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "LEGACY CONSTRUCTION CORPORATION (FORMERLY: LEGACY CONSTRUCTION) (22465)",
+        "pcabId": "22465",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "LORENZO CONSTRUCTION & DEVELOPMENT CORP. (4284)",
+        "pcabId": "4284",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "NORTHERN BUILDERS (8789)",
+        "pcabId": "8789",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "PREMIUM MEGASTRUCTURES INC. (36079)",
+        "pcabId": "36079",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "PYRAMID CONSOLIDATED BUILDERS & GEN. MDSE. (15599)",
+        "pcabId": "15599",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "RELY CONSTRUCTION & SUPPLY INC.(FORMERLY: RELY CONSTRUCTION AND SUPPLY) (10433)",
+        "pcabId": "10433",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "RJIR ENTERPRISES CORPORATION (34843)",
+        "pcabId": "34843",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "THREE W BUILDERS, INC. (10722)",
+        "pcabId": "10722",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "VICENTE T. LAO CONSTRUCTION (7040)",
+        "pcabId": "7040",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "WEE ENG CONSTRUCTION, INC. (16380)",
+        "pcabId": "16380",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "WERR CORPORATION INTERNATIONAL (14133)",
+        "pcabId": "14133",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "DAVAO CITY COASTAL BYPASS ROAD (BAGO APLAYA - TIMES BEACH - ROXAS AVENUE), PACKAGE 32, DAVAO CITY",
+      "abc": "248005000.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2021-03-31 00:00:00.0000000",
+      "bidSubmissionDeadline": "2021-04-23 00:00:00.0000000",
+      "dateOfAward": "2021-09-14 00:00:00.0000000",
+      "awardAmount": "241775777.9"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/21L00161 - BIDDING DOCUMENTS.rar",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/CONTRACT 21L00161.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/NOA 21L00161.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/CONTRACT 21L00161.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 7.0777761,
+    "longitude": 125.6269958,
+    "coordinates": [
+      {
+        "componentId": "P00509748MN-CW8",
+        "description": "Embankment - Davao City Coastal Bypass Road (Bago-Aplaya-Times Beach-Roxas Avenue), Davao City",
+        "latitude": 7.0777761,
+        "longitude": 125.6269958,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00509748MN-CW9",
+        "description": "Construction of Road Slope Protection Structure - Davao City Coastal Bypass Road (Bago-Aplaya-Times Beach-Roxas Avenue), Davao City",
+        "latitude": 7.0780702,
+        "longitude": 125.6270828,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 5,
+      "latestImageDate": "2022-08-23 06:33:54.368000",
+      "hasImages": true
+    }
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "data": {
+    "contractId": "17CN0115",
+    "description": "REPAIR/REHABILITATION OF PNP BUILDINGS, CAMP RAVINA, BRGY. SABANG, BALER, AURORA",
+    "category": "Buildings and Facilities",
+    "status": "Completed",
+    "budget": 1570620.58,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region III",
+      "province": "Aurora DEO",
+      "infraType": "Buildings and Facilities",
+      "coordinates": {
+        "latitude": 15.7678,
+        "longitude": 121.5639,
+        "verified": false
+      }
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "RADIANCE TRADERS & BUILDERS (32891)",
+    "startDate": "2017-06-20",
+    "completionDate": "2017-09-22",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2017-06-20",
+    "expiryDate": "2017-09-22",
+    "nysReason": null,
+    "programName": "Outside Infra",
+    "sourceOfFunds": "Outside Infra - GAA 2016 NDRRMF",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00095421LZ-CW1",
+        "description": "Repair/Rehabilitation of Other Buildings - Repair/Rehabilitation of PNP Buildings, Camp Ravina, Brgy. Sabang, Baler",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Repair/Rehabilitation of Other Buildings",
+        "region": "Region III",
+        "province": "AURORA",
+        "coordinates": {
+          "latitude": 15.7678,
+          "longitude": 121.5639,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "RADIANCE TRADERS & BUILDERS",
+    "bidders": [
+      {
+        "name": "RADIANCE TRADERS & BUILDERS (32891)",
+        "pcabId": "32891",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "JOHN DEE B. BUSTAMANTE CONSTRUCTION (30458)",
+        "pcabId": "30458",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "MORNING STEEL CONSTRUCTION (30698)",
+        "pcabId": "30698",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "REPAIR/REHABILITATION OF PNP BUILDINGS, CAMP RAVINA, BRGY. SABANG, BALER, AURORA",
+      "abc": "1594450.88",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2017-04-27 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-05-17 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "1,570,620.58"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/ITB 17CN0113-116; 17CN0022.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/17cn0115-ca.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/noa_17cn0115.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/17cn0115-ntp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 15.7678,
+    "longitude": 121.5639,
+    "coordinates": [
+      {
+        "componentId": "P00095421LZ-CW1",
+        "description": "Repair/Rehabilitation of Other Buildings - Repair/Rehabilitation of PNP Buildings, Camp Ravina, Brgy. Sabang, Baler",
+        "latitude": 15.7678,
+        "longitude": 121.5639,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

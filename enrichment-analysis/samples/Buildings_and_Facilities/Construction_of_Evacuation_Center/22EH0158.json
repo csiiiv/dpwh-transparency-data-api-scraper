@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "22EH0158",
+    "description": "CONSTRUCTION OF EVACUATION CENTER, BRGY. CAMILI, ALCANTARA, ROMBLON",
+    "category": "Buildings and Facilities",
+    "status": "Completed",
+    "budget": 34740000,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region IV-B",
+      "province": "Romblon DEO",
+      "infraType": "Buildings and Facilities",
+      "coordinates": {
+        "latitude": 12.2633367,
+        "longitude": 122.045825,
+        "verified": false
+      }
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "ROLCO CONSTRUCTION & DEVELOPMENT CORPORATION ( FOR (29686)",
+    "startDate": "2022-12-15",
+    "completionDate": "2023-10-31",
+    "infraYear": "2022",
+    "contractEffectivityDate": "2022-12-15",
+    "expiryDate": "2023-10-15",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2022 LP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00655264LZ-CW1",
+        "description": "Construction of Evacuation Center - Construction of Evacuation Center, Brgy. Camili, Alcantara, Romblon",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of Evacuation Center",
+        "region": "Region IV-B",
+        "province": "ROMBLON",
+        "coordinates": {
+          "latitude": 12.2633367,
+          "longitude": 122.045825,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "ROLCO CONSTRUCTION & DEVELOPMENT CORPORATION ( FOR",
+    "bidders": [
+      {
+        "name": "ROLCO CONSTRUCTION & DEVELOPMENT CORPORATION ( FOR (29686)",
+        "pcabId": "29686",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "LEGACY CONSTRUCTION CORPORATION (FORMERLY: LEGACY CONSTRUCTION) (22465)",
+        "pcabId": "22465",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION OF EVACUATION CENTER, BRGY. CAMILI, ALCANTARA, ROMBLON",
+      "abc": "34740000.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2022-09-30 00:00:00.0000000",
+      "bidSubmissionDeadline": "2022-10-19 00:00:00.0000000",
+      "dateOfAward": "2022-11-29 00:00:00.0000000",
+      "awardAmount": "34026010.3"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/22eh0158-r1_part_i_of_ii.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/22eh0158.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/22eh0158-r11.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/22eh0158.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 12.2633367,
+    "longitude": 122.045825,
+    "coordinates": [
+      {
+        "componentId": "P00655264LZ-CW1",
+        "description": "Construction of Evacuation Center - Construction of Evacuation Center, Brgy. Camili, Alcantara, Romblon",
+        "latitude": 12.2633367,
+        "longitude": 122.045825,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 4,
+      "latestImageDate": "2024-01-11 00:19:25.934000",
+      "hasImages": true
+    }
+  }
+}

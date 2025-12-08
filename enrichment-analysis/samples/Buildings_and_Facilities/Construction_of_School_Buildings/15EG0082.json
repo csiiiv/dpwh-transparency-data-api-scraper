@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "15EG0082",
+    "description": "CP-05-15 CONSTRUCTION OF ONE CLASSROOM SCHOOL BUILDING, BRGY. SAN MIGUEL, SAN RAFAEL AND CONSTRUCTION OF SENIOR CITIZEN BUILDING, BRGY. SAN MIGUEL",
+    "category": "Multi Purpose Buildings, School Buildings",
+    "status": "Completed",
+    "budget": 2936041.06,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region IV-B",
+      "province": "Palawan 3rd DEO",
+      "infraType": "Buildings and Facilities",
+      "coordinates": null
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "E.V. VILLAOS TRADING & CONSTRUCTION (36735)",
+    "startDate": "2016-03-04",
+    "completionDate": "2016-05-17",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-03-04",
+    "expiryDate": "2016-05-02",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 Locally Funded Projects",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00040174LZ-CW1",
+        "description": "Construction of School Buildings - Construction of School Building, Barangay San Miguel, Puerto Princesa City, Palawan 3rd LD",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of School Buildings",
+        "region": "Region IV-B",
+        "province": "PALAWAN",
+        "coordinates": null
+      },
+      {
+        "componentId": "P00040175LZ-CW1",
+        "description": "Construction of School Buildings - Construction of School Building, Barangay San Rafael, Puerto Princesa City, Palawan 3rd LD",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of School Buildings",
+        "region": "Region IV-B",
+        "province": "PALAWAN",
+        "coordinates": null
+      },
+      {
+        "componentId": "P00042073LZ-CW1",
+        "description": "Construction of Multi Purpose Building - Construction of Senior Citizen Building, Barangay San Miguel, Puerto Princesa City, Palawan 3rd LD",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of Multi Purpose Building",
+        "region": "Region IV-B",
+        "province": "PALAWAN",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "E.V. VILLAOS TRADING & CONSTRUCTION",
+    "bidders": [
+      {
+        "name": "E.V. VILLAOS TRADING & CONSTRUCTION (36735)",
+        "pcabId": "36735",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "E.C. TIMBANCAYA ENTERPRISES CORPORATION (FORMERLY: E.C. TIMBANCAYA ENTERPRISES) (15244)",
+        "pcabId": "15244",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CP-05-15 CONSTRUCTION OF ONE CLASSROOM SCHOOL BUILDING, BRGY. SAN MIGUEL, SAN RAFAEL AND CONSTRUCTION OF SENIOR CITIZEN BUILDING, BRGY. SAN MIGUEL",
+      "abc": "2970000.00",
+      "status": "FNV",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-12-29 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-01-19 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "2936041.0600000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "",
+      "noticeOfAward": "",
+      "noticeToProceed": "",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

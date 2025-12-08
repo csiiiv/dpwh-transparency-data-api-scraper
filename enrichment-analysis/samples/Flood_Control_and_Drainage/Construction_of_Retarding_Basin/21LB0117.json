@@ -1,0 +1,127 @@
+{
+  "data": {
+    "contractId": "21LB0117",
+    "description": "CONSTRUCTION OF RETARDING BASIN - LA VERNA OUTFALL SECTION, DAVAO CITY (STA. 0+000 - STA. 0+600)",
+    "category": "Flood Control and Drainage",
+    "status": "On-Going",
+    "budget": 49000000,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region XI",
+      "province": "Davao City DEO",
+      "infraType": "Flood Control and Drainage",
+      "coordinates": {
+        "latitude": 7.125016,
+        "longitude": 125.632303,
+        "verified": false
+      }
+    },
+    "infraType": "Flood Control and Drainage",
+    "contractor": "RELY CONSTRUCTION & SUPPLY INC.(FORMERLY: RELY CONSTRUCTION AND SUPPLY) (10433)",
+    "startDate": "2021-06-17",
+    "completionDate": null,
+    "infraYear": "2021",
+    "contractEffectivityDate": "2021-06-17",
+    "expiryDate": "2024-06-03",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - Flood Control: Construction - Retarding Basin, Flood Control: Construction - Slope Protection using Structural Measures (e.g., Revetment, Retaining Structures, Rock Netting, Concrete Crib, Shotcrete, MSE Walls, Gabions, Riprap, Masonry)",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00522193MN-CW1",
+        "description": "Construction of Retarding Basin - Construction of Retarding Basin - La Verna outfall Section, Davao City (Sta. 0+000 - Sta. 0+600)",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Construction of Retarding Basin",
+        "region": "Region XI",
+        "province": "DAVAO DEL SUR",
+        "coordinates": {
+          "latitude": 7.125016,
+          "longitude": 125.632303,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "RELY CONSTRUCTION & SUPPLY INC.(FORMERLY: RELY CONSTRUCTION AND SUPPLY)",
+    "bidders": [
+      {
+        "name": "RELY CONSTRUCTION & SUPPLY INC.(FORMERLY: RELY CONSTRUCTION AND SUPPLY) (10433)",
+        "pcabId": "10433",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "ABU CONSTRUCTION (22313)",
+        "pcabId": "22313",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "AKN CONSTRUCTION CORPORATION (11845)",
+        "pcabId": "11845",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "DAVAO CONCRETE PRODUCTS CONSTRUCTION AND TRADING CORPORATION (FORMERLY: DAVAO CONCRETE PRODUCTS) (12090)",
+        "pcabId": "12090",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "TEDDIE CONSTRUCTION DEVELOPMENT, INC. (6313)",
+        "pcabId": "6313",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "VICENTE T. LAO CONSTRUCTION (7040)",
+        "pcabId": "7040",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION OF RETARDING BASIN - LA VERNA OUTFALL SECTION, DAVAO CITY (STA. 0+000 - STA. 0+600)",
+      "abc": "49000000.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2021-03-18 00:00:00.0000000",
+      "bidSubmissionDeadline": "2021-04-08 00:00:00.0000000",
+      "dateOfAward": "2021-06-09 00:00:00.0000000",
+      "awardAmount": "47,530,100.51"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/21LB0117.rar",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/21lb0117.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/21lb0117_notice_of_award_and_bac_resolution.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/21lb0117.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 7.125016,
+    "longitude": 125.632303,
+    "coordinates": [
+      {
+        "componentId": "P00522193MN-CW1",
+        "description": "Construction of Retarding Basin - Construction of Retarding Basin - La Verna outfall Section, Davao City (Sta. 0+000 - Sta. 0+600)",
+        "latitude": 7.125016,
+        "longitude": 125.632303,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 2,
+      "latestImageDate": "2025-08-11 01:41:24.287000",
+      "hasImages": true
+    }
+  }
+}

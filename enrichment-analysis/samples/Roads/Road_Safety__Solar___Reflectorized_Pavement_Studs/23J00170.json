@@ -1,0 +1,97 @@
+{
+  "data": {
+    "contractId": "23J00170",
+    "description": "SPECIAL ROAD FUND - MOTOR VEHICLE USER'S CHARGE (MVUC) AS PER R.A. 11239 - INSTALLATION OF SOLAR STUDS LIGHTS ALONG PAGADIAN CITY-ZAMBOANGA CITY RD, (LICOMO-PUTIK ROAD), ZAMBOANGA CITY",
+    "category": "Roads",
+    "status": "On-Going",
+    "budget": 144600000,
+    "amountPaid": 0,
+    "progress": 84.67,
+    "location": {
+      "region": "Region IX",
+      "province": "Region IX",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 7.0051897,
+        "longitude": 122.1793478,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "RCDG CONSTRUCTION CORPORATION (5063) / HHH DEVELOPER AND CONSTRUCTION (37044)",
+    "startDate": "2023-04-11",
+    "completionDate": null,
+    "infraYear": "2023",
+    "contractEffectivityDate": "2023-04-11",
+    "expiryDate": "2023-09-18",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2023 CSSP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00733754MN-CW1",
+        "description": "Road Safety: Solar / Reflectorized Pavement Studs - Installation of Solar Studs Lights along Pagadian City-Zamboanga City Rd (Licomo-Putik Road) - K1889 + 000 - K1927 + 000, Zamboanga City",
+        "infraType": "Roads",
+        "typeOfWork": "Road Safety: Solar / Reflectorized Pavement Studs",
+        "region": "Region IX",
+        "province": "ZAMBOANGA DEL SUR",
+        "coordinates": {
+          "latitude": 7.0051897,
+          "longitude": 122.1793478,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "HHH DEVELOPER AND CONSTRUCTION, RCDG CONSTRUCTION CORPORATION",
+    "bidders": [
+      {
+        "name": "RCDG CONSTRUCTION CORPORATION (5063) / HHH DEVELOPER AND CONSTRUCTION (37044) (JV ID: JV-23-10449)",
+        "pcabId": "",
+        "participation": 100,
+        "isWinner": true
+      }
+    ],
+    "procurement": {
+      "contractName": "SPECIAL ROAD FUND - MOTOR VEHICLE USER'S CHARGE (MVUC) AS PER R.A. 11239 - INSTALLATION OF SOLAR STUDS LIGHTS ALONG PAGADIAN CITY-ZAMBOANGA CITY RD, (LICOMO-PUTIK ROAD), ZAMBOANGA CITY",
+      "abc": "144750000.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2023-01-23 00:00:00.0000000",
+      "bidSubmissionDeadline": "2023-03-14 00:00:00.0000000",
+      "dateOfAward": "2023-03-31 00:00:00.0000000",
+      "awardAmount": "144600000"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/bidding_documents_22j00170.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/contract_agreement_23j00170.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/notice_of_award_23j00170.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/contract_agreement_23j00170.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 7.0051897,
+    "longitude": 122.1793478,
+    "coordinates": [
+      {
+        "componentId": "P00733754MN-CW1",
+        "description": "Road Safety: Solar / Reflectorized Pavement Studs - Installation of Solar Studs Lights along Pagadian City-Zamboanga City Rd (Licomo-Putik Road) - K1889 + 000 - K1927 + 000, Zamboanga City",
+        "latitude": 7.0051897,
+        "longitude": 122.1793478,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 1,
+      "latestImageDate": "2023-09-29 05:15:21.471000",
+      "hasImages": true
+    }
+  }
+}

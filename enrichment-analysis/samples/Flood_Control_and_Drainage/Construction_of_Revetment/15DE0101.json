@@ -1,0 +1,85 @@
+{
+  "data": {
+    "contractId": "15DE0101",
+    "description": "LOCAL INFRASTRUCTURE PROGRAM-CONSTRUCTION OF REVETMENT AT BARANGAY LIBJO, BATANGAS CITY, BATANGAS 2ND LD",
+    "category": "Flood Control and Drainage",
+    "status": "Completed",
+    "budget": 4801388.8,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region IV-A",
+      "province": "Batangas 2nd DEO",
+      "infraType": "Flood Control and Drainage",
+      "coordinates": null
+    },
+    "infraType": "Flood Control and Drainage",
+    "contractor": "GREAT SWISS METAL BUILDERS CORPORATION (36997)",
+    "startDate": "2016-02-04",
+    "completionDate": "2016-04-29",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-02-04",
+    "expiryDate": "2016-06-10",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 Locally Funded Projects",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00052901LZ-CW1",
+        "description": "Construction of Revetment - Construction of Revetment, Brgy. Libjo, Municipality of Batangas City, Batangas 2nd LD",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Construction of Revetment",
+        "region": "Region IV-A",
+        "province": "BATANGAS",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "GREAT SWISS METAL BUILDERS CORPORATION",
+    "bidders": [
+      {
+        "name": "GREAT SWISS METAL BUILDERS CORPORATION (36997)",
+        "pcabId": "36997",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "NBL CONSTRUCTION, INC. (FORMERLY: NBL CONSTRUCTION) (30396)",
+        "pcabId": "30396",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "LOCAL INFRASTRUCTURE PROGRAM-CONSTRUCTION OF REVETMENT AT BARANGAY LIBJO, BATANGAS CITY, BATANGAS 2ND LD",
+      "abc": "4950000.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-10-22 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-11-12 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "4801388.8000000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "",
+      "noticeOfAward": "",
+      "noticeToProceed": "",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "data": {
+    "contractId": "21LH0162",
+    "description": "CONSTRUCTION OF THE FOLLOWING PROJECTS AT BRGY. DALIAON PLANTATION, TORIL DISTRICT, DAVAO CITY, LGSF-BPD, ELCAC (1) REHABILITATION OF WATER SUPPLY SYSTEM AT PUROK 10, BRGY. DALIAON PLANTATION, DAVAO CITY (2) REHABILITATION/IMPROVEMENT OF COVERED COURT AT",
+    "category": "Hospitals, Multi Purpose Buildings, Other Buildings, Water Supply Systems",
+    "status": "Completed",
+    "budget": 19595979.07,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region XI",
+      "province": "Davao City 2nd DEO",
+      "infraType": "Water Provision and Storage",
+      "coordinates": {
+        "latitude": 7.0822167,
+        "longitude": 125.41435,
+        "verified": false
+      }
+    },
+    "infraType": "Water Provision and Storage",
+    "contractor": "ZJN DEVELOPMENT CONSTRUCTION & SUPPLY CORPORATION (43104)",
+    "startDate": "2022-09-20",
+    "completionDate": "2022-12-20",
+    "infraYear": "2021",
+    "contractEffectivityDate": "2022-09-20",
+    "expiryDate": "2023-02-16",
+    "nysReason": null,
+    "programName": "Outside Infra",
+    "sourceOfFunds": "Outside Infra - Buildings: Construction - without Piles - Low Rise - Concrete (Frame) (1 to 5 Storeys), Water Supply (Level 2 & 3): Construction (Piped Water with Communal/Private Water Point)",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00599158MN-CW1",
+        "description": "Rehabilitation of Water Supply Systems - Rehabilitation of Water Supply System at Purok 10, Brgy. Daliaon Plantation, Davao City",
+        "infraType": "Water Provision and Storage",
+        "typeOfWork": "Rehabilitation of Water Supply Systems",
+        "region": "Region XI",
+        "province": "DAVAO DEL SUR",
+        "coordinates": {
+          "latitude": 7.0822167,
+          "longitude": 125.41435,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00599159MN-CW1",
+        "description": "Rehabilitation / Major Repair of Multi Purpose Building - Rehabilitation/Improvement of Covered Court at Purok 2, Brgy. Daliaon Plantation",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Rehabilitation / Major Repair of Multi Purpose Building",
+        "region": "Region XI",
+        "province": "DAVAO DEL SUR",
+        "coordinates": {
+          "latitude": 7.0827194,
+          "longitude": 125.4141083,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00599160MN-CW1",
+        "description": "Rehabilitation / Major Repair of Barangay Health Station - Rehabilitation/Improvement of Health Center at Purok 2, Brgy. Daliaon Plantation, Davao City",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Rehabilitation / Major Repair of Barangay Health Station",
+        "region": "Region XI",
+        "province": "DAVAO DEL SUR",
+        "coordinates": {
+          "latitude": 7.0825806,
+          "longitude": 125.4140861,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00599161MN-CW1",
+        "description": "Construction of Other Building - Construction of Indigenous People School Living Tradition (SLT) at Purok 2, Brgy. Daliaon Plantation, Davao City",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of Other Building",
+        "region": "Region XI",
+        "province": "DAVAO DEL SUR",
+        "coordinates": {
+          "latitude": 7.0830139,
+          "longitude": 125.4137361,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "ZJN DEVELOPMENT CONSTRUCTION & SUPPLY CORPORATION",
+    "bidders": [
+      {
+        "name": "ZJN DEVELOPMENT CONSTRUCTION & SUPPLY CORPORATION (43104)",
+        "pcabId": "43104",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "JLACE BUILDERS CORPORATION (FOR. JLA CONSTRUCTION & SUPPLIES) (24503)",
+        "pcabId": "24503",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "WALBROS INFRA-ENTERPRISES (46658)",
+        "pcabId": "46658",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION OF THE FOLLOWING PROJECTS AT BRGY. DALIAON PLANTATION, TORIL DISTRICT, DAVAO CITY, LGSF-BPD, ELCAC (1) REHABILITATION OF WATER SUPPLY SYSTEM AT PUROK 10, BRGY. DALIAON PLANTATION, DAVAO CITY (2) REHABILITATION/IMPROVEMENT OF COVERED COURT AT",
+      "abc": "19900000.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2022-07-02 00:00:00.0000000",
+      "bidSubmissionDeadline": "2022-07-26 00:00:00.0000000",
+      "dateOfAward": "2022-09-06 00:00:00.0000000",
+      "awardAmount": "19595979.07"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/ITB- 21LH0162.pdf",
+      "contractAgreement": "",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/21lh0162_noa.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/21lh0162ntp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 7.0822167,
+    "longitude": 125.41435,
+    "coordinates": [
+      {
+        "componentId": "P00599158MN-CW1",
+        "description": "Rehabilitation of Water Supply Systems - Rehabilitation of Water Supply System at Purok 10, Brgy. Daliaon Plantation, Davao City",
+        "latitude": 7.0822167,
+        "longitude": 125.41435,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00599159MN-CW1",
+        "description": "Rehabilitation / Major Repair of Multi Purpose Building - Rehabilitation/Improvement of Covered Court at Purok 2, Brgy. Daliaon Plantation",
+        "latitude": 7.0827194,
+        "longitude": 125.4141083,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00599160MN-CW1",
+        "description": "Rehabilitation / Major Repair of Barangay Health Station - Rehabilitation/Improvement of Health Center at Purok 2, Brgy. Daliaon Plantation, Davao City",
+        "latitude": 7.0825806,
+        "longitude": 125.4140861,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00599161MN-CW1",
+        "description": "Construction of Other Building - Construction of Indigenous People School Living Tradition (SLT) at Purok 2, Brgy. Daliaon Plantation, Davao City",
+        "latitude": 7.0830139,
+        "longitude": 125.4137361,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 8,
+      "latestImageDate": "2025-03-26 04:32:39.635000",
+      "hasImages": true
+    }
+  }
+}

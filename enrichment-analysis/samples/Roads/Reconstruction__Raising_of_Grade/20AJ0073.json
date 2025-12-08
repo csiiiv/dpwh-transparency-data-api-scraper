@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "20AJ0073",
+    "description": "RAISING OF GRADE, SITIO CASINTAK, LONGOS, CALASIAO, PANGASINAN",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 4728402.97,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region I",
+      "province": "Pangasinan 4th DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 15.9919531,
+        "longitude": 120.3569494,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "LXS  BUILDERS &  SUPPLIES (25172)",
+    "startDate": "2020-10-19",
+    "completionDate": "2020-12-15",
+    "infraYear": "2020",
+    "contractEffectivityDate": "2020-10-19",
+    "expiryDate": "2021-02-06",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2020 LP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00446648LZ-CW1",
+        "description": "Reconstruction: Raising of Grade - Raising of Grade, Sitio Casintak, Longos, Calasiao, Pangasinan",
+        "infraType": "Roads",
+        "typeOfWork": "Reconstruction: Raising of Grade",
+        "region": "Region I",
+        "province": "PANGASINAN",
+        "coordinates": {
+          "latitude": 15.9919531,
+          "longitude": 120.3569494,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "LXS  BUILDERS &  SUPPLIES",
+    "bidders": [
+      {
+        "name": "LXS  BUILDERS &  SUPPLIES (25172)",
+        "pcabId": "25172",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "628 CONSTRUCTION ENTERPRISES (30049)",
+        "pcabId": "30049",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "RAISING OF GRADE, SITIO CASINTAK, LONGOS, CALASIAO, PANGASINAN",
+      "abc": "4900000.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2020-03-04 00:00:00.0000000",
+      "bidSubmissionDeadline": "2020-06-02 00:00:00.0000000",
+      "dateOfAward": "2020-10-07 00:00:00.0000000",
+      "awardAmount": "4728402.97"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/20AJ0073.zip",
+      "contractAgreement": "",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/Notice of Award-20AJ0073.doc",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/Notice to Proceed-20AJ0073.doc",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 15.9919531,
+    "longitude": 120.3569494,
+    "coordinates": [
+      {
+        "componentId": "P00446648LZ-CW1",
+        "description": "Reconstruction: Raising of Grade - Raising of Grade, Sitio Casintak, Longos, Calasiao, Pangasinan",
+        "latitude": 15.9919531,
+        "longitude": 120.3569494,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 2,
+      "latestImageDate": "2021-06-28 01:57:07.687000",
+      "hasImages": true
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "data": {
+    "contractId": "15CE0165",
+    "description": "CONSTRUCTION/MAINTENANCE OF FLOOD MITIGATION STRUCTURES AND DRAINAGE SYSTEMS, REHABILITATION/IMPROVEMENT OF PROTECTION WORKS ALONG DAANG MAHARLIKA ROAD, CARRANGLAN, NUEVA ECIJA",
+    "category": "Flood Control and Drainage",
+    "status": "Completed",
+    "budget": 18596002.55,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region III",
+      "province": "Nueva Ecija 1st DEO",
+      "infraType": "Flood Control and Drainage",
+      "coordinates": null
+    },
+    "infraType": "Flood Control and Drainage",
+    "contractor": "AMP 723 CONSTRUCTION CORPORATION (FORMERLY: A.M.P. CONSTRUCTION) (16574)",
+    "startDate": "2016-01-31",
+    "completionDate": "2016-05-19",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-01-31",
+    "expiryDate": "2016-05-19",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-2",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00020451LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Flood Control Structure - Rehabilitation/Improvement of Protection Works along Maharlika Road, Carranglan, Nueva Ecija",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Rehabilitation / Major Repair of Flood Control Structure",
+        "region": "Region III",
+        "province": "NUEVA ECIJA",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "AMP 723 CONSTRUCTION CORPORATION (FORMERLY: A.M.P. CONSTRUCTION)",
+    "bidders": [
+      {
+        "name": "AMP 723 CONSTRUCTION CORPORATION (FORMERLY: A.M.P. CONSTRUCTION) (16574)",
+        "pcabId": "16574",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "F.L. REGUYAL CONSTRUCTION CORPORATION (3315)",
+        "pcabId": "3315",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "L.M.G. CONSTRUCTION INCORPORATED (FORMERLY: LMG CONSTRUCTION) (5719)",
+        "pcabId": "5719",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION/MAINTENANCE OF FLOOD MITIGATION STRUCTURES AND DRAINAGE SYSTEMS, REHABILITATION/IMPROVEMENT OF PROTECTION WORKS ALONG DAANG MAHARLIKA ROAD, CARRANGLAN, NUEVA ECIJA",
+      "abc": "19599964.28",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-11-18 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-12-08 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "18596002.5500000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/march/15CE0165 CONTRACT002.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/15ce0165_noa.pdf",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/march/15CE0165 CONTRACT002.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

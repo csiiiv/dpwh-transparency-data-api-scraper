@@ -1,0 +1,109 @@
+{
+  "data": {
+    "contractId": "17RB0213",
+    "description": "PAVING OF UNPAVED ROADS OF JCT. DS BENEDICTO-SPUR 16 - CALATRAVA RD - K0068+ 721 - K0068+782",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 2302719.76,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Negros Island Region",
+      "province": "Negros Occidental 1st DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 10.6203237,
+        "longitude": 123.3475902,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "PGO CONSTRUCTION (15153)",
+    "startDate": "2018-02-08",
+    "completionDate": "2018-04-12",
+    "infraYear": "2018",
+    "contractEffectivityDate": "2018-02-08",
+    "expiryDate": "2018-04-12",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2018 OO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00201145VS-CW1",
+        "description": "Paving of Unpaved Roads - Jct DS Benedicto-Spur 16-Calatrava Rd - K0068 + 721 - K0068 + 782",
+        "infraType": "Roads",
+        "typeOfWork": "Paving of Unpaved Roads",
+        "region": "Negros Island Region",
+        "province": "NEGROS OCCIDENTAL",
+        "coordinates": {
+          "latitude": 10.6203237,
+          "longitude": 123.3475902,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "PGO CONSTRUCTION",
+    "bidders": [
+      {
+        "name": "PGO CONSTRUCTION (15153)",
+        "pcabId": "15153",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "SILVERGRACES CONSTRUCTION AND CONSTRUCTION SUPPLY (36158)",
+        "pcabId": "36158",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "TRIMLUV BUILDERS AND SUPPLY (33467)",
+        "pcabId": "33467",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "PAVING OF UNPAVED ROADS OF JCT. DS BENEDICTO-SPUR 16 - CALATRAVA RD - K0068+ 721 - K0068+782",
+      "abc": "2426380.62",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2017-10-30 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-11-21 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "2302719.76"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/17rb0213contract.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/AWARD.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/NTP.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 10.6203237,
+    "longitude": 123.3475902,
+    "coordinates": [
+      {
+        "componentId": "P00201145VS-CW1",
+        "description": "Paving of Unpaved Roads - Jct DS Benedicto-Spur 16-Calatrava Rd - K0068 + 721 - K0068 + 782",
+        "latitude": 10.6203237,
+        "longitude": 123.3475902,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

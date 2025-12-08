@@ -1,0 +1,97 @@
+{
+  "data": {
+    "contractId": "24KH0088",
+    "description": "CONSTRUCTION OF 4STY8CL KAUSWAGAN CENTRAL SCHOOL CAGAYAN DE ORO CITY MISAMIS ORIENTAL",
+    "category": "Buildings and Facilities",
+    "status": "On-Going",
+    "budget": 45573982.35,
+    "amountPaid": 0,
+    "progress": 90.04,
+    "location": {
+      "region": "Region X",
+      "province": "Cagayan de Oro City 1st DEO",
+      "infraType": "Buildings and Facilities",
+      "coordinates": {
+        "latitude": 8.4975222,
+        "longitude": 124.6411889,
+        "verified": false
+      }
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "CAGALAWAN ENTERPRISES (38019)",
+    "startDate": "2024-07-22",
+    "completionDate": null,
+    "infraYear": "2024",
+    "contractEffectivityDate": "2024-07-22",
+    "expiryDate": "2025-07-26",
+    "nysReason": null,
+    "programName": "Outside Infra",
+    "sourceOfFunds": "Outside Infra - GAA 2024 DepEd BEFF",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00875413MN-CW1",
+        "description": "Construction of 4-Storey Classrooms - Construction of 4STY8CL, Kauswagan Central School, Cagayan De Oro City, Misamis Oriental",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of 4-Storey Classrooms",
+        "region": "Region X",
+        "province": "MISAMIS ORIENTAL",
+        "coordinates": {
+          "latitude": 8.4975222,
+          "longitude": 124.6411889,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "CAGALAWAN ENTERPRISES",
+    "bidders": [
+      {
+        "name": "CAGALAWAN ENTERPRISES (38019)",
+        "pcabId": "38019",
+        "participation": 100,
+        "isWinner": true
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION OF 4STY8CL KAUSWAGAN CENTRAL SCHOOL CAGAYAN DE ORO CITY MISAMIS ORIENTAL",
+      "abc": "45573982.35",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2024-06-06 00:00:00.0000000",
+      "bidSubmissionDeadline": "2024-06-25 00:00:00.0000000",
+      "dateOfAward": "2024-07-11 00:00:00.0000000",
+      "awardAmount": "45552990.83"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/24kh0088_specs.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/contract_24kh0088.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/noa_24kh0088.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/ntp_24kh0088.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 8.4975222,
+    "longitude": 124.6411889,
+    "coordinates": [
+      {
+        "componentId": "P00875413MN-CW1",
+        "description": "Construction of 4-Storey Classrooms - Construction of 4STY8CL, Kauswagan Central School, Cagayan De Oro City, Misamis Oriental",
+        "latitude": 8.4975222,
+        "longitude": 124.6411889,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 16,
+      "latestImageDate": "2025-10-23 01:05:52.542000",
+      "hasImages": true
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "data": {
+    "contractId": "15AD0205",
+    "description": "CONSTRUCTION OF GABION REVETMENT, LUNA-BALUGANG SECTION, BURGOS, ILOCOS SUR",
+    "category": "Flood Control and Drainage",
+    "status": "Completed",
+    "budget": 14608812.03,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region I",
+      "province": "Ilocos Sur 2nd DEO",
+      "infraType": "Flood Control and Drainage",
+      "coordinates": null
+    },
+    "infraType": "Flood Control and Drainage",
+    "contractor": "VIKING CONSTRUCTION & SUPPLIES (18129) / 739 BUILDERS (31174)",
+    "startDate": "2016-06-02",
+    "completionDate": "2017-07-31",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-06-02",
+    "expiryDate": "2016-11-19",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-2",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00022197LZ-CW1",
+        "description": "Construction of Flood Mitigation Structure - Construction of Gabion Revetment, Luna-Balugang Section, Burgos, Ilocos Sur",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Construction of Flood Mitigation Structure",
+        "region": "Region I",
+        "province": "ILOCOS SUR",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "739 BUILDERS, VIKING CONSTRUCTION & SUPPLIES",
+    "bidders": [
+      {
+        "name": "VIKING CONSTRUCTION & SUPPLIES (18129) / 739 BUILDERS (31174) (JV ID: JV-15-1758)",
+        "pcabId": "",
+        "participation": 100,
+        "isWinner": true
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION OF GABION REVETMENT,  LUNA-BALUGANG SECTION, BURGOS, ILOCOS SUR",
+      "abc": "14613831.14",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-03-29 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-05-10 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "14608812.0300000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/15AD0205 CA161.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/15AD0205 NOA160.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/15AD0205 CA161.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

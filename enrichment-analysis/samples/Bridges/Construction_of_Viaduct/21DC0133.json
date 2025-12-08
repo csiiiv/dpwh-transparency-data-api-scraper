@@ -1,0 +1,109 @@
+{
+  "data": {
+    "contractId": "21DC0133",
+    "description": "CONVERGENCE AND SPECIAL SUPPORT PROGRAM, CONSTRUCTION/IMPROVEMENT OF ACCESS ROADS LEADING TO DECLARED TOURISM DESTINATIONS, TAAL LAKE CIRCUMFERENTIAL ROAD (VIADUCT - PHASE V), STA. TERESITA, BATANGAS",
+    "category": "Bridges",
+    "status": "Completed",
+    "budget": 75151568.9,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region IV-A",
+      "province": "Batangas 3rd DEO",
+      "infraType": "Bridges",
+      "coordinates": {
+        "latitude": 13.9057306,
+        "longitude": 120.9819417,
+        "verified": false
+      }
+    },
+    "infraType": "Bridges",
+    "contractor": "R.V.  LABORTE BUILDERS (20459) / TALIPAN BUILDERS (35058)",
+    "startDate": "2021-04-08",
+    "completionDate": "2022-12-09",
+    "infraYear": "2021",
+    "contractEffectivityDate": "2021-04-08",
+    "expiryDate": "2022-12-10",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2021 CSSP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00531885LZ-CW1",
+        "description": "Construction of Viaduct - Taal Lake Circumferential Road (Viaduct - Phase V), Santa Teresita, Batangas",
+        "infraType": "Bridges",
+        "typeOfWork": "Construction of Viaduct",
+        "region": "Region IV-A",
+        "province": "BATANGAS",
+        "coordinates": {
+          "latitude": 13.9057306,
+          "longitude": 120.9819417,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "R.V.  LABORTE BUILDERS, TALIPAN BUILDERS",
+    "bidders": [
+      {
+        "name": "R.V.  LABORTE BUILDERS (20459) / TALIPAN BUILDERS (35058) (JV ID: JV-21-4424)",
+        "pcabId": "",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "MONOLITHIC CONSTRUCTION & CONCRETE PRODUCTS, INC. (5733)",
+        "pcabId": "5733",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "RAPID FOREMOST CONST. CO. (32618)",
+        "pcabId": "32618",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONVERGENCE AND SPECIAL SUPPORT PROGRAM, CONSTRUCTION/IMPROVEMENT OF ACCESS ROADS LEADING TO DECLARED TOURISM DESTINATIONS, TAAL LAKE CIRCUMFERENTIAL ROAD (VIADUCT - PHASE V), STA. TERESITA, BATANGAS",
+      "abc": "75157095.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2021-01-07 00:00:00.0000000",
+      "bidSubmissionDeadline": "2021-01-28 00:00:00.0000000",
+      "dateOfAward": "2021-03-30 00:00:00.0000000",
+      "awardAmount": "72000100.3"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/ITB_21DC0133_Rectified.pdf",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/CONTRACT_21DC0133.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/NOA_21DC0133.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/CONTRACT_21DC0133.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 13.9057306,
+    "longitude": 120.9819417,
+    "coordinates": [
+      {
+        "componentId": "P00531885LZ-CW1",
+        "description": "Construction of Viaduct - Taal Lake Circumferential Road (Viaduct - Phase V), Santa Teresita, Batangas",
+        "latitude": 13.9057306,
+        "longitude": 120.9819417,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 2,
+      "latestImageDate": "2023-01-10 13:24:43.099000",
+      "hasImages": true
+    }
+  }
+}

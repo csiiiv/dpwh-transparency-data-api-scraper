@@ -1,0 +1,115 @@
+{
+  "data": {
+    "contractId": "15OB0529",
+    "description": "REHABILITATION OF DRAINAGE SYSTEM AT GRIARTE STREET AND ALLEYS, BRGY. HULO, MANDALUYONG CITY",
+    "category": "Flood Control and Drainage",
+    "status": "Completed",
+    "budget": 8918014.44,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "National Capital Region",
+      "province": "Metro Manila 1st DEO",
+      "infraType": "Flood Control and Drainage",
+      "coordinates": {
+        "latitude": 14.5724239,
+        "longitude": 121.0291811,
+        "verified": false
+      }
+    },
+    "infraType": "Flood Control and Drainage",
+    "contractor": "R. SEMILLA CONSTRUCTION & MARKETING (9263)",
+    "startDate": "2016-03-21",
+    "completionDate": "2017-02-15",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-03-21",
+    "expiryDate": "2017-02-16",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 Locally Funded Projects",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00052965LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Drainage Structure - Rehabilitation of Drainage system at Griarte Street and Alleys, Barangay Hulo, Mandaluyong City Lone District",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Rehabilitation / Major Repair of Drainage Structure",
+        "region": "National Capital Region",
+        "province": "METROPOLITAN MANILA",
+        "coordinates": {
+          "latitude": 14.5724239,
+          "longitude": 121.0291811,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "R. SEMILLA CONSTRUCTION & MARKETING",
+    "bidders": [
+      {
+        "name": "R. SEMILLA CONSTRUCTION & MARKETING (9263)",
+        "pcabId": "9263",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "3FJ CONSTRUCTION (37156)",
+        "pcabId": "37156",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "G.A. PINEDA CONSTRUCTION (3428)",
+        "pcabId": "3428",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "STO. CRISTO CONSTRUCTION & TRADING INC. (FOR: STO. CRISTO CONSTRUCTION & TRADING) (26096)",
+        "pcabId": "26096",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "REHABILITATION OF DRAINAGE SYSTEM AT GRIARTE STREET AND ALLEYS, BRGY. HULO, MANDALUYONG CITY",
+      "abc": "9650078.43",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-01-07 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-01-27 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "8918014.4400000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "",
+      "noticeOfAward": "",
+      "noticeToProceed": "",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 14.5724239,
+    "longitude": 121.0291811,
+    "coordinates": [
+      {
+        "componentId": "P00052965LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Drainage Structure - Rehabilitation of Drainage system at Griarte Street and Alleys, Barangay Hulo, Mandaluyong City Lone District",
+        "latitude": 14.5724239,
+        "longitude": 121.0291811,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

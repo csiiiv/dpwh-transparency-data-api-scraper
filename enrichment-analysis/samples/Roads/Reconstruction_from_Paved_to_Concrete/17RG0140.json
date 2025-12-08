@@ -1,0 +1,109 @@
+{
+  "data": {
+    "contractId": "17RG0140",
+    "description": "NETWORK DEVELOPMENT PROGRAM: CONSTRUCTION OF BY-PASS AND DIVERSION ROADS-LOOC BYPASS ROAD, DUMAGUETE CITY",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 29979998.4,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Negros Island Region",
+      "province": "Negros Oriental 2nd DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 9.3255372,
+        "longitude": 123.2707291,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "UY CONDEV CORPORATION (FORMERLY:UY CONSTRUCTION & (12336)",
+    "startDate": "2018-02-26",
+    "completionDate": "2018-09-02",
+    "infraYear": "2018",
+    "contractEffectivityDate": "2018-02-26",
+    "expiryDate": "2018-09-02",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2018 OO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00201222VS-CW1",
+        "description": "Reconstruction from Paved to Concrete - Looc Bypass Road, Dumaguete City, Negros Oriental",
+        "infraType": "Roads",
+        "typeOfWork": "Reconstruction from Paved to Concrete",
+        "region": "Negros Island Region",
+        "province": "NEGROS ORIENTAL",
+        "coordinates": {
+          "latitude": 9.3255372,
+          "longitude": 123.2707291,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "UY CONDEV CORPORATION (FORMERLY:UY CONSTRUCTION &",
+    "bidders": [
+      {
+        "name": "UY CONDEV CORPORATION (FORMERLY:UY CONSTRUCTION & (12336)",
+        "pcabId": "12336",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "DALANON CONSTRUCTION CORPORATION (FORMERLY:DALANON CONSTRUCTION REF. SUPPLY & SERVICE) (11205)",
+        "pcabId": "11205",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "QM BUILDERS (30743)",
+        "pcabId": "30743",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "NETWORK DEVELOPMENT PROGRAM: CONSTRUCTION OF BY-PASS AND DIVERSION ROADS-LOOC BYPASS ROAD, DUMAGUETE CITY",
+      "abc": "29988000.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2017-11-16 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-12-05 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "28479998.89"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/17RG0140 BID DOCS Looc By-Pass Road.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/CONTRACT 3_00046_0002.zip",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/NOA 3_00046_0007.zip",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/NTP 3_00046_0001.jpg",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 9.3255372,
+    "longitude": 123.2707291,
+    "coordinates": [
+      {
+        "componentId": "P00201222VS-CW1",
+        "description": "Reconstruction from Paved to Concrete - Looc Bypass Road, Dumaguete City, Negros Oriental",
+        "latitude": 9.3255372,
+        "longitude": 123.2707291,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

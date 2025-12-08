@@ -1,0 +1,115 @@
+{
+  "data": {
+    "contractId": "18CM0111",
+    "description": "CONSTRUCTION OF TWO(2) STOREY DIVISION OFFICE BUILDING, NEW ASINAN, OLONGAPO CITY",
+    "category": "Buildings and Facilities",
+    "status": "Completed",
+    "budget": 9596039.01,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region III",
+      "province": "Zambales 2nd DEO",
+      "infraType": "Buildings and Facilities",
+      "coordinates": {
+        "latitude": 14.9137806,
+        "longitude": 120.2000731,
+        "verified": false
+      }
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "ALFEL CONSTRUCTION CORPORATION (40473)",
+    "startDate": "2018-12-19",
+    "completionDate": "2019-08-15",
+    "infraYear": "2018",
+    "contractEffectivityDate": "2018-12-19",
+    "expiryDate": "2019-08-15",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - Support for Infrastructure Projects and Social Program 2018",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00289529LZ-CW1",
+        "description": "Construction of 2-Storey Classrooms - Construction of Two (2) Storey Division Office Building New Asinan Elementary School, Olongapo City",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of 2-Storey Classrooms",
+        "region": "Region III",
+        "province": "ZAMBALES",
+        "coordinates": {
+          "latitude": 14.9137806,
+          "longitude": 120.2000731,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "ALFEL CONSTRUCTION CORPORATION",
+    "bidders": [
+      {
+        "name": "ALFEL CONSTRUCTION CORPORATION (40473)",
+        "pcabId": "40473",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "JAM-C BUILDERS (32870)",
+        "pcabId": "32870",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "JBERNARDO CONSTRUCTION AND SUPPLY (42108)",
+        "pcabId": "42108",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "TRI-DAN-J CONSTRUCTION AND TRADING (44045)",
+        "pcabId": "44045",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION OF TWO(2) STOREY DIVISION OFFICE BUILDING, NEW ASINAN, OLONGAPO CITY",
+      "abc": "9995672.27",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2018-11-14 00:00:00.0000000",
+      "bidSubmissionDeadline": "2018-12-04 00:00:00.0000000",
+      "dateOfAward": "2018-12-07 00:00:00.0000000",
+      "awardAmount": "9596039.01"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/IB and Bid Docs - 18CM0111-115 19CM0047.7z",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/18CM0111 - CONTRACT_opt.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/18CM0111 - NOA.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/18CM0111 - CONTRACT_opt.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 14.9137806,
+    "longitude": 120.2000731,
+    "coordinates": [
+      {
+        "componentId": "P00289529LZ-CW1",
+        "description": "Construction of 2-Storey Classrooms - Construction of Two (2) Storey Division Office Building New Asinan Elementary School, Olongapo City",
+        "latitude": 14.9137806,
+        "longitude": 120.2000731,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

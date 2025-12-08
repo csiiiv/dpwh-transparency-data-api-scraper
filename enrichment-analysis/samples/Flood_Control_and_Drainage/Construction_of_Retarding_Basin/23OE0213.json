@@ -1,0 +1,115 @@
+{
+  "data": {
+    "contractId": "23OE0213",
+    "description": "CONSTRUCTION OF RETARDING BASIN AT ESTERO DE KABULUSAN, MANILA CITY",
+    "category": "Flood Control and Drainage",
+    "status": "Completed",
+    "budget": 96494086.03,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "National Capital Region",
+      "province": "North Manila DEO",
+      "infraType": "Flood Control and Drainage",
+      "coordinates": {
+        "latitude": 14.6187214,
+        "longitude": 120.97238,
+        "verified": false
+      }
+    },
+    "infraType": "Flood Control and Drainage",
+    "contractor": "ALPHA & OMEGA GEN. CONTRACTOR & DEVELOPMENT CORP. ([REVOKED] 38958)",
+    "startDate": "2023-12-22",
+    "completionDate": "2024-11-18",
+    "infraYear": "2023",
+    "contractEffectivityDate": "2023-12-22",
+    "expiryDate": "2024-11-18",
+    "nysReason": null,
+    "programName": "Outside Infra",
+    "sourceOfFunds": "Outside Infra - Unprogrammed Appropriations 2023",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00761513LZ-CW1",
+        "description": "Construction of Retarding Basin - Construction of Retarding Basin at Estero De Kabulusan, Manila City",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Construction of Retarding Basin",
+        "region": "National Capital Region",
+        "province": "METROPOLITAN MANILA",
+        "coordinates": {
+          "latitude": 14.6187214,
+          "longitude": 120.97238,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "ALPHA & OMEGA GEN. CONTRACTOR & DEVELOPMENT CORP.",
+    "bidders": [
+      {
+        "name": "ALPHA & OMEGA GEN. CONTRACTOR & DEVELOPMENT CORP. ([REVOKED] 38958)",
+        "pcabId": "[REVOKED] 38958",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "JELSIE CONSTRUCTION & SUPPLY (44943)",
+        "pcabId": "44943",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "MONOLITHIC CONSTRUCTION & CONCRETE PRODUCTS, INC. (5733)",
+        "pcabId": "5733",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "WING AN CONSTRUCTION AND DEVELOPMENT CORPORATION (27831)",
+        "pcabId": "27831",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION OF RETARDING BASIN AT ESTERO DE KABULUSAN, MANILA CITY",
+      "abc": "96499323.11",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2023-05-24 00:00:00.0000000",
+      "bidSubmissionDeadline": "2023-06-13 00:00:00.0000000",
+      "dateOfAward": "2023-12-20 00:00:00.0000000",
+      "awardAmount": "93488663.03"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/23oe0213.pdf",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/cont_-_213.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/23oe0213_noa.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/ntp_-_213.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 14.6187214,
+    "longitude": 120.97238,
+    "coordinates": [
+      {
+        "componentId": "P00761513LZ-CW1",
+        "description": "Construction of Retarding Basin - Construction of Retarding Basin at Estero De Kabulusan, Manila City",
+        "latitude": 14.6187214,
+        "longitude": 120.97238,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 2,
+      "latestImageDate": "2025-01-28 06:29:18.638000",
+      "hasImages": true
+    }
+  }
+}

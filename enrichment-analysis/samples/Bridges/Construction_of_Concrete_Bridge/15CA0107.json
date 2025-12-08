@@ -1,0 +1,91 @@
+{
+  "data": {
+    "contractId": "15CA0107",
+    "description": "CONSTRUCTION OF  FOOTBRIDGE, SITIO PULO,  BARANGAY KABALUTAN,  ORANI,  BATAAN",
+    "category": "Bridges",
+    "status": "Completed",
+    "budget": 2865428.35,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region III",
+      "province": "Bataan 1st DEO",
+      "infraType": "Bridges",
+      "coordinates": null
+    },
+    "infraType": "Bridges",
+    "contractor": "FAME BUILDER PHILIPPINES (8936)",
+    "startDate": "2016-02-23",
+    "completionDate": "2016-07-15",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-02-23",
+    "expiryDate": "2016-06-21",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 Locally Funded Projects",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00047193LZ-CW1",
+        "description": "Construction of Concrete Bridge - Construction of Footbridge, Sitio Pulo, Barangay Kabalutan, Orani, Bataan 1st LD",
+        "infraType": "Bridges",
+        "typeOfWork": "Construction of Concrete Bridge",
+        "region": "Region III",
+        "province": "BATAAN",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "FAME BUILDER PHILIPPINES",
+    "bidders": [
+      {
+        "name": "FAME BUILDER PHILIPPINES (8936)",
+        "pcabId": "8936",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "DUNGAN CONT'RS.& TDG. CORP (FORMERLY DUNGAN CONST. (19301)",
+        "pcabId": "19301",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "ORANI CONSTRUCTION AND SUPPLY CORPORATION (FORMERLY:ORANI BUILDERS & SUPPLY) (05349)",
+        "pcabId": "05349",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION OF  FOOTBRIDGE, SITIO PULO,  BARANGAY KABALUTAN,  ORANI,  BATAAN",
+      "abc": "2985000.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-12-21 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-01-14 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "2865428.3500000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "",
+      "noticeOfAward": "",
+      "noticeToProceed": "",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

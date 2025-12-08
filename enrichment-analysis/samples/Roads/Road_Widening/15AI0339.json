@@ -1,0 +1,109 @@
+{
+  "data": {
+    "contractId": "15AI0339",
+    "description": "IMPROVEMENT/WIDENING OF NATL RD ALONG CARMEN JCT-MANAT RD INCL DRAINAGE, CARMEN SECTION, ROSALES, PA",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 4654631.58,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region I",
+      "province": "Pangasinan 3rd DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 15.8855003735389,
+        "longitude": 120.597564960836,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "W.J.P. CONSTRUCTION AND SUPPLY (23192)",
+    "startDate": "2016-02-08",
+    "completionDate": "2016-08-14",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-02-08",
+    "expiryDate": "2016-08-14",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00005410LZ-CW1",
+        "description": "Road Widening - Carmen Jct-Manat Rd  - K0172+-859- K0172+-697",
+        "infraType": "Roads",
+        "typeOfWork": "Road Widening",
+        "region": "Region I",
+        "province": "PANGASINAN",
+        "coordinates": {
+          "latitude": 15.8855003735389,
+          "longitude": 120.597564960836,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "W.J.P. CONSTRUCTION AND SUPPLY",
+    "bidders": [
+      {
+        "name": "W.J.P. CONSTRUCTION AND SUPPLY (23192)",
+        "pcabId": "23192",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "A.C. SOLIVEN CONSTRUCTION & GENERAL MERCHANDISE (19278)",
+        "pcabId": "19278",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "RPPARAYNO CONSTRUCTION (32862)",
+        "pcabId": "32862",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "IMPROVEMENT/WIDENING OF NATL RD ALONG CARMEN JCT-MANAT RD INCL DRAINAGE, CARMEN SECTION, ROSALES, PA",
+      "abc": "4900000.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-11-05 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-11-25 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "4654638.0300000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/april/15AI0339 contract.pdf",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/april/15AI0339 award.pdf",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/april/15AI0339 contract.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 15.8855003735389,
+    "longitude": 120.597564960836,
+    "coordinates": [
+      {
+        "componentId": "P00005410LZ-CW1",
+        "description": "Road Widening - Carmen Jct-Manat Rd  - K0172+-859- K0172+-697",
+        "latitude": 15.8855003735389,
+        "longitude": 120.597564960836,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

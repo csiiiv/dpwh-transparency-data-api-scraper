@@ -1,0 +1,127 @@
+{
+  "data": {
+    "contractId": "16CK0180",
+    "description": "ASSETS PRESERV OF NATL RD, REHAB/RECONST/UPGRADING OF DAMAGED  PAVED NATL RD INCL. DRAINAGE BASED ON",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 14631835.58,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region III",
+      "province": "Tarlac 2nd DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 15.35482127668,
+        "longitude": 120.545687498115,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "NORTHERN BUILDERS (8789)",
+    "startDate": "2017-02-23",
+    "completionDate": "2017-06-12",
+    "infraYear": "2017",
+    "contractEffectivityDate": "2017-02-23",
+    "expiryDate": "2017-06-12",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2017 MFO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00102800LZ-CW1",
+        "description": "Reconstruction from Asphalt to Concrete - Tarlac-Zambales Rd - K0112+ 570-K0112 + 697, K0113+ 471 -K0113+ 699, K0123+ 300 -K0124+ 187",
+        "infraType": "Roads",
+        "typeOfWork": "Reconstruction from Asphalt to Concrete",
+        "region": "Region III",
+        "province": "TARLAC",
+        "coordinates": {
+          "latitude": 15.35482127668,
+          "longitude": 120.545687498115,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "NORTHERN BUILDERS",
+    "bidders": [
+      {
+        "name": "NORTHERN BUILDERS (8789)",
+        "pcabId": "8789",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "A.M AYUNAN CONSTRUCTION (13983)",
+        "pcabId": "13983",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "D.L CERVANTES CONSTRUCTION CORPORATION (FORMERLY: (13799)",
+        "pcabId": "13799",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "HIGH STRENGTH DEV. CORPORATION (31976)",
+        "pcabId": "31976",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "MCB ZAMORA CONSTRUCTION & SUPPLY (32006)",
+        "pcabId": "32006",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "STO. CRISTO CONSTRUCTION & TRADING INC. (FOR: STO. CRISTO CONSTRUCTION & TRADING) (26096)",
+        "pcabId": "26096",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "ASSETS PRESERV OF NATL RD, REHAB/RECONST/UPGRADING OF DAMAGED  PAVED NATL RD INCL. DRAINAGE BASED ON",
+      "abc": "14699454.73",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-11-16 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-12-06 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "13959130.28"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/CONTRACT-16CK0180.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/NOA-16CK0180.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/CONTRACT-16CK0180.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 15.35482127668,
+    "longitude": 120.545687498115,
+    "coordinates": [
+      {
+        "componentId": "P00102800LZ-CW1",
+        "description": "Reconstruction from Asphalt to Concrete - Tarlac-Zambales Rd - K0112+ 570-K0112 + 697, K0113+ 471 -K0113+ 699, K0123+ 300 -K0124+ 187",
+        "latitude": 15.35482127668,
+        "longitude": 120.545687498115,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "data": {
+    "contractId": "16MG0247",
+    "description": "COMPLETION OF SCHOOL BUILDING, LIBERTAD NHS TECHVOC WORKSHOP AT SURALLAH, SOUTH COTABATO",
+    "category": "Buildings and Facilities",
+    "status": "Completed",
+    "budget": 103942.53,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region XII",
+      "province": "South Cotabato 2nd DEO",
+      "infraType": "Buildings and Facilities",
+      "coordinates": null
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "MIGO CONSTRUCTION (34663)",
+    "startDate": "2017-10-25",
+    "completionDate": "2017-11-14",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2017-10-25",
+    "expiryDate": "2017-11-14",
+    "nysReason": null,
+    "programName": "Outside Infra",
+    "sourceOfFunds": "Outside Infra - GAA 2016 DepED BEFF",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00076225MN-CW1",
+        "description": "Completion of School Buildings - Construction (Completion) of a TechVoc Workshop School Building, Libertad NHS, Surallah, South Cotabato",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Completion of School Buildings",
+        "region": "Region XII",
+        "province": "SOUTH COTABATO",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "MIGO CONSTRUCTION",
+    "bidders": [
+      {
+        "name": "MIGO CONSTRUCTION (34663)",
+        "pcabId": "34663",
+        "participation": 100,
+        "isWinner": true
+      }
+    ],
+    "procurement": {
+      "contractName": "COMPLETION OF SCHOOL BUILDING, LIBERTAD NHS TECHVOC WORKSHOP AT SURALLAH, SOUTH COTABATO",
+      "abc": "104447.27",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2017-08-25 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-09-15 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "103,942.53"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/Bid docs 16MG0247.rar",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/16mg0247.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/16mg0247.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/16mg0247.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "data": {
+    "contractId": "21NA0021",
+    "description": "CONSTRUCTION OF EMBANKMENT, BRGY. CAASIANAN, CABADBARAN CITY, AGUSAN DEL NORTE",
+    "category": "Flood Control and Drainage",
+    "status": "Completed",
+    "budget": 7849301.91,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region XIII",
+      "province": "Agusan del Norte DEO",
+      "infraType": "Flood Control and Drainage",
+      "coordinates": {
+        "latitude": 9.1377017,
+        "longitude": 125.5240183,
+        "verified": false
+      }
+    },
+    "infraType": "Flood Control and Drainage",
+    "contractor": "DATREBIL CONSTRUCTION & SUPPLY (36908)",
+    "startDate": "2022-02-09",
+    "completionDate": "2022-04-19",
+    "infraYear": "2021",
+    "contractEffectivityDate": "2022-02-09",
+    "expiryDate": "2022-04-19",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2021 LP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00550579MN-CW1",
+        "description": "Embankment - Construction of Embankment, Barangay Caasinan, Cabadbaran City, Agusan del Norte",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Embankment",
+        "region": "Region XIII",
+        "province": "AGUSAN DEL NORTE",
+        "coordinates": {
+          "latitude": 9.1377017,
+          "longitude": 125.5240183,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "DATREBIL CONSTRUCTION & SUPPLY",
+    "bidders": [
+      {
+        "name": "DATREBIL CONSTRUCTION & SUPPLY (36908)",
+        "pcabId": "36908",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "KELVIN CONSTRUCTION (29645)",
+        "pcabId": "29645",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "NAHARO BUILDERS, INC. (43001)",
+        "pcabId": "43001",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION OF EMBANKMENT, BRGY. CAASIANAN, CABADBARAN CITY, AGUSAN DEL NORTE",
+      "abc": "7920000.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2020-12-10 00:00:00.0000000",
+      "bidSubmissionDeadline": "2020-12-29 00:00:00.0000000",
+      "dateOfAward": "2021-12-31 00:00:00.0000000",
+      "awardAmount": "7849301.91"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/21NA0021 - ITB, BOQ, BIDDING DOCS   AND PLANS.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/21NA0021 CONTRACT.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/21NA0021 NOA.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/21NA0021 CONTRACT.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 9.1377017,
+    "longitude": 125.5240183,
+    "coordinates": [
+      {
+        "componentId": "P00550579MN-CW1",
+        "description": "Embankment - Construction of Embankment, Barangay Caasinan, Cabadbaran City, Agusan del Norte",
+        "latitude": 9.1377017,
+        "longitude": 125.5240183,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 2,
+      "latestImageDate": "2022-05-30 01:54:03.500000",
+      "hasImages": true
+    }
+  }
+}

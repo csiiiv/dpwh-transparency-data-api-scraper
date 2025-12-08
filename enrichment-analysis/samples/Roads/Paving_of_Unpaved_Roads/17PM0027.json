@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "17PM0027",
+    "description": "NETWORK DEVELOPMENT-PAVING OF UNPAVED ROADS, TERTIARY ROADS JCT. TALUBIN-BARLIG-NATONIN-PARACELIS-CALACCAD RD (S03997LZ) K0421+444 - K0423+486",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 96496854.65,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Cordillera Administrative Region",
+      "province": "Mountain Province 2nd DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 17.1832573,
+        "longitude": 121.4065166,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "BMK CONSTRUCTION CORPORATION (FORMERLY B.M.K. CONSTRUCTION) (8292) / E.T. LATAWAN CONSTRUCTION (13919)",
+    "startDate": "2018-02-26",
+    "completionDate": "2019-12-16",
+    "infraYear": "2018",
+    "contractEffectivityDate": "2018-02-26",
+    "expiryDate": "2018-11-12",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2018 OO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00201651LZ-CW1",
+        "description": "Paving of Unpaved Roads - Jct Talubin-Barlig-Natonin-Paracelis-Calaccad Rd - K0421 + 444 - K0423 + 486",
+        "infraType": "Roads",
+        "typeOfWork": "Paving of Unpaved Roads",
+        "region": "Cordillera Administrative Region",
+        "province": "MOUNTAIN PROVINCE",
+        "coordinates": {
+          "latitude": 17.1832573,
+          "longitude": 121.4065166,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "BMK CONSTRUCTION CORPORATION (FORMERLY B.M.K. CONSTRUCTION), E.T. LATAWAN CONSTRUCTION",
+    "bidders": [
+      {
+        "name": "BMK CONSTRUCTION CORPORATION (FORMERLY B.M.K. CONSTRUCTION) (8292) / E.T. LATAWAN CONSTRUCTION (13919) (JV ID: JV-17-607)",
+        "pcabId": "",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "MG SAMIDAN CONSTRUCTION (33234)",
+        "pcabId": "33234",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "NETWORK DEVELOPMENT-PAVING OF UNPAVED ROADS, TERTIARY ROADS JCT. TALUBIN-BARLIG-NATONIN-PARACELIS-CALACCAD RD (S03997LZ) K0421+444 - K0423+486",
+      "abc": "97994339.81",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2017-10-16 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-11-06 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "96496854.65"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/17PM0027.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/17pm0027_contract_agreement.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/17pm0027_noa.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/17pm0027_ntp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 17.1832573,
+    "longitude": 121.4065166,
+    "coordinates": [
+      {
+        "componentId": "P00201651LZ-CW1",
+        "description": "Paving of Unpaved Roads - Jct Talubin-Barlig-Natonin-Paracelis-Calaccad Rd - K0421 + 444 - K0423 + 486",
+        "latitude": 17.1832573,
+        "longitude": 121.4065166,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "data": {
+    "contractId": "17GA0052",
+    "description": "REPAIR/REHAB./IMPROVEMENT BURUANGA-AKLAN/LIBERTAD,ANTIQUE BDRY. RD. KALIBO,AKLAN K0266+860-K0282+172",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 12866210.12,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region VI",
+      "province": "Aklan DEO",
+      "infraType": "Roads",
+      "coordinates": null
+    },
+    "infraType": "Roads",
+    "contractor": "F & J GENERAL CONSTRUCTION AND SUPPLY CORPORATION (31963)",
+    "startDate": "2017-07-17",
+    "completionDate": "2018-12-13",
+    "infraYear": "2017",
+    "contractEffectivityDate": "2017-07-17",
+    "expiryDate": "2017-12-13",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2017 LFP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00146719VS-CW1",
+        "description": "Road Safety: Guardrails (Old) - Repair/Rehabilitation/Improvement along Buruanga-Aklan/Libertad, Antique Boundary Road, Kalibo, Aklan",
+        "infraType": "Roads",
+        "typeOfWork": "Road Safety: Guardrails (Old)",
+        "region": "Region VI",
+        "province": "AKLAN",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "F & J GENERAL CONSTRUCTION AND SUPPLY CORPORATION",
+    "bidders": [
+      {
+        "name": "F & J GENERAL CONSTRUCTION AND SUPPLY CORPORATION (31963)",
+        "pcabId": "31963",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "G.F. ROVERO MERCHANDISING (27268)",
+        "pcabId": "27268",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "TRIBU DESIGN & CONSTRUCTION (12756)",
+        "pcabId": "12756",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "REPAIR/REHAB./IMPROVEMENT BURUANGA-AKLAN/LIBERTAD,ANTIQUE BDRY. RD. KALIBO,AKLAN K0266+860-K0282+172",
+      "abc": "12791090.47",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2017-05-18 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-06-07 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "12,151,942.67"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/ITB 17GA0052.pdf",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/CA.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/NOA.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/CA.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "data": {
+    "contractId": "15DD0237",
+    "description": "LOCAL INFRASTRUCTURE PROGRAM - IMPROVEMENT OF WATERWORKS, BARANGAY BAGO, IBAAN, BATANGAS",
+    "category": "Water Provision and Storage",
+    "status": "Completed",
+    "budget": 979960,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region IV-A",
+      "province": "Batangas 4th DEO",
+      "infraType": "Water Provision and Storage",
+      "coordinates": null
+    },
+    "infraType": "Water Provision and Storage",
+    "contractor": "TCSC CORP. (15453)",
+    "startDate": "2016-02-09",
+    "completionDate": "2016-03-12",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-02-09",
+    "expiryDate": "2016-03-09",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 Locally Funded Projects",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00047333LZ-CW1",
+        "description": "Construction of Water Supply Systems - Improvement of Waterworks, Barangay Bago, Ibaan, Batangas",
+        "infraType": "Water Provision and Storage",
+        "typeOfWork": "Construction of Water Supply Systems",
+        "region": "Region IV-A",
+        "province": "BATANGAS",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "TCSC CORP.",
+    "bidders": [
+      {
+        "name": "TCSC CORP. (15453)",
+        "pcabId": "15453",
+        "participation": 100,
+        "isWinner": true
+      }
+    ],
+    "procurement": {
+      "contractName": "LOCAL INFRASTRUCTURE PROGRAM - IMPROVEMENT OF WATERWORKS, BARANGAY BAGO, IBAAN, BATANGAS",
+      "abc": "989972.81",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-11-28 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-12-16 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "979960.0000000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/15dd0237_noa.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/15dd0237_ntp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

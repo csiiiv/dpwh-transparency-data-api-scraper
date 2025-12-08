@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "20KB0062",
+    "description": "OFF-CARRIAGEWAY IMPROVEMENT: CONSTRUCTION OF LOADING & UNLOADING BAYS ALONG SAYRE HIGHWAY, K1545+558-K1545+618, K1545+746-K1545+806, MUSUAN, MARAMAG, BUKIDNON",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 4900000,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region X",
+      "province": "Bukidnon 2nd DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 7.8445603,
+        "longitude": 125.0455781,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "KIOKONG CONSTRUCTION AND DEVELOPMENT CORPORATION (39505)",
+    "startDate": "2020-10-27",
+    "completionDate": "2021-02-08",
+    "infraYear": "2020",
+    "contractEffectivityDate": "2020-10-27",
+    "expiryDate": "2021-02-08",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2020 OO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00400443MN-CW1",
+        "description": "Off-Carriageway Improvement: Construction of Loading and Unloading Bays - Sayre Highway - K1545 + 558 - K1545 + 618, K1545 + 746 - K1545 + 806",
+        "infraType": "Roads",
+        "typeOfWork": "Off-Carriageway Improvement: Construction of Loading and Unloading Bays",
+        "region": "Region X",
+        "province": "BUKIDNON",
+        "coordinates": {
+          "latitude": 7.8445603,
+          "longitude": 125.0455781,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "KIOKONG CONSTRUCTION AND DEVELOPMENT CORPORATION",
+    "bidders": [
+      {
+        "name": "KIOKONG CONSTRUCTION AND DEVELOPMENT CORPORATION (39505)",
+        "pcabId": "39505",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "FP ALONTO CONSTRUCTION SERVICES (46820)",
+        "pcabId": "46820",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "OFF-CARRIAGEWAY IMPROVEMENT: CONSTRUCTION OF LOADING & UNLOADING BAYS ALONG SAYRE HIGHWAY, K1545+558-K1545+618, K1545+746-K1545+806, MUSUAN, MARAMAG, BUKIDNON",
+      "abc": "4900000.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2019-12-05 00:00:00.0000000",
+      "bidSubmissionDeadline": "2019-12-27 00:00:00.0000000",
+      "dateOfAward": "2020-10-06 00:00:00.0000000",
+      "awardAmount": "4654572.42"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/20KB0062.rar",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/20kb0062 contract.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/20kb0062 noa.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/20kb0062 contract.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 7.8445603,
+    "longitude": 125.0455781,
+    "coordinates": [
+      {
+        "componentId": "P00400443MN-CW1",
+        "description": "Off-Carriageway Improvement: Construction of Loading and Unloading Bays - Sayre Highway - K1545 + 558 - K1545 + 618, K1545 + 746 - K1545 + 806",
+        "latitude": 7.8445603,
+        "longitude": 125.0455781,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 5,
+      "latestImageDate": "2021-04-05 08:54:16.655000",
+      "hasImages": true
+    }
+  }
+}

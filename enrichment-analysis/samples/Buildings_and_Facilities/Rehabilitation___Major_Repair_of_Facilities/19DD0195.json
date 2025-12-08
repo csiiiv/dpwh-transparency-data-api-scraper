@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "19DD0195",
+    "description": "LOCAL PROGRAM, BUILDINGS AND OTHER STRUCTURES - MULTIPURPOSE/ FACILITIES/ CONSTRUCTION/ REPAIR/ REHABILITATION/ IMPROVEMENT OF VARIOUS INFRASTRUCTURE INCLUDING LOCAL PROJECTS, REHABILITATION/IMPROVEMENT OF SCHOOL FACILITIES AT SAN ISIDRO NATIONAL HIGHSCHO",
+    "category": "Buildings and Facilities",
+    "status": "Completed",
+    "budget": 3920000,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region IV-A",
+      "province": "Batangas 4th DEO",
+      "infraType": "Buildings and Facilities",
+      "coordinates": {
+        "latitude": 13.9591278,
+        "longitude": 121.2043306,
+        "verified": false
+      }
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "RANRAC CONSTRUCTION CORPORATION (44301)",
+    "startDate": "2019-07-16",
+    "completionDate": "2019-10-13",
+    "infraYear": "2019",
+    "contractEffectivityDate": "2019-07-16",
+    "expiryDate": "2019-10-13",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2019 LP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00348456LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Facilities - Rehabilitation/Improvement of School Facilities at San Isidro National High School, Barangay San Isidro, Lipa City, Batangas",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Rehabilitation / Major Repair of Facilities",
+        "region": "Region IV-A",
+        "province": "BATANGAS",
+        "coordinates": {
+          "latitude": 13.9591278,
+          "longitude": 121.2043306,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "RANRAC CONSTRUCTION CORPORATION",
+    "bidders": [
+      {
+        "name": "RANRAC CONSTRUCTION CORPORATION (44301)",
+        "pcabId": "44301",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "TONIJON CONSTRUCTION AND DEVELOPMENT INC. (FORMERLY: TONIJON CONSTRUCTION) (30996)",
+        "pcabId": "30996",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "LOCAL PROGRAM, BUILDINGS AND OTHER STRUCTURES - MULTIPURPOSE/ FACILITIES/ CONSTRUCTION/ REPAIR/ REHABILITATION/ IMPROVEMENT OF VARIOUS INFRASTRUCTURE INCLUDING LOCAL PROJECTS, REHABILITATION/IMPROVEMENT OF SCHOOL FACILITIES AT SAN ISIDRO NATIONAL HIGHSCHO",
+      "abc": "3920000.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2019-02-01 00:00:00.0000000",
+      "bidSubmissionDeadline": "2019-02-21 00:00:00.0000000",
+      "dateOfAward": "2019-07-01 00:00:00.0000000",
+      "awardAmount": "3802400"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/0BID DOCS 19DD0195.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/19DD0195 CA.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/19dd0195_noa.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/19DD0195 CA.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 13.9591278,
+    "longitude": 121.2043306,
+    "coordinates": [
+      {
+        "componentId": "P00348456LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Facilities - Rehabilitation/Improvement of School Facilities at San Isidro National High School, Barangay San Isidro, Lipa City, Batangas",
+        "latitude": 13.9591278,
+        "longitude": 121.2043306,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

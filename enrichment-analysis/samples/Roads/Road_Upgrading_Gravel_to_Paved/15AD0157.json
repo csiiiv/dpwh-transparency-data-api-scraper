@@ -1,0 +1,85 @@
+{
+  "data": {
+    "contractId": "15AD0157",
+    "description": "CONC.OF SALVADOR-LANGLANGCA FMR,CANDON CITY,ILOCOS SUR",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 4723222.08,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region I",
+      "province": "Ilocos Sur 2nd DEO",
+      "infraType": "Roads",
+      "coordinates": null
+    },
+    "infraType": "Roads",
+    "contractor": "FIRST NORTHWAY DEVELOPMENT & CONSTRUCTION CORP. (11645)",
+    "startDate": "2016-01-25",
+    "completionDate": "2016-03-28",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-01-25",
+    "expiryDate": "2016-03-31",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 Locally Funded Projects",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00044609LZ-CW1",
+        "description": "Road Upgrading Gravel to Paved - Concreting of Salvador-Langlangca FMR, Candon City, Ilocos Sur",
+        "infraType": "Roads",
+        "typeOfWork": "Road Upgrading Gravel to Paved",
+        "region": "Region I",
+        "province": "ILOCOS SUR",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "FIRST NORTHWAY DEVELOPMENT & CONSTRUCTION CORP.",
+    "bidders": [
+      {
+        "name": "FIRST NORTHWAY DEVELOPMENT & CONSTRUCTION CORP. (11645)",
+        "pcabId": "11645",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "VIGAN FORTUNE CONSTRUCTION (3887)",
+        "pcabId": "3887",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONC.OF SALVADOR-LANGLANGCA FMR,CANDON CITY,ILOCOS SUR",
+      "abc": "4900000.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-10-27 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-11-17 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "4724059.9100000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/june/15AD0157 CA007.pdf",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/june/15AD0157 NOA006.pdf",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/june/15AD0157 CA007.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

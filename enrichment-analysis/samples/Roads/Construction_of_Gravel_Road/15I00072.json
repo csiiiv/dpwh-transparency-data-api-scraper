@@ -1,0 +1,145 @@
+{
+  "data": {
+    "contractId": "15I00072",
+    "description": "CONSTRUCTION / CONCRETING OF LAGBANGAN LAKE CIRCUMFERENTIAL ROAD, STA. 1+120 - STA. 4+603.08, SAN ANTONIO, NORTHERN SAMAR",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 58440743.27,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region VIII",
+      "province": "Region VIII",
+      "infraType": "Roads",
+      "coordinates": null
+    },
+    "infraType": "Roads",
+    "contractor": "CTC CONSTRUCTION & SUPPLIES (33039) / HENSCHA PHILS. INC. (34164)",
+    "startDate": "2016-04-15",
+    "completionDate": "2019-02-17",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-04-15",
+    "expiryDate": "2019-02-18",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - Roads: Construction - Gravel, Roads: Construction - PCCP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00030257VS-CW1",
+        "description": "Construction of Gravel Road - Construction/Concreting of Lagbangan Lake Circumferential Road, San Antonio, Northern Samar",
+        "infraType": "Roads",
+        "typeOfWork": "Construction of Gravel Road",
+        "region": "Region VIII",
+        "province": "NORTHERN SAMAR",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "CTC CONSTRUCTION & SUPPLIES, HENSCHA PHILS. INC.",
+    "bidders": [
+      {
+        "name": "HENSCHA PHILS. INC. (34164) / CTC CONSTRUCTION & SUPPLIES (33039) (JV ID: JV-15-983)",
+        "pcabId": "",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "ACME BUILDERS CORPORATION (6442)",
+        "pcabId": "6442",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "B. VICENCIO BUILDERS (BVB), INC. (FORMERLY:B. VICENCIO CONSTRUCTION) (9687)",
+        "pcabId": "9687",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "EZJONES CONSTRUCTION INC. (34462)",
+        "pcabId": "34462",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "HIGH-INNOVATIVE CONSTRUCTION & DEVELOPMENT PHILS.( (13120)",
+        "pcabId": "13120",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "LEDA  CONSTRUCTION INCORPORATED (12229)",
+        "pcabId": "12229",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "MONOLITHIC CONSTRUCTION & CONCRETE PRODUCTS, INC. (5733)",
+        "pcabId": "5733",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "NORSAM BUILDERS & CONSTRUCTION SUPPLY (21184)",
+        "pcabId": "21184",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "OCTAGON CONCRETE SOLUTIONS INC. (34475)",
+        "pcabId": "34475",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "REX E. MORALES CONSTRUCTION (17427)",
+        "pcabId": "17427",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "THE TUSCAN STRUCTURES & SUPPLIES (18257)",
+        "pcabId": "18257",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "WCS CONSTRUCTION, INC. (6516)",
+        "pcabId": "6516",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION / CONCRETING OF LAGBANGAN LAKE CIRCUMFERENTIAL ROAD, STA. 1+120 - STA. 4+603.08, SAN ANTONIO, NORTHERN SAMAR",
+      "abc": "61081854.68",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-12-09 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-12-28 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "58483645.2700000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/15i00072_noa.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/15i00072_ntp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

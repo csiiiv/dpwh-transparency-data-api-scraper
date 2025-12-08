@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "16AF0010",
+    "description": "CONST./REHAB OF FLOOD MITIGATION FACILITIES ALONG ARINGAY RIVER BASIN, ARINGAY & BAUANG RIVER BASIN,",
+    "category": "Flood Control and Drainage",
+    "status": "Completed",
+    "budget": 27437170.24,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region I",
+      "province": "La Union 2nd DEO",
+      "infraType": "Flood Control and Drainage",
+      "coordinates": {
+        "latitude": 16.400428,
+        "longitude": 120.403164,
+        "verified": false
+      }
+    },
+    "infraType": "Flood Control and Drainage",
+    "contractor": "BERSON'S CONSTRUCTION & TRADING (31181)",
+    "startDate": "2016-06-27",
+    "completionDate": "2017-01-31",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-06-27",
+    "expiryDate": "2016-11-23",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-2",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00020192LZ-CW1",
+        "description": "Construction of Flood Mitigation Facility - Construction of Flood Mitigation Facilities along Aringay River Basin, Aringay, and along Bauang River Basin, Bauang, La Union",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Construction of Flood Mitigation Facility",
+        "region": "Region I",
+        "province": "LA UNION",
+        "coordinates": {
+          "latitude": 16.400428,
+          "longitude": 120.403164,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "BERSON'S CONSTRUCTION & TRADING",
+    "bidders": [
+      {
+        "name": "BERSON'S CONSTRUCTION & TRADING (31181)",
+        "pcabId": "31181",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "JASA GD 2000 CONSTRUCTION CORPORATION (FORMERLY:JASA BUILDER'S) (31330)",
+        "pcabId": "31330",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONST./REHAB OF FLOOD MITIGATION FACILITIES ALONG ARINGAY RIVER BASIN, ARINGAY & BAUANG RIVER BASIN,",
+      "abc": "28881232.29",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-05-20 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-06-08 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "27,437,170.24"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/16af10_noa.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/16af10_noa.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/16af10_ntp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 16.400428,
+    "longitude": 120.403164,
+    "coordinates": [
+      {
+        "componentId": "P00020192LZ-CW1",
+        "description": "Construction of Flood Mitigation Facility - Construction of Flood Mitigation Facilities along Aringay River Basin, Aringay, and along Bauang River Basin, Bauang, La Union",
+        "latitude": 16.400428,
+        "longitude": 120.403164,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

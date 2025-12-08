@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "16IB0330",
+    "description": "REPAIR/REHABILITATION OF DOLORES, PARK LIGHTS, CANALS AND ADDITIONAL PARK LIGHTS, DOLORES, EASTERN SAMAR",
+    "category": "Buildings and Facilities",
+    "status": "Completed",
+    "budget": 4020228.16,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region VIII",
+      "province": "Eastern Samar DEO",
+      "infraType": "Buildings and Facilities",
+      "coordinates": {
+        "latitude": 12.035414,
+        "longitude": 125.485556,
+        "verified": false
+      }
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "TUBIGAN BUILDERS (33185)",
+    "startDate": "2017-03-23",
+    "completionDate": "2017-08-19",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2017-03-23",
+    "expiryDate": "2017-08-19",
+    "nysReason": null,
+    "programName": "Outside Infra",
+    "sourceOfFunds": "Outside Infra - GAA 2016 NDRRMF",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00095306VS-CW1",
+        "description": "Repair/Rehabilitation of Other Buildings - Repair/Rehabilitation of Dolores Park Lights, Canals and additional Park Lights, Dolores, Eastern Samar",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Repair/Rehabilitation of Other Buildings",
+        "region": "Region VIII",
+        "province": "EASTERN SAMAR",
+        "coordinates": {
+          "latitude": 12.035414,
+          "longitude": 125.485556,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "TUBIGAN BUILDERS",
+    "bidders": [
+      {
+        "name": "TUBIGAN BUILDERS (33185)",
+        "pcabId": "33185",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "DAYBREAK ENTERPRISES - ENGINEERING & CONSTRUCTION (30174)",
+        "pcabId": "30174",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "REPAIR/REHABILITATION OF DOLORES, PARK LIGHTS, CANALS AND ADDITIONAL PARK LIGHTS, DOLORES, EASTERN SAMAR",
+      "abc": "4161636.93",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2017-01-17 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-02-07 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "4,023,672.23"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/ITB 17IB0076, 16IB0329, 16IB0330.rar",
+      "contractAgreement": "",
+      "noticeOfAward": "",
+      "noticeToProceed": "",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 12.035414,
+    "longitude": 125.485556,
+    "coordinates": [
+      {
+        "componentId": "P00095306VS-CW1",
+        "description": "Repair/Rehabilitation of Other Buildings - Repair/Rehabilitation of Dolores Park Lights, Canals and additional Park Lights, Dolores, Eastern Samar",
+        "latitude": 12.035414,
+        "longitude": 125.485556,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

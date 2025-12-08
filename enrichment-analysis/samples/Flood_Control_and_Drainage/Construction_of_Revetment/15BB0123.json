@@ -1,0 +1,115 @@
+{
+  "data": {
+    "contractId": "15BB0123",
+    "description": "CONST OF CONC REVETMENT OF BORED PILES, STEEL SHEET PILES AND HEXAPOD ASSAO, BAGGAO, CAGAYAN",
+    "category": "Flood Control and Drainage",
+    "status": "Completed",
+    "budget": 40449039.17,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region II",
+      "province": "Cagayan 1st DEO",
+      "infraType": "Flood Control and Drainage",
+      "coordinates": {
+        "latitude": 18.28167,
+        "longitude": 121.01083,
+        "verified": false
+      }
+    },
+    "infraType": "Flood Control and Drainage",
+    "contractor": "WERR CORPORATION INTERNATIONAL (14133)",
+    "startDate": "2016-03-08",
+    "completionDate": "2019-04-01",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-03-08",
+    "expiryDate": "2016-08-25",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-2",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00020370LZ-CW1",
+        "description": "Construction of Revetment - Construction of Concrete Revetment on Bored Piles, Steel Sheet Piles and Hexapod, Sta. 536+738 - Sta. 536+828, Assao, Baggao, Cagayan",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Construction of Revetment",
+        "region": "Region II",
+        "province": "CAGAYAN",
+        "coordinates": {
+          "latitude": 18.28167,
+          "longitude": 121.01083,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "WERR CORPORATION INTERNATIONAL",
+    "bidders": [
+      {
+        "name": "WERR CORPORATION INTERNATIONAL (14133)",
+        "pcabId": "14133",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "BICOL GOLDROCK CONSTRUCTION CORPORATION (32376)",
+        "pcabId": "32376",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "G.C.I.  CONSTRUCTION AND DEV'T. CORP. (11346)",
+        "pcabId": "11346",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "SYNDTITE CONSTRUCTION CORPORATION (FORMERLY: R.C. TAGALA CONSTRUCTION) (11597)",
+        "pcabId": "11597",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONST OF CONC REVETMENT OF BORED PILES, STEEL SHEET PILES AND HEXAPOD ASSAO, BAGGAO, CAGAYAN",
+      "abc": "48631040.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-11-16 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-12-08 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "40449039.1700000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/june/15BB0123-002.pdf",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/june/15BB0123-003.pdf",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/june/15BB0123-002.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 18.28167,
+    "longitude": 121.01083,
+    "coordinates": [
+      {
+        "componentId": "P00020370LZ-CW1",
+        "description": "Construction of Revetment - Construction of Concrete Revetment on Bored Piles, Steel Sheet Piles and Hexapod, Sta. 536+738 - Sta. 536+828, Assao, Baggao, Cagayan",
+        "latitude": 18.28167,
+        "longitude": 121.01083,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

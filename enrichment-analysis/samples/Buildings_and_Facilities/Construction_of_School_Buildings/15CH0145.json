@@ -1,0 +1,115 @@
+{
+  "data": {
+    "contractId": "15CH0145",
+    "description": "CONSTRUCTION OF SCHOOL BUILDING IN FLORIDABLANCA COMMUNITY COLLEGE SOLIB, FLORIDABLANCA, PAMPANGA",
+    "category": "Buildings and Facilities",
+    "status": "Completed",
+    "budget": 1869211,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region III",
+      "province": "Pampanga 2nd DEO",
+      "infraType": "Buildings and Facilities",
+      "coordinates": {
+        "latitude": 14.973366,
+        "longitude": 120.532046,
+        "verified": false
+      }
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "RO-AL CONSTRUCTION (33566)",
+    "startDate": "2016-02-29",
+    "completionDate": "2016-05-13",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-02-29",
+    "expiryDate": "2016-05-13",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 Locally Funded Projects",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00040113LZ-CW1",
+        "description": "Construction of School Buildings - Construction of School Building  in Floridablanca Community College, Solib, Floridablanca, Pampanga",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of School Buildings",
+        "region": "Region III",
+        "province": "PAMPANGA",
+        "coordinates": {
+          "latitude": 14.973366,
+          "longitude": 120.532046,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "RO-AL CONSTRUCTION",
+    "bidders": [
+      {
+        "name": "RO-AL CONSTRUCTION (33566)",
+        "pcabId": "33566",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "JKEN CONSTRUCTION & GENERAL MERCHANDISE (37192)",
+        "pcabId": "37192",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "PKCS CONSTRUCTION & HARDWARE (27975)",
+        "pcabId": "27975",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "VERET CONSTRUCTION (36804)",
+        "pcabId": "36804",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION OF SCHOOL BUILDING IN FLORIDABLANCA COMMUNITY COLLEGE SOLIB, FLORIDABLANCA, PAMPANGA",
+      "abc": "1967883.88",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-12-29 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-01-21 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "1869211.0000000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/15ch0145_contract_agreement.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/15ch0145_notice_of_award.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/15ch0145_notice_to_proceed.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 14.973366,
+    "longitude": 120.532046,
+    "coordinates": [
+      {
+        "componentId": "P00040113LZ-CW1",
+        "description": "Construction of School Buildings - Construction of School Building  in Floridablanca Community College, Solib, Floridablanca, Pampanga",
+        "latitude": 14.973366,
+        "longitude": 120.532046,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

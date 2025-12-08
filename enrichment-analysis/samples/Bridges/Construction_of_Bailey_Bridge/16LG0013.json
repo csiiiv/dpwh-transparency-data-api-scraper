@@ -1,0 +1,88 @@
+{
+  "data": {
+    "contractId": "16LG0013",
+    "description": "CONCRETING OF TIBANBAN- LAVIGAN FARM TO MARKET ROAD, BRGY. OSMENA, GOVERNOR GENEROSO, DAVAO ORIENTAL",
+    "category": "Bridges, Roads",
+    "status": "Completed",
+    "budget": 4940500,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region XI",
+      "province": "Davao Oriental 2nd DEO",
+      "infraType": "Roads",
+      "coordinates": null
+    },
+    "infraType": "Roads",
+    "contractor": "MAER SUMMIT KONSTRUKT CO. (25262)",
+    "startDate": "2016-05-23",
+    "completionDate": "2016-10-09",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-05-23",
+    "expiryDate": "2016-10-09",
+    "nysReason": null,
+    "programName": "Outside Infra",
+    "sourceOfFunds": "Outside Infra - GAA 2016 DA Farm-to-Market Roads",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00066693MN-CW1",
+        "description": "Construction of Concrete Road - Concreting of Tibanban-Lavigan FMR, Brgy. Sergio Osme±a, Gov. Generoso, Davao Oriental",
+        "infraType": "Roads",
+        "typeOfWork": "Construction of Concrete Road",
+        "region": "Region XI",
+        "province": "DAVAO ORIENTAL",
+        "coordinates": null
+      },
+      {
+        "componentId": "P00066693MN-CW2",
+        "description": "Construction of Bailey Bridge - Concreting of Tibanban-Lavigan FMR, Brgy. Sergio Osme±a, Gov. Generoso, Davao Oriental",
+        "infraType": "Bridges",
+        "typeOfWork": "Construction of Bailey Bridge",
+        "region": "Region XI",
+        "province": "DAVAO ORIENTAL",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "MAER SUMMIT KONSTRUKT CO.",
+    "bidders": [
+      {
+        "name": "MAER SUMMIT KONSTRUKT CO. (25262)",
+        "pcabId": "25262",
+        "participation": 100,
+        "isWinner": true
+      }
+    ],
+    "procurement": {
+      "contractName": "CONCRETING OF TIBANBAN- LAVIGAN FARM TO MARKET ROAD, BRGY. OSMENA, GOVERNOR GENEROSO, DAVAO ORIENTAL",
+      "abc": "4975000.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-02-04 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-02-29 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "4940500"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/september/16LG0013 Contract.pdf",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/august/16LG0013 NOA.pdf",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/september/16LG0013 Contract.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

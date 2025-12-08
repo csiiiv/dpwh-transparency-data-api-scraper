@@ -1,0 +1,115 @@
+{
+  "data": {
+    "contractId": "15B00053",
+    "description": "NETWORK DEVELOPMENT:WIDENING OF NATIONAL ROADS ALONG NATIONAL ROAD 1 (N1)/DM/ASIAN HIGHWAY 26-DM (LZ), REINAMERCEDES, NAGUILLIAN AND GAMU, ISABELA",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 79349760.82,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region II",
+      "province": "Region II",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 17.0185113490608,
+        "longitude": 121.850718984764,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "A. DE GUIA CONSTRUCTION AND DEVELOPMENT CORPORATION (FORMERLY: A. DE GUIA CONSTRUCTION) (18228)",
+    "startDate": "2016-02-04",
+    "completionDate": "2017-01-12",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-02-04",
+    "expiryDate": "2016-12-07",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00005150LZ-CW1",
+        "description": "Road Widening - Daang Maharlika (LZ) - K0382+977 - K0383+450 L/S, K0383+830 - K0386+182 L/S, K0386+291 - K0387+215 L/S, K0382+977 - K0383+450 R/S, K0383+830 - K0385+006 R/S, K0385+220 - K0386+014 R/S, K0386+102 - K0386+193 R/S, K0386+375 - K0387+215 R/S",
+        "infraType": "Roads",
+        "typeOfWork": "Road Widening",
+        "region": "Region II",
+        "province": "ISABELA",
+        "coordinates": {
+          "latitude": 17.0185113490608,
+          "longitude": 121.850718984764,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "A. DE GUIA CONSTRUCTION AND DEVELOPMENT CORPORATION (FORMERLY: A. DE GUIA CONSTRUCTION)",
+    "bidders": [
+      {
+        "name": "A. DE GUIA CONSTRUCTION AND DEVELOPMENT CORPORATION (FORMERLY: A. DE GUIA CONSTRUCTION) (18228)",
+        "pcabId": "18228",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "DANYSONS CONSTRUCTION AND DEVELOPMENT CORPORATION (FORMERLY: DANYSONS CONSTRUCTION) (25452)",
+        "pcabId": "25452",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "JLL PULSAR CONSTRUCTION CORPORATION (FORMERLY: PULSAR CONSTRUCTION) (24422)",
+        "pcabId": "24422",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "ORANI CONSTRUCTION AND SUPPLY CORPORATION (FORMERLY:ORANI BUILDERS & SUPPLY) (05349)",
+        "pcabId": "05349",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "NETWORK DEVELOPMENT:WIDENING OF NATIONAL ROADS ALONG NATIONAL ROAD 1 (N1)/DM/ASIAN HIGHWAY 26-DM (LZ), REINAMERCEDES, NAGUILLIAN AND GAMU, ISABELA",
+      "abc": "83534857.17",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-10-24 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-11-17 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "79349760.8200000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/april/15b00053-Cont.agremnt.pdf",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/april/15b00053-Noa.pdf",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/april/15b00053-Cont.agremnt.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 17.0185113490608,
+    "longitude": 121.850718984764,
+    "coordinates": [
+      {
+        "componentId": "P00005150LZ-CW1",
+        "description": "Road Widening - Daang Maharlika (LZ) - K0382+977 - K0383+450 L/S, K0383+830 - K0386+182 L/S, K0386+291 - K0387+215 L/S, K0382+977 - K0383+450 R/S, K0383+830 - K0385+006 R/S, K0385+220 - K0386+014 R/S, K0386+102 - K0386+193 R/S, K0386+375 - K0387+215 R/S",
+        "latitude": 17.0185113490608,
+        "longitude": 121.850718984764,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

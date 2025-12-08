@@ -1,0 +1,97 @@
+{
+  "data": {
+    "contractId": "15OF0177",
+    "description": "ROAD IMPROVEMENT OF FREEDOM ST., AT BRGY. PASONG TAMO, Q.C.",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 1870072.62,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "National Capital Region",
+      "province": "Quezon City 1st DEO",
+      "infraType": "Roads",
+      "coordinates": null
+    },
+    "infraType": "Roads",
+    "contractor": "S.A. PLEYTO CONSTRUCTION CORPORATION (33269)",
+    "startDate": "2016-02-15",
+    "completionDate": "2017-05-01",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-02-15",
+    "expiryDate": "2016-05-14",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 Locally Funded Projects",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00053547LZ-CW1",
+        "description": "Upgrading of Drainage Structure along Road - Road improvement, Freedom St., Barangay Pasong Tamo, Quezon City 6th LD",
+        "infraType": "Roads",
+        "typeOfWork": "Upgrading of Drainage Structure along Road",
+        "region": "National Capital Region",
+        "province": "METROPOLITAN MANILA",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "S.A. PLEYTO CONSTRUCTION CORPORATION",
+    "bidders": [
+      {
+        "name": "S.A. PLEYTO CONSTRUCTION CORPORATION (33269)",
+        "pcabId": "33269",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "ISH CONSTRUCTION INC. (30407)",
+        "pcabId": "30407",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "NVF CONSTRUCTION (13941)",
+        "pcabId": "13941",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "WINPRO CONSTRUCTION (37527)",
+        "pcabId": "37527",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "ROAD IMPROVEMENT OF FREEDOM ST., AT BRGY. PASONG TAMO, Q.C.",
+      "abc": "1929899.50",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-10-23 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-11-11 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "1870072.6200000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/15of0177_contract_agreement.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/15of0177_notice_of_award.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/15of0177_notice_to_proceed.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

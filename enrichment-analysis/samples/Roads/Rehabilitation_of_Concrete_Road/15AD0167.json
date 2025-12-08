@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "15AD0167",
+    "description": "JCT.CANDON-SALCEDO-DEL PILAR RD.K0347+104-K0347+396, K0348+000-K0348+323",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 17631588.25,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region I",
+      "province": "Ilocos Sur 2nd DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 17.1854745,
+        "longitude": 120.4579355,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "FIRST NORTHWAY DEVELOPMENT & CONSTRUCTION CORP. (11645)",
+    "startDate": "2016-01-26",
+    "completionDate": "2016-10-24",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-01-26",
+    "expiryDate": "2016-08-19",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - Flood Control/Hydraulics/Drainage, Maintenance Roads and Bridges",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00000767LZ-CW1",
+        "description": "Rehabilitation of Concrete Road - Jct Candon-Salcedo-Del Pilar Rd - K0347+104 - K0347+396, K0348+000 - K0348+323",
+        "infraType": "Roads",
+        "typeOfWork": "Rehabilitation of Concrete Road",
+        "region": "Region I",
+        "province": "ILOCOS SUR",
+        "coordinates": {
+          "latitude": 17.1854745,
+          "longitude": 120.4579355,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "FIRST NORTHWAY DEVELOPMENT & CONSTRUCTION CORP.",
+    "bidders": [
+      {
+        "name": "FIRST NORTHWAY DEVELOPMENT & CONSTRUCTION CORP. (11645)",
+        "pcabId": "11645",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "MBB CONSTRUCTION AND SUPPLY (FORMERLY: MBB CONSTRUCTION) (11363)",
+        "pcabId": "11363",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "JCT.CANDON-SALCEDO-DEL PILAR RD.K0347+104-K0347+396, K0348+000-K0348+323",
+      "abc": "18262300.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-11-18 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-12-09 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "17633046.4400000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/february/15AD0167 CA294.pdf",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/february/15AD0167 NOA293.pdf",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/february/15AD0167 CA294.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 17.1854745,
+    "longitude": 120.4579355,
+    "coordinates": [
+      {
+        "componentId": "P00000767LZ-CW1",
+        "description": "Rehabilitation of Concrete Road - Jct Candon-Salcedo-Del Pilar Rd - K0347+104 - K0347+396, K0348+000 - K0348+323",
+        "latitude": 17.1854745,
+        "longitude": 120.4579355,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

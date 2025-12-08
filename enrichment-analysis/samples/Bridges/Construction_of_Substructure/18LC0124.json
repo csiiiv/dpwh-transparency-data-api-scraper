@@ -1,0 +1,139 @@
+{
+  "data": {
+    "contractId": "18LC0124",
+    "description": "CONSTRUCTION OF SAUG BRIDGE, BRGY. CABAYWA, ASUNCION, DAVAO DEL NORTE",
+    "category": "Bridges",
+    "status": "Completed",
+    "budget": 24133395.53,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region XI",
+      "province": "Davao del Norte DEO",
+      "infraType": "Bridges",
+      "coordinates": {
+        "latitude": 7.5623858,
+        "longitude": 125.7687354,
+        "verified": false
+      }
+    },
+    "infraType": "Bridges",
+    "contractor": "ARCINUE COMM'L CORPORATION (6746)",
+    "startDate": "2018-08-16",
+    "completionDate": "2019-04-13",
+    "infraYear": "2018",
+    "contractEffectivityDate": "2018-08-16",
+    "expiryDate": "2019-04-13",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2018 LP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00258977MN-CW1",
+        "description": "Construction of Substructure - Construction of Saug Bridge, Brgy. Cabaywa, Asuncion, Davao del Norte",
+        "infraType": "Bridges",
+        "typeOfWork": "Construction of Substructure",
+        "region": "Region XI",
+        "province": "DAVAO DEL NORTE",
+        "coordinates": {
+          "latitude": 7.5623858,
+          "longitude": 125.7687354,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "ARCINUE COMM'L CORPORATION",
+    "bidders": [
+      {
+        "name": "ARCINUE COMM'L CORPORATION (6746)",
+        "pcabId": "6746",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "DAVAO CONCRETE PRODUCTS CONSTRUCTION AND TRADING CORPORATION (FORMERLY: DAVAO CONCRETE PRODUCTS) (12090)",
+        "pcabId": "12090",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "E.P. MANANTAN CONSTRUCTION & DEVELOPMENT CORP. (6457)",
+        "pcabId": "6457",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "FFJJ CONSTRUCTION (16712)",
+        "pcabId": "16712",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "LEGACY CONSTRUCTION CORPORATION (FORMERLY: LEGACY CONSTRUCTION) (22465)",
+        "pcabId": "22465",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "MITZ CONSTRUCTION AND SUPPLY (41045)",
+        "pcabId": "41045",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "P.L. SEBASTIAN CONSTRUCTION, INC. (FORMERLY: P.L. SEBASTIAN CONSTRUCTION) (35840)",
+        "pcabId": "35840",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "RELY CONSTRUCTION & SUPPLY INC.(FORMERLY: RELY CONSTRUCTION AND SUPPLY) (10433)",
+        "pcabId": "10433",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION OF SAUG BRIDGE, BRGY. CABAYWA, ASUNCION, DAVAO DEL NORTE",
+      "abc": "24500000.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2018-06-27 00:00:00.0000000",
+      "bidSubmissionDeadline": "2018-07-17 00:00:00.0000000",
+      "dateOfAward": "2018-07-27 00:00:00.0000000",
+      "awardAmount": "24133395.53"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/18LC0124 BIDDING DOCUMENTS.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/Approved Contract Agreement 18LC0124.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/18lc0124-noa.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/Approved Contract Agreement 18LC0124.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 7.5623858,
+    "longitude": 125.7687354,
+    "coordinates": [
+      {
+        "componentId": "P00258977MN-CW1",
+        "description": "Construction of Substructure - Construction of Saug Bridge, Brgy. Cabaywa, Asuncion, Davao del Norte",
+        "latitude": 7.5623858,
+        "longitude": 125.7687354,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

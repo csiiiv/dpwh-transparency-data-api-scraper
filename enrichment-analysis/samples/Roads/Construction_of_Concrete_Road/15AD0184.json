@@ -1,0 +1,125 @@
+{
+  "data": {
+    "contractId": "15AD0184",
+    "description": "CLUSTER C:CONSTN OF BRGY ROAD.1.BRGY.AG-AGUMAN,2.BRGY.BITALAG,TAGUDIN,ILOCOS SUR",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 3778226.64,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region I",
+      "province": "Ilocos Sur 2nd DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 16.921858,
+        "longitude": 120.4721305,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "J.A. OLIVAR ENGINEERING DESIGN, CONSTRUCTION AND S (35602)",
+    "startDate": "2016-02-18",
+    "completionDate": "2016-07-05",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-02-18",
+    "expiryDate": "2016-04-24",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 Locally Funded Projects",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00045419LZ-CW1",
+        "description": "Construction of Concrete Road - Construction of Barangay Road,Brgy. Ag-aguman,Tagudin,Ilocos Sur",
+        "infraType": "Roads",
+        "typeOfWork": "Construction of Concrete Road",
+        "region": "Region I",
+        "province": "ILOCOS SUR",
+        "coordinates": {
+          "latitude": 16.921858,
+          "longitude": 120.4721305,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00045423LZ-CW1",
+        "description": "Construction of Concrete Road - Construction of Barangay Road,Brgy. Bitalag,Tagudin,Ilocos Sur",
+        "infraType": "Roads",
+        "typeOfWork": "Construction of Concrete Road",
+        "region": "Region I",
+        "province": "ILOCOS SUR",
+        "coordinates": {
+          "latitude": 16.9671161,
+          "longitude": 120.4625855,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "J.A. OLIVAR ENGINEERING DESIGN, CONSTRUCTION AND S",
+    "bidders": [
+      {
+        "name": "J.A. OLIVAR ENGINEERING DESIGN, CONSTRUCTION AND S (35602)",
+        "pcabId": "35602",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "E.E. MADAYAG CONSTRUCTION (25029)",
+        "pcabId": "25029",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CLUSTER C:CONSTN OF BRGY ROAD.1.BRGY.AG-AGUMAN,2.BRGY.BITALAG,TAGUDIN,ILOCOS SUR",
+      "abc": "3920000.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-12-01 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-12-22 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "3779075.5900000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/may/15AD0184 CA237.pdf",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/may/15AD0184 NOA236.pdf",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/may/15AD0184 CA237.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 16.921858,
+    "longitude": 120.4721305,
+    "coordinates": [
+      {
+        "componentId": "P00045419LZ-CW1",
+        "description": "Construction of Concrete Road - Construction of Barangay Road,Brgy. Ag-aguman,Tagudin,Ilocos Sur",
+        "latitude": 16.921858,
+        "longitude": 120.4721305,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00045423LZ-CW1",
+        "description": "Construction of Concrete Road - Construction of Barangay Road,Brgy. Bitalag,Tagudin,Ilocos Sur",
+        "latitude": 16.9671161,
+        "longitude": 120.4625855,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

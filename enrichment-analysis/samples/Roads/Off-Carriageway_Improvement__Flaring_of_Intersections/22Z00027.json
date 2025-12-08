@@ -1,0 +1,217 @@
+{
+  "data": {
+    "contractId": "22Z00027",
+    "description": "DAVAO CITY BYPASS CONSTRUCTION PROJECT, PACKAGE II (NORTH SECTION), CONTRACT PACKAGE II-2 (STA. 32+240 TO STA. 35+760)",
+    "category": "Bridges, Roads",
+    "status": "On-Going",
+    "budget": 4956921462.87,
+    "amountPaid": 0,
+    "progress": 77.72,
+    "location": {
+      "region": "Central Office",
+      "province": "Roads Management Cluster I (Bilateral)",
+      "infraType": "Roads",
+      "coordinates": null
+    },
+    "infraType": "Roads",
+    "contractor": "NATIONSTAR DEVELOPMENT CORPORATION (FOR: CASMOR CONSTRUCTION CORPORATION) (26876) / AIMM BUILDER AND CONSTRUCTION SUPPLY (35678) / CHINA ROAD & BRIDGE CORPORATION",
+    "startDate": "2023-08-10",
+    "completionDate": null,
+    "infraYear": "2022",
+    "contractEffectivityDate": "2023-08-10",
+    "expiryDate": "2027-03-21",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2022 FAPs",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00668002MN-CW11",
+        "description": "Construction of Concrete Road - Davao City Bypass Construction Project, Package II, Davao City",
+        "infraType": "Roads",
+        "typeOfWork": "Construction of Concrete Road",
+        "region": "Region XI",
+        "province": "DAVAO DEL SUR",
+        "coordinates": null
+      },
+      {
+        "componentId": "P00668002MN-CW12",
+        "description": "Construction of Concrete Bridge - Davao City Bypass Construction Project, Package II, Davao City",
+        "infraType": "Bridges",
+        "typeOfWork": "Construction of Concrete Bridge",
+        "region": "Region XI",
+        "province": "DAVAO DEL SUR",
+        "coordinates": null
+      },
+      {
+        "componentId": "P00668002MN-CW13",
+        "description": "Construction of Concrete Bridge - Davao City Bypass Construction Project, Package II, Davao City",
+        "infraType": "Bridges",
+        "typeOfWork": "Construction of Concrete Bridge",
+        "region": "Region XI",
+        "province": "DAVAO DEL SUR",
+        "coordinates": null
+      },
+      {
+        "componentId": "P00668002MN-CW14",
+        "description": "Construction of Concrete Bridge - Davao City Bypass Construction Project, Package II, Davao City",
+        "infraType": "Bridges",
+        "typeOfWork": "Construction of Concrete Bridge",
+        "region": "Region XI",
+        "province": "DAVAO DEL SUR",
+        "coordinates": null
+      },
+      {
+        "componentId": "P00668002MN-CW15",
+        "description": "Construction of Concrete Bridge - Davao City Bypass Construction Project, Package II, Davao City",
+        "infraType": "Bridges",
+        "typeOfWork": "Construction of Concrete Bridge",
+        "region": "Region XI",
+        "province": "DAVAO DEL SUR",
+        "coordinates": null
+      },
+      {
+        "componentId": "P00668002MN-CW16",
+        "description": "Construction of Concrete Bridge - Davao City Bypass Construction Project, Package II, Davao City",
+        "infraType": "Bridges",
+        "typeOfWork": "Construction of Concrete Bridge",
+        "region": "Region XI",
+        "province": "DAVAO DEL SUR",
+        "coordinates": null
+      },
+      {
+        "componentId": "P00668002MN-CW17",
+        "description": "Construction of Concrete Bridge - Davao City Bypass Construction Project, Package II, Davao City",
+        "infraType": "Bridges",
+        "typeOfWork": "Construction of Concrete Bridge",
+        "region": "Region XI",
+        "province": "DAVAO DEL SUR",
+        "coordinates": null
+      },
+      {
+        "componentId": "P00668002MN-CW18",
+        "description": "Construction of Concrete Bridge - Davao City Bypass Construction Project, Package II, Davao City",
+        "infraType": "Bridges",
+        "typeOfWork": "Construction of Concrete Bridge",
+        "region": "Region XI",
+        "province": "DAVAO DEL SUR",
+        "coordinates": null
+      },
+      {
+        "componentId": "P00668002MN-CW19",
+        "description": "Construction of Concrete Bridge - Davao City Bypass Construction Project, Package II, Davao City",
+        "infraType": "Bridges",
+        "typeOfWork": "Construction of Concrete Bridge",
+        "region": "Region XI",
+        "province": "DAVAO DEL SUR",
+        "coordinates": null
+      },
+      {
+        "componentId": "P00668002MN-CW20",
+        "description": "Construction of Concrete Bridge - Davao City Bypass Construction Project, Package II, Davao City",
+        "infraType": "Bridges",
+        "typeOfWork": "Construction of Concrete Bridge",
+        "region": "Region XI",
+        "province": "DAVAO DEL SUR",
+        "coordinates": null
+      },
+      {
+        "componentId": "P00668002MN-CW21",
+        "description": "Construction of Concrete Bridge - Davao City Bypass Construction Project, Package II, Davao City",
+        "infraType": "Bridges",
+        "typeOfWork": "Construction of Concrete Bridge",
+        "region": "Region XI",
+        "province": "DAVAO DEL SUR",
+        "coordinates": null
+      },
+      {
+        "componentId": "P00668002MN-CW22",
+        "description": "Off-Carriageway Improvement: Flaring of Intersections - Davao City Bypass Construction Project, Package II, Davao City",
+        "infraType": "Roads",
+        "typeOfWork": "Off-Carriageway Improvement: Flaring of Intersections",
+        "region": "Region XI",
+        "province": "DAVAO DEL SUR",
+        "coordinates": null
+      },
+      {
+        "componentId": "P00668002MN-CW23",
+        "description": "Construction of Drainage Structure along Road - Davao City Bypass Construction Project, Package II, Davao City",
+        "infraType": "Roads",
+        "typeOfWork": "Construction of Drainage Structure along Road",
+        "region": "Region XI",
+        "province": "DAVAO DEL SUR",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "AIMM BUILDER AND CONSTRUCTION SUPPLY, NATIONSTAR DEVELOPMENT CORPORATION (FOR: CASMOR CONSTRUCTION CORPORATION)",
+    "bidders": [
+      {
+        "name": "AIMM BUILDER AND CONSTRUCTION SUPPLY (35678) / NATIONSTAR DEVELOPMENT CORPORATION (FOR: CASMOR CONSTRUCTION CORPORATION) (26876) / CHINA ROAD & BRIDGE CORPORATION (JV ID: JV-23-9799)",
+        "pcabId": "",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "CAVDEAL-CAVITE IDEAL INT'L. CONST. & DEV'T. CORP. (05599) / ULTICON BUILDERS, INC. (17267) / WEE ENG CONSTRUCTION, INC. (16380) (JV ID: JV-23-9557)",
+        "pcabId": "",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "SCP CONSTRUCTION (8797) / CHINA CONSTRUCTION FIRST GROUP CORPORATION LIMITED (JV ID: JV-23-9608)",
+        "pcabId": "",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "VICENTE T. LAO CONSTRUCTION (7040) / CHINA WUYI CO., LTD (JV ID: JV-23-9575)",
+        "pcabId": "",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "KAEL CONSTRUCTION AND SUPPLY (49152)",
+        "pcabId": "49152",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "PRIME GIGABUILD CONSTRUCTION CORP. (FORMERLY: RON DANIELL CONSTRUCTION CORPORATION) (31251)",
+        "pcabId": "31251",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "DAVAO CITY BYPASS CONSTRUCTION PROJECT, PACKAGE II (NORTH SECTION), CONTRACT PACKAGE II-2 (STA. 32+240 TO STA. 35+760)",
+      "abc": "4650282255.29",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2022-12-20 00:00:00.0000000",
+      "bidSubmissionDeadline": "2023-02-01 00:00:00.0000000",
+      "dateOfAward": "2023-06-14 00:00:00.0000000",
+      "awardAmount": "4599025186"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/22z00027_-_g._traffic_signal_plan_1of2_part1.pdf",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/contract_22z00027.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/noa_22z00027.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/contract_22z00027.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

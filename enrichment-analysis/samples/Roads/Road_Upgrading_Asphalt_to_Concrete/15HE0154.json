@@ -1,0 +1,115 @@
+{
+  "data": {
+    "contractId": "15HE0154",
+    "description": "ASSET PRESERVATION OF NATIONAL ROADS - PREVENTIVE MAINTENANCE BASED ON PAVEMENT MANAGEMENT SYSTEM / HIGHWAY DEVELOPMENT AND MANAGEMENT-4 (HDM-4) (INTERMITTENT SECTIONS) K0046+088-K0046+770, CARCAR BARILI-MANTAYUPAN ROAD",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 16222888,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region VII",
+      "province": "Cebu 1st DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 10.1176478820657,
+        "longitude": 123.601084561867,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "QUIRANTE CONSTRUCTION CORPORATION (FORMERLY: QUIRANTE CONSTRUCTION) (32827)",
+    "startDate": "2016-01-25",
+    "completionDate": "2016-06-23",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-01-25",
+    "expiryDate": "2016-06-23",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00009050VS-CW1",
+        "description": "Road Upgrading Asphalt to Concrete - Carcar-Barili-Mantayupan Rd - K0046+088 - K0046+770",
+        "infraType": "Roads",
+        "typeOfWork": "Road Upgrading Asphalt to Concrete",
+        "region": "Region VII",
+        "province": "CEBU",
+        "coordinates": {
+          "latitude": 10.1176478820657,
+          "longitude": 123.601084561867,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "QUIRANTE CONSTRUCTION CORPORATION (FORMERLY: QUIRANTE CONSTRUCTION)",
+    "bidders": [
+      {
+        "name": "QUIRANTE CONSTRUCTION CORPORATION (FORMERLY: QUIRANTE CONSTRUCTION) (32827)",
+        "pcabId": "32827",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "BLIMEX CONSTRUCTION & SUPPLY (27259)",
+        "pcabId": "27259",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "GENETIAN BUILDERS AND ENTERPRISES INCORPORATED (FORMERLY: GENETIAN BUILDERS) (18052)",
+        "pcabId": "18052",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "MAP ALVIOLA CONSTRUCTION (31951)",
+        "pcabId": "31951",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "ASSET PRESERVATION OF NATIONAL ROADS - PREVENTIVE MAINTENANCE BASED ON PAVEMENT MANAGEMENT SYSTEM / HIGHWAY DEVELOPMENT AND MANAGEMENT-4 (HDM-4) (INTERMITTENT SECTIONS) K0046+088-K0046+770, CARCAR BARILI-MANTAYUPAN ROAD",
+      "abc": "16724680.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-11-06 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-11-25 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "16222888.0000000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/15he0154_contract_agreement.pdf",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/july/15HE0154 notice of award.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/15he0154_contract_agreement.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 10.1176478820657,
+    "longitude": 123.601084561867,
+    "coordinates": [
+      {
+        "componentId": "P00009050VS-CW1",
+        "description": "Road Upgrading Asphalt to Concrete - Carcar-Barili-Mantayupan Rd - K0046+088 - K0046+770",
+        "latitude": 10.1176478820657,
+        "longitude": 123.601084561867,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

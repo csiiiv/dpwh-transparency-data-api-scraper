@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "15BF0139",
+    "description": "ASSET PRESERVATION: REHAB/RECONST/UPGRADING OF DAMAGED NATIONAL ROADS, INCLUDING DRAINAGE BASED ON PMS/HDM-4 ALONG NAGUILLIAN-SAN MARIANO ROAD, NAGUILLIAN-SAN MARIANO ROAD",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 23181983.63,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region II",
+      "province": "Isabela 2nd DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 17.0192372623106,
+        "longitude": 121.868026258913,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "MAR-DEB CONSTRUCTION & DEVELOPMENT CORP. (FORMERLY: MAR-DEB CONSTRUCTION & DEVELOPMENT) (6715)",
+    "startDate": "2016-01-24",
+    "completionDate": "2016-07-21",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-01-24",
+    "expiryDate": "2016-04-22",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00000813LZ-CW1",
+        "description": "Rehabilitation of Asphalt Road - Naguilian-Sn Mariano Rd - K0385+000 - K0386+000",
+        "infraType": "Roads",
+        "typeOfWork": "Rehabilitation of Asphalt Road",
+        "region": "Region II",
+        "province": "ISABELA",
+        "coordinates": {
+          "latitude": 17.0192372623106,
+          "longitude": 121.868026258913,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "MAR-DEB CONSTRUCTION & DEVELOPMENT CORP. (FORMERLY: MAR-DEB CONSTRUCTION & DEVELOPMENT)",
+    "bidders": [
+      {
+        "name": "MAR-DEB CONSTRUCTION & DEVELOPMENT CORP. (FORMERLY: MAR-DEB CONSTRUCTION & DEVELOPMENT) (6715)",
+        "pcabId": "6715",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "A.P.D. CONSTRUCTION, INC. (FORMERLY: APD CONSTRUCTION) (17467)",
+        "pcabId": "17467",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "ASSET PRESERVATION: REHAB/RECONST/UPGRADING OF DAMAGED NATIONAL ROADS, INCLUDING DRAINAGE BASED ON PMS/HDM-4 ALONG NAGUILLIAN-SAN MARIANO ROAD, NAGUILLIAN-SAN MARIANO ROAD",
+      "abc": "23928660.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-11-25 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-12-14 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "23181983.6300000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/15bf0139-ca.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/15bf0139-noa.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/15bf0139-ntp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 17.0192372623106,
+    "longitude": 121.868026258913,
+    "coordinates": [
+      {
+        "componentId": "P00000813LZ-CW1",
+        "description": "Rehabilitation of Asphalt Road - Naguilian-Sn Mariano Rd - K0385+000 - K0386+000",
+        "latitude": 17.0192372623106,
+        "longitude": 121.868026258913,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

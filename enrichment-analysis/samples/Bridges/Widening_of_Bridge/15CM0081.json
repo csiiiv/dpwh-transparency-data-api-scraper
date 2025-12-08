@@ -1,0 +1,85 @@
+{
+  "data": {
+    "contractId": "15CM0081",
+    "description": "WIDENING OF CALAPACUAN BRIDGE ALONG OLONGAPO-BUGALLON RD., SUBIC, ZAMBALES",
+    "category": "Bridges",
+    "status": "Completed",
+    "budget": 10135005.36,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region III",
+      "province": "Zambales 2nd DEO",
+      "infraType": "Bridges",
+      "coordinates": null
+    },
+    "infraType": "Bridges",
+    "contractor": "THREE W BUILDERS, INC. (10722)",
+    "startDate": "2016-01-26",
+    "completionDate": "2016-06-23",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-01-26",
+    "expiryDate": "2016-06-23",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00001991LZ-CW1",
+        "description": "Widening of Bridge - Calapacuan Br. (B01638LZ) along Olongapo-Bugallon Rd",
+        "infraType": "Bridges",
+        "typeOfWork": "Widening of Bridge",
+        "region": "Region III",
+        "province": "ZAMBALES",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "THREE W BUILDERS, INC.",
+    "bidders": [
+      {
+        "name": "THREE W BUILDERS, INC. (10722)",
+        "pcabId": "10722",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "FERDSTAR BUILDERS INC. (4965)",
+        "pcabId": "4965",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "WIDENING OF CALAPACUAN BRIDGE ALONG OLONGAPO-BUGALLON RD., SUBIC, ZAMBALES",
+      "abc": "10779605.86",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-12-09 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-12-29 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "10135005.3600000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/april/15CM0081 - CONTRACT AGREEMENT.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/15cm0081_-_noa.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/15cm0081_-_ntp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "data": {
+    "contractId": "15BD0092",
+    "description": "CONSTRUCTION OF 2 CLASSROOMS, CARATTACAT ELEMENTARY SCHOOL, BARANGAY CARATTACAT, AMULUNG, CAGAYAN",
+    "category": "Buildings and Facilities",
+    "status": "Completed",
+    "budget": 1678526.57,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region II",
+      "province": "Cagayan 3rd DEO",
+      "infraType": "Buildings and Facilities",
+      "coordinates": null
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "E.C.T. CONSTRUCTION (10060)",
+    "startDate": "2016-01-28",
+    "completionDate": "2016-06-16",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-01-28",
+    "expiryDate": "2016-05-26",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 Locally Funded Projects",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00040087LZ-CW1",
+        "description": "Construction of 1-Storey Classrooms - Construction of 2 classrooms at Carattacat Elementary Sch. Carattacat, Amulung, Cagayan 3rd LD",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of 1-Storey Classrooms",
+        "region": "Region II",
+        "province": "CAGAYAN",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "E.C.T. CONSTRUCTION",
+    "bidders": [
+      {
+        "name": "E.C.T. CONSTRUCTION (10060)",
+        "pcabId": "10060",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "OML CONSTRUCTION (38277)",
+        "pcabId": "38277",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION OF 2 CLASSROOMS, CARATTACAT ELEMENTARY SCHOOL, BARANGAY CARATTACAT, AMULUNG, CAGAYAN",
+      "abc": "1682790.07",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-10-23 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-11-12 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "1678526.5700000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/may/15BD0092-CONTRACT.pdf",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/may/15BD0092-NOA.pdf",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/may/15BD0092-CONTRACT.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

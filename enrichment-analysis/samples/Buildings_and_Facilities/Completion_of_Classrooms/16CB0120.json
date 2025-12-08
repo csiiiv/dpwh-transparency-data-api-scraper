@@ -1,0 +1,112 @@
+{
+  "data": {
+    "contractId": "16CB0120",
+    "description": "CONSTRUCTION OF THREE(3) UNIT TWO(2) STOREY TEN(10) CLASSROOM AT P. ROMAN NATIONAL HIGH SCHOOL, PILAR, BATAAN",
+    "category": "Buildings and Facilities",
+    "status": "Completed",
+    "budget": 43987309.53,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region III",
+      "province": "Bataan 2nd DEO",
+      "infraType": "Buildings and Facilities",
+      "coordinates": null
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "R.D. MANDANAS CONSTRUCTION (32114)",
+    "startDate": "2017-07-31",
+    "completionDate": "2018-11-23",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2017-07-31",
+    "expiryDate": "2018-11-25",
+    "nysReason": null,
+    "programName": "Outside Infra",
+    "sourceOfFunds": "Outside Infra - GAA 2016 DepED BEFF",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00070079LZ-CW1",
+        "description": "Construction of Classrooms - Construction of 3 2STY10CL School Buildings, P. Roman NHS, Pilar, Bataan 2nd LD",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of Classrooms",
+        "region": "Region III",
+        "province": "BATAAN",
+        "coordinates": null
+      },
+      {
+        "componentId": "P00076149LZ-CW1",
+        "description": "Completion of Classrooms - Construction (Completion) of 3 units 2STY10CL School Building, P. Roman NHS, Pilar, Bataan",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Completion of Classrooms",
+        "region": "Region III",
+        "province": "BATAAN",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "R.D. MANDANAS CONSTRUCTION",
+    "bidders": [
+      {
+        "name": "R.D. MANDANAS CONSTRUCTION (32114)",
+        "pcabId": "32114",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "E.R. VENZON CONSTRUCTION (19013)",
+        "pcabId": "19013",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "FAME BUILDER PHILIPPINES (8936)",
+        "pcabId": "8936",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "FERDSTAR BUILDERS INC. (4965)",
+        "pcabId": "4965",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "STO. CRISTO CONSTRUCTION & TRADING INC. (FOR: STO. CRISTO CONSTRUCTION & TRADING) (26096)",
+        "pcabId": "26096",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION OF THREE(3) UNIT TWO(2) STOREY TEN(10) CLASSROOM AT P. ROMAN NATIONAL HIGH SCHOOL, PILAR, BATAAN",
+      "abc": "43990638.24",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2017-03-02 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-04-06 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "43088984.58"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/16CB0120.rar",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/16cb0120_contract.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/16cb0120_noa.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/16cb0120_ntp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

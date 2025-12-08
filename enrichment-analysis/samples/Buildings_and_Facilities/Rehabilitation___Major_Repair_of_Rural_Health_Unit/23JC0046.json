@@ -1,0 +1,97 @@
+{
+  "data": {
+    "contractId": "23JC0046",
+    "description": "REHABILITATION/MAJOR REPAIR OF RURAL HEALTH UNIT - REHABILITATION OF RHU BUILDING, KATIPUNAN, ZAMBOANGA DEL NORTE",
+    "category": "Buildings and Facilities",
+    "status": "Completed",
+    "budget": 4944992.52,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region IX",
+      "province": "Zamboanga del Norte 2nd DEO",
+      "infraType": "Buildings and Facilities",
+      "coordinates": {
+        "latitude": 8.5102429,
+        "longitude": 123.2839197,
+        "verified": false
+      }
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "RDT CONSTRUCTION AND GENERAL MERCHANDISE (38617)",
+    "startDate": "2023-02-23",
+    "completionDate": "2025-07-14",
+    "infraYear": "2023",
+    "contractEffectivityDate": "2023-02-23",
+    "expiryDate": "2023-07-07",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2023 CSSP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00733389MN-CW1",
+        "description": "Rehabilitation / Major Repair of Rural Health Unit - Rehabilitation of RHU Building, Katipunan, Zamboanga del Norte",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Rehabilitation / Major Repair of Rural Health Unit",
+        "region": "Region IX",
+        "province": "ZAMBOANGA DEL NORTE",
+        "coordinates": {
+          "latitude": 8.5102429,
+          "longitude": 123.2839197,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "RDT CONSTRUCTION AND GENERAL MERCHANDISE",
+    "bidders": [
+      {
+        "name": "RDT CONSTRUCTION AND GENERAL MERCHANDISE (38617)",
+        "pcabId": "38617",
+        "participation": 100,
+        "isWinner": true
+      }
+    ],
+    "procurement": {
+      "contractName": "REHABILITATION/MAJOR REPAIR OF RURAL HEALTH UNIT - REHABILITATION OF RHU BUILDING, KATIPUNAN, ZAMBOANGA DEL NORTE",
+      "abc": "4950000.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2023-01-06 00:00:00.0000000",
+      "bidSubmissionDeadline": "2023-01-26 00:00:00.0000000",
+      "dateOfAward": "2023-02-06 00:00:00.0000000",
+      "awardAmount": "4944992.52"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/ib.23jc0046_rhu_bldg._katipunan_5m_re-publish.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/23jc0046_-_contract.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/23jc0046_-_noa.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/23jc0046_-_contract.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 8.5102429,
+    "longitude": 123.2839197,
+    "coordinates": [
+      {
+        "componentId": "P00733389MN-CW1",
+        "description": "Rehabilitation / Major Repair of Rural Health Unit - Rehabilitation of RHU Building, Katipunan, Zamboanga del Norte",
+        "latitude": 8.5102429,
+        "longitude": 123.2839197,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 3,
+      "latestImageDate": "2025-09-26 07:33:45.832999",
+      "hasImages": true
+    }
+  }
+}

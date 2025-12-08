@@ -1,0 +1,97 @@
+{
+  "data": {
+    "contractId": "15B00111",
+    "description": "MFO 1-NAT'L RD NETWORK SERVICES: ASSET PRESERVATION OF NAT'L RDS: REHAB/RECONST'N OF NAT'L RDS. WITH",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 9281189.4,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region II",
+      "province": "Region II",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 16.4313019618766,
+        "longitude": 121.11753647767,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "JANN-NORRIS CONSTRUCTION AND SUPPLIES INC. (FORMELY: JANN-NORRIS CONSTRUCTION AND SUPPLIES) (35880)",
+    "startDate": "2016-02-04",
+    "completionDate": "2016-05-23",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-02-04",
+    "expiryDate": "2016-05-28",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00005825LZ-CW1",
+        "description": "Construction of Road Slope Protection Structure - Daang Maharlika (LZ) K0255+300 - K0255+470, K0255+700 - K0255+770",
+        "infraType": "Roads",
+        "typeOfWork": "Construction of Road Slope Protection Structure",
+        "region": "Region II",
+        "province": "NUEVA VIZCAYA",
+        "coordinates": {
+          "latitude": 16.4313019618766,
+          "longitude": 121.11753647767,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "JANN-NORRIS CONSTRUCTION AND SUPPLIES INC. (FORMELY: JANN-NORRIS CONSTRUCTION AND SUPPLIES)",
+    "bidders": [
+      {
+        "name": "JANN-NORRIS CONSTRUCTION AND SUPPLIES INC. (FORMELY: JANN-NORRIS CONSTRUCTION AND SUPPLIES) (35880)",
+        "pcabId": "35880",
+        "participation": 100,
+        "isWinner": true
+      }
+    ],
+    "procurement": {
+      "contractName": "MFO 1-NAT'L RD NETWORK SERVICES: ASSET PRESERVATION OF NAT'L RDS: REHAB/RECONST'N OF NAT'L RDS. WITH",
+      "abc": "9375442.16",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-12-21 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-01-11 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "9281714.5200000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/may/15b00111-Cont.agreemnt.pdf",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/may/15b00111-Noa.pdf",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/may/15b00111-Cont.agreemnt.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 16.4313019618766,
+    "longitude": 121.11753647767,
+    "coordinates": [
+      {
+        "componentId": "P00005825LZ-CW1",
+        "description": "Construction of Road Slope Protection Structure - Daang Maharlika (LZ) K0255+300 - K0255+470, K0255+700 - K0255+770",
+        "latitude": 16.4313019618766,
+        "longitude": 121.11753647767,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

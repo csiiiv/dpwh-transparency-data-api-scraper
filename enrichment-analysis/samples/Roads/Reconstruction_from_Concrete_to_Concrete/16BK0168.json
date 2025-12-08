@@ -1,0 +1,131 @@
+{
+  "data": {
+    "contractId": "16BK0168",
+    "description": "ASSET PRESERVATION OF NATIONAL ROADS-REHABILITATION/RECONSTRUCTION/UPGRADING OF DAMAGED PAVED NATIONAL ROADS INCLUDING DRAINAGE BASED ON PAVEMENT MANAGEMENT SYSTEM/HIGHWAY DEVELOPMENT AND MANAGEMENT -4 (HDM-4) -TERTIARY ROADS ALONG NRJ VILLA SUR-SAN PEDRO",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 44570388.17,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region II",
+      "province": "Quirino DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 16.3516474873733,
+        "longitude": 121.693808172199,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "A.P.D. CONSTRUCTION, INC. (FORMERLY: APD CONSTRUCTION) (17467)",
+    "startDate": "2017-05-04",
+    "completionDate": "2017-12-22",
+    "infraYear": "2017",
+    "contractEffectivityDate": "2017-05-04",
+    "expiryDate": "2018-01-03",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2017 MFO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00102710LZ-CW1",
+        "description": "Reconstruction from Concrete to Concrete - NRJ Villa Sur-San Pedro-Cabua-an-Ysmael-Disimungal Rd - K0367 + 739 - K0367 + 766.80, K0367 + 1121 - K0367 + 1176, K0368 + 158 - K0368 + 431, K0370 + 989 - K0370 + 1045.057, K0370 + 326 - K0370 + 508.40, K0371 +",
+        "infraType": "Roads",
+        "typeOfWork": "Reconstruction from Concrete to Concrete",
+        "region": "Region II",
+        "province": "QUIRINO",
+        "coordinates": {
+          "latitude": 16.3516474873733,
+          "longitude": 121.693808172199,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00102798LZ-CW1",
+        "description": "Reconstruction from Concrete to Concrete - NRJ Villa Sur-San Pedro-Cabua-an-Ysmael-Disimungal Rd - K0374 + 200 - K0374 + 300, K0379 + 581 - K0379 + 792.40, K0380 + 061 - K0380 + 119.70",
+        "infraType": "Roads",
+        "typeOfWork": "Reconstruction from Concrete to Concrete",
+        "region": "Region II",
+        "province": "QUIRINO",
+        "coordinates": {
+          "latitude": 16.3089471688933,
+          "longitude": 121.72514621133,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "A.P.D. CONSTRUCTION, INC. (FORMERLY: APD CONSTRUCTION)",
+    "bidders": [
+      {
+        "name": "A.P.D. CONSTRUCTION, INC. (FORMERLY: APD CONSTRUCTION) (17467)",
+        "pcabId": "17467",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "MAR-DEB CONSTRUCTION & DEVELOPMENT CORP. (FORMERLY: MAR-DEB CONSTRUCTION & DEVELOPMENT) (6715)",
+        "pcabId": "6715",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "TRIBU DESIGN & CONSTRUCTION (12756)",
+        "pcabId": "12756",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "ASSET PRESERVATION OF NATIONAL ROADS-REHABILITATION/RECONSTRUCTION/UPGRADING OF DAMAGED PAVED NATIONAL ROADS INCLUDING DRAINAGE BASED ON PAVEMENT MANAGEMENT SYSTEM/HIGHWAY DEVELOPMENT AND MANAGEMENT -4 (HDM-4) -TERTIARY ROADS ALONG NRJ VILLA SUR-SAN PEDRO",
+      "abc": "44570400.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-12-09 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-12-29 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "43,668,248.50"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/16BK0168 CA.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/16BK0168 NOA.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/16BK0168 CA.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 16.3516474873733,
+    "longitude": 121.693808172199,
+    "coordinates": [
+      {
+        "componentId": "P00102710LZ-CW1",
+        "description": "Reconstruction from Concrete to Concrete - NRJ Villa Sur-San Pedro-Cabua-an-Ysmael-Disimungal Rd - K0367 + 739 - K0367 + 766.80, K0367 + 1121 - K0367 + 1176, K0368 + 158 - K0368 + 431, K0370 + 989 - K0370 + 1045.057, K0370 + 326 - K0370 + 508.40, K0371 +",
+        "latitude": 16.3516474873733,
+        "longitude": 121.693808172199,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00102798LZ-CW1",
+        "description": "Reconstruction from Concrete to Concrete - NRJ Villa Sur-San Pedro-Cabua-an-Ysmael-Disimungal Rd - K0374 + 200 - K0374 + 300, K0379 + 581 - K0379 + 792.40, K0380 + 061 - K0380 + 119.70",
+        "latitude": 16.3089471688933,
+        "longitude": 121.72514621133,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

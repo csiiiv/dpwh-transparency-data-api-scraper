@@ -1,0 +1,79 @@
+{
+  "data": {
+    "contractId": "15DD0254",
+    "description": "LOCAL INFRASTRUCTURE PROGRAM - CONSTRUCTION OF WATER SUPPLY (LEVE II), BRGY. BAWI, PADRE GARCIA, BATANGAS",
+    "category": "Water Provision and Storage",
+    "status": "Completed",
+    "budget": 1960260,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region IV-A",
+      "province": "Batangas 4th DEO",
+      "infraType": "Water Provision and Storage",
+      "coordinates": null
+    },
+    "infraType": "Water Provision and Storage",
+    "contractor": "REVERE CONSTRUCTION & SUPPLY CORPORATION (FORMERLY (17426)",
+    "startDate": "2016-02-09",
+    "completionDate": "2016-03-09",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-02-09",
+    "expiryDate": "2016-03-09",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 Locally Funded Projects",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00047331LZ-CW1",
+        "description": "Construction of Water Supply Systems - Construction of Water Supply (Level II), Brgy. Bawi, Padre Garcia, Batangas 4th LD",
+        "infraType": "Water Provision and Storage",
+        "typeOfWork": "Construction of Water Supply Systems",
+        "region": "Region IV-A",
+        "province": "BATANGAS",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "REVERE CONSTRUCTION & SUPPLY CORPORATION (FORMERLY",
+    "bidders": [
+      {
+        "name": "REVERE CONSTRUCTION & SUPPLY CORPORATION (FORMERLY (17426)",
+        "pcabId": "17426",
+        "participation": 100,
+        "isWinner": true
+      }
+    ],
+    "procurement": {
+      "contractName": "LOCAL INFRASTRUCTURE PROGRAM - CONSTRUCTION OF WATER SUPPLY (LEVE II), BRGY. BAWI, PADRE GARCIA, BATANGAS",
+      "abc": "1979853.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-12-10 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-12-28 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "1960260.0000000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/september/CA 15 254.pdf",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/september/award 15 254.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/15dd0254_ntp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

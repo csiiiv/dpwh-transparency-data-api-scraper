@@ -1,0 +1,109 @@
+{
+  "data": {
+    "contractId": "20A00066",
+    "description": "WIDENING OF PERMANENT BRIDGES, BAUANG BRIDGE 2 (PARALLEL BR.) ALONG MANILA NORTH ROAD",
+    "category": "Bridges",
+    "status": "Completed",
+    "budget": 95534999.3,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region I",
+      "province": "Region I",
+      "infraType": "Bridges",
+      "coordinates": {
+        "latitude": 16.5211654,
+        "longitude": 120.3299742,
+        "verified": false
+      }
+    },
+    "infraType": "Bridges",
+    "contractor": "ABU CONSTRUCTION (22313)",
+    "startDate": "2020-03-13",
+    "completionDate": "2021-02-03",
+    "infraYear": "2020",
+    "contractEffectivityDate": "2020-03-13",
+    "expiryDate": "2021-02-03",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2020 OO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00401859LZ-CW1",
+        "description": "Construction of Parallel Bridge - Bauang Br. 2 (Parallel Br.) along Manila North Rd",
+        "infraType": "Bridges",
+        "typeOfWork": "Construction of Parallel Bridge",
+        "region": "Region I",
+        "province": "LA UNION",
+        "coordinates": {
+          "latitude": 16.5211654,
+          "longitude": 120.3299742,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "ABU CONSTRUCTION",
+    "bidders": [
+      {
+        "name": "ABU CONSTRUCTION (22313)",
+        "pcabId": "22313",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "CHRISTIAN IAN CONSTRUCTION CORPORATION (8191)",
+        "pcabId": "8191",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "R.U. AQUINO CONSTRUCTION AND DEVELOPMENT CORP. (FO (23507)",
+        "pcabId": "23507",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "WIDENING OF PERMANENT BRIDGES, BAUANG BRIDGE 2 (PARALLEL BR.) ALONG MANILA NORTH ROAD",
+      "abc": "95535000.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2019-10-25 00:00:00.0000000",
+      "bidSubmissionDeadline": "2019-11-20 00:00:00.0000000",
+      "dateOfAward": "2020-02-11 00:00:00.0000000",
+      "awardAmount": "94085615.95"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/20A00066 bidding documents.pdf",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/20A00066_COA.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/20A00066_NOA.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/20A00066_COA.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 16.5211654,
+    "longitude": 120.3299742,
+    "coordinates": [
+      {
+        "componentId": "P00401859LZ-CW1",
+        "description": "Construction of Parallel Bridge - Bauang Br. 2 (Parallel Br.) along Manila North Rd",
+        "latitude": 16.5211654,
+        "longitude": 120.3299742,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 2,
+      "latestImageDate": "2021-07-15 06:09:19.417999",
+      "hasImages": true
+    }
+  }
+}

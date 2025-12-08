@@ -1,0 +1,85 @@
+{
+  "data": {
+    "contractId": "15AI0357",
+    "description": "WIDENING OF PERMANENT BRIDGE FR 1 TO 2 LANES AT ESPIRITISTA BRIDGE (B00742LZ) ALONG PANGASINAN-NUEVA",
+    "category": "Bridges",
+    "status": "Completed",
+    "budget": 4901019.41,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region I",
+      "province": "Pangasinan 3rd DEO",
+      "infraType": "Bridges",
+      "coordinates": null
+    },
+    "infraType": "Bridges",
+    "contractor": "ALPHIN TRADING & CONSTRUCTION (26260)",
+    "startDate": "2016-02-08",
+    "completionDate": "2016-09-04",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-02-08",
+    "expiryDate": "2016-09-04",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00017001LZ-CW1",
+        "description": "Widening of Bridge - Espiritista Br. (B00742LZ) along Pangasinan-Nueva Vizcaya Road",
+        "infraType": "Bridges",
+        "typeOfWork": "Widening of Bridge",
+        "region": "Region I",
+        "province": "PANGASINAN",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "ALPHIN TRADING & CONSTRUCTION",
+    "bidders": [
+      {
+        "name": "ALPHIN TRADING & CONSTRUCTION (26260)",
+        "pcabId": "26260",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "AQUINO-DELA CRUZ ENGINEERING & CONSTRUCTION (16751)",
+        "pcabId": "16751",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "WIDENING OF PERMANENT BRIDGE FR 1 TO 2 LANES AT ESPIRITISTA BRIDGE (B00742LZ) ALONG PANGASINAN-NUEVA",
+      "abc": "4900000.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-11-16 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-12-07 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "4750996.7000000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/april/15AI0357 contract.pdf",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/april/15AI0357 award.pdf",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/april/15AI0357 contract.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

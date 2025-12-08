@@ -1,0 +1,97 @@
+{
+  "data": {
+    "contractId": "22C00127",
+    "description": "EXPANSION OF ACTIVE TRANSPORT INFRASTRUCTURE IN SAN FERNANDO CITY, PAMPANGA, PROVINCE OF PAMPANGA",
+    "category": "Roads",
+    "status": "Not Yet Started",
+    "budget": 77180295.99,
+    "amountPaid": 0,
+    "progress": 0,
+    "location": {
+      "region": "Region III",
+      "province": "Region III",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 15.1227,
+        "longitude": 120.599,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "SUPREME ABF CONST. & CONST. SUPPLY COMPANY INC. (25226)",
+    "startDate": null,
+    "completionDate": null,
+    "infraYear": "2022",
+    "contractEffectivityDate": null,
+    "expiryDate": null,
+    "nysReason": null,
+    "programName": "Outside Infra",
+    "sourceOfFunds": "Outside Infra - Trust Funds 2022",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00699140LZ-CW1",
+        "description": "Road Safety: Solar / Reflectorized Pavement Studs - Expansion of Active Transport Infrastructure in San Fernando City, Pampanga",
+        "infraType": "Roads",
+        "typeOfWork": "Road Safety: Solar / Reflectorized Pavement Studs",
+        "region": "Region III",
+        "province": "PAMPANGA",
+        "coordinates": {
+          "latitude": 15.1227,
+          "longitude": 120.599,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "SUPREME ABF CONST. & CONST. SUPPLY COMPANY INC.",
+    "bidders": [
+      {
+        "name": "SUPREME ABF CONST. & CONST. SUPPLY COMPANY INC. (25226)",
+        "pcabId": "25226",
+        "participation": 100,
+        "isWinner": true
+      }
+    ],
+    "procurement": {
+      "contractName": "EXPANSION OF ACTIVE TRANSPORT INFRASTRUCTURE IN SAN FERNANDO CITY, PAMPANGA, PROVINCE OF PAMPANGA",
+      "abc": "78356051.40",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2022-11-08 00:00:00.0000000",
+      "bidSubmissionDeadline": "2023-03-09 00:00:00.0000000",
+      "dateOfAward": "2023-03-23 00:00:00.0000000",
+      "awardAmount": "77180295.99"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/22c00127_23c00091_23c00082_bid_docs.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/22c00127_ca.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/22c00127_noa_and_bac_reso.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/22c00127_ca.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 15.1227,
+    "longitude": 120.599,
+    "coordinates": [
+      {
+        "componentId": "P00699140LZ-CW1",
+        "description": "Road Safety: Solar / Reflectorized Pavement Studs - Expansion of Active Transport Infrastructure in San Fernando City, Pampanga",
+        "latitude": 15.1227,
+        "longitude": 120.599,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

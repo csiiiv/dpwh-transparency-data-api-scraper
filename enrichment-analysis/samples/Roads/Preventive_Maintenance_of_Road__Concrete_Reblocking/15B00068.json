@@ -1,0 +1,97 @@
+{
+  "data": {
+    "contractId": "15B00068",
+    "description": "ASSET PRESERVATION OF NAT'L RD: PREVENTIVE MAINTENANCE BASED ON PVM'T MNG'T SYSTEM(HDM-4) INTERMITEN",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 5211828.17,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region II",
+      "province": "Region II",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 17.0457099747945,
+        "longitude": 121.856461552341,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "R.T. DIWA CONSTRUCTION (14263)",
+    "startDate": "2016-03-15",
+    "completionDate": "2016-09-03",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-03-15",
+    "expiryDate": "2016-06-25",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00000006LZ-CW1",
+        "description": "Preventive Maintenance of Road: Concrete Reblocking - Daang Maharlika (LZ) - K0387+000 - K0388+282, K0389+060 - K0389+210",
+        "infraType": "Roads",
+        "typeOfWork": "Preventive Maintenance of Road: Concrete Reblocking",
+        "region": "Region II",
+        "province": "ISABELA",
+        "coordinates": {
+          "latitude": 17.0457099747945,
+          "longitude": 121.856461552341,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "R.T. DIWA CONSTRUCTION",
+    "bidders": [
+      {
+        "name": "R.T. DIWA CONSTRUCTION (14263)",
+        "pcabId": "14263",
+        "participation": 100,
+        "isWinner": true
+      }
+    ],
+    "procurement": {
+      "contractName": "ASSET PRESERVATION OF NAT'L RD: PREVENTIVE MAINTENANCE BASED ON PVM'T MNG'T SYSTEM(HDM-4) INTERMITEN",
+      "abc": "5942446.92",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-12-09 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-12-29 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "5761306.0000000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/may/15b00068-Cont.agreemnt.pdf",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/may/15b00042-Noa.pdf",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/may/15b00068-Cont.agreemnt.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 17.0457099747945,
+    "longitude": 121.856461552341,
+    "coordinates": [
+      {
+        "componentId": "P00000006LZ-CW1",
+        "description": "Preventive Maintenance of Road: Concrete Reblocking - Daang Maharlika (LZ) - K0387+000 - K0388+282, K0389+060 - K0389+210",
+        "latitude": 17.0457099747945,
+        "longitude": 121.856461552341,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "data": {
+    "contractId": "15CC0284",
+    "description": "PREVENTIVE MAINTENANCE BASED ON PMS/HDM-4 (INTERMITTENT SECTIONS) ALONG GEN. ALEJO SANTOS HIGHWAY K0042+000 TO K0043+000 PLARIDEL, BULACAN",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 7638171.45,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region III",
+      "province": "Bulacan 1st DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 14.8894148916387,
+        "longitude": 120.871888622456,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "FRAMECON BUILDERS (22482)",
+    "startDate": "2016-09-26",
+    "completionDate": "2016-11-24",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-09-26",
+    "expiryDate": "2016-11-24",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00000622LZ-CW1",
+        "description": "Preventive Maintenance of Road: Concrete Reblocking - Gen Alejo Santos Highway - K0042+000 - K0043+000",
+        "infraType": "Roads",
+        "typeOfWork": "Preventive Maintenance of Road: Concrete Reblocking",
+        "region": "Region III",
+        "province": "BULACAN",
+        "coordinates": {
+          "latitude": 14.8894148916387,
+          "longitude": 120.871888622456,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "FRAMECON BUILDERS",
+    "bidders": [
+      {
+        "name": "FRAMECON BUILDERS (22482)",
+        "pcabId": "22482",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "ALL EML CONSTRUCTION CORPORATION (FORMERLY: E.M.L. CONSTRUCTION & TRADING) (10151)",
+        "pcabId": "10151",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "CHRISMAN CONSTRUCTION & SUPPLIES CORP. (FORMERLY CHRISMAN CONSTRUCTION & SUPPLIES) (50791)",
+        "pcabId": "50791",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "DUNGAN CONT'RS.& TDG. CORP (FORMERLY DUNGAN CONST. (19301)",
+        "pcabId": "19301",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "JAGONBUILD CONSTRUCTION CORP. (FOR. JAGON BUILDERS (24748)",
+        "pcabId": "24748",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "J.S. GENERAL CONTRACTOR (15258)",
+        "pcabId": "15258",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "PRODEL CONSTRUCTION & DEVELOPMENT CORPORATION (10839)",
+        "pcabId": "10839",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "PREVENTIVE MAINTENANCE BASED ON PMS/HDM-4 (INTERMITTENT SECTIONS) ALONG GEN. ALEJO SANTOS HIGHWAY K0042+000 TO K0043+000 PLARIDEL, BULACAN",
+      "abc": "8039828.01",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-12-02 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-12-22 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "7638171.4500000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/september/cwa15cc0284.doc",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/september/6015cc0284.doc",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/ntp/16/september/6815cc0284.doc",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 14.8894148916387,
+    "longitude": 120.871888622456,
+    "coordinates": [
+      {
+        "componentId": "P00000622LZ-CW1",
+        "description": "Preventive Maintenance of Road: Concrete Reblocking - Gen Alejo Santos Highway - K0042+000 - K0043+000",
+        "latitude": 14.8894148916387,
+        "longitude": 120.871888622456,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

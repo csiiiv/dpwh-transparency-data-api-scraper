@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "23AA0501",
+    "description": "IMPROVEMENT OF ROAD LAOAG-VINTAR ROAD, LAOAG CITY AND VINTAR, ILOCOS NORTE",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 50662498.65,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region I",
+      "province": "Ilocos Norte 1st DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 18.2101967,
+        "longitude": 120.6326469,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "JANN-NORRIS CONSTRUCTION AND SUPPLIES INC. (FORMELY: JANN-NORRIS CONSTRUCTION AND SUPPLIES) (35880)",
+    "startDate": "2023-12-27",
+    "completionDate": "2024-03-21",
+    "infraYear": "2023",
+    "contractEffectivityDate": "2023-12-27",
+    "expiryDate": "2024-05-14",
+    "nysReason": null,
+    "programName": "Outside Infra",
+    "sourceOfFunds": "Outside Infra - Unprogrammed Appropriations 2023",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00761450LZ-CW1",
+        "description": "Road Safety: Roadway Lighting - Improvement of Road Laoag-Vintar Road, Laoag City and Vintar, Ilocos Norte",
+        "infraType": "Roads",
+        "typeOfWork": "Road Safety: Roadway Lighting",
+        "region": "Region I",
+        "province": "ILOCOS NORTE",
+        "coordinates": {
+          "latitude": 18.2101967,
+          "longitude": 120.6326469,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "JANN-NORRIS CONSTRUCTION AND SUPPLIES INC. (FORMELY: JANN-NORRIS CONSTRUCTION AND SUPPLIES)",
+    "bidders": [
+      {
+        "name": "JANN-NORRIS CONSTRUCTION AND SUPPLIES INC. (FORMELY: JANN-NORRIS CONSTRUCTION AND SUPPLIES) (35880)",
+        "pcabId": "35880",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "ZEDIK BUILDERS (33330)",
+        "pcabId": "33330",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "IMPROVEMENT OF ROAD LAOAG-VINTAR ROAD, LAOAG CITY AND VINTAR, ILOCOS NORTE",
+      "abc": "51449996.10",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2023-08-03 00:00:00.0000000",
+      "bidSubmissionDeadline": "2023-10-12 00:00:00.0000000",
+      "dateOfAward": "2023-12-22 00:00:00.0000000",
+      "awardAmount": "49914663.73"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/23aa0501_itbbid_docsplan.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/23-501_contract.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/23-501_noa_merged.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/23-501_ntp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 18.2101967,
+    "longitude": 120.6326469,
+    "coordinates": [
+      {
+        "componentId": "P00761450LZ-CW1",
+        "description": "Road Safety: Roadway Lighting - Improvement of Road Laoag-Vintar Road, Laoag City and Vintar, Ilocos Norte",
+        "latitude": 18.2101967,
+        "longitude": 120.6326469,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 2,
+      "latestImageDate": "2024-03-19 13:08:32.290999",
+      "hasImages": true
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "data": {
+    "contractId": "24AF0158",
+    "description": "INSTALLATION OF ROAD SAFETY DEVICES ALONG AGOO-BAGUIO CITY ROAD (PACKAGE 1), LA UNION, AGOO-BAGUIO CITY ROAD, AGOO, LA UNION",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 96488777.47,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region I",
+      "province": "La Union 2nd DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 16.3303414,
+        "longitude": 120.3802878,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "UNIVERSAL DE LEON CONSTRUCTION AND AGGREGATES (35079)",
+    "startDate": "2024-06-11",
+    "completionDate": "2025-01-13",
+    "infraYear": "2024",
+    "contractEffectivityDate": "2024-06-11",
+    "expiryDate": "2024-08-18",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2024 SSP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00842053LZ-CW1",
+        "description": "Road Safety: Pavement Markings - Installation of Road Safety Devices along Agoo-Baguio City Rd, Package 1, La Union",
+        "infraType": "Roads",
+        "typeOfWork": "Road Safety: Pavement Markings",
+        "region": "Region I",
+        "province": "LA UNION",
+        "coordinates": {
+          "latitude": 16.3303414,
+          "longitude": 120.3802878,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "UNIVERSAL DE LEON CONSTRUCTION AND AGGREGATES",
+    "bidders": [
+      {
+        "name": "UNIVERSAL DE LEON CONSTRUCTION AND AGGREGATES (35079)",
+        "pcabId": "35079",
+        "participation": 100,
+        "isWinner": true
+      }
+    ],
+    "procurement": {
+      "contractName": "INSTALLATION OF ROAD SAFETY DEVICES ALONG AGOO-BAGUIO CITY ROAD (PACKAGE 1), LA UNION, AGOO-BAGUIO CITY ROAD, AGOO, LA UNION",
+      "abc": "96499969.18",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2024-05-15 00:00:00.0000000",
+      "bidSubmissionDeadline": "2024-06-04 00:00:00.0000000",
+      "dateOfAward": "2024-06-07 00:00:00.0000000",
+      "awardAmount": "96488777.47"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/24af0158_itb_bid_docs_plans.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/ca_24af0158.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/noa_24af0158.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/ntp_24af0158.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 16.3303414,
+    "longitude": 120.3802878,
+    "coordinates": [
+      {
+        "componentId": "P00842053LZ-CW1",
+        "description": "Road Safety: Pavement Markings - Installation of Road Safety Devices along Agoo-Baguio City Rd, Package 1, La Union",
+        "latitude": 16.3303414,
+        "longitude": 120.3802878,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 3,
+      "latestImageDate": "2025-01-20 13:05:18.935000",
+      "hasImages": true
+    }
+  }
+}

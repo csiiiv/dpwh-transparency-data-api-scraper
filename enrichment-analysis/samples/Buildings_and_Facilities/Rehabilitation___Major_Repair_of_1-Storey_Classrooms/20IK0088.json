@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "20IK0088",
+    "description": "RETROFFITING OF CLASSROOM BUILDING, SAMAR STATE UNIVERSITY - MERCEDES CAMPUS, CATBALOGAN CITY",
+    "category": "Buildings and Facilities",
+    "status": "Completed",
+    "budget": 4802000,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region VIII",
+      "province": "Samar 2nd DEO",
+      "infraType": "Buildings and Facilities",
+      "coordinates": {
+        "latitude": 11.781642,
+        "longitude": 124.877073,
+        "verified": false
+      }
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "NV & C CONSTRUCTION AND GENERAL SUPPLY (39766)",
+    "startDate": "2020-10-01",
+    "completionDate": "2020-12-14",
+    "infraYear": "2020",
+    "contractEffectivityDate": "2020-10-01",
+    "expiryDate": "2021-01-28",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2020 LP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00442624VS-CW1",
+        "description": "Rehabilitation / Major Repair of 1-Storey Classrooms - Retrofitting of Classroom Building, Samar State University-Mercedes Campus, Catbalogan City, Samar",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Rehabilitation / Major Repair of 1-Storey Classrooms",
+        "region": "Region VIII",
+        "province": "SAMAR (WESTERN SAMAR)",
+        "coordinates": {
+          "latitude": 11.781642,
+          "longitude": 124.877073,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "NV & C CONSTRUCTION AND GENERAL SUPPLY",
+    "bidders": [
+      {
+        "name": "NV & C CONSTRUCTION AND GENERAL SUPPLY (39766)",
+        "pcabId": "39766",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "KAMARI CONSTRUCTION AND SUPPLY (46288)",
+        "pcabId": "46288",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "RETROFFITING OF CLASSROOM BUILDING, SAMAR STATE UNIVERSITY - MERCEDES CAMPUS, CATBALOGAN CITY",
+      "abc": "4900000.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2020-03-11 00:00:00.0000000",
+      "bidSubmissionDeadline": "2020-03-31 00:00:00.0000000",
+      "dateOfAward": "2020-09-21 00:00:00.0000000",
+      "awardAmount": "4802000"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/20IK0088.pdf",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/20IK0088-CA.zip",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/20IK0088-NOA.zip",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/NTP20IK0088.jpg",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 11.781642,
+    "longitude": 124.877073,
+    "coordinates": [
+      {
+        "componentId": "P00442624VS-CW1",
+        "description": "Rehabilitation / Major Repair of 1-Storey Classrooms - Retrofitting of Classroom Building, Samar State University-Mercedes Campus, Catbalogan City, Samar",
+        "latitude": 11.781642,
+        "longitude": 124.877073,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 6,
+      "latestImageDate": "2021-08-30 06:33:42.284000",
+      "hasImages": true
+    }
+  }
+}

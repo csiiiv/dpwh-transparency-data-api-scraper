@@ -1,0 +1,153 @@
+{
+  "data": {
+    "contractId": "15B00064",
+    "description": "ASSET PRESERVATION OF NAT'L RD:REHAB/RECON/UPGRADING OF DAMAGED PAVED NAT'L RD. INCLUDING DRAINAGE B",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 29613239.15,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region II",
+      "province": "Region II",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 17.1491674761577,
+        "longitude": 121.922039363946,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "EGB CONSTRUCTION CORPORATION (FORMERLY: EGB CONSTRUCTION) (13722)",
+    "startDate": "2016-03-03",
+    "completionDate": "2016-08-01",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-03-03",
+    "expiryDate": "2016-07-11",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00001498LZ-CW1",
+        "description": "Rehabilitation of Asphalt Road - Daang Maharlika (LZ) - K0406+342 - K0407+216, K0410+487 - K0410+600, K0410+600 - K0410+802, K0410+915 - K0411+069, K0457+283 - K0457+410, K0457+630 - K0457+691.50, K0458+000 - K0458+389.50, K0459+238 - K0459+393, K0460+000",
+        "infraType": "Roads",
+        "typeOfWork": "Rehabilitation of Asphalt Road",
+        "region": "Region II",
+        "province": "CAGAYAN",
+        "coordinates": {
+          "latitude": 17.1491674761577,
+          "longitude": 121.922039363946,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00001498LZ-CW2",
+        "description": "Construction of Concrete Road - Daang Maharlika (LZ) - K0406+342 - K0407+216, K0410+487 - K0410+600, K0410+600 - K0410+802, K0410+915 - K0411+069, K0457+283 - K0457+410, K0457+630 - K0457+691.50, K0458+000 - K0458+389.50, K0459+238 - K0459+393, K0460+000",
+        "infraType": "Roads",
+        "typeOfWork": "Construction of Concrete Road",
+        "region": "Region II",
+        "province": "CAGAYAN",
+        "coordinates": {
+          "latitude": 17.1725378640765,
+          "longitude": 121.900820833115,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00001498LZ-CW3",
+        "description": "Road Upgrading Asphalt to Concrete - Daang Maharlika (LZ) - K0406+342 - K0407+216, K0410+487 - K0410+600, K0410+600 - K0410+802, K0410+915 - K0411+069, K0457+283 - K0457+410, K0457+630 - K0457+691.50, K0458+000 - K0458+389.50, K0459+238 - K0459+393, K0460",
+        "infraType": "Roads",
+        "typeOfWork": "Road Upgrading Asphalt to Concrete",
+        "region": "Region II",
+        "province": "CAGAYAN",
+        "coordinates": {
+          "latitude": 17.5029446518991,
+          "longitude": 121.801492245467,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "EGB CONSTRUCTION CORPORATION (FORMERLY: EGB CONSTRUCTION)",
+    "bidders": [
+      {
+        "name": "EGB CONSTRUCTION CORPORATION (FORMERLY: EGB CONSTRUCTION) (13722)",
+        "pcabId": "13722",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "B. VICENCIO BUILDERS (BVB), INC. (FORMERLY:B. VICENCIO CONSTRUCTION) (9687)",
+        "pcabId": "9687",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "LABB CONSTRUCTION DEVELOPMENT INC. (FORMERLY: LABB CONSTRUCTION) (13524)",
+        "pcabId": "13524",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "ASSET PRESERVATION OF NAT'L RD:REHAB/RECON/UPGRADING OF DAMAGED PAVED NAT'L RD. INCLUDING DRAINAGE B",
+      "abc": "31173675.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-11-03 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-12-07 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "29613239.1500000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/may/15b00064-Cont.agreemnt.pdf",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/may/15b00064-Noa.pdf",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/may/15b00064-Cont.agreemnt.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 17.1491674761577,
+    "longitude": 121.922039363946,
+    "coordinates": [
+      {
+        "componentId": "P00001498LZ-CW1",
+        "description": "Rehabilitation of Asphalt Road - Daang Maharlika (LZ) - K0406+342 - K0407+216, K0410+487 - K0410+600, K0410+600 - K0410+802, K0410+915 - K0411+069, K0457+283 - K0457+410, K0457+630 - K0457+691.50, K0458+000 - K0458+389.50, K0459+238 - K0459+393, K0460+000",
+        "latitude": 17.1491674761577,
+        "longitude": 121.922039363946,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00001498LZ-CW2",
+        "description": "Construction of Concrete Road - Daang Maharlika (LZ) - K0406+342 - K0407+216, K0410+487 - K0410+600, K0410+600 - K0410+802, K0410+915 - K0411+069, K0457+283 - K0457+410, K0457+630 - K0457+691.50, K0458+000 - K0458+389.50, K0459+238 - K0459+393, K0460+000",
+        "latitude": 17.1725378640765,
+        "longitude": 121.900820833115,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00001498LZ-CW3",
+        "description": "Road Upgrading Asphalt to Concrete - Daang Maharlika (LZ) - K0406+342 - K0407+216, K0410+487 - K0410+600, K0410+600 - K0410+802, K0410+915 - K0411+069, K0457+283 - K0457+410, K0457+630 - K0457+691.50, K0458+000 - K0458+389.50, K0459+238 - K0459+393, K0460",
+        "latitude": 17.5029446518991,
+        "longitude": 121.801492245467,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

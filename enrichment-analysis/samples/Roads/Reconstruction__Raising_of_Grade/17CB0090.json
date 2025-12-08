@@ -1,0 +1,121 @@
+{
+  "data": {
+    "contractId": "17CB0090",
+    "description": "REHABILITATION/RECONSTRUCTION/UPGRADING OF DAMAGED PAVED NATIONAL ROADS INCLUDING DRAINAGE BASED ON PAVEMENT MANAGEMENT SYSTEM/HIGHWAY DEVELOPMENT AND MANAGEMENT-4 (HDM-4) EPZA BY-PASS (BARASO COUNTRY RD) - KO158+-140-KO158+340, KO160+300-KO160+540, KO161",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 68149603.94,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region III",
+      "province": "Bataan 2nd DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 14.4478857279735,
+        "longitude": 120.526928248868,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "ORANI CONSTRUCTION AND SUPPLY CORPORATION (FORMERLY:ORANI BUILDERS & SUPPLY) (05349)",
+    "startDate": "2017-08-09",
+    "completionDate": "2019-01-04",
+    "infraYear": "2017",
+    "contractEffectivityDate": "2017-08-09",
+    "expiryDate": "2019-01-05",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2017 MFO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00102794LZ-CW1",
+        "description": "Reconstruction: Raising of Grade - EPZA By-Pass (Baraso Country Rd) - K0158 + -140 - K0158 + 340, K0160+300 - K0160+540, K0161+200-K0161+720",
+        "infraType": "Roads",
+        "typeOfWork": "Reconstruction: Raising of Grade",
+        "region": "Region III",
+        "province": "BATAAN",
+        "coordinates": {
+          "latitude": 14.4478857279735,
+          "longitude": 120.526928248868,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "ORANI CONSTRUCTION AND SUPPLY CORPORATION (FORMERLY:ORANI BUILDERS & SUPPLY)",
+    "bidders": [
+      {
+        "name": "ORANI CONSTRUCTION AND SUPPLY CORPORATION (FORMERLY:ORANI BUILDERS & SUPPLY) (05349)",
+        "pcabId": "05349",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "ED1SON DEVELOPMENT & CONSTRUCTION INC. (2400)",
+        "pcabId": "2400",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "JAMJLE PROPERTIES (SUBIC) AND DEVELOPMENT CORPORAT (35039)",
+        "pcabId": "35039",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "ORANI CONSTRUCTION AND SUPPLY CORPORATION (FORMERLY:ORANI BUILDERS & SUPPLY) (5349)",
+        "pcabId": "5349",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "STO. CRISTO CONSTRUCTION & TRADING INC. (FOR: STO. CRISTO CONSTRUCTION & TRADING) (26096)",
+        "pcabId": "26096",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "REHABILITATION/RECONSTRUCTION/UPGRADING OF DAMAGED PAVED NATIONAL ROADS INCLUDING DRAINAGE BASED ON PAVEMENT MANAGEMENT SYSTEM/HIGHWAY DEVELOPMENT AND MANAGEMENT-4 (HDM-4) EPZA BY-PASS (BARASO COUNTRY RD) - KO158+-140-KO158+340, KO160+300-KO160+540, KO161",
+      "abc": "71555714.99",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2017-06-23 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-07-13 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "68,149,603.94"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/17CB0090 CONTRACT.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/17CB0090 NOA.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/17CB0090 CONTRACT.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 14.4478857279735,
+    "longitude": 120.526928248868,
+    "coordinates": [
+      {
+        "componentId": "P00102794LZ-CW1",
+        "description": "Reconstruction: Raising of Grade - EPZA By-Pass (Baraso Country Rd) - K0158 + -140 - K0158 + 340, K0160+300 - K0160+540, K0161+200-K0161+720",
+        "latitude": 14.4478857279735,
+        "longitude": 120.526928248868,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

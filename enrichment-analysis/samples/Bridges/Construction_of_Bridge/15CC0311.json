@@ -1,0 +1,97 @@
+{
+  "data": {
+    "contractId": "15CC0311",
+    "description": "CONSTRUCTION/IMPROVEMENT OF STA. MONICA-SAN AGUSTIN BRIDGE HAGONOY, BULACAN",
+    "category": "Bridges",
+    "status": "Terminated",
+    "budget": 5225400,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region III",
+      "province": "Bulacan 1st DEO",
+      "infraType": "Bridges",
+      "coordinates": null
+    },
+    "infraType": "Bridges",
+    "contractor": "L.M.G. CONSTRUCTION INCORPORATED (FORMERLY: LMG CONSTRUCTION) (5719)",
+    "startDate": "2016-03-17",
+    "completionDate": "2020-09-28",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-03-17",
+    "expiryDate": "2017-09-28",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 Locally Funded Projects",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00047092LZ-CW1",
+        "description": "Construction of Bridge - Construction/Improvement at Sta. Monica-San Agustin Bridge, Hagonoy, Bulacan",
+        "infraType": "Bridges",
+        "typeOfWork": "Construction of Bridge",
+        "region": "Region III",
+        "province": "BULACAN",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "L.M.G. CONSTRUCTION INCORPORATED (FORMERLY: LMG CONSTRUCTION)",
+    "bidders": [
+      {
+        "name": "L.M.G. CONSTRUCTION INCORPORATED (FORMERLY: LMG CONSTRUCTION) (5719)",
+        "pcabId": "5719",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "HONEYVILLECONST AND DEVELOPMENT CORPORATION (32160)",
+        "pcabId": "32160",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "J.S. GENERAL CONTRACTOR (15258)",
+        "pcabId": "15258",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "PRECIOUS CONSTRUCTION (32995)",
+        "pcabId": "32995",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION/IMPROVEMENT OF STA. MONICA-SAN AGUSTIN BRIDGE HAGONOY, BULACAN",
+      "abc": "26663848.84",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-12-30 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-02-16 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "25303989.0600000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/september/cwa15cc0311.doc",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/march/6015cc0311.doc",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/ntp/16/april/6815cc0311.doc",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

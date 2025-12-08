@@ -1,0 +1,161 @@
+{
+  "data": {
+    "contractId": "18I00002",
+    "description": "CONSTRUCTION OF DAGUITAN - MARABONG FLOOD CONTROL STRUCTURES AND CHANNELIZATION, BATUG, DULAG, LEYTE",
+    "category": "Flood Control Structures, Waterway",
+    "status": "Completed",
+    "budget": 144744034.07,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region VIII",
+      "province": "Region VIII",
+      "infraType": "Flood Control and Drainage",
+      "coordinates": {
+        "latitude": 10.9462777,
+        "longitude": 124.9731577,
+        "verified": false
+      }
+    },
+    "infraType": "Flood Control and Drainage",
+    "contractor": "EZJONES CONSTRUCTION INC. (34462) / ON TIME BUILDERS INCORPORATED (40296)",
+    "startDate": "2018-05-16",
+    "completionDate": "2018-12-14",
+    "infraYear": "2018",
+    "contractEffectivityDate": "2018-05-16",
+    "expiryDate": "2019-01-28",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - Flood Control: Construction - Channel Excavation, Flood Control: Construction - Slope Protection using Structural Measures (e.g., Revetment, Retaining Structures, Rock Netting, Concrete Crib, Shotcrete, MSE Walls, Gabions, Riprap, Masonry)",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00220313VS-CW1",
+        "description": "Construction of Revetment - Construction of Daguitan-Marabong Flood Control Structures and Channelization, Batug, Dulag, Leyte",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Construction of Revetment",
+        "region": "Region VIII",
+        "province": "LEYTE",
+        "coordinates": {
+          "latitude": 10.9462777,
+          "longitude": 124.9731577,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00220313VS-CW2",
+        "description": "Channelization - Construction of Daguitan-Marabong Flood Control Structures and Channelization, Batug, Dulag, Leyte",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Channelization",
+        "region": "Region VIII",
+        "province": "LEYTE",
+        "coordinates": {
+          "latitude": 10.9451077,
+          "longitude": 124.9784006,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "EZJONES CONSTRUCTION INC., ON TIME BUILDERS INCORPORATED",
+    "bidders": [
+      {
+        "name": "EZJONES CONSTRUCTION INC. (34462) / ON TIME BUILDERS INCORPORATED (40296) (JV ID: JV-17-312)",
+        "pcabId": "",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "E.M. CUERPO, INC. (30963)",
+        "pcabId": "30963",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "MONOLITHIC CONSTRUCTION & CONCRETE PRODUCTS, INC. (5733)",
+        "pcabId": "5733",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "NORTHERN BUILDERS (8789)",
+        "pcabId": "8789",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "PREMIUM MEGASTRUCTURES INC. (36079)",
+        "pcabId": "36079",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "RJIR ENTERPRISES CORPORATION (34843)",
+        "pcabId": "34843",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "ST. GERRARD CONSTRUCTION GEN. CONTRACTOR & DEVELOPMENT CORP. (FORMERLY:ST. GERRARD CONSTRUCTION) ([REVOKED] 31762)",
+        "pcabId": "[REVOKED] 31762",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "VICENTE T. LAO CONSTRUCTION (7040)",
+        "pcabId": "7040",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION OF DAGUITAN - MARABONG FLOOD CONTROL STRUCTURES AND CHANNELIZATION, BATUG, DULAG, LEYTE",
+      "abc": "144475473.64",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2017-09-13 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-10-04 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "139417707"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/CA 18IO0002.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/NOA 18IO0002.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/NTP 18IO0002.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 10.9462777,
+    "longitude": 124.9731577,
+    "coordinates": [
+      {
+        "componentId": "P00220313VS-CW1",
+        "description": "Construction of Revetment - Construction of Daguitan-Marabong Flood Control Structures and Channelization, Batug, Dulag, Leyte",
+        "latitude": 10.9462777,
+        "longitude": 124.9731577,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00220313VS-CW2",
+        "description": "Channelization - Construction of Daguitan-Marabong Flood Control Structures and Channelization, Batug, Dulag, Leyte",
+        "latitude": 10.9451077,
+        "longitude": 124.9784006,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

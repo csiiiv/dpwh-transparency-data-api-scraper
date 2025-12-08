@@ -1,0 +1,199 @@
+{
+  "data": {
+    "contractId": "24F00510",
+    "description": "CONVERGENCE AND SPECIAL SUPPORT PROGRAM-SUSTAINABLE INFRASTRUCTURE PROJECTS ALLEVIATING GAPS (SIPAG)-SIPAG-FLOOD MITIGATION STRUCTURES PROTECTING MAJOR/STRATEGIC PUBLIC BUILDINGS/FACILITIES-CONSTRUCTION OF FLOOD MITIGATION STRUCTURE ALONG MIISI GULLY, PAC",
+    "category": "Flood Control and Drainage",
+    "status": "On-Going",
+    "budget": 189140625.88,
+    "amountPaid": 0,
+    "progress": 15.52,
+    "location": {
+      "region": "Region V",
+      "province": "Region V",
+      "infraType": "Flood Control and Drainage",
+      "coordinates": {
+        "latitude": 13.19833,
+        "longitude": 123.69222,
+        "verified": false
+      }
+    },
+    "infraType": "Flood Control and Drainage",
+    "contractor": "SUNWEST, INC. (FORMERLY: SUNWEST CONSTRUCTION & DEVELOPMENT CORPORATION) (15906)",
+    "startDate": "2025-05-30",
+    "completionDate": null,
+    "infraYear": "2024",
+    "contractEffectivityDate": "2025-05-30",
+    "expiryDate": "2025-12-15",
+    "nysReason": null,
+    "programName": "Outside Infra",
+    "sourceOfFunds": "Outside Infra - Unprogrammed Appropriations 2024",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00861907LZ-CW1",
+        "description": "Construction of Sabo Dam - Construction of Flood Mitigation Structure along Miisi Gully, Package 1 ,Barangay Miisi, Daraga, Albay",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Construction of Sabo Dam",
+        "region": "Region V",
+        "province": "ALBAY",
+        "coordinates": {
+          "latitude": 13.19833,
+          "longitude": 123.69222,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "SUNWEST, INC. (FORMERLY: SUNWEST CONSTRUCTION & DEVELOPMENT CORPORATION)",
+    "bidders": [
+      {
+        "name": "SUNWEST, INC. (FORMERLY: SUNWEST CONSTRUCTION & DEVELOPMENT CORPORATION) (15906)",
+        "pcabId": "15906",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "ANTONIO V. NIDEA CONST., INC.(FORMERLY ANTONIO V. (6382)",
+        "pcabId": "6382",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "DSB CONSTRUCTION  & SUPPLY, INC. (FORMERLY: DSB CO (16126)",
+        "pcabId": "16126",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "ED1SON DEVELOPMENT & CONSTRUCTION INC. (2400)",
+        "pcabId": "2400",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "G.C.I.  CONSTRUCTION AND DEV'T. CORP. (11346)",
+        "pcabId": "11346",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "HENSCHA PHILS. INC. (34164)",
+        "pcabId": "34164",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "HI-TONE CONSTRUCTION & DEVELOPMENT CORP. (FORMERLY (23385)",
+        "pcabId": "23385",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "ITP CONSTRUCTION, INC. (9392)",
+        "pcabId": "9392",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "KAEL CONSTRUCTION AND SUPPLY (49152)",
+        "pcabId": "49152",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "MONOLITHIC CONSTRUCTION & CONCRETE PRODUCTS, INC. (5733)",
+        "pcabId": "5733",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "NFH CONSTRUCTION & SUPPLY (16055)",
+        "pcabId": "16055",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "NORTHERN BUILDERS (8789)",
+        "pcabId": "8789",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "PHESCO, INCORPORATED (145)",
+        "pcabId": "145",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "R.A. PAHATI CONST. & SUPPLY, INC. (35843)",
+        "pcabId": "35843",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "R.U. AQUINO CONSTRUCTION AND DEVELOPMENT CORP. (FO (23507)",
+        "pcabId": "23507",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "WCS CONSTRUCTION, INC. (6516)",
+        "pcabId": "6516",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "WELEX CONSTRUCTION, INCORPORATED (FORMERLY WELEX C (9323)",
+        "pcabId": "9323",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "YAKAL CONSTRUCTION (9685)",
+        "pcabId": "9685",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONVERGENCE AND SPECIAL SUPPORT PROGRAM-SUSTAINABLE INFRASTRUCTURE PROJECTS ALLEVIATING GAPS (SIPAG)-SIPAG-FLOOD MITIGATION STRUCTURES PROTECTING MAJOR/STRATEGIC PUBLIC BUILDINGS/FACILITIES-CONSTRUCTION OF FLOOD MITIGATION STRUCTURE ALONG MIISI GULLY, PAC",
+      "abc": "192999509.05",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2025-02-05 00:00:00.0000000",
+      "bidSubmissionDeadline": "2025-04-04 00:00:00.0000000",
+      "dateOfAward": "2025-04-21 00:00:00.0000000",
+      "awardAmount": "189140625.9"
+    },
+    "links": {
+      "advertisement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/advertisement/24f00510_bid_docs_plans.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/24f00510_contract.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/24f00510_notice_of_award.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/24f00510_ntp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 13.19833,
+    "longitude": 123.69222,
+    "coordinates": [
+      {
+        "componentId": "P00861907LZ-CW1",
+        "description": "Construction of Sabo Dam - Construction of Flood Mitigation Structure along Miisi Gully, Package 1 ,Barangay Miisi, Daraga, Albay",
+        "latitude": 13.19833,
+        "longitude": 123.69222,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 2,
+      "latestImageDate": "2025-09-30 06:46:50.696999",
+      "hasImages": true
+    }
+  }
+}

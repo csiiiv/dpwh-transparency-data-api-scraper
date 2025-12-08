@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "17AF0224",
+    "description": "CONST OF LAMLAMIING DIVERSION DAM, LIBO, BAGULIN, LU",
+    "category": "Flood Control and Drainage",
+    "status": "Completed",
+    "budget": 3496007.76,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region I",
+      "province": "La Union 2nd DEO",
+      "infraType": "Flood Control and Drainage",
+      "coordinates": {
+        "latitude": 16.296581,
+        "longitude": 120.486411,
+        "verified": false
+      }
+    },
+    "infraType": "Flood Control and Drainage",
+    "contractor": "J.A. OLIVAR ENGINEERING DESIGN, CONSTRUCTION AND S (35602)",
+    "startDate": "2018-04-30",
+    "completionDate": "2018-11-05",
+    "infraYear": "2017",
+    "contractEffectivityDate": "2018-04-30",
+    "expiryDate": "2018-08-27",
+    "nysReason": null,
+    "programName": "Outside Infra",
+    "sourceOfFunds": "Outside Infra - Trust Funds 2017",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00199246LZ-CW1",
+        "description": "Construction of Sabo Dam - Construction of Lamlamiing Diversion Dam, Brgy. Libbo, Bagulin, La Union",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Construction of Sabo Dam",
+        "region": "Region I",
+        "province": "LA UNION",
+        "coordinates": {
+          "latitude": 16.296581,
+          "longitude": 120.486411,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "J.A. OLIVAR ENGINEERING DESIGN, CONSTRUCTION AND S",
+    "bidders": [
+      {
+        "name": "J.A. OLIVAR ENGINEERING DESIGN, CONSTRUCTION AND S (35602)",
+        "pcabId": "35602",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "E.E. MADAYAG CONSTRUCTION (25029)",
+        "pcabId": "25029",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONST OF LAMLAMIING DIVERSION DAM, LIBO, BAGULIN, LU",
+      "abc": "3698498.01",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2017-12-20 00:00:00.0000000",
+      "bidSubmissionDeadline": "2018-01-11 00:00:00.0000000",
+      "dateOfAward": "2018-04-13 00:00:00.0000000",
+      "awardAmount": "3496007.76"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/17AF0224.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/17af0224_cont.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/17af0224_noa.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/17af0224_ntp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 16.296581,
+    "longitude": 120.486411,
+    "coordinates": [
+      {
+        "componentId": "P00199246LZ-CW1",
+        "description": "Construction of Sabo Dam - Construction of Lamlamiing Diversion Dam, Brgy. Libbo, Bagulin, La Union",
+        "latitude": 16.296581,
+        "longitude": 120.486411,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

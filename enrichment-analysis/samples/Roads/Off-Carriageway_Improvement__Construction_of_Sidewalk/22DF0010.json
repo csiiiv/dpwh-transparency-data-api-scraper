@@ -1,0 +1,131 @@
+{
+  "data": {
+    "contractId": "22DF0010",
+    "description": "ORGANIZATIONAL OUTCOME 1: ENSURE SAFE AND RELIABLENATIONAL ROAD SYSTEM - NETWORK DEVELOPMENT PROGRAM- OFF-CARRIAGEWAY IMPROVEMENT - PRIMARY ROADSMANILA-CAVITE (NCR BDRY - JCT CAVITE CITY SECT),K0023+617 - K0023+764, K0023+817 - K0024+250",
+    "category": "Roads",
+    "status": "On-Going",
+    "budget": 15987929.87,
+    "amountPaid": 0,
+    "progress": 0,
+    "location": {
+      "region": "Region IV-A",
+      "province": "Cavite 1st DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 14.4406775,
+        "longitude": 120.9015231,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "E.L. TORRES CONSTRUCTION AND TRADING INC. (FORMERLY : E. L. TORRES CONSTRUCTION &  TRADING (31406)",
+    "startDate": "2022-02-24",
+    "completionDate": null,
+    "infraYear": "2022",
+    "contractEffectivityDate": "2022-02-24",
+    "expiryDate": "2022-05-24",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2022 OO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00605761LZ-CW1",
+        "description": "Off-Carriageway Improvement: Construction of Sidewalk - Manila-Cavite (NCR Bdry-Jct Cavite City Sect) - K0023 + 617 - K0023 + 764, K0023 + 817 - K0024 + 250",
+        "infraType": "Roads",
+        "typeOfWork": "Off-Carriageway Improvement: Construction of Sidewalk",
+        "region": "Region IV-A",
+        "province": "CAVITE",
+        "coordinates": {
+          "latitude": 14.4406775,
+          "longitude": 120.9015231,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00605761LZ-CW2",
+        "description": "Off-Carriageway Improvement: Paving of Shoulders - Manila-Cavite (NCR Bdry-Jct Cavite City Sect) - K0023 + 617 - K0023 + 764, K0023 + 817 - K0024 + 250",
+        "infraType": "Roads",
+        "typeOfWork": "Off-Carriageway Improvement: Paving of Shoulders",
+        "region": "Region IV-A",
+        "province": "CAVITE",
+        "coordinates": {
+          "latitude": 14.4406775,
+          "longitude": 120.9015231,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "E.L. TORRES CONSTRUCTION AND TRADING INC. (FORMERLY : E. L. TORRES CONSTRUCTION &  TRADING",
+    "bidders": [
+      {
+        "name": "E.L. TORRES CONSTRUCTION AND TRADING INC. (FORMERLY : E. L. TORRES CONSTRUCTION &  TRADING (31406)",
+        "pcabId": "31406",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "CLIMATEPROS CONSTRUCTION (41107)",
+        "pcabId": "41107",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "FE S. REYES GENERAL CONTRACTOR CORP. (09015)",
+        "pcabId": "09015",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "ORGANIZATIONAL OUTCOME 1: ENSURE SAFE AND RELIABLE NATIONAL ROAD SYSTEM - NETWORK DEVELOPMENT PROGRAM - OFF-CARRIAGEWAY IMPROVEMENT - PRIMARY ROADS MANILA-CAVITE (NCR BDRY - JCT CAVITE CITY SECT), K0023+617 - K0023+764, K0023+817 - K0024+250",
+      "abc": "16833460.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2021-10-26 00:00:00.0000000",
+      "bidSubmissionDeadline": "2021-11-17 00:00:00.0000000",
+      "dateOfAward": "2022-02-10 00:00:00.0000000",
+      "awardAmount": "15987929.87"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/22DF0010.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/CA 22DF0010.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/NOA 22DF0010.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/CA 22DF0010.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 14.4406775,
+    "longitude": 120.9015231,
+    "coordinates": [
+      {
+        "componentId": "P00605761LZ-CW1",
+        "description": "Off-Carriageway Improvement: Construction of Sidewalk - Manila-Cavite (NCR Bdry-Jct Cavite City Sect) - K0023 + 617 - K0023 + 764, K0023 + 817 - K0024 + 250",
+        "latitude": 14.4406775,
+        "longitude": 120.9015231,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00605761LZ-CW2",
+        "description": "Off-Carriageway Improvement: Paving of Shoulders - Manila-Cavite (NCR Bdry-Jct Cavite City Sect) - K0023 + 617 - K0023 + 764, K0023 + 817 - K0024 + 250",
+        "latitude": 14.4406775,
+        "longitude": 120.9015231,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 2,
+      "latestImageDate": "2022-05-13 01:38:47.115000",
+      "hasImages": true
+    }
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "data": {
+    "contractId": "17FA0063",
+    "description": "REHABILITATION/RECONSTRUCTION OF BARANGHAWON BRIDGE APPROACH, TABACO CITY, ALBAY",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 9659000,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region V",
+      "province": "Albay 1st DEO",
+      "infraType": "Roads",
+      "coordinates": null
+    },
+    "infraType": "Roads",
+    "contractor": "JAG-VAIL CONSTRUCTION & SUPPLY INC. (FORMERLY: JAG-VAIL CONSTRUCTION & SUPPLY) (24055)",
+    "startDate": "2017-11-13",
+    "completionDate": "2018-01-05",
+    "infraYear": "2017",
+    "contractEffectivityDate": "2017-11-13",
+    "expiryDate": "2018-01-05",
+    "nysReason": null,
+    "programName": "Outside Infra",
+    "sourceOfFunds": "Outside Infra - GAA 2017 NDRRMF",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00095680LZ-CW1",
+        "description": "Rehabilitation of Paved Road - Rehabilitation/ Reconstruction of Baranghawon Bridge Approach, Tabaco City, Albay",
+        "infraType": "Roads",
+        "typeOfWork": "Rehabilitation of Paved Road",
+        "region": "Region V",
+        "province": "ALBAY",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "JAG-VAIL CONSTRUCTION & SUPPLY INC. (FORMERLY: JAG-VAIL CONSTRUCTION & SUPPLY)",
+    "bidders": [
+      {
+        "name": "JAG-VAIL CONSTRUCTION & SUPPLY INC. (FORMERLY: JAG-VAIL CONSTRUCTION & SUPPLY) (24055)",
+        "pcabId": "24055",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "3RB CONSTRUCTION & SUPPLY (19541)",
+        "pcabId": "19541",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "ADS CONSTRUCTION AND SUPPLY (41698)",
+        "pcabId": "41698",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "SANRHO BUILDERS, INC.(FOR. SANRHO CONST. AND SUPPL (24213)",
+        "pcabId": "24213",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "SDM VENTURES (39509)",
+        "pcabId": "39509",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "STEVEN CONSTRUCTION & SUPPLY (21987)",
+        "pcabId": "21987",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "REHABILITATION/RECONSTRUCTION OF BARANGHAWON BRIDGE APPROACH, TABACO CITY, ALBAY",
+      "abc": "9650042.29",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2017-09-08 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-09-28 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "9,148,118.63"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/17FA0063 - BID DOCS.pdf",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/17fa0063_c.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/17fa0063_noa.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/17fa0063_ntp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

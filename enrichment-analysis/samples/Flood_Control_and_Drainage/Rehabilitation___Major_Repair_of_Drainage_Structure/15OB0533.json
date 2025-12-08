@@ -1,0 +1,133 @@
+{
+  "data": {
+    "contractId": "15OB0533",
+    "description": "CONSTRUCTION OF DRAINAGE SYSTEM AT BACKSIDE & PARAISO 2, BRGY. POBLACION, MANDALUYONG CITY",
+    "category": "Flood Control and Drainage",
+    "status": "Completed",
+    "budget": 4557892.47,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "National Capital Region",
+      "province": "Metro Manila 1st DEO",
+      "infraType": "Flood Control and Drainage",
+      "coordinates": {
+        "latitude": 14.5859196,
+        "longitude": 121.0268666,
+        "verified": false
+      }
+    },
+    "infraType": "Flood Control and Drainage",
+    "contractor": "NVF CONSTRUCTION (13941)",
+    "startDate": "2016-03-14",
+    "completionDate": "2016-05-11",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-03-14",
+    "expiryDate": "2016-05-12",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 Locally Funded Projects",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00052966LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Drainage Structure - Rehabilitation of Drainage system at Backside and Paraiso 2, Barangay Poblacion, Mandaluyong City Lone District",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Rehabilitation / Major Repair of Drainage Structure",
+        "region": "National Capital Region",
+        "province": "METROPOLITAN MANILA",
+        "coordinates": {
+          "latitude": 14.5859196,
+          "longitude": 121.0268666,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "NVF CONSTRUCTION",
+    "bidders": [
+      {
+        "name": "NVF CONSTRUCTION (13941)",
+        "pcabId": "13941",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "3FJ CONSTRUCTION (37156)",
+        "pcabId": "37156",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "CTAN CONSTRUCTION (18192)",
+        "pcabId": "18192",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "DOMUGAN CONSTRUCTION & SUPPLY CORP. (FORMERLY DOMUGAN CONSTRUCTION & SUPPLY) (27866)",
+        "pcabId": "27866",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "G.M.R CONSTRUCTION & SUPPLY (34412)",
+        "pcabId": "34412",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "KARPA BUILDERS AND TRADING (33003)",
+        "pcabId": "33003",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "R.K.X. ODIAMAR  CONSTRUCTION (16107)",
+        "pcabId": "16107",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION OF DRAINAGE SYSTEM AT BACKSIDE & PARAISO 2, BRGY. POBLACION, MANDALUYONG CITY",
+      "abc": "4999780.54",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-01-07 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-01-27 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "4557892.4700000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "",
+      "noticeOfAward": "",
+      "noticeToProceed": "",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 14.5859196,
+    "longitude": 121.0268666,
+    "coordinates": [
+      {
+        "componentId": "P00052966LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Drainage Structure - Rehabilitation of Drainage system at Backside and Paraiso 2, Barangay Poblacion, Mandaluyong City Lone District",
+        "latitude": 14.5859196,
+        "longitude": 121.0268666,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

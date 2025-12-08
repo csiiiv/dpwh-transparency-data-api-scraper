@@ -1,0 +1,145 @@
+{
+  "data": {
+    "contractId": "15CD0289",
+    "description": "PREVENTIVE MAINTENANCE ASPHALT OVERLAY ALONG STA.MARIA - BY PASS ROAD K0030+(-204) - K0030+307 ; K0030+475 - K0031+000 ; K0031+577 - K0031+919 ; K0032+180 - K0032+538 ; K0033+703 - K0034+000",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 14668676.23,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region III",
+      "province": "Bulacan 2nd DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 14.8128333329443,
+        "longitude": 120.948900425563,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "729 CONSTRUCTION, INC. (FORMERLY 722 CONSTRUCTION, INC.) (21923)",
+    "startDate": "2016-02-22",
+    "completionDate": "2016-04-20",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-02-22",
+    "expiryDate": "2016-04-21",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00000634LZ-CW1",
+        "description": "Preventive Maintenance of Road: Concrete Reblocking - Sta Maria By-Pass Rd - K0030+-204 - K0030+307, K0030+475 - K0031+000, K0031+577 - K0031+919, K0032+180 - K0032+538, K0033+703 - K0034+000",
+        "infraType": "Roads",
+        "typeOfWork": "Preventive Maintenance of Road: Concrete Reblocking",
+        "region": "Region III",
+        "province": "BULACAN",
+        "coordinates": {
+          "latitude": 14.8128333329443,
+          "longitude": 120.948900425563,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "729 CONSTRUCTION, INC. (FORMERLY 722 CONSTRUCTION, INC.)",
+    "bidders": [
+      {
+        "name": "729 CONSTRUCTION, INC. (FORMERLY 722 CONSTRUCTION, INC.) (21923)",
+        "pcabId": "21923",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "A.L. DARE CONSTRUCTION CORP. (FOR: A.L. DARE CONST.) (11932)",
+        "pcabId": "11932",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "BAQPRINCE CONSTRUCTION AND TRADING CORP. (28337)",
+        "pcabId": "28337",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "C.T. LEONCIO CONSTRUCTION & TRADING (17371)",
+        "pcabId": "17371",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "ITP CONSTRUCTION, INC. (9392)",
+        "pcabId": "9392",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "MM MASULOT CONSTRUCTION CORPORATION (10716)",
+        "pcabId": "10716",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "ORANI CONSTRUCTION AND SUPPLY CORPORATION (FORMERLY:ORANI BUILDERS & SUPPLY) (05349)",
+        "pcabId": "05349",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "PRECIOUS CONSTRUCTION (32995)",
+        "pcabId": "32995",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "VICTORIA DEVELOPMENT AND VENTURES CORP. (FOR: VICTORIA DEV'T AND CONST. CORP.) (32638)",
+        "pcabId": "32638",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "PREVENTIVE MAINTENANCE ASPHALT OVERLAY ALONG STA.MARIA - BY PASS ROAD K0030+(-204) - K0030+307 ; K0030+475 - K0031+000 ; K0031+577 - K0031+919 ; K0032+180 - K0032+538 ; K0033+703 - K0034+000",
+      "abc": "15440773.83",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-12-23 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-01-19 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "14668676.2300000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/september/CA 289,290,291.zip",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/september/NOA 286,287,288,289,290.zip",
+      "noticeToProceed": "",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 14.8128333329443,
+    "longitude": 120.948900425563,
+    "coordinates": [
+      {
+        "componentId": "P00000634LZ-CW1",
+        "description": "Preventive Maintenance of Road: Concrete Reblocking - Sta Maria By-Pass Rd - K0030+-204 - K0030+307, K0030+475 - K0031+000, K0031+577 - K0031+919, K0032+180 - K0032+538, K0033+703 - K0034+000",
+        "latitude": 14.8128333329443,
+        "longitude": 120.948900425563,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

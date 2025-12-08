@@ -1,0 +1,231 @@
+{
+  "data": {
+    "contractId": "20L00186",
+    "description": "CONSTRUCTION OF BICYCLE LANES IN DAVAO CITY: 1.) DAVAO-COTABATO ROAD 2.) ABS-CBN QUIMPO BLVD. DIV. ROAD 3.) G.E. STREET (SANDAWA ROAD) 4.) DAANG MAHARLIKA ROAD (CM RECTO ST.) 5.) ROXAS AVENUE 6.) QUEZON BLVD.",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 145370671.39,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region XI",
+      "province": "Region XI",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 7.0608856,
+        "longitude": 125.5563255,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "GP & H CONSTRUCTION INCORPORATED (FORMERLY: GP & H CONSTRUCTION & SUPPLY) (36141) / MAGAR CONSTRUCTION AND SUPPLY (39012)",
+    "startDate": "2021-02-02",
+    "completionDate": "2021-06-15",
+    "infraYear": "2020",
+    "contractEffectivityDate": "2021-02-02",
+    "expiryDate": "2021-12-17",
+    "nysReason": null,
+    "programName": "Outside Infra",
+    "sourceOfFunds": "Outside Infra - R.A. 11494 DOTr Bike Lanes",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00499003MN-CW1",
+        "description": "Off-Carriageway Improvement: Construction of Bike Lanes - Construction of Bicycle Lanes in Davao City : Davao-Cotabato Road",
+        "infraType": "Roads",
+        "typeOfWork": "Off-Carriageway Improvement: Construction of Bike Lanes",
+        "region": "Region XI",
+        "province": "DAVAO DEL SUR",
+        "coordinates": {
+          "latitude": 7.0608856,
+          "longitude": 125.5563255,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00499004MN-CW1",
+        "description": "Off-Carriageway Improvement: Construction of Bike Lanes - Construction of Bicycle Lanes in Davao City : ABS-CBN Quimpo Blvd. Div. Road",
+        "infraType": "Roads",
+        "typeOfWork": "Off-Carriageway Improvement: Construction of Bike Lanes",
+        "region": "Region XI",
+        "province": "DAVAO DEL SUR",
+        "coordinates": {
+          "latitude": 7.062884,
+          "longitude": 125.6109872,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00499005MN-CW1",
+        "description": "Off-Carriageway Improvement: Construction of Bike Lanes - Construction of Bicycle Lanes in Davao City : G.E. Street (Sandawa Road)",
+        "infraType": "Roads",
+        "typeOfWork": "Off-Carriageway Improvement: Construction of Bike Lanes",
+        "region": "Region XI",
+        "province": "DAVAO DEL SUR",
+        "coordinates": {
+          "latitude": 7.0577867,
+          "longitude": 125.6012421,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00499006MN-CW1",
+        "description": "Off-Carriageway Improvement: Construction of Bike Lanes - Construction of Bicycle Lanes in Davao City :  Daang Maharlika Road (CM Recto St.)",
+        "infraType": "Roads",
+        "typeOfWork": "Off-Carriageway Improvement: Construction of Bike Lanes",
+        "region": "Region XI",
+        "province": "DAVAO DEL SUR",
+        "coordinates": {
+          "latitude": 7.0681595,
+          "longitude": 125.6027086,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00499007MN-CW1",
+        "description": "Off-Carriageway Improvement: Construction of Bike Lanes - Construction of Bicycle Lanes in Davao City :  Roxas Avenue",
+        "infraType": "Roads",
+        "typeOfWork": "Off-Carriageway Improvement: Construction of Bike Lanes",
+        "region": "Region XI",
+        "province": "DAVAO DEL SUR",
+        "coordinates": {
+          "latitude": 7.0719214,
+          "longitude": 125.6121989,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00499008MN-CW1",
+        "description": "Off-Carriageway Improvement: Construction of Bike Lanes - Construction of Bicycle Lanes in Davao City : Quezon Blvd.",
+        "infraType": "Roads",
+        "typeOfWork": "Off-Carriageway Improvement: Construction of Bike Lanes",
+        "region": "Region XI",
+        "province": "DAVAO DEL SUR",
+        "coordinates": {
+          "latitude": 7.0629294,
+          "longitude": 125.611028,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "GP & H CONSTRUCTION INCORPORATED (FORMERLY: GP & H CONSTRUCTION & SUPPLY), MAGAR CONSTRUCTION AND SUPPLY",
+    "bidders": [
+      {
+        "name": "GP & H CONSTRUCTION INCORPORATED (FORMERLY: GP & H CONSTRUCTION & SUPPLY) (36141) / MAGAR CONSTRUCTION AND SUPPLY (39012) (JV ID: JV-20-4083)",
+        "pcabId": "",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "O. G. SANTOS CONSTRUCTION (2050) / ROSBILL CONSTRUCTION AND SUPPLY (45622) (JV ID: JV-20-4084)",
+        "pcabId": "",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "GEMMA CONSTRUCTION SUPPLY, INC.(FORMERLY:GEMMA CON (5044)",
+        "pcabId": "5044",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "ULTICON BUILDERS, INC. (17267)",
+        "pcabId": "17267",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "VICENTE T. LAO CONSTRUCTION (7040)",
+        "pcabId": "7040",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION OF BICYCLE LANES IN DAVAO CITY: 1.) DAVAO-COTABATO ROAD 2.) ABS-CBN QUIMPO BLVD. DIV. ROAD 3.) G.E. STREET (SANDAWA ROAD) 4.) DAANG MAHARLIKA ROAD (CM RECTO ST.) 5.) ROXAS AVENUE 6.) QUEZON BLVD.",
+      "abc": "149250000.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2020-11-27 00:00:00.0000000",
+      "bidSubmissionDeadline": "2020-12-16 00:00:00.0000000",
+      "dateOfAward": "2020-12-18 00:00:00.0000000",
+      "awardAmount": "145370671.4"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/20L00186 - BIDDING DOCUMENTS.rar",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/CONTRACT 20L00186 RE.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/NOA 20L00186.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/CONTRACT 20L00186 RE.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 7.0608856,
+    "longitude": 125.5563255,
+    "coordinates": [
+      {
+        "componentId": "P00499003MN-CW1",
+        "description": "Off-Carriageway Improvement: Construction of Bike Lanes - Construction of Bicycle Lanes in Davao City : Davao-Cotabato Road",
+        "latitude": 7.0608856,
+        "longitude": 125.5563255,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00499004MN-CW1",
+        "description": "Off-Carriageway Improvement: Construction of Bike Lanes - Construction of Bicycle Lanes in Davao City : ABS-CBN Quimpo Blvd. Div. Road",
+        "latitude": 7.062884,
+        "longitude": 125.6109872,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00499005MN-CW1",
+        "description": "Off-Carriageway Improvement: Construction of Bike Lanes - Construction of Bicycle Lanes in Davao City : G.E. Street (Sandawa Road)",
+        "latitude": 7.0577867,
+        "longitude": 125.6012421,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00499006MN-CW1",
+        "description": "Off-Carriageway Improvement: Construction of Bike Lanes - Construction of Bicycle Lanes in Davao City :  Daang Maharlika Road (CM Recto St.)",
+        "latitude": 7.0681595,
+        "longitude": 125.6027086,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00499007MN-CW1",
+        "description": "Off-Carriageway Improvement: Construction of Bike Lanes - Construction of Bicycle Lanes in Davao City :  Roxas Avenue",
+        "latitude": 7.0719214,
+        "longitude": 125.6121989,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00499008MN-CW1",
+        "description": "Off-Carriageway Improvement: Construction of Bike Lanes - Construction of Bicycle Lanes in Davao City : Quezon Blvd.",
+        "latitude": 7.0629294,
+        "longitude": 125.611028,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 6,
+      "latestImageDate": "2021-08-03 05:22:05.708000",
+      "hasImages": true
+    }
+  }
+}

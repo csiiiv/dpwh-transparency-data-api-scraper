@@ -1,0 +1,79 @@
+{
+  "data": {
+    "contractId": "17DD0238",
+    "description": "REHABILITATION / RECONSTRUCTION / UPGRADING OF DAMAGED PAVED NATIONAL ROAD ALONG BANAY-BANAY - MOJON - CUENCA ROAD, K0086+-510 - K0087+795 AND K0087+843 - K0089+146, LIPA CITY, BATANGAS",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 6441575.22,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region IV-A",
+      "province": "Batangas 4th DEO",
+      "infraType": "Roads",
+      "coordinates": null
+    },
+    "infraType": "Roads",
+    "contractor": "FILCAN UNITED CONSTRUCTION & GENERAL MERCHANDISE CORP. (40838)",
+    "startDate": "2017-12-04",
+    "completionDate": "2018-03-16",
+    "infraYear": "2017",
+    "contractEffectivityDate": "2017-12-04",
+    "expiryDate": "2018-03-16",
+    "nysReason": null,
+    "programName": "Outside Infra",
+    "sourceOfFunds": "Outside Infra - GAA 2017 NDRRMF",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00095682LZ-CW1",
+        "description": "Rehabilitation of Paved Road - Construction of Banay-Banay - Mojon - Cuenca Road, Lipa City - San Jose Section, Batangas Province",
+        "infraType": "Roads",
+        "typeOfWork": "Rehabilitation of Paved Road",
+        "region": "Region IV-A",
+        "province": "BATANGAS",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "FILCAN UNITED CONSTRUCTION & GENERAL MERCHANDISE CORP.",
+    "bidders": [
+      {
+        "name": "FILCAN UNITED CONSTRUCTION & GENERAL MERCHANDISE CORP. (40838)",
+        "pcabId": "40838",
+        "participation": 100,
+        "isWinner": true
+      }
+    ],
+    "procurement": {
+      "contractName": "REHABILITATION / RECONSTRUCTION / UPGRADING OF DAMAGED PAVED NATIONAL ROAD ALONG BANAY-BANAY - MOJON - CUENCA ROAD, K0086+-510 - K0087+795 AND K0087+843 - K0089+146, LIPA CITY, BATANGAS",
+      "abc": "6442340.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2017-10-17 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-11-07 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "6,345,609.20"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/0BID DOCS 17DD0238.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/17DD0238 CA.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/17dd0238_noa.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/17DD0238 CA.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

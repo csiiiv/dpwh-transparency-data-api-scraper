@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "20DF0213",
+    "description": "ORGANIZATIONAL OUTCOME 1, ENSURE SAFE AND RELIABLE NATIONAL ROAD SYSTEM, NETWORK DEVELOPMENT, OFF-CARRIAGEWAY IMPROVEMENT -PRIMARY ROADS, JUANITO R. REMULLA. SR. RD., K0041+000 - K0041+790",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 1582664.15,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region IV-A",
+      "province": "Cavite 1st DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 14.2840389,
+        "longitude": 120.8966361,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "J.S. GENERAL CONTRACTOR (15258)",
+    "startDate": "2020-12-03",
+    "completionDate": "2021-03-02",
+    "infraYear": "2020",
+    "contractEffectivityDate": "2020-12-03",
+    "expiryDate": "2021-03-02",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2020 OO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00400775LZ-CW1",
+        "description": "Off-Carriageway Improvement: Construction of Median/Center Island - Juanito R. Remulla, Sr. Rd - K0041 + 000 - K0041 + 790",
+        "infraType": "Roads",
+        "typeOfWork": "Off-Carriageway Improvement: Construction of Median/Center Island",
+        "region": "Region IV-A",
+        "province": "CAVITE",
+        "coordinates": {
+          "latitude": 14.2840389,
+          "longitude": 120.8966361,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "J.S. GENERAL CONTRACTOR",
+    "bidders": [
+      {
+        "name": "J.S. GENERAL CONTRACTOR (15258)",
+        "pcabId": "15258",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "T.E. TRINIDAD CONSTRUCTION (43287)",
+        "pcabId": "43287",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "ORGANIZATIONAL OUTCOME 1, ENSURE SAFE AND RELIABLE NATIONAL ROAD SYSTEM, NETWORK DEVELOPMENT, OFF-CARRIAGEWAY IMPROVEMENT -PRIMARY ROADS, JUANITO R. REMULLA. SR. RD., K0041+000 - K0041+790",
+      "abc": "1666000.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2020-10-21 00:00:00.0000000",
+      "bidSubmissionDeadline": "2020-11-11 00:00:00.0000000",
+      "dateOfAward": "2020-11-20 00:00:00.0000000",
+      "awardAmount": "1582664.15"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/Primary Roads Juanito R.Remulla.pdf",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/CA 20DF0213.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/NOA 20DF0213.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/CA 20DF0213.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 14.2840389,
+    "longitude": 120.8966361,
+    "coordinates": [
+      {
+        "componentId": "P00400775LZ-CW1",
+        "description": "Off-Carriageway Improvement: Construction of Median/Center Island - Juanito R. Remulla, Sr. Rd - K0041 + 000 - K0041 + 790",
+        "latitude": 14.2840389,
+        "longitude": 120.8966361,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 1,
+      "latestImageDate": "2021-02-05 04:50:33.552999",
+      "hasImages": true
+    }
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "data": {
+    "contractId": "18LA0063",
+    "description": "RECHANNELING/CONSTRUCTION OF REVETMENT WITH STEEL SHEET PILE OF KINGKING RIVER, MOSAHAMAT SECTION R/S, PANTUKAN, COMPOSTELA VALLEY PROVINCE",
+    "category": "Flood Control Structures, Waterway",
+    "status": "Completed",
+    "budget": 34103850.22,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region XI",
+      "province": "Davao de Oro 1st DEO",
+      "infraType": "Flood Control and Drainage",
+      "coordinates": {
+        "latitude": 7.1454408,
+        "longitude": 125.9059143,
+        "verified": false
+      }
+    },
+    "infraType": "Flood Control and Drainage",
+    "contractor": "FFJJ CONSTRUCTION (16712)",
+    "startDate": "2018-05-24",
+    "completionDate": "2019-01-20",
+    "infraYear": "2018",
+    "contractEffectivityDate": "2018-05-24",
+    "expiryDate": "2018-12-25",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2018 OO-2",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00222406MN-CW1",
+        "description": "Construction of Revetment - Rechanneling/Construction of  Revetment with Steel Sheet Pile at Kingking River, Mosahamat Section R/S, Pantukan, Compostela Valley",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Construction of Revetment",
+        "region": "Region XI",
+        "province": "DAVAO DE ORO",
+        "coordinates": {
+          "latitude": 7.1454408,
+          "longitude": 125.9059143,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00222406MN-CW2",
+        "description": "Channelization - Rechanneling/Construction of  Revetment with Steel Sheet Pile at Kingking River, Mosahamat Section R/S, Pantukan, Compostela Valley",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Channelization",
+        "region": "Region XI",
+        "province": "DAVAO DE ORO",
+        "coordinates": {
+          "latitude": 7.1450443,
+          "longitude": 125.9075266,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "FFJJ CONSTRUCTION",
+    "bidders": [
+      {
+        "name": "FFJJ CONSTRUCTION (16712)",
+        "pcabId": "16712",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "LEGACY CONSTRUCTION CORPORATION (FORMERLY: LEGACY CONSTRUCTION) (22465)",
+        "pcabId": "22465",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "RECHANNELING/CONSTRUCTION OF REVETMENT WITH STEEL SHEET PILE OF KINGKING RIVER, MOSAHAMAT SECTION R/S, PANTUKAN, COMPOSTELA VALLEY PROVINCE",
+      "abc": "34099828.91",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2018-02-21 00:00:00.0000000",
+      "bidSubmissionDeadline": "2018-03-21 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "33076850.22"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/18LA0063.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/CONTRACT AGREEMENT.PDF",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/NOTICE OF AWARDrevetmentSTEEL.PDF",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/CONTRACT AGREEMENT.PDF",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 7.1454408,
+    "longitude": 125.9059143,
+    "coordinates": [
+      {
+        "componentId": "P00222406MN-CW1",
+        "description": "Construction of Revetment - Rechanneling/Construction of  Revetment with Steel Sheet Pile at Kingking River, Mosahamat Section R/S, Pantukan, Compostela Valley",
+        "latitude": 7.1454408,
+        "longitude": 125.9059143,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00222406MN-CW2",
+        "description": "Channelization - Rechanneling/Construction of  Revetment with Steel Sheet Pile at Kingking River, Mosahamat Section R/S, Pantukan, Compostela Valley",
+        "latitude": 7.1450443,
+        "longitude": 125.9075266,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

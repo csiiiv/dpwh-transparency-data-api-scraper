@@ -1,0 +1,85 @@
+{
+  "data": {
+    "contractId": "15D00101",
+    "description": "MFO-1 WIDENING OF PERM. BRS. TO MORE THAN 2 LANES, LUMBAN BR. (B02469LZ) ALONG CALAMBA-STA.CRUZ-FAMY",
+    "category": "Bridges",
+    "status": "Completed",
+    "budget": 99682032.96,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region IV-A",
+      "province": "Region IV-A",
+      "infraType": "Bridges",
+      "coordinates": null
+    },
+    "infraType": "Bridges",
+    "contractor": "TOKWING CONSTRUCTION, CORP.(FOR;  TOKWING CONSTRUC (9650)",
+    "startDate": "2016-03-16",
+    "completionDate": "2019-03-26",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-03-16",
+    "expiryDate": "2019-03-26",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00002003LZ-CW1",
+        "description": "Widening of Bridge - Lumban Br. (B02469LZ) along Calamba-Sta Cruz-Famy Jct Rd",
+        "infraType": "Bridges",
+        "typeOfWork": "Widening of Bridge",
+        "region": "Region IV-A",
+        "province": "LAGUNA",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "TOKWING CONSTRUCTION, CORP.(FOR;  TOKWING CONSTRUC",
+    "bidders": [
+      {
+        "name": "TOKWING CONSTRUCTION, CORP.(FOR;  TOKWING CONSTRUC (9650)",
+        "pcabId": "9650",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "J.D. LEGASPI CONSTRUCTION (9608)",
+        "pcabId": "9608",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "MFO-1 WIDENING OF PERM. BRS. TO MORE THAN 2 LANES, LUMBAN BR. (B02469LZ) ALONG CALAMBA-STA.CRUZ-FAMY",
+      "abc": "99720000.09",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-12-28 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-01-22 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "90829168.7800000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/15d0101_-_ca.pdf",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/july/15D00101_NOA0001.pdf",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/ntp/16/july/15D00101_NTP0001.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

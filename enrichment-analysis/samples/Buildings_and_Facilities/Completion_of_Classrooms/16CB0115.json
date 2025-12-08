@@ -1,0 +1,106 @@
+{
+  "data": {
+    "contractId": "16CB0115",
+    "description": "CONSTRUCTION OF TWO(2) STOREY TWELVE(12) CLASSROOM AT P. ROMAN NHS, PILAR, BATAAN",
+    "category": "Buildings and Facilities",
+    "status": "Completed",
+    "budget": 16245796.51,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region III",
+      "province": "Bataan 2nd DEO",
+      "infraType": "Buildings and Facilities",
+      "coordinates": null
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "E.R. VENZON CONSTRUCTION (19013)",
+    "startDate": "2017-10-15",
+    "completionDate": "2018-06-11",
+    "infraYear": "2017",
+    "contractEffectivityDate": "2017-10-15",
+    "expiryDate": "2018-06-11",
+    "nysReason": null,
+    "programName": "Outside Infra",
+    "sourceOfFunds": "Outside Infra - GAA 2016 DepED BEFF / GAA 2017 DepEd BEFF",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00070080LZ-CW1",
+        "description": "Construction of Classrooms - Construction of a 2STY12CL School Building, P. Roman NHS, Pilar, Bataan",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of Classrooms",
+        "region": "Region III",
+        "province": "BATAAN",
+        "coordinates": null
+      },
+      {
+        "componentId": "P00171734LZ-CW1",
+        "description": "Completion of Classrooms - Construction (Completion) of a 2STY12CL School Building, P. Roman NHS, Pilar, Bataan",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Completion of Classrooms",
+        "region": "Region III",
+        "province": "BATAAN",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "E.R. VENZON CONSTRUCTION",
+    "bidders": [
+      {
+        "name": "E.R. VENZON CONSTRUCTION (19013)",
+        "pcabId": "19013",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "ED1SON DEVELOPMENT & CONSTRUCTION INC. (2400)",
+        "pcabId": "2400",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "FAME BUILDER PHILIPPINES (8936)",
+        "pcabId": "8936",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "N.V. BALBUENA CONSTRUCTION (12055)",
+        "pcabId": "12055",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION OF TWO(2) STOREY TWELVE(12) CLASSROOM AT P. ROMAN NHS, PILAR, BATAAN",
+      "abc": "16538527.82",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2017-03-02 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-03-21 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "16,245,796.51"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/16CB0115.rar",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/16cb0115contract.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/16cb0115_noa.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/16cb0115_ntp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

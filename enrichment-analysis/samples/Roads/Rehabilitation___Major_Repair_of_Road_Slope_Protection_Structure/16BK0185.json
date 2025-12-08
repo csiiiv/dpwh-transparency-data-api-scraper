@@ -1,0 +1,109 @@
+{
+  "data": {
+    "contractId": "16BK0185",
+    "description": "REPAIR/RESTORATION/IMPROVEMENT ALONG UMILAN BRIDGE APPROACH B ALONG JCT. VICTORIA - MADDELA - ALICIA - KASIBU ROAD (JCT. VI)(S04748LZ), K0372+295 (APPROACH B OF UMILAN BRIDGE) MADDELA,QURINO",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 964864.19,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region II",
+      "province": "Quirino DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 16.3690957311694,
+        "longitude": 121.62301519429,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "C-BROS CONSTRUCTION (36606)",
+    "startDate": "2017-05-10",
+    "completionDate": "2017-06-15",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2017-05-10",
+    "expiryDate": "2017-06-15",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 Locally Funded Projects",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00056023LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Road Slope Protection Structure - Repair/Restoration/Improvement along Umilan Bridge Approach 'B' along Jct.Victoria-Maddela-Alicia-Kasibu Road (Jct. Vi)-(S04748LZ), K0372+295 (Approach B of Umilan Br.), Maddela, Quirino",
+        "infraType": "Roads",
+        "typeOfWork": "Rehabilitation / Major Repair of Road Slope Protection Structure",
+        "region": "Region II",
+        "province": "QUIRINO",
+        "coordinates": {
+          "latitude": 16.3690957311694,
+          "longitude": 121.62301519429,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "C-BROS CONSTRUCTION",
+    "bidders": [
+      {
+        "name": "C-BROS CONSTRUCTION (36606)",
+        "pcabId": "36606",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "DIAMOND J BUILDERS (38868)",
+        "pcabId": "38868",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "JURIS CONSTRUCTION & BUILDERS (37443)",
+        "pcabId": "37443",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "REPAIR/RESTORATION/IMPROVEMENT ALONG UMILAN BRIDGE APPROACH \"B\" ALONG JCT. VICTORIA - MADDELA - ALICIA - KASIBU ROAD (JCT. VI)(S04748LZ), K0372+295 (APPROACH B OF UMILAN BRIDGE) MADDELA,QURINO",
+      "abc": "1000000.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2017-03-24 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-04-12 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "964864.19"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/16BK0185 BDs.pdf",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/16BK0185 CA.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/16BK0185 NOA.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/16BK0185 CA.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 16.3690957311694,
+    "longitude": 121.62301519429,
+    "coordinates": [
+      {
+        "componentId": "P00056023LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Road Slope Protection Structure - Repair/Restoration/Improvement along Umilan Bridge Approach 'B' along Jct.Victoria-Maddela-Alicia-Kasibu Road (Jct. Vi)-(S04748LZ), K0372+295 (Approach B of Umilan Br.), Maddela, Quirino",
+        "latitude": 16.3690957311694,
+        "longitude": 121.62301519429,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

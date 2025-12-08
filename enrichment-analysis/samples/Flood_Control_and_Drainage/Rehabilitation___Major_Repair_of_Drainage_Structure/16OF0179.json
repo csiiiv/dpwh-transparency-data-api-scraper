@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "16OF0179",
+    "description": "REHABILITATION AND DRAINAGE IMPROVEMENT OF CABATINGAN COMPOUND, BRGY. TANDANG SORA, Q.C.",
+    "category": "Flood Control and Drainage",
+    "status": "Completed",
+    "budget": 3759077.1,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "National Capital Region",
+      "province": "Quezon City 1st DEO",
+      "infraType": "Flood Control and Drainage",
+      "coordinates": null
+    },
+    "infraType": "Flood Control and Drainage",
+    "contractor": "A.D. CONSTRUCTION (6946)",
+    "startDate": "2017-03-28",
+    "completionDate": "2017-09-01",
+    "infraYear": "2017",
+    "contractEffectivityDate": "2017-03-28",
+    "expiryDate": "2017-06-25",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - Flood Control/Hydraulics/Drainage, Roads: Rehabilitation - PCCP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00148673LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Drainage Structure - Rehabilitation and of Drainage Improvement of Cabatingan Compound, Brgy. Tandang Sora, Quezon City",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Rehabilitation / Major Repair of Drainage Structure",
+        "region": "National Capital Region",
+        "province": "METROPOLITAN MANILA",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "A.D. CONSTRUCTION",
+    "bidders": [
+      {
+        "name": "A.D. CONSTRUCTION (6946)",
+        "pcabId": "6946",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "LVRO CONSTRUCTION & SUPPLY (18116)",
+        "pcabId": "18116",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "TRIMLUV BUILDERS AND SUPPLY (33467)",
+        "pcabId": "33467",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "TWO DIMENSION CONSTRUCTION (39410)",
+        "pcabId": "39410",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "WINPRO CONSTRUCTION (37527)",
+        "pcabId": "37527",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "REHABILITATION AND DRAINAGE IMPROVEMENT OF CABATINGAN COMPOUND, BRGY. TANDANG SORA, Q.C.",
+      "abc": "3958750.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-12-29 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-01-25 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "3,759,077.10"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/BOQ 16OF0179.rar",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/160f0179_contract.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/160f0179_noa.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/160f0179_ntp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

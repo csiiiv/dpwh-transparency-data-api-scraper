@@ -1,0 +1,127 @@
+{
+  "data": {
+    "contractId": "22G00187",
+    "description": "CONSTRUCTION OF EVACUATION CENTER, BRGY. CUBAY, LA CARLOTA CITY, NEGROS OCCIDENTAL",
+    "category": "Buildings and Facilities",
+    "status": "On-Going",
+    "budget": 10412994.64,
+    "amountPaid": 0,
+    "progress": 0,
+    "location": {
+      "region": "Region VI",
+      "province": "Region VI",
+      "infraType": "Buildings and Facilities",
+      "coordinates": {
+        "latitude": 10.4190011,
+        "longitude": 122.924665,
+        "verified": false
+      }
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "SBF CONSTRUCTION & DEVELOPMENT CORPORATION (11470)",
+    "startDate": "2022-11-10",
+    "completionDate": null,
+    "infraYear": "2022",
+    "contractEffectivityDate": "2022-11-10",
+    "expiryDate": "2023-06-30",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2022 LP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00655251VS-CW1",
+        "description": "Construction of Evacuation Center - Construction of Evacuation Center, Brgy. Cubay, La Carlota City, Negros Occidental",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of Evacuation Center",
+        "region": "Negros Island Region",
+        "province": "NEGROS OCCIDENTAL",
+        "coordinates": {
+          "latitude": 10.4190011,
+          "longitude": 122.924665,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "SBF CONSTRUCTION & DEVELOPMENT CORPORATION",
+    "bidders": [
+      {
+        "name": "SBF CONSTRUCTION & DEVELOPMENT CORPORATION (11470)",
+        "pcabId": "11470",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "GOOD FORTUNE INTERNATIONAL, INC. (09246)",
+        "pcabId": "09246",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "GOOD FORTUNE INTERNATIONAL, INC. (9246)",
+        "pcabId": "9246",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "MEGAJES CONSTRUCTION CORP. (44920)",
+        "pcabId": "44920",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "ORANI CONSTRUCTION AND SUPPLY CORPORATION (FORMERLY:ORANI BUILDERS & SUPPLY) (05349)",
+        "pcabId": "05349",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "S.T. SALCEDO CONSTRUCTION CORP.(FORMERLY: SHAK CONSTRUCTION & SUPPLY) (28289)",
+        "pcabId": "28289",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION OF EVACUATION CENTER, BRGY. CUBAY, LA CARLOTA CITY, NEGROS OCCIDENTAL",
+      "abc": "10518500.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2022-09-20 00:00:00.0000000",
+      "bidSubmissionDeadline": "2022-10-11 00:00:00.0000000",
+      "dateOfAward": "2022-10-25 00:00:00.0000000",
+      "awardAmount": "10412994.64"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/22g00187.rar",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/22g00187_contract.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/22g00187_noa_merged.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/22g00187_contract.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 10.4190011,
+    "longitude": 122.924665,
+    "coordinates": [
+      {
+        "componentId": "P00655251VS-CW1",
+        "description": "Construction of Evacuation Center - Construction of Evacuation Center, Brgy. Cubay, La Carlota City, Negros Occidental",
+        "latitude": 10.4190011,
+        "longitude": 122.924665,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 2,
+      "latestImageDate": "2023-05-26 00:31:48.319000",
+      "hasImages": true
+    }
+  }
+}

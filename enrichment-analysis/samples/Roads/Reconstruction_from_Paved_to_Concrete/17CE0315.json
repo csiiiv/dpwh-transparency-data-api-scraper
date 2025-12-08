@@ -1,0 +1,109 @@
+{
+  "data": {
+    "contractId": "17CE0315",
+    "description": "ASSET PRESERVATION - REHABILITATION/RECONSTRUCTION/UPGRADING OF DAMAGED PAVED ROADS - TERTIARY ROADS - MUÑOZ - LUPAO RD - K0149+000 - K0150+000",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 23838493.03,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region III",
+      "province": "Nueva Ecija 1st DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 15.7436423,
+        "longitude": 120.9022444,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "WIZARD CONCRETE SOLUTIONS AND CONSTRUCTION CORPORATION (FORMERLY: WIZARD TRADING & CONSTRUCTION) (21921)",
+    "startDate": "2018-03-18",
+    "completionDate": "2019-02-10",
+    "infraYear": "2018",
+    "contractEffectivityDate": "2018-03-18",
+    "expiryDate": "2019-02-10",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2018 OO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00200600LZ-CW1",
+        "description": "Reconstruction from Paved to Concrete - Mu±oz-Lupao Rd - K0149 + 000 - K0150 + 000",
+        "infraType": "Roads",
+        "typeOfWork": "Reconstruction from Paved to Concrete",
+        "region": "Region III",
+        "province": "NUEVA ECIJA",
+        "coordinates": {
+          "latitude": 15.7436423,
+          "longitude": 120.9022444,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "WIZARD CONCRETE SOLUTIONS AND CONSTRUCTION CORPORATION (FORMERLY: WIZARD TRADING & CONSTRUCTION)",
+    "bidders": [
+      {
+        "name": "WIZARD CONCRETE SOLUTIONS AND CONSTRUCTION CORPORATION (FORMERLY: WIZARD TRADING & CONSTRUCTION) (21921)",
+        "pcabId": "21921",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "ADROIT EJD CONSTRUCTION CORP. (FORMERLY: ADROIT CONSTRUCTION) (11169)",
+        "pcabId": "11169",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "AMP 723 CONSTRUCTION CORPORATION (FORMERLY: A.M.P. CONSTRUCTION) (16574)",
+        "pcabId": "16574",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "ASSET PRESERVATION - REHABILITATION/RECONSTRUCTION/UPGRADING OF DAMAGED PAVED ROADS - TERTIARY ROADS - MUÑOZ - LUPAO RD - K0149+000 - K0150+000",
+      "abc": "25093171.08",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2017-12-07 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-12-27 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "23838493.03"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/17CE0315.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/CA17CE0315.PDF",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/NOA17CE0315.PDF",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/CA17CE0315.PDF",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 15.7436423,
+    "longitude": 120.9022444,
+    "coordinates": [
+      {
+        "componentId": "P00200600LZ-CW1",
+        "description": "Reconstruction from Paved to Concrete - Mu±oz-Lupao Rd - K0149 + 000 - K0150 + 000",
+        "latitude": 15.7436423,
+        "longitude": 120.9022444,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "16IB0324",
+    "description": "REPAIR/REHABILITATION OF DOLORES BUS/TRANSPORT TERMINAL, DOLORES, EASTERN SAMAR",
+    "category": "Buildings and Facilities",
+    "status": "Completed",
+    "budget": 7499627.09,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region VIII",
+      "province": "Eastern Samar DEO",
+      "infraType": "Buildings and Facilities",
+      "coordinates": {
+        "latitude": 12.034917,
+        "longitude": 125.483333,
+        "verified": false
+      }
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "PABLO S. LABASBAS CONSTRUCTION CORPORATION (FORMERLY: PABLOS. LABASBAS CONSTRUCTION CORPORATION) (6302)",
+    "startDate": "2017-02-15",
+    "completionDate": "2017-08-13",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2017-02-15",
+    "expiryDate": "2017-08-13",
+    "nysReason": null,
+    "programName": "Outside Infra",
+    "sourceOfFunds": "Outside Infra - GAA 2016 NDRRMF",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00095304VS-CW1",
+        "description": "Repair/Rehabilitation of Other Buildings - Repair/Rehabilitation of Dolores Bus/Transport Terminal,Dolores, Eastern Samar",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Repair/Rehabilitation of Other Buildings",
+        "region": "Region VIII",
+        "province": "EASTERN SAMAR",
+        "coordinates": {
+          "latitude": 12.034917,
+          "longitude": 125.483333,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "PABLO S. LABASBAS CONSTRUCTION CORPORATION (FORMERLY: PABLOS. LABASBAS CONSTRUCTION CORPORATION)",
+    "bidders": [
+      {
+        "name": "PABLO S. LABASBAS CONSTRUCTION CORPORATION (FORMERLY: PABLOS. LABASBAS CONSTRUCTION CORPORATION) (6302)",
+        "pcabId": "6302",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "TUBIGAN BUILDERS (33185)",
+        "pcabId": "33185",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "REPAIR/REHABILITATION OF DOLORES BUS/TRANSPORT TERMINAL, DOLORES, EASTERN SAMAR",
+      "abc": "7695082.18",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-12-23 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-01-12 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "7,499,627.09"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "",
+      "noticeOfAward": "",
+      "noticeToProceed": "",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 12.034917,
+    "longitude": 125.483333,
+    "coordinates": [
+      {
+        "componentId": "P00095304VS-CW1",
+        "description": "Repair/Rehabilitation of Other Buildings - Repair/Rehabilitation of Dolores Bus/Transport Terminal,Dolores, Eastern Samar",
+        "latitude": 12.034917,
+        "longitude": 125.483333,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "data": {
+    "contractId": "18K00243",
+    "description": "CLUSTER 43 CONSTRUCTION OF BYPASS AND DIVERSION ROADS IN BUKIDNON",
+    "category": "Bridges, Roads",
+    "status": "Completed",
+    "budget": 288015921.23,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region X",
+      "province": "Region X",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 7.9905576,
+        "longitude": 125.0076144,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "M. MONTESCLAROS ENTERPRISES, INC. (6506)",
+    "startDate": "2018-07-16",
+    "completionDate": "2019-09-28",
+    "infraYear": "2018",
+    "contractEffectivityDate": "2018-07-16",
+    "expiryDate": "2019-06-28",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2018 OO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00200376MN-CW1",
+        "description": "Construction of Concrete Road - Valencia Bypass Road Extension, (Lantapan-Bagontaas Section), incl. bridge, Bukidnon",
+        "infraType": "Roads",
+        "typeOfWork": "Construction of Concrete Road",
+        "region": "Region X",
+        "province": "BUKIDNON",
+        "coordinates": {
+          "latitude": 7.9905576,
+          "longitude": 125.0076144,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00200376MN-CW2",
+        "description": "Construction of Steel Bridge - Valencia Bypass Road Extension, (Lantapan-Bagontaas Section), incl. bridge, Bukidnon",
+        "infraType": "Bridges",
+        "typeOfWork": "Construction of Steel Bridge",
+        "region": "Region X",
+        "province": "BUKIDNON",
+        "coordinates": {
+          "latitude": 7.9901058,
+          "longitude": 125.0094897,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00200377MN-CW1",
+        "description": "Construction of Concrete Road - Valencia Bypass Road Extension, incl. ROW, Bukidnon",
+        "infraType": "Roads",
+        "typeOfWork": "Construction of Concrete Road",
+        "region": "Region X",
+        "province": "BUKIDNON",
+        "coordinates": {
+          "latitude": 7.9937322,
+          "longitude": 124.9693483,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00200379MN-CW1",
+        "description": "Construction of Drainage Structure along Road - Valencia Bypass Road, incl. ROW, Bukidnon",
+        "infraType": "Roads",
+        "typeOfWork": "Construction of Drainage Structure along Road",
+        "region": "Region X",
+        "province": "BUKIDNON",
+        "coordinates": {
+          "latitude": 7.92403,
+          "longitude": 125.08392,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "M. MONTESCLAROS ENTERPRISES, INC.",
+    "bidders": [
+      {
+        "name": "M. MONTESCLAROS ENTERPRISES, INC. (6506)",
+        "pcabId": "6506",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "CAVDEAL-CAVITE IDEAL INT'L. CONST. & DEV'T. CORP. (05599)",
+        "pcabId": "05599",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "EQUI-PARCO CONSTRUCTION COMPANY (14332)",
+        "pcabId": "14332",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "ESR CONSTRUCTION AND DEVELOPMENT CORPORATION (FORMERLY: ESR CONSTRUCTION & SUPPLIES) (10451)",
+        "pcabId": "10451",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "GRACE CONSTRUCTION CORPORATION (3771)",
+        "pcabId": "3771",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "MAC BUILDERS CORP. (FORMERLY: MAC BUILDERS DEVELOPMENT CORPORATION) (7249)",
+        "pcabId": "7249",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "MONOLITHIC CONSTRUCTION & CONCRETE PRODUCTS, INC. (5733)",
+        "pcabId": "5733",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "P.L. SEBASTIAN CONSTRUCTION, INC. (FORMERLY: P.L. SEBASTIAN CONSTRUCTION) (35840)",
+        "pcabId": "35840",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "PREMIUM MEGASTRUCTURES INC. (36079)",
+        "pcabId": "36079",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "UKC BUILDERS, INC. (10759)",
+        "pcabId": "10759",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "ULTICON BUILDERS, INC. (17267)",
+        "pcabId": "17267",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "VICENTE T. LAO CONSTRUCTION (7040)",
+        "pcabId": "7040",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CLUSTER \"43\" CONSTRUCTION OF BYPASS AND DIVERSION ROADS IN BUKIDNON",
+      "abc": "304316250.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2018-03-01 00:00:00.0000000",
+      "bidSubmissionDeadline": "2018-05-04 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "288015921.2"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/18K00243-Cluster 43.pdf",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/18k00243-mmei-2-7.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/18k00243-mei.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/18k00243-mmei-1.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 7.9905576,
+    "longitude": 125.0076144,
+    "coordinates": [
+      {
+        "componentId": "P00200376MN-CW1",
+        "description": "Construction of Concrete Road - Valencia Bypass Road Extension, (Lantapan-Bagontaas Section), incl. bridge, Bukidnon",
+        "latitude": 7.9905576,
+        "longitude": 125.0076144,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00200376MN-CW2",
+        "description": "Construction of Steel Bridge - Valencia Bypass Road Extension, (Lantapan-Bagontaas Section), incl. bridge, Bukidnon",
+        "latitude": 7.9901058,
+        "longitude": 125.0094897,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00200377MN-CW1",
+        "description": "Construction of Concrete Road - Valencia Bypass Road Extension, incl. ROW, Bukidnon",
+        "latitude": 7.9937322,
+        "longitude": 124.9693483,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00200379MN-CW1",
+        "description": "Construction of Drainage Structure along Road - Valencia Bypass Road, incl. ROW, Bukidnon",
+        "latitude": 7.92403,
+        "longitude": 125.08392,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

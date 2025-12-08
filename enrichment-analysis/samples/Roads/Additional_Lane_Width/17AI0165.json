@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "17AI0165",
+    "description": "REPAIR/REHAB/IMPVT (ADDITIONAL PAVEMENT WIDTH) ALONG BINALONAN-ASINGAN-STA. MARIA RD, KO 209+020 - K",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 14106623.7,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region I",
+      "province": "Pangasinan 3rd DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 15.9575403555492,
+        "longitude": 120.668505946659,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "W.J.P. CONSTRUCTION AND SUPPLY (23192)",
+    "startDate": "2017-09-13",
+    "completionDate": "2017-10-30",
+    "infraYear": "2017",
+    "contractEffectivityDate": "2017-09-13",
+    "expiryDate": "2018-03-21",
+    "nysReason": null,
+    "programName": "Outside Infra",
+    "sourceOfFunds": "Outside Infra - Special Road Support Fund 2017",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00190138LZ-CW1",
+        "description": "Additional Lane Width - Additional Pavement Width along Binalonan-Asingan-Sta. Maria Road (S00024LZ), K0209+020 to K0209+707",
+        "infraType": "Roads",
+        "typeOfWork": "Additional Lane Width",
+        "region": "Region I",
+        "province": "PANGASINAN",
+        "coordinates": {
+          "latitude": 15.9575403555492,
+          "longitude": 120.668505946659,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "W.J.P. CONSTRUCTION AND SUPPLY",
+    "bidders": [
+      {
+        "name": "W.J.P. CONSTRUCTION AND SUPPLY (23192)",
+        "pcabId": "23192",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "A.P.B. CONSTRUCTION (17055)",
+        "pcabId": "17055",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "REPAIR/REHAB/IMPVT (ADDITIONAL PAVEMENT WIDTH) ALONG BINALONAN-ASINGAN-STA. MARIA RD, KO 209+020 - K",
+      "abc": "14850000.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2017-05-23 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-06-13 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "14,106,623.70"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/17AI0165.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/17ai0165_-_contract.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/17ai0165_-_noa.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/17ai0165_-_ntp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 15.9575403555492,
+    "longitude": 120.668505946659,
+    "coordinates": [
+      {
+        "componentId": "P00190138LZ-CW1",
+        "description": "Additional Lane Width - Additional Pavement Width along Binalonan-Asingan-Sta. Maria Road (S00024LZ), K0209+020 to K0209+707",
+        "latitude": 15.9575403555492,
+        "longitude": 120.668505946659,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

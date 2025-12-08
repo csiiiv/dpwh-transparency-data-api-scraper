@@ -1,0 +1,109 @@
+{
+  "data": {
+    "contractId": "15DM0134",
+    "description": "CONSTRUCTION OF DRAINAGE STRUCTURE (LINED CANAL) ALONG GUMACA(SISIRIN)-PITOGO-MULANAY-SAN NARCISO ROAD K0299+428.50-K0299+638.50 R/S, QUEZON",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 982378.07,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region IV-A",
+      "province": "Quezon 3rd DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 13.58050117,
+        "longitude": 122.5396348,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "RGP BUILDERS (20680)",
+    "startDate": "2016-03-29",
+    "completionDate": "2016-05-27",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-03-29",
+    "expiryDate": "2016-05-27",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-2",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00020619LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Drainage Structure along Road - Construction of Drainage Structure (Lined Canal) along Gumaca (Sisirin)-Pitogo-Mulanay-San Narciso Road K0299+428.50 - K0299+638.50 R/S, Quezon",
+        "infraType": "Roads",
+        "typeOfWork": "Rehabilitation / Major Repair of Drainage Structure along Road",
+        "region": "Region IV-A",
+        "province": "QUEZON",
+        "coordinates": {
+          "latitude": 13.58050117,
+          "longitude": 122.5396348,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "RGP BUILDERS",
+    "bidders": [
+      {
+        "name": "RGP BUILDERS (20680)",
+        "pcabId": "20680",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "KKT CONSTRUCTION AND SUPPLY (36852)",
+        "pcabId": "36852",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "QUEZON VICTORY LUMBER AND GENERAL CONTRACTOR (6631)",
+        "pcabId": "6631",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION OF DRAINAGE STRUCTURE (LINED CANAL) ALONG GUMACA(SISIRIN)-PITOGO-MULANAY-SAN NARCISO ROAD K0299+428.50-K0299+638.50 R/S, QUEZON",
+      "abc": "997142.68",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-10-28 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-11-17 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "982378.0700000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "",
+      "noticeOfAward": "",
+      "noticeToProceed": "",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 13.58050117,
+    "longitude": 122.5396348,
+    "coordinates": [
+      {
+        "componentId": "P00020619LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Drainage Structure along Road - Construction of Drainage Structure (Lined Canal) along Gumaca (Sisirin)-Pitogo-Mulanay-San Narciso Road K0299+428.50 - K0299+638.50 R/S, Quezon",
+        "latitude": 13.58050117,
+        "longitude": 122.5396348,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "data": {
+    "contractId": "15AI0378",
+    "description": "CONST/MAINT OF FLOOD MITIGATION STRUCTURES & DRAINAGE SYSTEM-AGNO RIVER BASIN FLOOD CTRL PROJ-CONST",
+    "category": "Flood Control and Drainage",
+    "status": "Completed",
+    "budget": 9413956.58,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region I",
+      "province": "Pangasinan 3rd DEO",
+      "infraType": "Flood Control and Drainage",
+      "coordinates": null
+    },
+    "infraType": "Flood Control and Drainage",
+    "contractor": "ROGENOX CONSTRUCTION AND SUPPLY CORP. (32475)",
+    "startDate": "2016-02-08",
+    "completionDate": "2016-04-29",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-02-08",
+    "expiryDate": "2016-05-07",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-2",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00020205LZ-CW1",
+        "description": "Construction of Dike - Agno River Basin Flood Control Project-Construction/Extension of Dike with Protection Works, Brgy. San Patricio-Sta Rosa, Sta Maria, Pangasinan 6th LD",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Construction of Dike",
+        "region": "Region I",
+        "province": "PANGASINAN",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "ROGENOX CONSTRUCTION AND SUPPLY CORP.",
+    "bidders": [
+      {
+        "name": "ROGENOX CONSTRUCTION AND SUPPLY CORP. (32475)",
+        "pcabId": "32475",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "A.C. SOLIVEN CONSTRUCTION & GENERAL MERCHANDISE (19278)",
+        "pcabId": "19278",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONST/MAINT OF FLOOD MITIGATION STRUCTURES & DRAINAGE SYSTEM-AGNO RIVER BASIN FLOOD CTRL PROJ-CONST",
+      "abc": "9799999.68",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-12-02 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-12-21 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "9413956.5800000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/may/15AI0378 contract.pdf",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/may/15AI0378 award.pdf",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/may/15AI0378 contract.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

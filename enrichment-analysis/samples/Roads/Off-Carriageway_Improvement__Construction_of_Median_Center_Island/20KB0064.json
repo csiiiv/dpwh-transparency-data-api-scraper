@@ -1,0 +1,203 @@
+{
+  "data": {
+    "contractId": "20KB0064",
+    "description": "ROAD WIDENING ALONG SAYRE HIGHWAY, K1544+000-K1545+335, MUSUAN, MARAMAG, BUKIDNON",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 50866057.88,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region X",
+      "province": "Bukidnon 2nd DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 7.8534444,
+        "longitude": 125.0497889,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "M. MONTESCLAROS ENTERPRISES, INC. (6506)",
+    "startDate": "2020-12-07",
+    "completionDate": "2021-08-03",
+    "infraYear": "2020",
+    "contractEffectivityDate": "2020-12-07",
+    "expiryDate": "2021-08-03",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2020 OO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00400229MN-CW1",
+        "description": "Road Widening - Sayre Highway - K1544 + 000 - K1545 + 335",
+        "infraType": "Roads",
+        "typeOfWork": "Road Widening",
+        "region": "Region X",
+        "province": "BUKIDNON",
+        "coordinates": {
+          "latitude": 7.8534444,
+          "longitude": 125.0497889,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00400229MN-CW2",
+        "description": "Off-Carriageway Improvement: Construction of Median/Center Island - Sayre Highway - K1544 + 000 - K1545 + 335",
+        "infraType": "Roads",
+        "typeOfWork": "Off-Carriageway Improvement: Construction of Median/Center Island",
+        "region": "Region X",
+        "province": "BUKIDNON",
+        "coordinates": {
+          "latitude": 7.8476278,
+          "longitude": 125.0470889,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "M. MONTESCLAROS ENTERPRISES, INC.",
+    "bidders": [
+      {
+        "name": "M. MONTESCLAROS ENTERPRISES, INC. (6506)",
+        "pcabId": "6506",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "AKN CONSTRUCTION CORPORATION (11845)",
+        "pcabId": "11845",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "B. VICENCIO BUILDERS (BVB), INC. (FORMERLY:B. VICENCIO CONSTRUCTION) (9687)",
+        "pcabId": "9687",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "DAVAO CONCRETE PRODUCTS CONSTRUCTION AND TRADING CORPORATION (FORMERLY: DAVAO CONCRETE PRODUCTS) (12090)",
+        "pcabId": "12090",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "E.P. MANANTAN CONSTRUCTION & DEVELOPMENT CORP. (6457)",
+        "pcabId": "6457",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "FFJJ CONSTRUCTION (16712)",
+        "pcabId": "16712",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "ITP CONSTRUCTION, INC. (9392)",
+        "pcabId": "9392",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "JT GAMOLO CONSTRUCTION, INCORPORATION (FORMERLY:J.T. GAMOLO CONSTRUCTION) (15759)",
+        "pcabId": "15759",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "LEGACY CONSTRUCTION CORPORATION (FORMERLY: LEGACY CONSTRUCTION) (22465)",
+        "pcabId": "22465",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "RHODWILL PARTS & HARDWARE AND CONSTRUCTION SERVICE (18871)",
+        "pcabId": "18871",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "RRN CONSTRUCTION & DEV'T. CORP. (FORMERLY: RRN CONSTRUCTION) (20228)",
+        "pcabId": "20228",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "TEDDIE CONSTRUCTION DEVELOPMENT, INC. (6313)",
+        "pcabId": "6313",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "THREE W BUILDERS, INC. (10722)",
+        "pcabId": "10722",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "TKS BUILDERS & SUPPLIES (23415)",
+        "pcabId": "23415",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "UKC BUILDERS, INC. (10759)",
+        "pcabId": "10759",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "ROAD WIDENING ALONG SAYRE HIGHWAY, K1544+000-K1545+335, MUSUAN, MARAMAG, BUKIDNON",
+      "abc": "53461000.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2019-12-05 00:00:00.0000000",
+      "bidSubmissionDeadline": "2019-12-27 00:00:00.0000000",
+      "dateOfAward": "2020-11-27 00:00:00.0000000",
+      "awardAmount": "50866057.88"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/20KB0064.rar",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/20kb0064_contract.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/20kb0064 noa.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/20kb0064_ntp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 7.8534444,
+    "longitude": 125.0497889,
+    "coordinates": [
+      {
+        "componentId": "P00400229MN-CW1",
+        "description": "Road Widening - Sayre Highway - K1544 + 000 - K1545 + 335",
+        "latitude": 7.8534444,
+        "longitude": 125.0497889,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00400229MN-CW2",
+        "description": "Off-Carriageway Improvement: Construction of Median/Center Island - Sayre Highway - K1544 + 000 - K1545 + 335",
+        "latitude": 7.8476278,
+        "longitude": 125.0470889,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 6,
+      "latestImageDate": "2021-09-29 07:32:17.161999",
+      "hasImages": true
+    }
+  }
+}

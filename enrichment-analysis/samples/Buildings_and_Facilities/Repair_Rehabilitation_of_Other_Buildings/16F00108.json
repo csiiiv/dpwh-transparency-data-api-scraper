@@ -1,0 +1,127 @@
+{
+  "data": {
+    "contractId": "16F00108",
+    "description": "PROPOSED EXTENSION/RENOVATION OF PENRO-ALBAY OFFICE BUILDING, BRGY. LAPU-LAPU, LEGAZPI CITY",
+    "category": "Buildings and Facilities",
+    "status": "Completed",
+    "budget": 9068808.71,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region V",
+      "province": "Region V",
+      "infraType": "Buildings and Facilities",
+      "coordinates": {
+        "latitude": 13.146198,
+        "longitude": 123.753404,
+        "verified": false
+      }
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "BLACKRAM BUILDERS, INC. (33899)",
+    "startDate": "2017-03-10",
+    "completionDate": "2017-11-11",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2017-03-17",
+    "expiryDate": "2017-11-11",
+    "nysReason": null,
+    "programName": "Outside Infra",
+    "sourceOfFunds": "Outside Infra - Trust Funds 2016",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00099024LZ-CW1",
+        "description": "Repair/Rehabilitation of Other Buildings - Repair/Rehabilitation of PENRO-Albay Office Building, Brgy. Lapu-lapu, Legazpi City",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Repair/Rehabilitation of Other Buildings",
+        "region": "Region V",
+        "province": "ALBAY",
+        "coordinates": {
+          "latitude": 13.146198,
+          "longitude": 123.753404,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "BLACKRAM BUILDERS, INC.",
+    "bidders": [
+      {
+        "name": "BLACKRAM BUILDERS, INC. (33899)",
+        "pcabId": "33899",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "ALXM CONSTRUCTION & DEV'T. CORP. (FORMERLY:ALXM CONSTRUCTION) (33436)",
+        "pcabId": "33436",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "GRELIPS CONSTRUCTION & DEVELOPMENT (34236)",
+        "pcabId": "34236",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "HONEYVILLECONST AND DEVELOPMENT CORPORATION (32160)",
+        "pcabId": "32160",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "QDC CONSTRUCTION AND SUPPLY (34259)",
+        "pcabId": "34259",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "ROLCO CONSTRUCTION & DEVELOPMENT CORPORATION ( FOR (29686)",
+        "pcabId": "29686",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "PROPOSED EXTENSION/RENOVATION OF PENRO-ALBAY OFFICE BUILDING, BRGY. LAPU-LAPU, LEGAZPI CITY",
+      "abc": "9359871.73",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-12-23 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-01-17 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "9,068,808.71"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/Plans2 16F00108.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/Contract 16F00108.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/NOA 16F00108.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/Contract 16F00108.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 13.146198,
+    "longitude": 123.753404,
+    "coordinates": [
+      {
+        "componentId": "P00099024LZ-CW1",
+        "description": "Repair/Rehabilitation of Other Buildings - Repair/Rehabilitation of PENRO-Albay Office Building, Brgy. Lapu-lapu, Legazpi City",
+        "latitude": 13.146198,
+        "longitude": 123.753404,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

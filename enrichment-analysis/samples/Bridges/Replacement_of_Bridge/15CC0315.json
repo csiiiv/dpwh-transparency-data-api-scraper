@@ -1,0 +1,115 @@
+{
+  "data": {
+    "contractId": "15CC0315",
+    "description": "REPLACEMENT OF PERMANENT WEAK BRIDGES CUCTCUT BRIDGE (B02101LZ) ALONG PULILAN-CALUMPIT ROAD PULILAN, BULACAN",
+    "category": "Bridges",
+    "status": "Completed",
+    "budget": 19536631.45,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region III",
+      "province": "Bulacan 1st DEO",
+      "infraType": "Bridges",
+      "coordinates": {
+        "latitude": 14.8992727373188,
+        "longitude": 120.865104486748,
+        "verified": false
+      }
+    },
+    "infraType": "Bridges",
+    "contractor": "L.M.G. CONSTRUCTION INCORPORATED (FORMERLY: LMG CONSTRUCTION) (5719)",
+    "startDate": "2016-03-17",
+    "completionDate": "2016-09-02",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-03-17",
+    "expiryDate": "2016-09-02",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00001907LZ-CW1",
+        "description": "Replacement of Bridge - Cut-Cut Br. (B02101LZ) along Pulilan-Calumpit Rd",
+        "infraType": "Bridges",
+        "typeOfWork": "Replacement of Bridge",
+        "region": "Region III",
+        "province": "BULACAN",
+        "coordinates": {
+          "latitude": 14.8992727373188,
+          "longitude": 120.865104486748,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "L.M.G. CONSTRUCTION INCORPORATED (FORMERLY: LMG CONSTRUCTION)",
+    "bidders": [
+      {
+        "name": "L.M.G. CONSTRUCTION INCORPORATED (FORMERLY: LMG CONSTRUCTION) (5719)",
+        "pcabId": "5719",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "J.S. GENERAL CONTRACTOR (15258)",
+        "pcabId": "15258",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "ORANI CONSTRUCTION AND SUPPLY CORPORATION (FORMERLY:ORANI BUILDERS & SUPPLY) (05349)",
+        "pcabId": "05349",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "PRECIOUS CONSTRUCTION (32995)",
+        "pcabId": "32995",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "REPLACEMENT OF PERMANENT WEAK BRIDGES CUCTCUT BRIDGE (B02101LZ) ALONG PULILAN-CALUMPIT ROAD PULILAN, BULACAN",
+      "abc": "20590937.15",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-12-30 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-02-16 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "19536631.4500000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/september/cwa15cc0315.doc",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/march/6015cc0315.doc",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/ntp/16/april/6815cc0315.doc",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 14.8992727373188,
+    "longitude": 120.865104486748,
+    "coordinates": [
+      {
+        "componentId": "P00001907LZ-CW1",
+        "description": "Replacement of Bridge - Cut-Cut Br. (B02101LZ) along Pulilan-Calumpit Rd",
+        "latitude": 14.8992727373188,
+        "longitude": 120.865104486748,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "data": {
+    "contractId": "18N00034",
+    "description": "WIDENING OF PERMANT BRIDGES, TANDAG BR. (B00695MN) ALONG SURIGAO - DAVAO COASTAL RD INCL. ROW (PHASE II), TANDAG SURIGAO DEL SUR",
+    "category": "Bridges",
+    "status": "Completed",
+    "budget": 93869590.82,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region XIII",
+      "province": "Region XIII",
+      "infraType": "Bridges",
+      "coordinates": {
+        "latitude": 9.0771219,
+        "longitude": 126.1931301,
+        "verified": false
+      }
+    },
+    "infraType": "Bridges",
+    "contractor": "J.M. LUCIANO CONSTRUCTION,  INC. (2083)",
+    "startDate": "2018-03-27",
+    "completionDate": "2019-02-15",
+    "infraYear": "2018",
+    "contractEffectivityDate": "2018-03-27",
+    "expiryDate": "2019-05-05",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2018 OO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00201290MN-CW1",
+        "description": "Construction of Substructure - Tandag Br. (B00695MN) along Surigao-Davao Coastal Rd incl. ROW (Phase II)",
+        "infraType": "Bridges",
+        "typeOfWork": "Construction of Substructure",
+        "region": "Region XIII",
+        "province": "SURIGAO DEL SUR",
+        "coordinates": {
+          "latitude": 9.0771219,
+          "longitude": 126.1931301,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "J.M. LUCIANO CONSTRUCTION,  INC.",
+    "bidders": [
+      {
+        "name": "J.M. LUCIANO CONSTRUCTION,  INC. (2083)",
+        "pcabId": "2083",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "ADFIL CORPORATION (14437)",
+        "pcabId": "14437",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "B. VICENCIO BUILDERS (BVB), INC. (FORMERLY:B. VICENCIO CONSTRUCTION) (9687)",
+        "pcabId": "9687",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "EQUI-PARCO CONSTRUCTION COMPANY (14332)",
+        "pcabId": "14332",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "MAC BUILDERS CORP. (FORMERLY: MAC BUILDERS DEVELOPMENT CORPORATION) (7249)",
+        "pcabId": "7249",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "MONOLITHIC CONSTRUCTION & CONCRETE PRODUCTS, INC. (5733)",
+        "pcabId": "5733",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "PREMIUM MEGASTRUCTURES INC. (36079)",
+        "pcabId": "36079",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "WIDENING OF PERMANT BRIDGES, TANDAG BR. (B00695MN) ALONG SURIGAO - DAVAO COASTAL RD INCL. ROW (PHASE II), TANDAG SURIGAO DEL SUR",
+      "abc": "93870000.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2017-11-24 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-12-18 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "89587539.61"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/ITB 18N00024 - 36.pdf",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/contract_18n00034.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/noa_18n00034.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/ntp_18n00034.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 9.0771219,
+    "longitude": 126.1931301,
+    "coordinates": [
+      {
+        "componentId": "P00201290MN-CW1",
+        "description": "Construction of Substructure - Tandag Br. (B00695MN) along Surigao-Davao Coastal Rd incl. ROW (Phase II)",
+        "latitude": 9.0771219,
+        "longitude": 126.1931301,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

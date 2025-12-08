@@ -1,0 +1,97 @@
+{
+  "data": {
+    "contractId": "15CA0089",
+    "description": "CONSTRUCTION/IMPROVEMENT OF COLO RIVER (MAGSAYSAY SECTION),  DINALUPIHAN , BATAAN",
+    "category": "Water Provision and Storage",
+    "status": "Completed",
+    "budget": 1901200,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region III",
+      "province": "Bataan 1st DEO",
+      "infraType": "Water Provision and Storage",
+      "coordinates": null
+    },
+    "infraType": "Water Provision and Storage",
+    "contractor": "PASCAL CONSTRUCTION (34168)",
+    "startDate": "2016-02-11",
+    "completionDate": "2016-05-07",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-02-11",
+    "expiryDate": "2016-05-10",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 Locally Funded Projects",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00047311LZ-CW1",
+        "description": "Construction of Water Supply Systems - Construction of Water System (Construction of Elevated Steel Water Tank), Barangay Mambog, Hermosa, Bataan 1st LD",
+        "infraType": "Water Provision and Storage",
+        "typeOfWork": "Construction of Water Supply Systems",
+        "region": "Region III",
+        "province": "BATAAN",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "PASCAL CONSTRUCTION",
+    "bidders": [
+      {
+        "name": "PASCAL CONSTRUCTION (34168)",
+        "pcabId": "34168",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "DE JESUS CONSTRUCTION (11452)",
+        "pcabId": "11452",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "ORANI CONSTRUCTION AND SUPPLY CORPORATION (FORMERLY:ORANI BUILDERS & SUPPLY) (05349)",
+        "pcabId": "05349",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "ORANI CONSTRUCTION AND SUPPLY CORPORATION (FORMERLY:ORANI BUILDERS & SUPPLY) (5349)",
+        "pcabId": "5349",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION/IMPROVEMENT OF COLO RIVER (MAGSAYSAY SECTION),  DINALUPIHAN , BATAAN",
+      "abc": "1960000.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-11-26 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-12-17 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "1901200.0000000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/april/img425.jpg",
+      "noticeToProceed": "",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "15AF0149",
+    "description": "RETOFITTING/STRENGTHENING OF MAOASOAS BRIDGE (B00832LZ), ROSARIO-PUGO ROAD, KO222+358",
+    "category": "Bridges",
+    "status": "Completed",
+    "budget": 7029086.32,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region I",
+      "province": "La Union 2nd DEO",
+      "infraType": "Bridges",
+      "coordinates": {
+        "latitude": 16.2774117692168,
+        "longitude": 120.489735682231,
+        "verified": false
+      }
+    },
+    "infraType": "Bridges",
+    "contractor": "AQUINO-DELA CRUZ ENGINEERING & CONSTRUCTION (16751)",
+    "startDate": "2016-03-23",
+    "completionDate": "2016-06-26",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-03-23",
+    "expiryDate": "2016-06-20",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00001806LZ-CW1",
+        "description": "Retrofitting / Strengthening of Bridge - Maoasoas Br. (B00832LZ) along Rosario-Pugo Rd",
+        "infraType": "Bridges",
+        "typeOfWork": "Retrofitting / Strengthening of Bridge",
+        "region": "Region I",
+        "province": "LA UNION",
+        "coordinates": {
+          "latitude": 16.2774117692168,
+          "longitude": 120.489735682231,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "AQUINO-DELA CRUZ ENGINEERING & CONSTRUCTION",
+    "bidders": [
+      {
+        "name": "AQUINO-DELA CRUZ ENGINEERING & CONSTRUCTION (16751)",
+        "pcabId": "16751",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "LEGACY CONSTRUCTION CORPORATION (FORMERLY: LEGACY CONSTRUCTION) (22465)",
+        "pcabId": "22465",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "RETOFITTING/STRENGTHENING OF MAOASOAS BRIDGE (B00832LZ), ROSARIO-PUGO ROAD, KO222+358",
+      "abc": "7121693.92",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-02-25 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-03-15 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "7029086.3200000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/15af0149_cont.pdf",
+      "noticeOfAward": "",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/15af0149_ntp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 16.2774117692168,
+    "longitude": 120.489735682231,
+    "coordinates": [
+      {
+        "componentId": "P00001806LZ-CW1",
+        "description": "Retrofitting / Strengthening of Bridge - Maoasoas Br. (B00832LZ) along Rosario-Pugo Rd",
+        "latitude": 16.2774117692168,
+        "longitude": 120.489735682231,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

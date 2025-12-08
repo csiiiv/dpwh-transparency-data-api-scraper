@@ -1,0 +1,97 @@
+{
+  "data": {
+    "contractId": "17BF0194",
+    "description": "EXPANSION OF QUIRINO RURAL HEALTH UNIT, QUIRINO, ISABELA",
+    "category": "Buildings and Facilities",
+    "status": "Completed",
+    "budget": 2361701.25,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region II",
+      "province": "Isabela 2nd DEO",
+      "infraType": "Buildings and Facilities",
+      "coordinates": {
+        "latitude": 17.1299,
+        "longitude": 121.7192,
+        "verified": false
+      }
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "L.C. TALON CONSTRUCTION (19644)",
+    "startDate": "2018-12-10",
+    "completionDate": "2019-05-15",
+    "infraYear": "2017",
+    "contractEffectivityDate": "2018-12-10",
+    "expiryDate": "2019-04-08",
+    "nysReason": null,
+    "programName": "Outside Infra",
+    "sourceOfFunds": "Outside Infra - GAA 2017 DOH HFEP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00199039LZ-CW1",
+        "description": "Construction of Rural Health Unit - Expansion of Quirino Rural Health Unit, Quirino, Isabela",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of Rural Health Unit",
+        "region": "Region II",
+        "province": "ISABELA",
+        "coordinates": {
+          "latitude": 17.1299,
+          "longitude": 121.7192,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "L.C. TALON CONSTRUCTION",
+    "bidders": [
+      {
+        "name": "L.C. TALON CONSTRUCTION (19644)",
+        "pcabId": "19644",
+        "participation": 100,
+        "isWinner": true
+      }
+    ],
+    "procurement": {
+      "contractName": "EXPANSION OF QUIRINO RURAL HEALTH UNIT, QUIRINO, ISABELA",
+      "abc": "2487500.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2018-07-12 00:00:00.0000000",
+      "bidSubmissionDeadline": "2018-07-31 00:00:00.0000000",
+      "dateOfAward": "2018-08-23 00:00:00.0000000",
+      "awardAmount": "2361701.25"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/18BF0083-0094, 17BF0194.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/17BF0194-CONTRACT.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/17BF0194-NOA.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/17BF0194-CONTRACT.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 17.1299,
+    "longitude": 121.7192,
+    "coordinates": [
+      {
+        "componentId": "P00199039LZ-CW1",
+        "description": "Construction of Rural Health Unit - Expansion of Quirino Rural Health Unit, Quirino, Isabela",
+        "latitude": 17.1299,
+        "longitude": 121.7192,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

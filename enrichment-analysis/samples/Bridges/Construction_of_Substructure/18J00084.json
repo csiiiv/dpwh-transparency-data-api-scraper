@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "18J00084",
+    "description": "CONST./REPAIR/REHAB./IMPROVEMENT OF VARIOUS INFRASTRUCTURE INCLUDING LOCAL PROJECTS-LOCAL ROADS AND BRIDGES-LOCAL BRIDGES CONSTRUCTION OF BRIDGE, BARANGAY EL PARAISO, LILOY, ZAMBOANGA DEL NORTE",
+    "category": "Bridges",
+    "status": "On-Going",
+    "budget": 94514313.22,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region IX",
+      "province": "Region IX",
+      "infraType": "Bridges",
+      "coordinates": {
+        "latitude": 8.0294402,
+        "longitude": 122.6381756,
+        "verified": false
+      }
+    },
+    "infraType": "Bridges",
+    "contractor": "VICENTE T. LAO CONSTRUCTION (7040)",
+    "startDate": "2018-07-26",
+    "completionDate": null,
+    "infraYear": "2018",
+    "contractEffectivityDate": "2018-07-26",
+    "expiryDate": "2019-08-27",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2018 LP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00258926MN-CW1",
+        "description": "Construction of Substructure - Construction of Bridge, Barangay El Paraiso, Liloy, Zamboanga del Norte",
+        "infraType": "Bridges",
+        "typeOfWork": "Construction of Substructure",
+        "region": "Region IX",
+        "province": "ZAMBOANGA DEL NORTE",
+        "coordinates": {
+          "latitude": 8.0294402,
+          "longitude": 122.6381756,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "VICENTE T. LAO CONSTRUCTION",
+    "bidders": [
+      {
+        "name": "VICENTE T. LAO CONSTRUCTION (7040)",
+        "pcabId": "7040",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "P.L. SEBASTIAN CONSTRUCTION, INC. (FORMERLY: P.L. SEBASTIAN CONSTRUCTION) (35840)",
+        "pcabId": "35840",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONST./REPAIR/REHAB./IMPROVEMENT OF VARIOUS INFRASTRUCTURE INCLUDING LOCAL PROJECTS-LOCAL ROADS AND BRIDGES-LOCAL BRIDGES CONSTRUCTION OF BRIDGE, BARANGAY EL PARAISO, LILOY, ZAMBOANGA DEL NORTE",
+      "abc": "97432566.26",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2018-03-15 00:00:00.0000000",
+      "bidSubmissionDeadline": "2018-07-10 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "94,514,313.22"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/Bidding Documents with Plans 18J00084.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/Contract Agreement 18J00084.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/NOA 18J00084.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/Contract Agreement 18J00084.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 8.0294402,
+    "longitude": 122.6381756,
+    "coordinates": [
+      {
+        "componentId": "P00258926MN-CW1",
+        "description": "Construction of Substructure - Construction of Bridge, Barangay El Paraiso, Liloy, Zamboanga del Norte",
+        "latitude": 8.0294402,
+        "longitude": 122.6381756,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

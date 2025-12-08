@@ -1,0 +1,109 @@
+{
+  "data": {
+    "contractId": "20DC0226",
+    "description": "REHABILITATION OF ROAD WITH SLOPE PROTECTION ALONG TALISAY-LAUREL-AGONCILLO UNCLASSIFIED ROAD",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 9508145,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region IV-A",
+      "province": "Batangas 3rd DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 13.9724936,
+        "longitude": 120.9469781,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "V.R. PATRON BUILDERS & DEVELOPERS CORP. (PREVIOUSL (13487)",
+    "startDate": "2020-11-24",
+    "completionDate": "2021-02-21",
+    "infraYear": "2020",
+    "contractEffectivityDate": "2020-11-24",
+    "expiryDate": "2021-02-21",
+    "nysReason": null,
+    "programName": "Outside Infra",
+    "sourceOfFunds": "Outside Infra - GAA 2020 NDRRMF",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00495010LZ-CW1",
+        "description": "Reconstruction: Raising of Grade - Rehabilitation of Road with Slope Protection along Talisay - Laurel - Agoncillo 'Unclassified Road'",
+        "infraType": "Roads",
+        "typeOfWork": "Reconstruction: Raising of Grade",
+        "region": "Region IV-A",
+        "province": "BATANGAS",
+        "coordinates": {
+          "latitude": 13.9724936,
+          "longitude": 120.9469781,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "V.R. PATRON BUILDERS & DEVELOPERS CORP. (PREVIOUSL",
+    "bidders": [
+      {
+        "name": "V.R. PATRON BUILDERS & DEVELOPERS CORP. (PREVIOUSL (13487)",
+        "pcabId": "13487",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "JERIS CONSTRUCTION AND SUPPLY (39123)",
+        "pcabId": "39123",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "OIC CONZTRUCT AND SUPPLY CORPORATION(FORMERLY:OIC CONST.) (23727)",
+        "pcabId": "23727",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "REHABILITATION OF ROAD WITH SLOPE PROTECTION ALONG TALISAY-LAUREL-AGONCILLO \"UNCLASSIFIED ROAD\"",
+      "abc": "9650000.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2020-10-16 00:00:00.0000000",
+      "bidSubmissionDeadline": "2020-11-05 00:00:00.0000000",
+      "dateOfAward": "2020-11-16 00:00:00.0000000",
+      "awardAmount": "9508145"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/BOQ_20DC0226.pdf",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/contract_20DC0226.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/award_20DC0226.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/contract_20DC0226.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 13.9724936,
+    "longitude": 120.9469781,
+    "coordinates": [
+      {
+        "componentId": "P00495010LZ-CW1",
+        "description": "Reconstruction: Raising of Grade - Rehabilitation of Road with Slope Protection along Talisay - Laurel - Agoncillo 'Unclassified Road'",
+        "latitude": 13.9724936,
+        "longitude": 120.9469781,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 3,
+      "latestImageDate": "2023-01-03 03:24:53.484999",
+      "hasImages": true
+    }
+  }
+}

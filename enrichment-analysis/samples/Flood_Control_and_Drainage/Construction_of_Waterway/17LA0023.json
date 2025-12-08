@@ -1,0 +1,131 @@
+{
+  "data": {
+    "contractId": "17LA0023",
+    "description": "CONSTRUCTION OF FLOOD MITIGATION FACILITIES ALONG AGUSAN RIVER, BRGY. NABOC, MONKAYO, COMPOSTELA VALLEY PROVINCE",
+    "category": "Flood Control and Drainage",
+    "status": "Completed",
+    "budget": 46879262.44,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region XI",
+      "province": "Davao de Oro 1st DEO",
+      "infraType": "Flood Control and Drainage",
+      "coordinates": {
+        "latitude": 7.754678,
+        "longitude": 126.103297,
+        "verified": false
+      }
+    },
+    "infraType": "Flood Control and Drainage",
+    "contractor": "AB APONESTO CONSTRUCTION PARTS AND SUPPLY, INC. (22998)",
+    "startDate": "2017-03-20",
+    "completionDate": "2018-02-17",
+    "infraYear": "2017",
+    "contractEffectivityDate": "2017-03-20",
+    "expiryDate": "2017-12-04",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2017 MFO-2",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00121710MN-CW1",
+        "description": "Construction of Waterway - Construction of Flood Mitigation Facilities along Agusan River, Sta. 0+180 - Sta. 0+740, Sta. 1+574 - Sta. 1+961, Sta. 0+200 - Sta. 0+588.06, Brgy. Naboc, Monkayo, Compostela Valley",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Construction of Waterway",
+        "region": "Region XI",
+        "province": "DAVAO DE ORO",
+        "coordinates": {
+          "latitude": 7.754678,
+          "longitude": 126.103297,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00121710MN-CW2",
+        "description": "Construction of Revetment - Construction of Flood Mitigation Facilities along Agusan River, Sta. 0+180 - Sta. 0+740, Sta. 1+574 - Sta. 1+961, Sta. 0+200 - Sta. 0+588.06, Brgy. Naboc, Monkayo, Compostela Valley",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Construction of Revetment",
+        "region": "Region XI",
+        "province": "DAVAO DE ORO",
+        "coordinates": {
+          "latitude": 7.754678,
+          "longitude": 126.103297,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "AB APONESTO CONSTRUCTION PARTS AND SUPPLY, INC.",
+    "bidders": [
+      {
+        "name": "AB APONESTO CONSTRUCTION PARTS AND SUPPLY, INC. (22998)",
+        "pcabId": "22998",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "FFJJ CONSTRUCTION (16712)",
+        "pcabId": "16712",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "LEGACY CONSTRUCTION CORPORATION (FORMERLY: LEGACY CONSTRUCTION) (22465)",
+        "pcabId": "22465",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION OF FLOOD MITIGATION FACILITIES ALONG AGUSAN RIVER, BRGY. NABOC, MONKAYO, COMPOSTELA VALLEY PROVINCE",
+      "abc": "46878935.76",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-11-29 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-12-20 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "45,464,190.32"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/CONTRACT AGREEMENT.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/NOA.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/CONTRACT AGREEMENT.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 7.754678,
+    "longitude": 126.103297,
+    "coordinates": [
+      {
+        "componentId": "P00121710MN-CW1",
+        "description": "Construction of Waterway - Construction of Flood Mitigation Facilities along Agusan River, Sta. 0+180 - Sta. 0+740, Sta. 1+574 - Sta. 1+961, Sta. 0+200 - Sta. 0+588.06, Brgy. Naboc, Monkayo, Compostela Valley",
+        "latitude": 7.754678,
+        "longitude": 126.103297,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00121710MN-CW2",
+        "description": "Construction of Revetment - Construction of Flood Mitigation Facilities along Agusan River, Sta. 0+180 - Sta. 0+740, Sta. 1+574 - Sta. 1+961, Sta. 0+200 - Sta. 0+588.06, Brgy. Naboc, Monkayo, Compostela Valley",
+        "latitude": 7.754678,
+        "longitude": 126.103297,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

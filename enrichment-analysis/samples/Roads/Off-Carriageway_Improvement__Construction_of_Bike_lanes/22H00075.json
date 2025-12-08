@@ -1,0 +1,203 @@
+{
+  "data": {
+    "contractId": "22H00075",
+    "description": "CSSP-SUSTAINABLE INFRASTRUCTURE PROJECTS ALLEVIATING GAPS (SIPAG)-ACCESS ROADS AND/OR BRIDGES FROM THE NATIONAL ROAD/S LEADING TO MAJOR/STRATEGIC PUBLIC BUILDINGS/FACILITIES-RETROFITTING OF JACINTO BORJA 1 BRIDGE, (B00001BH), TAGBILARAN CITY, BOHOL",
+    "category": "Bridges, Multi Purpose Buildings, Roads",
+    "status": "On-Going",
+    "budget": 96499948.13,
+    "amountPaid": 0,
+    "progress": 50.98,
+    "location": {
+      "region": "Region VII",
+      "province": "Region VII",
+      "infraType": "Bridges",
+      "coordinates": {
+        "latitude": 9.6267633,
+        "longitude": 123.8714,
+        "verified": false
+      }
+    },
+    "infraType": "Bridges",
+    "contractor": "CEBU 7H TECHNOCHEM INDUSTRIES, INC. (31578) / INFRAHUB CONSTRUCTION AND DEVELOPMENT CORP. (FORMERLY: OSCAR R. SARMIENTO CONSTRUCTION, INC.) (1411)",
+    "startDate": "2023-06-23",
+    "completionDate": null,
+    "infraYear": "2022",
+    "contractEffectivityDate": "2023-06-23",
+    "expiryDate": "2024-02-05",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2022 CSSP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00632910VS-CW1",
+        "description": "Retrofitting / Strengthening of Bridge - Retrofitting of Jacinto Borja 1 Bridge, (B00001BH) Tagbilaran City, Bohol",
+        "infraType": "Bridges",
+        "typeOfWork": "Retrofitting / Strengthening of Bridge",
+        "region": "Region VII",
+        "province": "BOHOL",
+        "coordinates": {
+          "latitude": 9.6267633,
+          "longitude": 123.8714,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00632910VS-CW2",
+        "description": "Preventive Maintenance of Road: Asphalt Overlay - Retrofitting of Jacinto Borja 1 Bridge, (B00001BH) Tagbilaran City, Bohol",
+        "infraType": "Roads",
+        "typeOfWork": "Preventive Maintenance of Road: Asphalt Overlay",
+        "region": "Region VII",
+        "province": "BOHOL",
+        "coordinates": {
+          "latitude": 9.6301818,
+          "longitude": 123.8729868,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00632910VS-CW3",
+        "description": "Off-Carriageway Improvement: Construction of Bike lanes - Retrofitting of Jacinto Borja 1 Bridge, (B00001BH) Tagbilaran City, Bohol",
+        "infraType": "Roads",
+        "typeOfWork": "Off-Carriageway Improvement: Construction of Bike lanes",
+        "region": "Region VII",
+        "province": "BOHOL",
+        "coordinates": {
+          "latitude": 9.6298433,
+          "longitude": 123.8727083,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00632910VS-CW4",
+        "description": "Construction of Other Facilities - Retrofitting of Jacinto Borja 1 Bridge, (B00001BH) Tagbilaran City, Bohol",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of Other Facilities",
+        "region": "Region VII",
+        "province": "BOHOL",
+        "coordinates": {
+          "latitude": 9.62995,
+          "longitude": 123.87266,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00632910VS-CW5",
+        "description": "Road Safety: Street Lighting - Retrofitting of Jacinto Borja 1 Bridge, (B00001BH) Tagbilaran City, Bohol",
+        "infraType": "Roads",
+        "typeOfWork": "Road Safety: Street Lighting",
+        "region": "Region VII",
+        "province": "BOHOL",
+        "coordinates": {
+          "latitude": 9.6267639,
+          "longitude": 123.8713528,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "CEBU 7H TECHNOCHEM INDUSTRIES, INC., INFRAHUB CONSTRUCTION AND DEVELOPMENT CORP. (FORMERLY: OSCAR R. SARMIENTO CONSTRUCTION, INC.)",
+    "bidders": [
+      {
+        "name": "CEBU 7H TECHNOCHEM INDUSTRIES, INC. (31578) / INFRAHUB CONSTRUCTION AND DEVELOPMENT CORP. (FORMERLY: OSCAR R. SARMIENTO CONSTRUCTION, INC.) (1411) (JV ID: JV-23-10894)",
+        "pcabId": "",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "D.V. SALUD CONSTRUCTION (6564)",
+        "pcabId": "6564",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "P.B. OBIAL CONSTRUCTION (16784)",
+        "pcabId": "16784",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "R.A. PAHATI CONST. & SUPPLY, INC. (35843)",
+        "pcabId": "35843",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CSSP-SUSTAINABLE INFRASTRUCTURE PROJECTS ALLEVIATING GAPS (SIPAG)-ACCESS ROADS AND/OR BRIDGES FROM THE NATIONAL ROAD/S LEADING TO MAJOR/STRATEGIC PUBLIC BUILDINGS/FACILITIES-RETROFITTING OF JACINTO BORJA 1 BRIDGE, (B00001BH), TAGBILARAN CITY, BOHOL",
+      "abc": "96500000.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2023-04-04 00:00:00.0000000",
+      "bidSubmissionDeadline": "2023-05-10 00:00:00.0000000",
+      "dateOfAward": "2023-05-29 00:00:00.0000000",
+      "awardAmount": "96430368.69"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/23h00075.pdf",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/ca_22h00075_-_06-23-23.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/noa_22h00075_-_06-02-23.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/ca_22h00075_-_06-23-23.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 9.6267633,
+    "longitude": 123.8714,
+    "coordinates": [
+      {
+        "componentId": "P00632910VS-CW1",
+        "description": "Retrofitting / Strengthening of Bridge - Retrofitting of Jacinto Borja 1 Bridge, (B00001BH) Tagbilaran City, Bohol",
+        "latitude": 9.6267633,
+        "longitude": 123.8714,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00632910VS-CW2",
+        "description": "Preventive Maintenance of Road: Asphalt Overlay - Retrofitting of Jacinto Borja 1 Bridge, (B00001BH) Tagbilaran City, Bohol",
+        "latitude": 9.6301818,
+        "longitude": 123.8729868,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00632910VS-CW3",
+        "description": "Off-Carriageway Improvement: Construction of Bike lanes - Retrofitting of Jacinto Borja 1 Bridge, (B00001BH) Tagbilaran City, Bohol",
+        "latitude": 9.6298433,
+        "longitude": 123.8727083,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00632910VS-CW4",
+        "description": "Construction of Other Facilities - Retrofitting of Jacinto Borja 1 Bridge, (B00001BH) Tagbilaran City, Bohol",
+        "latitude": 9.62995,
+        "longitude": 123.87266,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00632910VS-CW5",
+        "description": "Road Safety: Street Lighting - Retrofitting of Jacinto Borja 1 Bridge, (B00001BH) Tagbilaran City, Bohol",
+        "latitude": 9.6267639,
+        "longitude": 123.8713528,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 12,
+      "latestImageDate": "2023-12-31 02:01:57.676000",
+      "hasImages": true
+    }
+  }
+}

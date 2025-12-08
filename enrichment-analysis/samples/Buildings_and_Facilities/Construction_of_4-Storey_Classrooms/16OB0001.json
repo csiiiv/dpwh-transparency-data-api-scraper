@@ -1,0 +1,91 @@
+{
+  "data": {
+    "contractId": "16OB0001",
+    "description": "CONSTRUCTION OF FOUR (4) STOREY, TWENTY FOUR (24) CLASSROOM, SCHOOL BUILDING, SALAPAN ELEMENTARY SCHOOL, SAN JUAN CITY",
+    "category": "Buildings and Facilities",
+    "status": "Completed",
+    "budget": 44721362.3,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "National Capital Region",
+      "province": "Metro Manila 1st DEO",
+      "infraType": "Buildings and Facilities",
+      "coordinates": null
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "PRISMODIAL CONSTRUCTION AND DEVELOPMENT CORPORATION (28345)",
+    "startDate": "2016-03-23",
+    "completionDate": "2016-12-17",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-03-23",
+    "expiryDate": "2016-12-17",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 Locally Funded Projects",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00040017LZ-CW1",
+        "description": "Construction of 4-Storey Classrooms - Construction of Four (4) Storey Twenty Four (24) Classroom School Building, Salapan Elementary School, San Juan City",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of 4-Storey Classrooms",
+        "region": "National Capital Region",
+        "province": "METROPOLITAN MANILA",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "PRISMODIAL CONSTRUCTION AND DEVELOPMENT CORPORATION",
+    "bidders": [
+      {
+        "name": "PRISMODIAL CONSTRUCTION AND DEVELOPMENT CORPORATION (28345)",
+        "pcabId": "28345",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "R.D. TALENS CONSTRUCTION AND TRADING (36817)",
+        "pcabId": "36817",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "STO. CRISTO CONSTRUCTION & TRADING INC. (FOR: STO. CRISTO CONSTRUCTION & TRADING) (26096)",
+        "pcabId": "26096",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION OF FOUR (4) STOREY, TWENTY FOUR (24) CLASSROOM, SCHOOL BUILDING, SALAPAN ELEMENTARY SCHOOL, SAN JUAN CITY",
+      "abc": "46319981.93",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-01-15 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-03-22 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "44,721,362.30"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "",
+      "noticeOfAward": "",
+      "noticeToProceed": "",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

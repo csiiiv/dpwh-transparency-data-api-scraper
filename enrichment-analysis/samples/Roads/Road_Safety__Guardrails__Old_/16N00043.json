@@ -1,0 +1,97 @@
+{
+  "data": {
+    "contractId": "16N00043",
+    "description": "COMPLETION OF THE EAST- WEST LATERAL ROAD CONNECTING AGUSAN DEL SUR/ AGUSAN DEL NORTE TO BUKIDNON SAN MIGUIEL PROPER (SURIGAO DEL SUR)- CALAITAN (BAYUGAN), MAHAYAG- SAGBAYAN SECTION, SAN MIGUEL, SURIGAO DEL SUR",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 4999510.1,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region XIII",
+      "province": "Region XIII",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 8.935277778,
+        "longitude": 125.9791667,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "J.M. LUCIANO CONSTRUCTION,  INC. (2083)",
+    "startDate": "2017-12-05",
+    "completionDate": "2018-01-03",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2017-12-05",
+    "expiryDate": "2018-01-03",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00000001MN-CW1",
+        "description": "Road Safety: Guardrails (Old) - Completion of the East-West lateral road connecting Agusan Del Sur/Agusan del Norte to Bukidnon San Miguel Proper (Surigao del Sur) - Calaitan (Bayugan), Mahayag - Sagbayan Section, Region XIII",
+        "infraType": "Roads",
+        "typeOfWork": "Road Safety: Guardrails (Old)",
+        "region": "Region XIII",
+        "province": "SURIGAO DEL SUR",
+        "coordinates": {
+          "latitude": 8.935277778,
+          "longitude": 125.9791667,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "J.M. LUCIANO CONSTRUCTION,  INC.",
+    "bidders": [
+      {
+        "name": "J.M. LUCIANO CONSTRUCTION,  INC. (2083)",
+        "pcabId": "2083",
+        "participation": 100,
+        "isWinner": true
+      }
+    ],
+    "procurement": {
+      "contractName": "COMPLETION OF THE EAST- WEST LATERAL ROAD CONNECTING AGUSAN DEL SUR/ AGUSAN DEL NORTE TO BUKIDNON SAN MIGUIEL PROPER (SURIGAO DEL SUR)- CALAITAN (BAYUGAN), MAHAYAG- SAGBAYAN SECTION, SAN MIGUEL, SURIGAO DEL SUR",
+      "abc": "4999515.86",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "1900-01-01 00:00:00.0000000",
+      "bidSubmissionDeadline": "1900-01-01 00:00:00.0000000",
+      "dateOfAward": "2017-09-27 00:00:00.0000000",
+      "awardAmount": "4,999,510.10"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/16n00043_contract.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/16n00043_noa.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/16n00043_ntp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 8.935277778,
+    "longitude": 125.9791667,
+    "coordinates": [
+      {
+        "componentId": "P00000001MN-CW1",
+        "description": "Road Safety: Guardrails (Old) - Completion of the East-West lateral road connecting Agusan Del Sur/Agusan del Norte to Bukidnon San Miguel Proper (Surigao del Sur) - Calaitan (Bayugan), Mahayag - Sagbayan Section, Region XIII",
+        "latitude": 8.935277778,
+        "longitude": 125.9791667,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

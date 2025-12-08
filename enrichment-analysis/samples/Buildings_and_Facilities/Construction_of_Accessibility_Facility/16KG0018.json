@@ -1,0 +1,219 @@
+{
+  "data": {
+    "contractId": "16KG0018",
+    "description": "CLUSTER III - CONST./REHAB. OF ACCESSIBILITY FACILITIES FOR PHYSICALLY CHALLENGED PERSONS IN THE MUNICIPALITY OF MAGSAYSAY, LANAO DEL NORTE (BAGUIGUICON ES,SHIEK OMAR ES,OLANGO ES,TAMBACON ES,MAGSAYSAY CS & LEMONCRET ES)",
+    "category": "Buildings and Facilities",
+    "status": "Completed",
+    "budget": 1246187.25,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region X",
+      "province": "Lanao del Norte 2nd DEO",
+      "infraType": "Buildings and Facilities",
+      "coordinates": {
+        "latitude": 8.016889,
+        "longitude": 123.861056,
+        "verified": false
+      }
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "AHM BUILDERS (39815)",
+    "startDate": "2016-04-29",
+    "completionDate": "2016-05-23",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-04-29",
+    "expiryDate": "2016-05-23",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-3",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00030555MN-CW1",
+        "description": "Construction of Accessibility Facility - Construction of Toilet/Ramp for Physically Challenged Persons in Municipality of Magsaysay, Lanao Del Norte, Baguiguicon Elementary School",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of Accessibility Facility",
+        "region": "Region X",
+        "province": "LANAO DEL NORTE",
+        "coordinates": {
+          "latitude": 8.016889,
+          "longitude": 123.861056,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00030556MN-CW1",
+        "description": "Construction of Accessibility Facility - Construction of Toilet/Ramp for Physically Challenged Persons in Municipality of Magsaysay, Lanao Del Norte, Shiek Omar Elementary School",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of Accessibility Facility",
+        "region": "Region X",
+        "province": "LANAO DEL NORTE",
+        "coordinates": {
+          "latitude": 8.012339,
+          "longitude": 123.943008,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00030557MN-CW1",
+        "description": "Construction of Accessibility Facility - Construction of Toilet/Ramp for Physically Challenged Persons in Municipality of Magsaysay, Lanao Del Norte, Olango Elementary School",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of Accessibility Facility",
+        "region": "Region X",
+        "province": "LANAO DEL NORTE",
+        "coordinates": {
+          "latitude": 8.046783,
+          "longitude": 123.900406,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00030558MN-CW1",
+        "description": "Construction of Accessibility Facility - Construction of Toilet/Ramp for Physically Challenged Persons in Municipality of Magsaysay, Lanao Del Norte, Tambacon Elementary School",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of Accessibility Facility",
+        "region": "Region X",
+        "province": "LANAO DEL NORTE",
+        "coordinates": {
+          "latitude": 8.028175,
+          "longitude": 123.883258,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00030559MN-CW1",
+        "description": "Construction of Accessibility Facility - Construction of Toilet/Ramp for Physically Challenged Persons in Municipality of Magsaysay, Lanao Del Norte, Magsaysay Central School",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of Accessibility Facility",
+        "region": "Region X",
+        "province": "LANAO DEL NORTE",
+        "coordinates": {
+          "latitude": 8.034294,
+          "longitude": 123.915597,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00030560MN-CW1",
+        "description": "Construction of Accessibility Facility - Construction of Toilet/Ramp for Physically Challenged Persons in Municipality of Magsaysay, Lanao Del Norte, Lemoncret Elementary School",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of Accessibility Facility",
+        "region": "Region X",
+        "province": "LANAO DEL NORTE",
+        "coordinates": {
+          "latitude": 8.027433,
+          "longitude": 123.894933,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "AHM BUILDERS",
+    "bidders": [
+      {
+        "name": "AHM BUILDERS (39815)",
+        "pcabId": "39815",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "AMMAR CONSTRUCTION AND ENTERPRISES (35325)",
+        "pcabId": "35325",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "NDP CONSTRUCTION DEVELOPMENT (39524)",
+        "pcabId": "39524",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CLUSTER III - CONST./REHAB. OF ACCESSIBILITY FACILITIES FOR PHYSICALLY CHALLENGED PERSONS IN THE MUNICIPALITY OF MAGSAYSAY, LANAO DEL NORTE (BAGUIGUICON ES,SHIEK OMAR ES,OLANGO ES,TAMBACON ES,MAGSAYSAY CS & LEMONCRET ES)",
+      "abc": "1250673.84",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-03-23 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-04-11 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "1,246,187.25"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/16kg0018_contract_agreement.pdf",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/august/18noa.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/16kg0018_contract_agreement.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 8.016889,
+    "longitude": 123.861056,
+    "coordinates": [
+      {
+        "componentId": "P00030555MN-CW1",
+        "description": "Construction of Accessibility Facility - Construction of Toilet/Ramp for Physically Challenged Persons in Municipality of Magsaysay, Lanao Del Norte, Baguiguicon Elementary School",
+        "latitude": 8.016889,
+        "longitude": 123.861056,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00030556MN-CW1",
+        "description": "Construction of Accessibility Facility - Construction of Toilet/Ramp for Physically Challenged Persons in Municipality of Magsaysay, Lanao Del Norte, Shiek Omar Elementary School",
+        "latitude": 8.012339,
+        "longitude": 123.943008,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00030557MN-CW1",
+        "description": "Construction of Accessibility Facility - Construction of Toilet/Ramp for Physically Challenged Persons in Municipality of Magsaysay, Lanao Del Norte, Olango Elementary School",
+        "latitude": 8.046783,
+        "longitude": 123.900406,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00030558MN-CW1",
+        "description": "Construction of Accessibility Facility - Construction of Toilet/Ramp for Physically Challenged Persons in Municipality of Magsaysay, Lanao Del Norte, Tambacon Elementary School",
+        "latitude": 8.028175,
+        "longitude": 123.883258,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00030559MN-CW1",
+        "description": "Construction of Accessibility Facility - Construction of Toilet/Ramp for Physically Challenged Persons in Municipality of Magsaysay, Lanao Del Norte, Magsaysay Central School",
+        "latitude": 8.034294,
+        "longitude": 123.915597,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00030560MN-CW1",
+        "description": "Construction of Accessibility Facility - Construction of Toilet/Ramp for Physically Challenged Persons in Municipality of Magsaysay, Lanao Del Norte, Lemoncret Elementary School",
+        "latitude": 8.027433,
+        "longitude": 123.894933,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

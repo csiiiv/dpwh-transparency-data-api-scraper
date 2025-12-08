@@ -1,0 +1,109 @@
+{
+  "data": {
+    "contractId": "15BI0094",
+    "description": "CONST'N/UPGRADING/REHABILITATION OF DRAINAGE ALONG NAT'L RDS., DM JCT-MALASIN RD., K0248+(-456)-K024",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 4508000,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region II",
+      "province": "Nueva Vizcaya DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 16.3702933118503,
+        "longitude": 121.102342548975,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "C.D.J.  BUILDERS & CONSTRUCTION SUPPLIES (30347)",
+    "startDate": "2016-01-25",
+    "completionDate": "2016-04-29",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-01-25",
+    "expiryDate": "2016-04-29",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00002898LZ-CW1",
+        "description": "Construction of Drainage Structure along Road - DM Jct-Malasin Rd - K0248+-456 - K0248+052",
+        "infraType": "Roads",
+        "typeOfWork": "Construction of Drainage Structure along Road",
+        "region": "Region II",
+        "province": "NUEVA VIZCAYA",
+        "coordinates": {
+          "latitude": 16.3702933118503,
+          "longitude": 121.102342548975,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "C.D.J.  BUILDERS & CONSTRUCTION SUPPLIES",
+    "bidders": [
+      {
+        "name": "C.D.J.  BUILDERS & CONSTRUCTION SUPPLIES (30347)",
+        "pcabId": "30347",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "BRG CONSTRUCTION (21931)",
+        "pcabId": "21931",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "G.M. PAJARILLAGA CONSTRUCTION & SUPPLY (21760)",
+        "pcabId": "21760",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONST'N/UPGRADING/REHABILITATION OF DRAINAGE ALONG NAT'L RDS., DM JCT-MALASIN RD., K0248+(-456)-K024",
+      "abc": "4508000.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-11-23 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-12-15 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "4327769.4800000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/april/15BI0094CON.pdf",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/april/15BI0094NOA.pdf",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/april/15BI0094CON.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 16.3702933118503,
+    "longitude": 121.102342548975,
+    "coordinates": [
+      {
+        "componentId": "P00002898LZ-CW1",
+        "description": "Construction of Drainage Structure along Road - DM Jct-Malasin Rd - K0248+-456 - K0248+052",
+        "latitude": 16.3702933118503,
+        "longitude": 121.102342548975,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

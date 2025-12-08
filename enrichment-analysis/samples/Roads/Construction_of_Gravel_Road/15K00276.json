@@ -1,0 +1,163 @@
+{
+  "data": {
+    "contractId": "15K00276",
+    "description": "COMPL. OF THE EAST-WEST LATERAL RD CONNECTING AGUSAN DEL SUR/AGUSAN DEL NORTE TO BUK,CABANGLASAN-BUK",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 118503777.88,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region X",
+      "province": "Region X",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 8.072052,
+        "longitude": 125.313182,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "ULTICON BUILDERS, INC. (17267)",
+    "startDate": "2016-02-25",
+    "completionDate": "2017-04-06",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-02-25",
+    "expiryDate": "2016-08-09",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00003225MN-CW1",
+        "description": "Construction of Gravel Road - Completion of the East-West lateral road connecting Agusan Del Sur/ Agusan del Norte to Bukidnon,  Cabanglasan-Bukidnon Bdry (Brgy. Makilos) ,  Region X, Package 1",
+        "infraType": "Roads",
+        "typeOfWork": "Construction of Gravel Road",
+        "region": "Region X",
+        "province": "BUKIDNON",
+        "coordinates": {
+          "latitude": 8.072052,
+          "longitude": 125.313182,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "ULTICON BUILDERS, INC.",
+    "bidders": [
+      {
+        "name": "ULTICON BUILDERS, INC. (17267)",
+        "pcabId": "17267",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "AL HUSSEIN CONSTRUCTION (18438)",
+        "pcabId": "18438",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "FIAT CONSTRUCTION SERVICES (05463)",
+        "pcabId": "05463",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "GICAR CONSTRUCTION, INC. (12624)",
+        "pcabId": "12624",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "GRACE CONSTRUCTION CORPORATION (3771)",
+        "pcabId": "3771",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "HSO CONSTRUCTION CORPORATION (FOREMERLY : HENRY S. (10578)",
+        "pcabId": "10578",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "JEJOR'S CONSTRUCTION CORPORATION (5143)",
+        "pcabId": "5143",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "LCTING CONSTRUCTION AND DEVELOPMENT CORPORATION (FORMERLY: L.C. TING CONSTRUCTION) (23666)",
+        "pcabId": "23666",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "MAC BUILDERS CORP. (FORMERLY: MAC BUILDERS DEVELOPMENT CORPORATION) (7249)",
+        "pcabId": "7249",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "MONOLITHIC CONSTRUCTION & CONCRETE PRODUCTS, INC. (5733)",
+        "pcabId": "5733",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "OCTAGON CONCRETE SOLUTIONS INC. (34475)",
+        "pcabId": "34475",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "PREMIUM MEGASTRUCTURES INC. (36079)",
+        "pcabId": "36079",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "COMPL. OF THE EAST-WEST LATERAL RD CONNECTING AGUSAN DEL SUR/AGUSAN DEL NORTE TO BUK,CABANGLASAN-BUK",
+      "abc": "124842900.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-09-30 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-11-09 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "118503777.8800000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/15k00276_ca.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/15k00276_noa.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/15k00276_ntp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 8.072052,
+    "longitude": 125.313182,
+    "coordinates": [
+      {
+        "componentId": "P00003225MN-CW1",
+        "description": "Construction of Gravel Road - Completion of the East-West lateral road connecting Agusan Del Sur/ Agusan del Norte to Bukidnon,  Cabanglasan-Bukidnon Bdry (Brgy. Makilos) ,  Region X, Package 1",
+        "latitude": 8.072052,
+        "longitude": 125.313182,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

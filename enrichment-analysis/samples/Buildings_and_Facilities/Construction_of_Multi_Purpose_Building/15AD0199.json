@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "15AD0199",
+    "description": "CONSTRUCTION/REHAB/IMPRVT OF MPB, REMEDIOS,CERVANTES,ILOCOS SUR",
+    "category": "Buildings and Facilities",
+    "status": "Completed",
+    "budget": 966809.79,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region I",
+      "province": "Ilocos Sur 2nd DEO",
+      "infraType": "Buildings and Facilities",
+      "coordinates": {
+        "latitude": 17.005861,
+        "longitude": 120.719111,
+        "verified": false
+      }
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "NGEC-NESTOR GENERAL ENGINEERING & CONSTRUCTION (34583)",
+    "startDate": "2016-03-21",
+    "completionDate": "2016-07-06",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-03-21",
+    "expiryDate": "2016-05-19",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 Locally Funded Projects",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00051519LZ-CW1",
+        "description": "Construction of Multi Purpose Building - Construction/Rehabilitation/Improvement of Multi Purpose Building, Bgy. Remedios, Cervantes, Ilocos Sur 2nd LD",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of Multi Purpose Building",
+        "region": "Region I",
+        "province": "ILOCOS SUR",
+        "coordinates": {
+          "latitude": 17.005861,
+          "longitude": 120.719111,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "NGEC-NESTOR GENERAL ENGINEERING & CONSTRUCTION",
+    "bidders": [
+      {
+        "name": "NGEC-NESTOR GENERAL ENGINEERING & CONSTRUCTION (34583)",
+        "pcabId": "34583",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "TRIBU DESIGN & CONSTRUCTION (12756)",
+        "pcabId": "12756",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION/REHAB/IMPRVT OF MPB, REMEDIOS,CERVANTES,ILOCOS SUR",
+      "abc": "1000000.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-01-15 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-02-10 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "966809.7900000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/may/15AD0199 CA271.pdf",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/may/15AD0199 NOA270.pdf",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/may/15AD0199 CA271.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 17.005861,
+    "longitude": 120.719111,
+    "coordinates": [
+      {
+        "componentId": "P00051519LZ-CW1",
+        "description": "Construction of Multi Purpose Building - Construction/Rehabilitation/Improvement of Multi Purpose Building, Bgy. Remedios, Cervantes, Ilocos Sur 2nd LD",
+        "latitude": 17.005861,
+        "longitude": 120.719111,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "data": {
+    "contractId": "16HG0033",
+    "description": "CONSTRUCTION OF FACILITIES FOR DISABLED FOR ACCESSIBILITY OF SCHOOLS ON ELECTION FOR TAPON ELEMENTAR",
+    "category": "Buildings and Facilities",
+    "status": "Completed",
+    "budget": 499000,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region VII",
+      "province": "Cebu 2nd DEO",
+      "infraType": "Buildings and Facilities",
+      "coordinates": null
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "DINAH RBS CONSTRUCTION AND SUPPLY INCORPORATED (FORMERLY: DINAH JANE CONSTRUCTION AND SUPPLY) (33925)",
+    "startDate": "2016-04-03",
+    "completionDate": "2016-05-06",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-04-03",
+    "expiryDate": "2016-05-17",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-3",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00030576VS-CW1",
+        "description": "Construction of Accessibility Facility - Construction of Facilities for Disabled for Accessibility of Schools on Elections for Tapon (Panaguikan) Elementary School, Dalaguete, Cebu",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of Accessibility Facility",
+        "region": "Region VII",
+        "province": "CEBU",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "DINAH RBS CONSTRUCTION AND SUPPLY INCORPORATED (FORMERLY: DINAH JANE CONSTRUCTION AND SUPPLY)",
+    "bidders": [
+      {
+        "name": "DINAH RBS CONSTRUCTION AND SUPPLY INCORPORATED (FORMERLY: DINAH JANE CONSTRUCTION AND SUPPLY) (33925)",
+        "pcabId": "33925",
+        "participation": 100,
+        "isWinner": true
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION OF FACILITIES FOR DISABLED FOR ACCESSIBILITY OF SCHOOLS ON ELECTION FOR TAPON ELEMENTAR",
+      "abc": "500000.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-03-02 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-03-22 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "499,000.00"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/contract_agreement_16hg0033.pdf",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/may/NOA-16HG0033.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/contract_agreement_16hg0033.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

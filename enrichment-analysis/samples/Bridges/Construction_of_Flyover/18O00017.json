@@ -1,0 +1,109 @@
+{
+  "data": {
+    "contractId": "18O00017",
+    "description": "NETWORK DEVELOPMENT: CONSTRUCTION OF FLYOVERS/INTERCHANGES/UNDERPASSES/LONG SPAN BRIDGES, EDSA TAFT FLYOVER, PASAY CITY",
+    "category": "Bridges",
+    "status": "Terminated",
+    "budget": 0,
+    "amountPaid": 0,
+    "progress": 0,
+    "location": {
+      "region": "National Capital Region",
+      "province": "National Capital Region",
+      "infraType": "Bridges",
+      "coordinates": {
+        "latitude": 14.5943191,
+        "longitude": 120.9666274,
+        "verified": false
+      }
+    },
+    "infraType": "Bridges",
+    "contractor": "E.C. DE LUNA CONSTRUCTION CORPORATION (FORMERLY E. (11906) / CHINA GEO-ENGINEERING CORPORATION",
+    "startDate": "2019-01-20",
+    "completionDate": "2019-08-07",
+    "infraYear": "2018",
+    "contractEffectivityDate": "2019-01-20",
+    "expiryDate": "2020-01-14",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2018 OO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00201091LZ-CW1",
+        "description": "Construction of Flyover - EDSA-Taft Flyover",
+        "infraType": "Bridges",
+        "typeOfWork": "Construction of Flyover",
+        "region": "National Capital Region",
+        "province": "METROPOLITAN MANILA",
+        "coordinates": {
+          "latitude": 14.5943191,
+          "longitude": 120.9666274,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "E.C. DE LUNA CONSTRUCTION CORPORATION (FORMERLY E.",
+    "bidders": [
+      {
+        "name": "E.C. DE LUNA CONSTRUCTION CORPORATION (FORMERLY E. (11906) / CHINA GEO-ENGINEERING CORPORATION (JV ID: JV-18-023)",
+        "pcabId": "",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "D.M. CONSUNJI, INC. (00101)",
+        "pcabId": "00101",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "D.M. CONSUNJI, INC. (101)",
+        "pcabId": "101",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "NETWORK DEVELOPMENT: CONSTRUCTION OF FLYOVERS/INTERCHANGES/UNDERPASSES/LONG SPAN BRIDGES, EDSA TAFT FLYOVER, PASAY CITY",
+      "abc": "674555124.07",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2018-10-26 00:00:00.0000000",
+      "bidSubmissionDeadline": "2018-12-11 00:00:00.0000000",
+      "dateOfAward": "2018-12-28 00:00:00.0000000",
+      "awardAmount": "668,224,862.03"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/Invitation to Bid- 18O00017.doc",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/326.zip",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/18o00017_notice_of_award.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/18o00017_notice_to_proceed.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 14.5943191,
+    "longitude": 120.9666274,
+    "coordinates": [
+      {
+        "componentId": "P00201091LZ-CW1",
+        "description": "Construction of Flyover - EDSA-Taft Flyover",
+        "latitude": 14.5943191,
+        "longitude": 120.9666274,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

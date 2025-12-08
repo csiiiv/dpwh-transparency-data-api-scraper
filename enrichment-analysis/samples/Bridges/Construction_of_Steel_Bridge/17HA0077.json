@@ -1,0 +1,97 @@
+{
+  "data": {
+    "contractId": "17HA0077",
+    "description": "CONSTRUCTION/IMPROVEMENT OF C200 TYPES STEEL BRIDGE-NEW TAGBUANE BRIDGE ALONG TAGBILARAN EAST ROAD (TAGBILARAN-JAGNA), ALBURQUERQUE, BOHOL. PROJECT ID-P00118001VS",
+    "category": "Bridges",
+    "status": "Completed",
+    "budget": 8636544,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region VII",
+      "province": "Bohol 1st DEO",
+      "infraType": "Bridges",
+      "coordinates": {
+        "latitude": 9.607557,
+        "longitude": 123.974245,
+        "verified": false
+      }
+    },
+    "infraType": "Bridges",
+    "contractor": "LABB CONSTRUCTION DEVELOPMENT INC. (FORMERLY: LABB CONSTRUCTION) (13524)",
+    "startDate": "2017-10-02",
+    "completionDate": "2018-01-03",
+    "infraYear": "2017",
+    "contractEffectivityDate": "2017-10-02",
+    "expiryDate": "2018-01-03",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2017 MFO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00118001VS-CW1",
+        "description": "Construction of Steel Bridge - New Tagbuane Br. along Tagbilaran East Rd (Tagbilaran-Jagna)",
+        "infraType": "Bridges",
+        "typeOfWork": "Construction of Steel Bridge",
+        "region": "Region VII",
+        "province": "BOHOL",
+        "coordinates": {
+          "latitude": 9.607557,
+          "longitude": 123.974245,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "LABB CONSTRUCTION DEVELOPMENT INC. (FORMERLY: LABB CONSTRUCTION)",
+    "bidders": [
+      {
+        "name": "LABB CONSTRUCTION DEVELOPMENT INC. (FORMERLY: LABB CONSTRUCTION) (13524)",
+        "pcabId": "13524",
+        "participation": 100,
+        "isWinner": true
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION/IMPROVEMENT OF C200 TYPES STEEL BRIDGE-NEW TAGBUANE BRIDGE ALONG TAGBILARAN EAST ROAD (TAGBILARAN-JAGNA), ALBURQUERQUE, BOHOL. PROJECT ID-P00118001VS",
+      "abc": "8996400.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2017-08-04 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-08-29 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "8,636,544.00"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/TYPICAL-Model.pdf",
+      "contractAgreement": "",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/17ha0077_-_noa.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/17ha0077_-_ntp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 9.607557,
+    "longitude": 123.974245,
+    "coordinates": [
+      {
+        "componentId": "P00118001VS-CW1",
+        "description": "Construction of Steel Bridge - New Tagbuane Br. along Tagbilaran East Rd (Tagbilaran-Jagna)",
+        "latitude": 9.607557,
+        "longitude": 123.974245,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

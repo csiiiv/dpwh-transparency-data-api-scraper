@@ -1,0 +1,85 @@
+{
+  "data": {
+    "contractId": "16OI0035",
+    "description": "REPAIR/REHABILITATION/IMPVT./CONSTRUCTION OF PEDESTRIAN OVERPASS ALONG DAANG MAHARLIKA (SO3285LZ), A",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 7969164.34,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "National Capital Region",
+      "province": "Las Piñas-Muntinlupa DEO",
+      "infraType": "Roads",
+      "coordinates": null
+    },
+    "infraType": "Roads",
+    "contractor": "L.M.G. CONSTRUCTION INCORPORATED (FORMERLY: LMG CONSTRUCTION) (5719)",
+    "startDate": "2016-03-30",
+    "completionDate": "2016-07-27",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-03-30",
+    "expiryDate": "2016-07-27",
+    "nysReason": null,
+    "programName": "Outside Infra",
+    "sourceOfFunds": "Outside Infra - Special Road Support Fund 2016",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00090012LZ-CW1",
+        "description": "Road Safety: Pedestrian Overpass - Repair/Rehabilitation/Improvement/Construction of pedestrian overpass along Daang Maharlika (S03285LZ), Alabang Viaduct, Muntinlupa City (Completion). K0026+(-1010) to K0026+(-685)",
+        "infraType": "Roads",
+        "typeOfWork": "Road Safety: Pedestrian Overpass",
+        "region": "National Capital Region",
+        "province": "METROPOLITAN MANILA",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "L.M.G. CONSTRUCTION INCORPORATED (FORMERLY: LMG CONSTRUCTION)",
+    "bidders": [
+      {
+        "name": "L.M.G. CONSTRUCTION INCORPORATED (FORMERLY: LMG CONSTRUCTION) (5719)",
+        "pcabId": "5719",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "CHIARA2300 INCORPORATED (8736)",
+        "pcabId": "8736",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "REPAIR/REHABILITATION/IMPVT./CONSTRUCTION OF PEDESTRIAN OVERPASS ALONG DAANG MAHARLIKA (SO3285LZ), A",
+      "abc": "8400049.78",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-02-26 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-03-16 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "7,969,164.34"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/16035contract.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/16-35_noa.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/16035ntp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

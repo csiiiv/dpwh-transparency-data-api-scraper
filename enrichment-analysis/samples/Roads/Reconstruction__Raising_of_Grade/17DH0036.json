@@ -1,0 +1,163 @@
+{
+  "data": {
+    "contractId": "17DH0036",
+    "description": "REHABILITATION/RECONSTRUCTION/UPGRADING OF DAMAGED PAVED NATIONAL ROADS INCLUDING DRAINAGE BASED ON PAVEMENT MANAGEMENT SYSTEM/HIGHWAY DEVELOPMENT AND MANAGEMENT4 (HDM-4) TERTIARY ROAD, PAETE-FAMY POBLACION ROAD, K0109 + 000  K0109",
+    "category": "Roads",
+    "status": "Terminated",
+    "budget": 0,
+    "amountPaid": 0,
+    "progress": 0,
+    "location": {
+      "region": "Region IV-A",
+      "province": "Laguna 1st DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 14.4065230740782,
+        "longitude": 121.458962637112,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "NEWBIG FOUR J CONSTRUCTION INC. (FORMERLY: FOUR J CONSTRUCTION) (15104)",
+    "startDate": "2017-05-04",
+    "completionDate": "2020-11-27",
+    "infraYear": "2017",
+    "contractEffectivityDate": "2017-05-04",
+    "expiryDate": "2018-05-03",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2017 MFO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00102748LZ-CW1",
+        "description": "Reconstruction: Raising of Grade - Paete-Famy Pob Rd - K0109+000 - K0109+755.5, K0109+780.5 - K0109+895, K0109+895 - K0110+700",
+        "infraType": "Roads",
+        "typeOfWork": "Reconstruction: Raising of Grade",
+        "region": "Region IV-A",
+        "province": "LAGUNA",
+        "coordinates": {
+          "latitude": 14.4065230740782,
+          "longitude": 121.458962637112,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "NEWBIG FOUR J CONSTRUCTION INC. (FORMERLY: FOUR J CONSTRUCTION)",
+    "bidders": [
+      {
+        "name": "NEWBIG FOUR J CONSTRUCTION INC. (FORMERLY: FOUR J CONSTRUCTION) (15104)",
+        "pcabId": "15104",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "C.T. LEONCIO CONSTRUCTION & TRADING (17371) / JOBEL ENTERPRISES (19799) (JV ID: JV-16-1030)",
+        "pcabId": "",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "ALL EML CONSTRUCTION CORPORATION (FORMERLY: E.M.L. CONSTRUCTION & TRADING) (10151)",
+        "pcabId": "10151",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "C.B. GARAY PHILWIDE BUILDERS (6004)",
+        "pcabId": "6004",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "HENSCHA PHILS. INC. (34164)",
+        "pcabId": "34164",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "HGG BUILDERS & SUPPLY (17824)",
+        "pcabId": "17824",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "HONEYVILLECONST AND DEVELOPMENT CORPORATION (32160)",
+        "pcabId": "32160",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "LEGACY CONSTRUCTION CORPORATION (FORMERLY: LEGACY CONSTRUCTION) (22465)",
+        "pcabId": "22465",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "MAR-VEL CONSTRUCTION & SUPPLY (23722)",
+        "pcabId": "23722",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "PRECIOUS CONSTRUCTION (32995)",
+        "pcabId": "32995",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "ST. GERRARD CONSTRUCTION GEN. CONTRACTOR & DEVELOPMENT CORP. (FORMERLY:ST. GERRARD CONSTRUCTION) ([REVOKED] 31762)",
+        "pcabId": "[REVOKED] 31762",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "WCS CONSTRUCTION, INC. (6516)",
+        "pcabId": "6516",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "REHABILITATION/RECONSTRUCTION/UPGRADING OF DAMAGED PAVED NATIONAL ROADS INCLUDING DRAINAGE BASED ON PAVEMENT MANAGEMENT SYSTEM/HIGHWAY DEVELOPMENT AND MANAGEMENT4 (HDM-4) TERTIARY ROAD, PAETE-FAMY POBLACION ROAD, K0109 + 000  K0109",
+      "abc": "98000000.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-12-20 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-01-11 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "92,407,723.20"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/Contract 17DH0036.zip",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/Award 17DH0036.zip",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/NTP 17DH0036001.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 14.4065230740782,
+    "longitude": 121.458962637112,
+    "coordinates": [
+      {
+        "componentId": "P00102748LZ-CW1",
+        "description": "Reconstruction: Raising of Grade - Paete-Famy Pob Rd - K0109+000 - K0109+755.5, K0109+780.5 - K0109+895, K0109+895 - K0110+700",
+        "latitude": 14.4065230740782,
+        "longitude": 121.458962637112,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "data": {
+    "contractId": "16AG0099",
+    "description": "CONTINUATION & COMPLETION OF RHU AT DASOL, PANGASINAN",
+    "category": "Buildings and Facilities",
+    "status": "Completed",
+    "budget": 1484867.34,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region I",
+      "province": "Pangasinan 1st DEO",
+      "infraType": "Buildings and Facilities",
+      "coordinates": null
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "A.A. BALAOING TRADING AND CONSTRUCTION (29782)",
+    "startDate": "2017-04-10",
+    "completionDate": "2017-07-05",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2017-04-10",
+    "expiryDate": "2017-07-08",
+    "nysReason": null,
+    "programName": "Outside Infra",
+    "sourceOfFunds": "Outside Infra - GAA 2016 DOH HFEP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00061116LZ-CW1",
+        "description": "Construction of Hospital - Continuation and completion of DPWH Project RHU Bldg, Dasol RHU, Dasol, Pangasinan",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of Hospital",
+        "region": "Region I",
+        "province": "PANGASINAN",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "A.A. BALAOING TRADING AND CONSTRUCTION",
+    "bidders": [
+      {
+        "name": "A.A. BALAOING TRADING AND CONSTRUCTION (29782)",
+        "pcabId": "29782",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "BERSON'S CONSTRUCTION & TRADING (31181)",
+        "pcabId": "31181",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "GED CONSTRUCTION (13614)",
+        "pcabId": "13614",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONTINUATION & COMPLETION OF RHU AT DASOL, PANGASINAN",
+      "abc": "1492500.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2017-03-01 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-03-22 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "1,417,799.64"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/16AG0099-ITB,TF,PBD,PLANO.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/16AG0099CONTRACT.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/16AG0099AWARD.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/16AG0099CONTRACT.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

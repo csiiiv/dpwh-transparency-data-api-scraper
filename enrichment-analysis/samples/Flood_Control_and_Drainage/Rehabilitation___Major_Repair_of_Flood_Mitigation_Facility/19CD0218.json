@@ -1,0 +1,97 @@
+{
+  "data": {
+    "contractId": "19CD0218",
+    "description": "REHABILITATION OF FLOOD CONTROL STRUCTURES ALONG MEYCAUAYAN RIVER, MEYCAUAYAN, BULACAN",
+    "category": "Flood Control and Drainage",
+    "status": "Completed",
+    "budget": 11368000,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region III",
+      "province": "Bulacan 2nd DEO",
+      "infraType": "Flood Control and Drainage",
+      "coordinates": {
+        "latitude": 14.7306183,
+        "longitude": 120.9599317,
+        "verified": false
+      }
+    },
+    "infraType": "Flood Control and Drainage",
+    "contractor": "JB CONSTRUCTION AND SUPPLY INC. (FORMERLY:JB CONSTRUCTION AND SUPPLY) (42531)",
+    "startDate": "2019-08-15",
+    "completionDate": "2019-11-09",
+    "infraYear": "2019",
+    "contractEffectivityDate": "2019-08-15",
+    "expiryDate": "2019-11-09",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2019 OO-2",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00323006LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Flood Mitigation Facility - Rehabilitation of Flood Control Structures along Meycauyan River, Meycauayan, Bulacan",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Rehabilitation / Major Repair of Flood Mitigation Facility",
+        "region": "Region III",
+        "province": "BULACAN",
+        "coordinates": {
+          "latitude": 14.7306183,
+          "longitude": 120.9599317,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "JB CONSTRUCTION AND SUPPLY INC. (FORMERLY:JB CONSTRUCTION AND SUPPLY)",
+    "bidders": [
+      {
+        "name": "JB CONSTRUCTION AND SUPPLY INC. (FORMERLY:JB CONSTRUCTION AND SUPPLY) (42531)",
+        "pcabId": "42531",
+        "participation": 100,
+        "isWinner": true
+      }
+    ],
+    "procurement": {
+      "contractName": "REHABILITATION OF FLOOD CONTROL STRUCTURES ALONG MEYCAUAYAN RIVER, MEYCAUAYAN, BULACAN",
+      "abc": "11368750.61",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2019-06-27 00:00:00.0000000",
+      "bidSubmissionDeadline": "2019-07-16 00:00:00.0000000",
+      "dateOfAward": "2019-08-05 00:00:00.0000000",
+      "awardAmount": "10800313.08"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/BID DOCS JULY 16, 2019 (PART I).zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/19CD0218.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/19CD0218.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/19CD0218.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 14.7306183,
+    "longitude": 120.9599317,
+    "coordinates": [
+      {
+        "componentId": "P00323006LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Flood Mitigation Facility - Rehabilitation of Flood Control Structures along Meycauyan River, Meycauayan, Bulacan",
+        "latitude": 14.7306183,
+        "longitude": 120.9599317,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

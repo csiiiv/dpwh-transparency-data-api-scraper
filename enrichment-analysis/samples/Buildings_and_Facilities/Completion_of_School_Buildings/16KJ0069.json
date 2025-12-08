@@ -1,0 +1,85 @@
+{
+  "data": {
+    "contractId": "16KJ0069",
+    "description": "PROVISION OF TECHVOC WORKSHOP BUILDINGS/LABORATORIES FOR SENIOR HIGH SCHOOL, MONTOL NHS, OZAMIZ CITY",
+    "category": "Buildings and Facilities",
+    "status": "Completed",
+    "budget": 1946411.61,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region X",
+      "province": "Misamis Occidental 2nd DEO",
+      "infraType": "Buildings and Facilities",
+      "coordinates": null
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "DCD BUILDERS & ENTERPISES (38029)",
+    "startDate": "2016-12-22",
+    "completionDate": "2017-07-03",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-12-22",
+    "expiryDate": "2017-03-16",
+    "nysReason": null,
+    "programName": "Outside Infra",
+    "sourceOfFunds": "Outside Infra - GAA 2016 DepED BEFF",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00076224MN-CW1",
+        "description": "Completion of School Buildings - Construction (Completion) of a TechVoc Workshop School Building, Montol NHS, Ozamis City, Misamis Occidental",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Completion of School Buildings",
+        "region": "Region X",
+        "province": "MISAMIS OCCIDENTAL",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "DCD BUILDERS & ENTERPISES",
+    "bidders": [
+      {
+        "name": "DCD BUILDERS & ENTERPISES (38029)",
+        "pcabId": "38029",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "INFINITE BUILDERS (38170)",
+        "pcabId": "38170",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "PROVISION OF TECHVOC WORKSHOP BUILDINGS/LABORATORIES FOR SENIOR HIGH SCHOOL, MONTOL NHS, OZAMIZ CITY",
+      "abc": "1966083.32",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-11-02 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-11-16 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "1,946,411.61"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/contract-16kj0069.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/award-16kj0069.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/ntp-16kj0069.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "15BH0207",
+    "description": "REHABILITATON OF FLOOD CONTROL STRUCTURES",
+    "category": "Flood Control and Drainage",
+    "status": "Completed",
+    "budget": 37393750,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region II",
+      "province": "Isabela 4th DEO",
+      "infraType": "Flood Control and Drainage",
+      "coordinates": {
+        "latitude": 16.45372772,
+        "longitude": 121.7538605,
+        "verified": false
+      }
+    },
+    "infraType": "Flood Control and Drainage",
+    "contractor": "C.D.J.  BUILDERS & CONSTRUCTION SUPPLIES (30347) / META CONSTRUCTION (28882)",
+    "startDate": "2016-02-02",
+    "completionDate": "2016-08-10",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-02-02",
+    "expiryDate": "2016-08-20",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-2",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00020389LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Flood Control Structure - Rehabilitation of Flood Control Structures along Cagayan River, Sinaoangan Norte, San Agustin, Isabela",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Rehabilitation / Major Repair of Flood Control Structure",
+        "region": "Region II",
+        "province": "ISABELA",
+        "coordinates": {
+          "latitude": 16.45372772,
+          "longitude": 121.7538605,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "C.D.J.  BUILDERS & CONSTRUCTION SUPPLIES, META CONSTRUCTION",
+    "bidders": [
+      {
+        "name": "C.D.J.  BUILDERS & CONSTRUCTION SUPPLIES (30347) / META CONSTRUCTION (28882) (JV ID: JV-15-953)",
+        "pcabId": "",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "GACUTAN CONSTRUCTION INC. (FORMERLY: GACUTAN CONSTRUCTION) (10789)",
+        "pcabId": "10789",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "REHABILITATON OF FLOOD CONTROL STRUCTURES",
+      "abc": "37393750.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-12-08 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-12-28 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "36080000.0000000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/15bh0207_ca.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/15bh0207_noa.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/15bh0207_ntp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 16.45372772,
+    "longitude": 121.7538605,
+    "coordinates": [
+      {
+        "componentId": "P00020389LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Flood Control Structure - Rehabilitation of Flood Control Structures along Cagayan River, Sinaoangan Norte, San Agustin, Isabela",
+        "latitude": 16.45372772,
+        "longitude": 121.7538605,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

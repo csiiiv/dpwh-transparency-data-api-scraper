@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "15AI0410",
+    "description": "REHAB/MAJOR REPAIR OF PERMANENT BRIDGE AT PRIMICIAS BRIDGE III (B01948LZ) ALONG SAN NICOLAS-NATIVIDA",
+    "category": "Bridges",
+    "status": "Completed",
+    "budget": 5732985.02,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region I",
+      "province": "Pangasinan 3rd DEO",
+      "infraType": "Bridges",
+      "coordinates": {
+        "latitude": 16.037323668845,
+        "longitude": 120.798515083956,
+        "verified": false
+      }
+    },
+    "infraType": "Bridges",
+    "contractor": "TECHNOWOOD CONSTRUCTION ENTERPRISES (30678)",
+    "startDate": "2016-02-10",
+    "completionDate": "2016-07-23",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-02-10",
+    "expiryDate": "2016-07-23",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00017003LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Bridge - Primicias Br. 3 (B0194LZ) along San Nicolas-Natividad-San Quintin-Umingan-Guimba Road",
+        "infraType": "Bridges",
+        "typeOfWork": "Rehabilitation / Major Repair of Bridge",
+        "region": "Region I",
+        "province": "PANGASINAN",
+        "coordinates": {
+          "latitude": 16.037323668845,
+          "longitude": 120.798515083956,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "TECHNOWOOD CONSTRUCTION ENTERPRISES",
+    "bidders": [
+      {
+        "name": "TECHNOWOOD CONSTRUCTION ENTERPRISES (30678)",
+        "pcabId": "30678",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "W.J.P. CONSTRUCTION AND SUPPLY (23192)",
+        "pcabId": "23192",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "REHAB/MAJOR REPAIR OF PERMANENT BRIDGE AT PRIMICIAS BRIDGE III (B01948LZ) ALONG SAN NICOLAS-NATIVIDA",
+      "abc": "5880000.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-12-04 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-12-23 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "5732985.0200000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/may/15AI0410 contract.pdf",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/may/15AI0410 award.pdf",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/may/15AI0410 contract.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 16.037323668845,
+    "longitude": 120.798515083956,
+    "coordinates": [
+      {
+        "componentId": "P00017003LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Bridge - Primicias Br. 3 (B0194LZ) along San Nicolas-Natividad-San Quintin-Umingan-Guimba Road",
+        "latitude": 16.037323668845,
+        "longitude": 120.798515083956,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

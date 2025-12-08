@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "15B00106",
+    "description": "MFO 1-ASSET PRESERVATION: CONST'N/UPGRADING/REHABILITATION OF DRAINAGE ALONG NAT'L RDS.(PRIMARY RD.)",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 18659318.04,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region II",
+      "province": "Region II",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 18.5815813874671,
+        "longitude": 121.055987178239,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "JLL PULSAR CONSTRUCTION CORPORATION (FORMERLY: PULSAR CONSTRUCTION) (24422)",
+    "startDate": "2016-02-18",
+    "completionDate": "2017-03-22",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-02-18",
+    "expiryDate": "2017-03-22",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00002880LZ-CW1",
+        "description": "Construction of Drainage Structure along Road - Manila North Rd -  Left Side: K0605+800 - K0606+032, K0606+136.8 - K0606+277, K0631+800 - K0632+433, K0673+140 - K0673+360",
+        "infraType": "Roads",
+        "typeOfWork": "Construction of Drainage Structure along Road",
+        "region": "Region II",
+        "province": "ILOCOS NORTE",
+        "coordinates": {
+          "latitude": 18.5815813874671,
+          "longitude": 121.055987178239,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "JLL PULSAR CONSTRUCTION CORPORATION (FORMERLY: PULSAR CONSTRUCTION)",
+    "bidders": [
+      {
+        "name": "JLL PULSAR CONSTRUCTION CORPORATION (FORMERLY: PULSAR CONSTRUCTION) (24422)",
+        "pcabId": "24422",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "A.B. TAYLAN CONST. & DEVT. (FORMERLY: ADSM CONST.) (25273) / NORTH TECH BUILDERS AND CONSTRUCTION SUPPLY (37062) (JV ID: JV-15-927)",
+        "pcabId": "",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "MFO 1-ASSET PRESERVATION: CONST'N/UPGRADING/REHABILITATION OF DRAINAGE ALONG NAT'L RDS.(PRIMARY RD.)",
+      "abc": "17712530.44",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-12-09 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-12-29 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "17003564.2700000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/may/15b00106-Cont.agreemnt.pdf",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/may/15b00106-Noa.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/15b00106-ntp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 18.5815813874671,
+    "longitude": 121.055987178239,
+    "coordinates": [
+      {
+        "componentId": "P00002880LZ-CW1",
+        "description": "Construction of Drainage Structure along Road - Manila North Rd -  Left Side: K0605+800 - K0606+032, K0606+136.8 - K0606+277, K0631+800 - K0632+433, K0673+140 - K0673+360",
+        "latitude": 18.5815813874671,
+        "longitude": 121.055987178239,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

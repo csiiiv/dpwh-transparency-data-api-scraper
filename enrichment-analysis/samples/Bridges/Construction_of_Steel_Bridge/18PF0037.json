@@ -1,0 +1,141 @@
+{
+  "data": {
+    "contractId": "18PF0037",
+    "description": "CONSTRUCTION OF MISSING LINKS/NEW ROADS, TUEL JUNCTION - AMBONGDOLAN JUNCTION (SECTION 3 OF BLISTT OUTER RING CIRCUMFERENTIAL ROAD) INCLUDING RIGHT-OF-WAY, BRIDGE, AND SLOPE PROTECTION",
+    "category": "Bridges, Roads",
+    "status": "Completed",
+    "budget": 93441459.13,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Cordillera Administrative Region",
+      "province": "Benguet 2nd DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 16.6922685,
+        "longitude": 120.7761883,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "ALCEL CONSTRUCTION (15129)",
+    "startDate": "2018-03-19",
+    "completionDate": "2020-08-29",
+    "infraYear": "2018",
+    "contractEffectivityDate": "2018-03-19",
+    "expiryDate": "2020-01-30",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2018 OO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00202348LZ-CW1",
+        "description": "Construction of Concrete Road - Tuel Jct. - Ambongdolan Jct. (Section 3 of BLISTT Outer Ring Circumferential Road) incl. ROW, Bridge and Slope Protection, Tublay, Benguet",
+        "infraType": "Roads",
+        "typeOfWork": "Construction of Concrete Road",
+        "region": "Cordillera Administrative Region",
+        "province": "BENGUET",
+        "coordinates": {
+          "latitude": 16.6922685,
+          "longitude": 120.7761883,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00202348LZ-CW2",
+        "description": "Construction of Road Slope Protection Structure - Tuel Jct. - Ambongdolan Jct. (Section 3 of BLISTT Outer Ring Circumferential Road) incl. ROW, Bridge and Slope Protection, Tublay, Benguet",
+        "infraType": "Roads",
+        "typeOfWork": "Construction of Road Slope Protection Structure",
+        "region": "Cordillera Administrative Region",
+        "province": "BENGUET",
+        "coordinates": {
+          "latitude": 16.6922705,
+          "longitude": 120.7761802,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00202348LZ-CW3",
+        "description": "Construction of Steel Bridge - Tuel Jct. - Ambongdolan Jct. (Section 3 of BLISTT Outer Ring Circumferential Road) incl. ROW, Bridge and Slope Protection, Tublay, Benguet",
+        "infraType": "Bridges",
+        "typeOfWork": "Construction of Steel Bridge",
+        "region": "Cordillera Administrative Region",
+        "province": "BENGUET",
+        "coordinates": {
+          "latitude": 16.6922465,
+          "longitude": 120.7761801,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "ALCEL CONSTRUCTION",
+    "bidders": [
+      {
+        "name": "ALCEL CONSTRUCTION (15129)",
+        "pcabId": "15129",
+        "participation": 100,
+        "isWinner": true
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION OF MISSING LINKS/NEW ROADS, TUEL JUNCTION - AMBONGDOLAN JUNCTION (SECTION 3 OF BLISTT OUTER RING CIRCUMFERENTIAL ROAD) INCLUDING RIGHT-OF-WAY, BRIDGE, AND SLOPE PROTECTION",
+      "abc": "96471220.90",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2017-12-08 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-12-29 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "93441459.13"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/PBD 18PF0037 Tuel with Bridge 100M.zip",
+      "contractAgreement": "",
+      "noticeOfAward": "",
+      "noticeToProceed": "",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 16.6922685,
+    "longitude": 120.7761883,
+    "coordinates": [
+      {
+        "componentId": "P00202348LZ-CW1",
+        "description": "Construction of Concrete Road - Tuel Jct. - Ambongdolan Jct. (Section 3 of BLISTT Outer Ring Circumferential Road) incl. ROW, Bridge and Slope Protection, Tublay, Benguet",
+        "latitude": 16.6922685,
+        "longitude": 120.7761883,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00202348LZ-CW2",
+        "description": "Construction of Road Slope Protection Structure - Tuel Jct. - Ambongdolan Jct. (Section 3 of BLISTT Outer Ring Circumferential Road) incl. ROW, Bridge and Slope Protection, Tublay, Benguet",
+        "latitude": 16.6922705,
+        "longitude": 120.7761802,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00202348LZ-CW3",
+        "description": "Construction of Steel Bridge - Tuel Jct. - Ambongdolan Jct. (Section 3 of BLISTT Outer Ring Circumferential Road) incl. ROW, Bridge and Slope Protection, Tublay, Benguet",
+        "latitude": 16.6922465,
+        "longitude": 120.7761801,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "data": {
+    "contractId": "15AF0153",
+    "description": "IMPROVEMENT OF BRGY. ROAD, BRGY. PARIAN OESTE, BAUANG, LA UNION",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 1880001.44,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region I",
+      "province": "La Union 2nd DEO",
+      "infraType": "Roads",
+      "coordinates": null
+    },
+    "infraType": "Roads",
+    "contractor": "E.E. MADAYAG CONSTRUCTION (25029)",
+    "startDate": "2016-01-19",
+    "completionDate": "2016-02-24",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-01-19",
+    "expiryDate": "2016-02-24",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 Locally Funded Projects",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00045455LZ-CW1",
+        "description": "Road Upgrading Gravel to Paved - Improvement of Barangay Road,Brgy. Parian Oeste,Bauang,La Union",
+        "infraType": "Roads",
+        "typeOfWork": "Road Upgrading Gravel to Paved",
+        "region": "Region I",
+        "province": "LA UNION",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "E.E. MADAYAG CONSTRUCTION",
+    "bidders": [
+      {
+        "name": "E.E. MADAYAG CONSTRUCTION (25029)",
+        "pcabId": "25029",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "J.A. OLIVAR ENGINEERING DESIGN, CONSTRUCTION AND S (35602)",
+        "pcabId": "35602",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "IMPROVEMENT OF BRGY. ROAD, BRGY. PARIAN OESTE, BAUANG, LA UNION",
+      "abc": "1999999.50",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-12-03 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-12-22 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "1880001.4400000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/march/15AF153 CONT.pdf",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/march/15AF153 NOA.pdf",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/march/15AF153 CONT.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

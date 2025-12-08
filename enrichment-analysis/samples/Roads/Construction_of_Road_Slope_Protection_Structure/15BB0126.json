@@ -1,0 +1,109 @@
+{
+  "data": {
+    "contractId": "15BB0126",
+    "description": "ASSET PRESERVT'N OF NAT'L RD-W/ SLIPS,SLOPE COLLAPSE  ALONG MAGAPIT CAPISAYAN RD,K0560+656-K0560+760",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 15490948.66,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region II",
+      "province": "Cagayan 1st DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 18.0967409743799,
+        "longitude": 121.712533149261,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "MEGAY CONSTRUCTION INC. (FORMERLY: MEGAY CONSTRUCTION) (34354)",
+    "startDate": "2016-01-21",
+    "completionDate": "2016-10-31",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-01-21",
+    "expiryDate": "2016-05-11",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - Flood Control/Hydraulics/River Control, Roads: Construction - PCCP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00005772LZ-CW1",
+        "description": "Construction of Road Slope Protection Structure - Jct Magapit-Capissayan Rd - K0560+656 - K0560+760 L/S, K0561+190 - K0561+440 L/S, K0565+680 - K0565+700 L/S, K0565+830 - K0565+995 L/S, K0566+010 - K0566+130 L/S, K0566+330 - K0566+369 L/S, K0566+372.83 -",
+        "infraType": "Roads",
+        "typeOfWork": "Construction of Road Slope Protection Structure",
+        "region": "Region II",
+        "province": "CAGAYAN",
+        "coordinates": {
+          "latitude": 18.0967409743799,
+          "longitude": 121.712533149261,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "MEGAY CONSTRUCTION INC. (FORMERLY: MEGAY CONSTRUCTION)",
+    "bidders": [
+      {
+        "name": "MEGAY CONSTRUCTION INC. (FORMERLY: MEGAY CONSTRUCTION) (34354)",
+        "pcabId": "34354",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "D.J.D. CONSTRUCTION INC. (FORMERLY: D. J. D. CONSTRUCTION) (32217)",
+        "pcabId": "32217",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "W.D. NAVARRO CONSTRUCTION CO. (14327)",
+        "pcabId": "14327",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "ASSET PRESERVT'N OF NAT'L RD-W/ SLIPS,SLOPE COLLAPSE  ALONG MAGAPIT CAPISAYAN RD,K0560+656-K0560+760",
+      "abc": "19580000.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-11-16 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-12-08 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "15490948.6600000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/march/15BB0126-002.pdf",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/march/15BB0126-003.pdf",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/march/15BB0126-002.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 18.0967409743799,
+    "longitude": 121.712533149261,
+    "coordinates": [
+      {
+        "componentId": "P00005772LZ-CW1",
+        "description": "Construction of Road Slope Protection Structure - Jct Magapit-Capissayan Rd - K0560+656 - K0560+760 L/S, K0561+190 - K0561+440 L/S, K0565+680 - K0565+700 L/S, K0565+830 - K0565+995 L/S, K0566+010 - K0566+130 L/S, K0566+330 - K0566+369 L/S, K0566+372.83 -",
+        "latitude": 18.0967409743799,
+        "longitude": 121.712533149261,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

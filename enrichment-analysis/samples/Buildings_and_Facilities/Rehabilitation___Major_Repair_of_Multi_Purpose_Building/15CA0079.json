@@ -1,0 +1,91 @@
+{
+  "data": {
+    "contractId": "15CA0079",
+    "description": "LOCAL INFRASTRUCTURE PROGRAM  - REPAIR/REHABILITATION OF MULTI-PURPOSE BUILDING, BARANGAY J.C. PAYUMO, DINALUPIHAN, BATAAN",
+    "category": "Buildings and Facilities",
+    "status": "Completed",
+    "budget": 2381407.59,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region III",
+      "province": "Bataan 1st DEO",
+      "infraType": "Buildings and Facilities",
+      "coordinates": null
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "WILCU CONSTRUCTION (33992)",
+    "startDate": "2016-02-14",
+    "completionDate": "2016-05-10",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-02-14",
+    "expiryDate": "2016-05-13",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 Locally Funded Projects",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00041316LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Multi Purpose Building - Repair/Rehabilitation of Multi-Purpose Building, Barangay J.C. Payumo, Dinalupihan, Bataan 1st LD",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Rehabilitation / Major Repair of Multi Purpose Building",
+        "region": "Region III",
+        "province": "BATAAN",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "WILCU CONSTRUCTION",
+    "bidders": [
+      {
+        "name": "WILCU CONSTRUCTION (33992)",
+        "pcabId": "33992",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "DUNGAN CONT'RS.& TDG. CORP (FORMERLY DUNGAN CONST. (19301)",
+        "pcabId": "19301",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "HORAMABI BUILDERS (24129)",
+        "pcabId": "24129",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "LOCAL INFRASTRUCTURE PROGRAM  - REPAIR/REHABILITATION OF MULTI-PURPOSE BUILDING, BARANGAY J.C. PAYUMO, DINALUPIHAN, BATAAN",
+      "abc": "2450000.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-11-16 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-12-08 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "2381407.5900000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/april/img474.jpg",
+      "noticeToProceed": "",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "data": {
+    "contractId": "15CK0153",
+    "description": "CONST & MAINT OF BR ALONG NATL RDS, WIDENING OF PERMANENT BR.-MACALONG BR ALONG CONC-LAPAZ RD, LAPAZ",
+    "category": "Bridges",
+    "status": "Completed",
+    "budget": 20283330.86,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region III",
+      "province": "Tarlac 2nd DEO",
+      "infraType": "Bridges",
+      "coordinates": null
+    },
+    "infraType": "Bridges",
+    "contractor": "BIG BERTHA CONSTRUCTION & DEVELOPMENT (3191) / A.C. SOLIVEN CONSTRUCTION & GENERAL MERCHANDISE (19278)",
+    "startDate": "2016-03-17",
+    "completionDate": "2016-08-13",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-03-17",
+    "expiryDate": "2016-08-13",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00001980LZ-CW1",
+        "description": "Widening of Bridge - Macalong Br. (B03301LZ) along Victoria-La Paz Rd",
+        "infraType": "Bridges",
+        "typeOfWork": "Widening of Bridge",
+        "region": "Region III",
+        "province": "TARLAC",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "A.C. SOLIVEN CONSTRUCTION & GENERAL MERCHANDISE, BIG BERTHA CONSTRUCTION & DEVELOPMENT",
+    "bidders": [
+      {
+        "name": "A.C. SOLIVEN CONSTRUCTION & GENERAL MERCHANDISE (19278) / BIG BERTHA CONSTRUCTION & DEVELOPMENT (3191) (JV ID: JV-15-707)",
+        "pcabId": "",
+        "participation": 100,
+        "isWinner": true
+      }
+    ],
+    "procurement": {
+      "contractName": "CONST & MAINT OF BR ALONG NATL RDS, WIDENING OF PERMANENT BR.-MACALONG BR ALONG CONC-LAPAZ RD, LAPAZ",
+      "abc": "21343612.10",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-11-19 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-12-08 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "20283330.8600000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "",
+      "noticeOfAward": "",
+      "noticeToProceed": "",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}
