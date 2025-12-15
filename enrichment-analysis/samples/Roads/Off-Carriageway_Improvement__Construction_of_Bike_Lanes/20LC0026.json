@@ -1,0 +1,97 @@
+{
+  "data": {
+    "contractId": "20LC0026",
+    "description": "DAANG MAHARLIKA (MN) - K1457+000 - K1458+000, K1459+700 - K1462+452, DAVAO DEL NORTE",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 68129000,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region XI",
+      "province": "Davao del Norte DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 7.4333317,
+        "longitude": 125.798855,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "MAER SUMMIT KONSTRUKT CO. (25262)",
+    "startDate": "2020-12-09",
+    "completionDate": "2021-10-28",
+    "infraYear": "2020",
+    "contractEffectivityDate": "2020-12-09",
+    "expiryDate": "2021-10-28",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2020 OO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00400456MN-CW1",
+        "description": "Off-Carriageway Improvement: Construction of Bike Lanes - Daang Maharlika (MN) - K1457 + 000 - K1458 + 000, K1459 + 700 - K1462 + 452",
+        "infraType": "Roads",
+        "typeOfWork": "Off-Carriageway Improvement: Construction of Bike Lanes",
+        "region": "Region XI",
+        "province": "DAVAO DE ORO",
+        "coordinates": {
+          "latitude": 7.4333317,
+          "longitude": 125.798855,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "MAER SUMMIT KONSTRUKT CO.",
+    "bidders": [
+      {
+        "name": "MAER SUMMIT KONSTRUKT CO. (25262)",
+        "pcabId": "25262",
+        "participation": 100,
+        "isWinner": true
+      }
+    ],
+    "procurement": {
+      "contractName": "DAANG MAHARLIKA (MN) - K1457+000 - K1458+000, K1459+700 - K1462+452, DAVAO DEL NORTE",
+      "abc": "68129000.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2019-11-28 00:00:00.0000000",
+      "bidSubmissionDeadline": "2019-12-17 00:00:00.0000000",
+      "dateOfAward": "2020-11-23 00:00:00.0000000",
+      "awardAmount": "66043467.19"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/20LC0026 PLANS SET 1.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/20lc0026_contract_agreement.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/NOA 20LC0026.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/20lc0026_contract_agreement.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 7.4333317,
+    "longitude": 125.798855,
+    "coordinates": [
+      {
+        "componentId": "P00400456MN-CW1",
+        "description": "Off-Carriageway Improvement: Construction of Bike Lanes - Daang Maharlika (MN) - K1457 + 000 - K1458 + 000, K1459 + 700 - K1462 + 452",
+        "latitude": 7.4333317,
+        "longitude": 125.798855,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 12,
+      "latestImageDate": "2021-11-04 00:19:44.667000",
+      "hasImages": true
+    }
+  }
+}

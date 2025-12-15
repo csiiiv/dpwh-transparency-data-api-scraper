@@ -1,0 +1,131 @@
+{
+  "data": {
+    "contractId": "16LA0237",
+    "description": "CONSTRUCTION OF FLOOD MITIGATION FACILITIES ALONG AGUSAN RIVER, BRGY. OSMEÑA, COMPOSTELA, COMPOSTELA VALLEY PROVINCE",
+    "category": "Flood Control and Drainage",
+    "status": "Completed",
+    "budget": 46833378.95,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region XI",
+      "province": "Davao de Oro 1st DEO",
+      "infraType": "Flood Control and Drainage",
+      "coordinates": {
+        "latitude": 7.662587,
+        "longitude": 126.09836,
+        "verified": false
+      }
+    },
+    "infraType": "Flood Control and Drainage",
+    "contractor": "AB APONESTO CONSTRUCTION PARTS AND SUPPLY, INC. (22998)",
+    "startDate": "2016-11-28",
+    "completionDate": "2017-12-14",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-11-28",
+    "expiryDate": "2017-12-14",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - Flood Control/Hydraulics/Dredging, Flood Control/Hydraulics/River Control",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00022708MN-CW1",
+        "description": "Construction of Cutoff Channel - Construction of Flood Mitigation Facilities along Agusan River, Brgy. Osme±a, Compostela Valley (Cut-off Channel: Sta. 1+040 - Sta. 2+600, Gabion Revetment: Sta. 2+240 - Sta. 2+600)",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Construction of Cutoff Channel",
+        "region": "Region XI",
+        "province": "DAVAO DE ORO",
+        "coordinates": {
+          "latitude": 7.662587,
+          "longitude": 126.09836,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00022708MN-CW2",
+        "description": "Construction of Revetment - Construction of Flood Mitigation Facilities along Agusan River, Brgy. Osme±a, Compostela Valley (Cut-off Channel: Sta. 1+040 - Sta. 2+600, Gabion Revetment: Sta. 2+240 - Sta. 2+600)",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Construction of Revetment",
+        "region": "Region XI",
+        "province": "DAVAO DE ORO",
+        "coordinates": {
+          "latitude": 7.662587,
+          "longitude": 126.09836,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "AB APONESTO CONSTRUCTION PARTS AND SUPPLY, INC.",
+    "bidders": [
+      {
+        "name": "AB APONESTO CONSTRUCTION PARTS AND SUPPLY, INC. (22998)",
+        "pcabId": "22998",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "MAVERICK BUILDERS INCORPORATED (FORMERLY MAVERICK (14466)",
+        "pcabId": "14466",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "RUPLINO SEISMUNDO CONSTRUCTION CORPORATION (FORMERLY: R.R. SEISMUNDO CONSTRUCTION & SUPPLY) (10961)",
+        "pcabId": "10961",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION OF FLOOD MITIGATION FACILITIES ALONG AGUSAN RIVER, BRGY. OSMEÑA, COMPOSTELA, COMPOSTELA VALLEY PROVINCE",
+      "abc": "47085596.36",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-10-06 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-10-25 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "46183090.89"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/december/CONTRACT AGREEMENT.237.PDF",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/december/NOA.237.PDF",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/december/CONTRACT AGREEMENT.237.PDF",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 7.662587,
+    "longitude": 126.09836,
+    "coordinates": [
+      {
+        "componentId": "P00022708MN-CW1",
+        "description": "Construction of Cutoff Channel - Construction of Flood Mitigation Facilities along Agusan River, Brgy. Osme±a, Compostela Valley (Cut-off Channel: Sta. 1+040 - Sta. 2+600, Gabion Revetment: Sta. 2+240 - Sta. 2+600)",
+        "latitude": 7.662587,
+        "longitude": 126.09836,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00022708MN-CW2",
+        "description": "Construction of Revetment - Construction of Flood Mitigation Facilities along Agusan River, Brgy. Osme±a, Compostela Valley (Cut-off Channel: Sta. 1+040 - Sta. 2+600, Gabion Revetment: Sta. 2+240 - Sta. 2+600)",
+        "latitude": 7.662587,
+        "longitude": 126.09836,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

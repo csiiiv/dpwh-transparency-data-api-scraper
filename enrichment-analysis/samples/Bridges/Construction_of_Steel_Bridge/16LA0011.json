@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "16LA0011",
+    "description": "CONSTRUCTION OF HANGING BRIDGE, LIBOTON, LAAK, COMPOSTELA VALLEY PROVINCE",
+    "category": "Bridges",
+    "status": "Completed",
+    "budget": 961446.01,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region XI",
+      "province": "Davao de Oro 1st DEO",
+      "infraType": "Bridges",
+      "coordinates": {
+        "latitude": 7.9196389,
+        "longitude": 125.81091111,
+        "verified": false
+      }
+    },
+    "infraType": "Bridges",
+    "contractor": "E.P. MANANTAN CONSTRUCTION & DEVELOPMENT CORP. (6457)",
+    "startDate": "2016-03-10",
+    "completionDate": "2016-07-29",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-03-10",
+    "expiryDate": "2016-06-10",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 Locally Funded Projects",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00047257MN-CW1",
+        "description": "Construction of Steel Bridge - Hanging Bridge-, Liboton, Laak, Compostela Valley",
+        "infraType": "Bridges",
+        "typeOfWork": "Construction of Steel Bridge",
+        "region": "Region XI",
+        "province": "DAVAO DE ORO",
+        "coordinates": {
+          "latitude": 7.9196389,
+          "longitude": 125.81091111,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "E.P. MANANTAN CONSTRUCTION & DEVELOPMENT CORP.",
+    "bidders": [
+      {
+        "name": "E.P. MANANTAN CONSTRUCTION & DEVELOPMENT CORP. (6457)",
+        "pcabId": "6457",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "DAVAO CONCRETE PRODUCTS CONSTRUCTION AND TRADING CORPORATION (FORMERLY: DAVAO CONCRETE PRODUCTS) (12090)",
+        "pcabId": "12090",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION OF HANGING BRIDGE, LIBOTON, LAAK, COMPOSTELA VALLEY PROVINCE",
+      "abc": "989482.45",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-11-11 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-12-09 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "961,446.01"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/april/CONTRACT AGREEMENT.16LA0011.PDF",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/april/NOA.16LA0011.PDF",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/april/CONTRACT AGREEMENT.16LA0011.PDF",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 7.9196389,
+    "longitude": 125.81091111,
+    "coordinates": [
+      {
+        "componentId": "P00047257MN-CW1",
+        "description": "Construction of Steel Bridge - Hanging Bridge-, Liboton, Laak, Compostela Valley",
+        "latitude": 7.9196389,
+        "longitude": 125.81091111,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "22CF0122",
+    "description": "OFF-CARRIAGEWAY IMPROVEMENT-SECONDARY ROADS -NUEVA ECIJA - AURORA RD - K0117+500.00 - K0117+1008.50, K0118+000.00 - K0118+175.00",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 8582230.1,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region III",
+      "province": "Nueva Ecija 2nd DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 15.4912395,
+        "longitude": 120.9925031,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "DGSARM BUILDERS INC. (FORMERLY: D.G. SARMENTA CONSTRUCTION) (13024)",
+    "startDate": "2022-07-06",
+    "completionDate": "2022-12-16",
+    "infraYear": "2022",
+    "contractEffectivityDate": "2022-07-06",
+    "expiryDate": "2022-12-17",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2022 OO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00606355LZ-CW1",
+        "description": "Off-Carriageway Improvement: Construction of Sidewalk - Nueva Ecija-Aurora Rd - K0117+500.00 - K0117+1008.50, K0118+000.00-K0118+175.00",
+        "infraType": "Roads",
+        "typeOfWork": "Off-Carriageway Improvement: Construction of Sidewalk",
+        "region": "Region III",
+        "province": "NUEVA ECIJA",
+        "coordinates": {
+          "latitude": 15.4912395,
+          "longitude": 120.9925031,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "DGSARM BUILDERS INC. (FORMERLY: D.G. SARMENTA CONSTRUCTION)",
+    "bidders": [
+      {
+        "name": "DGSARM BUILDERS INC. (FORMERLY: D.G. SARMENTA CONSTRUCTION) (13024)",
+        "pcabId": "13024",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "CELSO C. FERRER  CONSTRUCTION CORP. (10643)",
+        "pcabId": "10643",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "OFF-CARRIAGEWAY IMPROVEMENT-SECONDARY ROADS -NUEVA ECIJA - AURORA RD - K0117+500.00 - K0117+1008.50, K0118+000.00 - K0118+175.00",
+      "abc": "8807174.78",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2022-05-20 00:00:00.0000000",
+      "bidSubmissionDeadline": "2022-06-08 00:00:00.0000000",
+      "dateOfAward": "2022-06-16 00:00:00.0000000",
+      "awardAmount": "8582230.1"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/ITB, Bid Docs & Plans for Contract ID No. 22CF0122.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/22cf0122_ca.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/22cf0122_noa.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/22cf0122_ntp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 15.4912395,
+    "longitude": 120.9925031,
+    "coordinates": [
+      {
+        "componentId": "P00606355LZ-CW1",
+        "description": "Off-Carriageway Improvement: Construction of Sidewalk - Nueva Ecija-Aurora Rd - K0117+500.00 - K0117+1008.50, K0118+000.00-K0118+175.00",
+        "latitude": 15.4912395,
+        "longitude": 120.9925031,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 1,
+      "latestImageDate": "2024-03-02 06:54:15.379000",
+      "hasImages": true
+    }
+  }
+}

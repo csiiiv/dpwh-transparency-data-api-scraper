@@ -1,0 +1,139 @@
+{
+  "data": {
+    "contractId": "15LB0204",
+    "description": "COMPLETION OF DAVAO CITY DIVERSION ROAD DRAINAGE (LA VERNA MAIN DRAIN) DAVAO CITY, 2ND LD",
+    "category": "Flood Control and Drainage",
+    "status": "Completed",
+    "budget": 37727034.63,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region XI",
+      "province": "Davao City DEO",
+      "infraType": "Flood Control and Drainage",
+      "coordinates": null
+    },
+    "infraType": "Flood Control and Drainage",
+    "contractor": "CLTG BUILDERS (16852)",
+    "startDate": "2016-09-19",
+    "completionDate": "2017-05-20",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-09-19",
+    "expiryDate": "2017-05-20",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - Flood Control/Hydraulics/Drainage, Maintenance Flood Control",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00020971MN-CW1",
+        "description": "Construction of Drainage Structure - Completion of Davao City Diversion Road Drainage (Laverna Maindrain), Davao City 2nd LD",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Construction of Drainage Structure",
+        "region": "Region XI",
+        "province": "DAVAO DEL SUR",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "CLTG BUILDERS",
+    "bidders": [
+      {
+        "name": "CLTG BUILDERS (16852)",
+        "pcabId": "16852",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "ALZAM ENTERPRISES INCORPORATED (FORMERLY: ALZAM ENTERPRISES) (19113)",
+        "pcabId": "19113",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "ARCINUE COMM'L CORPORATION (6746)",
+        "pcabId": "6746",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "DIGOS TESSTON CONST. & SUPPLIES (8921)",
+        "pcabId": "8921",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "FFJJ CONSTRUCTION (16712)",
+        "pcabId": "16712",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "GEMMA CONSTRUCTION SUPPLY, INC.(FORMERLY:GEMMA CON (5044)",
+        "pcabId": "5044",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "MONOLITHIC CONSTRUCTION & CONCRETE PRODUCTS, INC. (5733)",
+        "pcabId": "5733",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "O. G. SANTOS CONSTRUCTION (2050)",
+        "pcabId": "2050",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "RELY CONSTRUCTION & SUPPLY INC.(FORMERLY: RELY CONSTRUCTION AND SUPPLY) (10433)",
+        "pcabId": "10433",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "ROSAND BUILDERS CORPORATION (FORMERLY: ROSAND BUILDERS) (15781)",
+        "pcabId": "15781",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "THREE W BUILDERS, INC. (10722)",
+        "pcabId": "10722",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "COMPLETION OF DAVAO CITY DIVERSION ROAD DRAINAGE (LA VERNA MAIN DRAIN) DAVAO CITY, 2ND LD",
+      "abc": "39200000.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-10-16 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-12-17 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "37724270.1100000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "",
+      "noticeOfAward": "",
+      "noticeToProceed": "",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

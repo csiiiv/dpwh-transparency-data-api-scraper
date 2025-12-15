@@ -1,0 +1,115 @@
+{
+  "data": {
+    "contractId": "15DH0087",
+    "description": "REHABILITATION/RECONSTRUCTION/UPGRADING OF DAMAGED PAVED NATIONAL ROADS INCLUDING DRAINAGE BASED ON PAVEMENT MANAGEMENT SYSTEM/HIGHWAY DEVELOPMENT AND MANAGEMENT 4 (HDM-4), RIZAL BDRY.-FAMY-QUEZON ROAD, K0089 + 199 TO K0089 + 457",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 5548788.98,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region IV-A",
+      "province": "Laguna 1st DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 14.4810878749784,
+        "longitude": 121.498732246102,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "JOBEL ENTERPRISES (19799)",
+    "startDate": "2016-02-17",
+    "completionDate": "2016-04-09",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-02-17",
+    "expiryDate": "2016-04-09",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00001547LZ-CW1",
+        "description": "Road Upgrading Asphalt to Concrete - Rizal Bdry-Famy-Quezon Rd - K0089+199 - K0089+457",
+        "infraType": "Roads",
+        "typeOfWork": "Road Upgrading Asphalt to Concrete",
+        "region": "Region IV-A",
+        "province": "LAGUNA",
+        "coordinates": {
+          "latitude": 14.4810878749784,
+          "longitude": 121.498732246102,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "JOBEL ENTERPRISES",
+    "bidders": [
+      {
+        "name": "JOBEL ENTERPRISES (19799)",
+        "pcabId": "19799",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "MAGNA RICH TRADING & CONSTRUCTION (29108)",
+        "pcabId": "29108",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "PROTECH CONSTRUCTION & DEVELOPMENT CORP. (FORMERLY (15408)",
+        "pcabId": "15408",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "STO. CRISTO CONSTRUCTION & TRADING INC. (FOR: STO. CRISTO CONSTRUCTION & TRADING) (26096)",
+        "pcabId": "26096",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "REHABILITATION/RECONSTRUCTION/UPGRADING OF DAMAGED PAVED NATIONAL ROADS INCLUDING DRAINAGE BASED ON PAVEMENT MANAGEMENT SYSTEM/HIGHWAY DEVELOPMENT AND MANAGEMENT 4 (HDM-4), RIZAL BDRY.-FAMY-QUEZON ROAD, K0089 + 199 TO K0089 + 457",
+      "abc": "5840800.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-11-03 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-11-25 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "5548788.9800000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/march/Award 15DH0087001.pdf",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/ntp/16/march/NTP 15DH0087.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 14.4810878749784,
+    "longitude": 121.498732246102,
+    "coordinates": [
+      {
+        "componentId": "P00001547LZ-CW1",
+        "description": "Road Upgrading Asphalt to Concrete - Rizal Bdry-Famy-Quezon Rd - K0089+199 - K0089+457",
+        "latitude": 14.4810878749784,
+        "longitude": 121.498732246102,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

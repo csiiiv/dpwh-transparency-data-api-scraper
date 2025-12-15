@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "20BC0017",
+    "description": "WIDENING OF PERMANENT BRIDGES-MALARAM BR. (B02002LZ) ALONG BANGAG-MAGAPIT RD, ALLACAPAN, CAGAYAN",
+    "category": "Bridges",
+    "status": "Completed",
+    "budget": 16660000,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region II",
+      "province": "Cagayan 2nd DEO",
+      "infraType": "Bridges",
+      "coordinates": {
+        "latitude": 18.2534065,
+        "longitude": 121.5463783,
+        "verified": false
+      }
+    },
+    "infraType": "Bridges",
+    "contractor": "JLL PULSAR CONSTRUCTION CORPORATION (FORMERLY: PULSAR CONSTRUCTION) (24422)",
+    "startDate": "2020-03-23",
+    "completionDate": "2021-06-20",
+    "infraYear": "2020",
+    "contractEffectivityDate": "2020-03-23",
+    "expiryDate": "2021-05-02",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2020 OO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00401625LZ-CW1",
+        "description": "Construction of Parallel Bridge - Malaram Br. (B02002LZ) along Bangag-Magapit Rd",
+        "infraType": "Bridges",
+        "typeOfWork": "Construction of Parallel Bridge",
+        "region": "Region II",
+        "province": "CAGAYAN",
+        "coordinates": {
+          "latitude": 18.2534065,
+          "longitude": 121.5463783,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "JLL PULSAR CONSTRUCTION CORPORATION (FORMERLY: PULSAR CONSTRUCTION)",
+    "bidders": [
+      {
+        "name": "JLL PULSAR CONSTRUCTION CORPORATION (FORMERLY: PULSAR CONSTRUCTION) (24422)",
+        "pcabId": "24422",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "DOUBLE J1908 CONSTRUCTION (44337)",
+        "pcabId": "44337",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "WIDENING OF PERMANENT BRIDGES-MALARAM BR. (B02002LZ) ALONG BANGAG-MAGAPIT RD, ALLACAPAN, CAGAYAN",
+      "abc": "16660000.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2020-01-16 00:00:00.0000000",
+      "bidSubmissionDeadline": "2020-02-27 00:00:00.0000000",
+      "dateOfAward": "2020-03-10 00:00:00.0000000",
+      "awardAmount": "16242413.41"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/20BC0017.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/20BC0017 CA.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/20BC0017 NOA.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/20BC0017 CA.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 18.2534065,
+    "longitude": 121.5463783,
+    "coordinates": [
+      {
+        "componentId": "P00401625LZ-CW1",
+        "description": "Construction of Parallel Bridge - Malaram Br. (B02002LZ) along Bangag-Magapit Rd",
+        "latitude": 18.2534065,
+        "longitude": 121.5463783,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 6,
+      "latestImageDate": "2021-08-26 02:53:47.624999",
+      "hasImages": true
+    }
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "15OH0191",
+    "description": "PROPOSED CONSTRUCTION OF KAHILUM HEALTH CENTER & TB DOTS, STA.ANA, MANILA",
+    "category": "Buildings and Facilities",
+    "status": "Completed",
+    "budget": 11691858.3,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "National Capital Region",
+      "province": "South Manila DEO",
+      "infraType": "Buildings and Facilities",
+      "coordinates": null
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "FRAMECON BUILDERS (22482)",
+    "startDate": "2016-11-21",
+    "completionDate": "2017-05-19",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-11-21",
+    "expiryDate": "2017-05-19",
+    "nysReason": null,
+    "programName": "Outside Infra",
+    "sourceOfFunds": "Outside Infra - GAA 2016 DOH HFEP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00061059LZ-CW1",
+        "description": "Construction of Hospital - Construction of Kahilum Health Center, City of Manila",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of Hospital",
+        "region": "National Capital Region",
+        "province": "METROPOLITAN MANILA",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "FRAMECON BUILDERS",
+    "bidders": [
+      {
+        "name": "FRAMECON BUILDERS (22482)",
+        "pcabId": "22482",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "ALPHA & OMEGA GEN. CONTRACTOR & DEVELOPMENT CORP. ([REVOKED] 38958)",
+        "pcabId": "[REVOKED] 38958",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "PRODEL CONSTRUCTION & DEVELOPMENT CORPORATION (10839)",
+        "pcabId": "10839",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "R.D. TALENS CONSTRUCTION AND TRADING (36817)",
+        "pcabId": "36817",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "R.E. ORLINA CONSTRUCTION CORPORATION (17176)",
+        "pcabId": "17176",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "PROPOSED CONSTRUCTION OF KAHILUM HEALTH CENTER & TB DOTS, STA.ANA, MANILA",
+      "abc": "12307693.13",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-09-22 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-09-29 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "11691858.3000000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/15oh0191_contract.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/15oh0191_noa.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/15oh0191_ntp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

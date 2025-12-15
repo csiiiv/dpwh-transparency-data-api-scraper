@@ -1,0 +1,121 @@
+{
+  "data": {
+    "contractId": "25E00005",
+    "description": "SUSTAINABLE INFRASTRUCTRE PROJECTS ALLEVIATING GAPS (SIPAG)- FLOOD MITIGATION STRUCTURES PROTECTING PUBLIC INFRASTRUCTURES/FACILITIES- CONST. OF SABO DAM AT MOGPOG RIVER, MOGPOG, MARINDUQUE",
+    "category": "Flood Control and Drainage",
+    "status": "On-Going",
+    "budget": 92172578.59,
+    "amountPaid": 0,
+    "progress": 53.79,
+    "location": {
+      "region": "Region IV-B",
+      "province": "Region IV-B",
+      "infraType": "Flood Control and Drainage",
+      "coordinates": {
+        "latitude": 13.4695873,
+        "longitude": 121.9404602,
+        "verified": false
+      }
+    },
+    "infraType": "Flood Control and Drainage",
+    "contractor": "R.R. ENCABO CONSTRUCTORS INCORPORATED (FORMERLY RR (14716)",
+    "startDate": "2025-02-15",
+    "completionDate": null,
+    "infraYear": "2025",
+    "contractEffectivityDate": "2025-02-15",
+    "expiryDate": "2025-09-14",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2025 SSP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00941442LZ-CW1",
+        "description": "Construction of Sabo Dam - Construction of SABO Dam at Mogpog River, Mogpog, Marinduque",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Construction of Sabo Dam",
+        "region": "Region IV-B",
+        "province": "MARINDUQUE",
+        "coordinates": {
+          "latitude": 13.4695873,
+          "longitude": 121.9404602,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "R.R. ENCABO CONSTRUCTORS INCORPORATED (FORMERLY RR",
+    "bidders": [
+      {
+        "name": "R.R. ENCABO CONSTRUCTORS INCORPORATED (FORMERLY RR (14716)",
+        "pcabId": "14716",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "CDU CONSTRUCTION (13915)",
+        "pcabId": "13915",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "GREAT PACIFIC BUILDERS AND GEN. CONTRACTOR INC. ([REVOKED] 45914)",
+        "pcabId": "[REVOKED] 45914",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "MANGEN TECHNO-BUILDERS INC. (39778)",
+        "pcabId": "39778",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "W.D. NAVARRO CONSTRUCTION CO. (14327)",
+        "pcabId": "14327",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "SUSTAINABLE INFRASTRUCTRE PROJECTS ALLEVIATING GAPS (SIPAG)- FLOOD MITIGATION STRUCTURES PROTECTING PUBLIC INFRASTRUCTURES/FACILITIES- CONST. OF SABO DAM AT MOGPOG RIVER, MOGPOG, MARINDUQUE",
+      "abc": "96264539.99",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2024-10-08 00:00:00.0000000",
+      "bidSubmissionDeadline": "2024-10-29 00:00:00.0000000",
+      "dateOfAward": "2025-02-10 00:00:00.0000000",
+      "awardAmount": "92172578.59"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/batch_5_25e00005.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/25-5.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/25e00005.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/25e00005_ntp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 13.4695873,
+    "longitude": 121.9404602,
+    "coordinates": [
+      {
+        "componentId": "P00941442LZ-CW1",
+        "description": "Construction of Sabo Dam - Construction of SABO Dam at Mogpog River, Mogpog, Marinduque",
+        "latitude": 13.4695873,
+        "longitude": 121.9404602,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 1,
+      "latestImageDate": "2025-08-06 06:51:12.214999",
+      "hasImages": true
+    }
+  }
+}

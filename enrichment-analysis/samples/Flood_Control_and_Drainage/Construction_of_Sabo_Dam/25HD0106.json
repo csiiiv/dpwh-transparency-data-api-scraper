@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "25HD0106",
+    "description": "ORGANIZATIONAL OUTCOME 2: PROTECT LIVES AND PROPERTIES AGAINST MAJOR FLOODS - FLOOD MANAGEMENT PROGRAM -CONST/MAINT OF FLOOD MITIGATION STRUCTURES AND DRAINAGE SYSTEMS - CONSTRUCTION OF SABO DAM, CAN-ASUJAN SRIS, CAN-ASUJAN, CITY OF CARCAR, CEBU",
+    "category": "Flood Control and Drainage",
+    "status": "On-Going",
+    "budget": 14470000,
+    "amountPaid": 0,
+    "progress": 92.04,
+    "location": {
+      "region": "Region VII",
+      "province": "Cebu 1st DEO",
+      "infraType": "Flood Control and Drainage",
+      "coordinates": {
+        "latitude": 10.1705414,
+        "longitude": 123.6489267,
+        "verified": false
+      }
+    },
+    "infraType": "Flood Control and Drainage",
+    "contractor": "HELM CONSTRUCTION & SUPPLIES (34385)",
+    "startDate": "2025-03-14",
+    "completionDate": null,
+    "infraYear": "2025",
+    "contractEffectivityDate": "2025-03-14",
+    "expiryDate": "2025-08-07",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2025 OO-2",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00920103VS-CW1",
+        "description": "Construction of Sabo Dam - Construction of Sabo Dam, Can-Asujan SRIS, Can-Asujan, City of Carcar, Cebu",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Construction of Sabo Dam",
+        "region": "Region VII",
+        "province": "CEBU",
+        "coordinates": {
+          "latitude": 10.1705414,
+          "longitude": 123.6489267,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "HELM CONSTRUCTION & SUPPLIES",
+    "bidders": [
+      {
+        "name": "HELM CONSTRUCTION & SUPPLIES (34385)",
+        "pcabId": "34385",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "JANUARY BUILDERS (39818)",
+        "pcabId": "39818",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "ORGANIZATIONAL OUTCOME 2: PROTECT LIVES AND PROPERTIES AGAINST MAJOR FLOODS - FLOOD MANAGEMENT PROGRAM -CONST/MAINT OF FLOOD MITIGATION STRUCTURES AND DRAINAGE SYSTEMS - CONSTRUCTION OF SABO DAM, CAN-ASUJAN SRIS, CAN-ASUJAN, CITY OF CARCAR, CEBU",
+      "abc": "14475000.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2024-11-13 00:00:00.0000000",
+      "bidSubmissionDeadline": "2024-12-02 00:00:00.0000000",
+      "dateOfAward": "2025-02-25 00:00:00.0000000",
+      "awardAmount": "14470000"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/25hd0106_bds_fmsd_sabo_dam_14.475m.pdf",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/25hd0106.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/25hd0106.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/25hd0106.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 10.1705414,
+    "longitude": 123.6489267,
+    "coordinates": [
+      {
+        "componentId": "P00920103VS-CW1",
+        "description": "Construction of Sabo Dam - Construction of Sabo Dam, Can-Asujan SRIS, Can-Asujan, City of Carcar, Cebu",
+        "latitude": 10.1705414,
+        "longitude": 123.6489267,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 1,
+      "latestImageDate": "2025-07-31 08:05:00.790999",
+      "hasImages": true
+    }
+  }
+}

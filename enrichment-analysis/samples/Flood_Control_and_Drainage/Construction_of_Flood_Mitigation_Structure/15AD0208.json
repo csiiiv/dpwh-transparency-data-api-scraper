@@ -1,0 +1,79 @@
+{
+  "data": {
+    "contractId": "15AD0208",
+    "description": "CONSTRUCTION: BALBALAYANG POBLACION RIVER/FLOOD CONTROL, SUGPON, ILOCOS SUR",
+    "category": "Flood Control and Drainage",
+    "status": "Completed",
+    "budget": 19003173.33,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region I",
+      "province": "Ilocos Sur 2nd DEO",
+      "infraType": "Flood Control and Drainage",
+      "coordinates": null
+    },
+    "infraType": "Flood Control and Drainage",
+    "contractor": "F.B. BANTALES ENGINEERING CONSTRUCTION (31045) / KIDFER CONSTRUCTION (34013)",
+    "startDate": "2016-03-23",
+    "completionDate": "2016-09-07",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-03-23",
+    "expiryDate": "2016-09-09",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-2",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00022200LZ-CW1",
+        "description": "Construction of Flood Mitigation Structure - Construction of Balbalayang Poblacion River Flood Control, Sugpon, Ilocos Sur, LAT-16.838529 LONG-120.514005",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Construction of Flood Mitigation Structure",
+        "region": "Region I",
+        "province": "ILOCOS SUR",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "F.B. BANTALES ENGINEERING CONSTRUCTION, KIDFER CONSTRUCTION",
+    "bidders": [
+      {
+        "name": "F.B. BANTALES ENGINEERING CONSTRUCTION (31045) / KIDFER CONSTRUCTION (34013) (JV ID: JV-15-1314)",
+        "pcabId": "",
+        "participation": 100,
+        "isWinner": true
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION: BALBALAYANG POBLACION RIVER/FLOOD CONTROL, SUGPON, ILOCOS SUR",
+      "abc": "19600000.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-12-29 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-02-23 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "19004805.7400000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/april/15AD0208 CA542.pdf",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/april/15AD0208 NOA541.pdf",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/april/15AD0208 CA542.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

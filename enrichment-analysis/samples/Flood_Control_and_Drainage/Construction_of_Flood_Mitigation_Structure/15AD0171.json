@@ -1,0 +1,85 @@
+{
+  "data": {
+    "contractId": "15AD0171",
+    "description": "CONSTN/MAINT OF FC MITIGATION STRUCTURES & DRAINAGE SYSTEM OAIG DAYA SAN NICOLAS FC(SAN NICOLAS BRIDGE),CANDON CITY,ILOCOS SUR",
+    "category": "Flood Control and Drainage",
+    "status": "Completed",
+    "budget": 14199400.46,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region I",
+      "province": "Ilocos Sur 2nd DEO",
+      "infraType": "Flood Control and Drainage",
+      "coordinates": null
+    },
+    "infraType": "Flood Control and Drainage",
+    "contractor": "FIRST NORTHWAY DEVELOPMENT & CONSTRUCTION CORP. (11645)",
+    "startDate": "2016-01-29",
+    "completionDate": "2016-05-27",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-01-29",
+    "expiryDate": "2016-05-29",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-2",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00020276LZ-CW1",
+        "description": "Construction of Flood Mitigation Structure - Construction of Flood Mitigation Structures and Drainage System-Oaig Daya-San Nicolas Flood Control (San Nicolas Bridge) Candon City, Ilocos Sur 2nd LD",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Construction of Flood Mitigation Structure",
+        "region": "Region I",
+        "province": "ILOCOS SUR",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "FIRST NORTHWAY DEVELOPMENT & CONSTRUCTION CORP.",
+    "bidders": [
+      {
+        "name": "FIRST NORTHWAY DEVELOPMENT & CONSTRUCTION CORP. (11645)",
+        "pcabId": "11645",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "VIGAN FORTUNE CONSTRUCTION (3887)",
+        "pcabId": "3887",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTN/MAINT OF FC MITIGATION STRUCTURES & DRAINAGE SYSTEM OAIG DAYA SAN NICOLAS FC(SAN NICOLAS BRIDGE),CANDON CITY,ILOCOS SUR",
+      "abc": "14725168.44",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-11-25 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-12-17 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "14199400.4600000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/february/15AD0171 CA260.pdf",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/february/15AD0171 NOA259.pdf",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/february/15AD0171 CA260.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

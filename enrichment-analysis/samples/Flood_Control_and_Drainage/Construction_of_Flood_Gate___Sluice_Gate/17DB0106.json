@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "17DB0106",
+    "description": "CONSTRUCTION OF SPILLWAY, BARANGAY CALAYO, NASUGBU, BATANGAS",
+    "category": "Flood Control and Drainage",
+    "status": "Completed",
+    "budget": 1900796.89,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region IV-A",
+      "province": "Batangas 1st DEO",
+      "infraType": "Flood Control and Drainage",
+      "coordinates": {
+        "latitude": 14.148708,
+        "longitude": 120.610253,
+        "verified": false
+      }
+    },
+    "infraType": "Flood Control and Drainage",
+    "contractor": "VRV CONSTRUCTION AND TRADING (34776)",
+    "startDate": "2017-08-09",
+    "completionDate": "2019-12-06",
+    "infraYear": "2017",
+    "contractEffectivityDate": "2017-08-09",
+    "expiryDate": "2017-12-06",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2017 LFP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00148558LZ-CW1",
+        "description": "Construction of Flood Gate / Sluice Gate - Construction of Spillway, Barangay Calayo, Nasugbu, Batangas",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Construction of Flood Gate / Sluice Gate",
+        "region": "Region IV-A",
+        "province": "BATANGAS",
+        "coordinates": {
+          "latitude": 14.148708,
+          "longitude": 120.610253,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "VRV CONSTRUCTION AND TRADING",
+    "bidders": [
+      {
+        "name": "VRV CONSTRUCTION AND TRADING (34776)",
+        "pcabId": "34776",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "SUPPLICON BUILDERS (39415)",
+        "pcabId": "39415",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION OF SPILLWAY, BARANGAY CALAYO, NASUGBU, BATANGAS",
+      "abc": "1980000.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2017-06-07 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-06-27 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "1,900,796.89"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/17DB0106.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/contract1_17db0106.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/notice_of_award_17db0106.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/ntp.jpg",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 14.148708,
+    "longitude": 120.610253,
+    "coordinates": [
+      {
+        "componentId": "P00148558LZ-CW1",
+        "description": "Construction of Flood Gate / Sluice Gate - Construction of Spillway, Barangay Calayo, Nasugbu, Batangas",
+        "latitude": 14.148708,
+        "longitude": 120.610253,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

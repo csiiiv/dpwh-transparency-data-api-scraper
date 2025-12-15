@@ -1,0 +1,157 @@
+{
+  "data": {
+    "contractId": "15CD0267",
+    "description": "REPAIR AND REHABILITATION OF MUNICIPAL BUILDING, STA.CRUZ, ANGAT, BULACAN",
+    "category": "Buildings and Facilities",
+    "status": "Completed",
+    "budget": 3791062.68,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region III",
+      "province": "Bulacan 2nd DEO",
+      "infraType": "Buildings and Facilities",
+      "coordinates": {
+        "latitude": 14.927902,
+        "longitude": 121.028125,
+        "verified": false
+      }
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "ST. TIMOTHY CONSTRUCTION CORPORATION ([REVOKED] 39196)",
+    "startDate": "2016-02-16",
+    "completionDate": "2016-04-15",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-02-16",
+    "expiryDate": "2016-04-15",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 Locally Funded Projects",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00041439LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Multi Purpose Building - Repair and Rehabilitation of Municipal Multi-Purpose Building, Sta. Cruz, Angat, Bulacan 3rd LD",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Rehabilitation / Major Repair of Multi Purpose Building",
+        "region": "Region III",
+        "province": "BULACAN",
+        "coordinates": {
+          "latitude": 14.927902,
+          "longitude": 121.028125,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "ST. TIMOTHY CONSTRUCTION CORPORATION",
+    "bidders": [
+      {
+        "name": "ST. TIMOTHY CONSTRUCTION CORPORATION ([REVOKED] 39196)",
+        "pcabId": "[REVOKED] 39196",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "DIADEMA CONSTRUCTION AND ENTERPRISES INC. (FORMERLY: DIADEMA ENTERPRISES) (16759)",
+        "pcabId": "16759",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "E.I. VILLACORTE CONSTRUCTION (24743)",
+        "pcabId": "24743",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "ISH CONSTRUCTION INC. (30407)",
+        "pcabId": "30407",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "JMK BUILDERS CONSTRUCTION (36417)",
+        "pcabId": "36417",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "PKCS CONSTRUCTION & HARDWARE (27975)",
+        "pcabId": "27975",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "RICSAN BUILDERS (33045)",
+        "pcabId": "33045",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "TRIMLUV BUILDERS AND SUPPLY (33467)",
+        "pcabId": "33467",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "TWO ACES CONSTRUCTION & SUPPLY (15413)",
+        "pcabId": "15413",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "TWO DIMENSION CONSTRUCTION (39410)",
+        "pcabId": "39410",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "VERGUZ CONSTRUCTION (26641)",
+        "pcabId": "26641",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "REPAIR AND REHABILITATION OF MUNICIPAL BUILDING, STA.CRUZ, ANGAT, BULACAN",
+      "abc": "3999985.24",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-11-27 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-12-16 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "3791062.6800000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/september/CA 265,266,267.zip",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/september/NOA 266,267,268,269,270.zip",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/ca_15cd0267.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 14.927902,
+    "longitude": 121.028125,
+    "coordinates": [
+      {
+        "componentId": "P00041439LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Multi Purpose Building - Repair and Rehabilitation of Municipal Multi-Purpose Building, Sta. Cruz, Angat, Bulacan 3rd LD",
+        "latitude": 14.927902,
+        "longitude": 121.028125,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

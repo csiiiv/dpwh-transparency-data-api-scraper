@@ -1,0 +1,97 @@
+{
+  "data": {
+    "contractId": "19CM0061",
+    "description": "REPAIR AND REHABILITATION OF SUBIC COVERED  COURT, SUBIC BAY FREEPORT ZONE",
+    "category": "Buildings and Facilities",
+    "status": "Completed",
+    "budget": 5558109.17,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region III",
+      "province": "Zambales 2nd DEO",
+      "infraType": "Buildings and Facilities",
+      "coordinates": {
+        "latitude": 14.8214497,
+        "longitude": 120.2835242,
+        "verified": false
+      }
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "MICKAJETTE CONSTRUCTION AND TRADING (35239)",
+    "startDate": "2019-05-27",
+    "completionDate": "2019-07-25",
+    "infraYear": "2019",
+    "contractEffectivityDate": "2019-05-27",
+    "expiryDate": "2019-07-25",
+    "nysReason": null,
+    "programName": "Outside Infra",
+    "sourceOfFunds": "Outside Infra - Trust Funds 2019",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00399001LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Facilities - Repair and Rehabilitation of Subic Covered Court, Subic Bay Freeport Zone",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Rehabilitation / Major Repair of Facilities",
+        "region": "Region III",
+        "province": "ZAMBALES",
+        "coordinates": {
+          "latitude": 14.8214497,
+          "longitude": 120.2835242,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "MICKAJETTE CONSTRUCTION AND TRADING",
+    "bidders": [
+      {
+        "name": "MICKAJETTE CONSTRUCTION AND TRADING (35239)",
+        "pcabId": "35239",
+        "participation": 100,
+        "isWinner": true
+      }
+    ],
+    "procurement": {
+      "contractName": "REPAIR AND REHABILITATION OF SUBIC COVERED  COURT, SUBIC BAY FREEPORT ZONE",
+      "abc": "5671362.73",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2019-04-13 00:00:00.0000000",
+      "bidSubmissionDeadline": "2019-05-06 00:00:00.0000000",
+      "dateOfAward": "2019-05-15 00:00:00.0000000",
+      "awardAmount": "5558109.17"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/19CM0061 - Revised IB and Bid Docs.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/19CM0061- CONTRACT.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/19CM0061-NOA.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/19CM0061- CONTRACT.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 14.8214497,
+    "longitude": 120.2835242,
+    "coordinates": [
+      {
+        "componentId": "P00399001LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Facilities - Repair and Rehabilitation of Subic Covered Court, Subic Bay Freeport Zone",
+        "latitude": 14.8214497,
+        "longitude": 120.2835242,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

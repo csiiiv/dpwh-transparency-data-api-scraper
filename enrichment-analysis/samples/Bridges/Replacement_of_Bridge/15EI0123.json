@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "15EI0123",
+    "description": "COMPLETION OF PERMANENT WEAK BRIDGE: SUMAGUE BR. (B00051MR) ALONG CALAPAN SOUTH ROAD, BANSUD, OR. MI",
+    "category": "Bridges",
+    "status": "Terminated",
+    "budget": 0,
+    "amountPaid": 0,
+    "progress": 0,
+    "location": {
+      "region": "Region IV-B",
+      "province": "Southern Mindoro DEO",
+      "infraType": "Bridges",
+      "coordinates": {
+        "latitude": 12.8028197929474,
+        "longitude": 121.472107053296,
+        "verified": false
+      }
+    },
+    "infraType": "Bridges",
+    "contractor": "FORETOP CONSTRUCTION (32813)",
+    "startDate": "2016-03-06",
+    "completionDate": "2016-11-07",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-03-06",
+    "expiryDate": "2016-06-18",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00017021LZ-CW1",
+        "description": "Replacement of Bridge - Sumague Br. (B00051MR) along Calapan South Rd (Completion)",
+        "infraType": "Bridges",
+        "typeOfWork": "Replacement of Bridge",
+        "region": "Region IV-B",
+        "province": "ORIENTAL MINDORO",
+        "coordinates": {
+          "latitude": 12.8028197929474,
+          "longitude": 121.472107053296,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "FORETOP CONSTRUCTION",
+    "bidders": [
+      {
+        "name": "FORETOP CONSTRUCTION (32813)",
+        "pcabId": "32813",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "LUMEL GLENN CONSTRUCTION (26817)",
+        "pcabId": "26817",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "COMPLETION OF PERMANENT WEAK BRIDGE: SUMAGUE BR. (B00051MR) ALONG CALAPAN SOUTH ROAD, BANSUD, OR. MI",
+      "abc": "3899505.43",
+      "status": "T",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-01-15 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-02-05 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "3649067.3300000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "",
+      "noticeOfAward": "",
+      "noticeToProceed": "",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 12.8028197929474,
+    "longitude": 121.472107053296,
+    "coordinates": [
+      {
+        "componentId": "P00017021LZ-CW1",
+        "description": "Replacement of Bridge - Sumague Br. (B00051MR) along Calapan South Rd (Completion)",
+        "latitude": 12.8028197929474,
+        "longitude": 121.472107053296,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

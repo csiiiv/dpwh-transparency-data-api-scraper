@@ -1,0 +1,115 @@
+{
+  "data": {
+    "contractId": "18C00027",
+    "description": "NETWORK DEVELOPMENT PROGRAM-CONSTRUCTION OF BY-PASS AND DIVERSION ROADS TAMBUBONG ENTRANCE/EXIT TO NLEX, BULACAN, PROVINCE OF BULACAN",
+    "category": "Bridges",
+    "status": "Completed",
+    "budget": 87448170.01,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region III",
+      "province": "Region III",
+      "infraType": "Bridges",
+      "coordinates": {
+        "latitude": 14.8138937,
+        "longitude": 120.9342095,
+        "verified": false
+      }
+    },
+    "infraType": "Bridges",
+    "contractor": "525 CONSTRUCTION (28532)",
+    "startDate": "2018-09-20",
+    "completionDate": "2019-12-09",
+    "infraYear": "2018",
+    "contractEffectivityDate": "2018-09-20",
+    "expiryDate": "2019-12-09",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2018 OO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00201014LZ-CW1",
+        "description": "Construction of Interchange - Tambubong Entrance/Exit to NLEX, Bulacan",
+        "infraType": "Bridges",
+        "typeOfWork": "Construction of Interchange",
+        "region": "Region III",
+        "province": "BULACAN",
+        "coordinates": {
+          "latitude": 14.8138937,
+          "longitude": 120.9342095,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "525 CONSTRUCTION",
+    "bidders": [
+      {
+        "name": "525 CONSTRUCTION (28532)",
+        "pcabId": "28532",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "G.D.L. CONSTRUCTION (22796)",
+        "pcabId": "22796",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "MONOLITHIC CONSTRUCTION & CONCRETE PRODUCTS, INC. (5733)",
+        "pcabId": "5733",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "P.L. SEBASTIAN CONSTRUCTION, INC. (FORMERLY: P.L. SEBASTIAN CONSTRUCTION) (35840)",
+        "pcabId": "35840",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "NETWORK DEVELOPMENT PROGRAM-CONSTRUCTION OF BY-PASS AND DIVERSION ROADS TAMBUBONG ENTRANCE/EXIT TO NLEX, BULACAN, PROVINCE OF BULACAN",
+      "abc": "82463940.03",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2018-07-26 00:00:00.0000000",
+      "bidSubmissionDeadline": "2018-08-14 00:00:00.0000000",
+      "dateOfAward": "2018-08-29 00:00:00.0000000",
+      "awardAmount": "79990021.83"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/part2.rar",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/18c00027.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/18c00027.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/18c00027.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 14.8138937,
+    "longitude": 120.9342095,
+    "coordinates": [
+      {
+        "componentId": "P00201014LZ-CW1",
+        "description": "Construction of Interchange - Tambubong Entrance/Exit to NLEX, Bulacan",
+        "latitude": 14.8138937,
+        "longitude": 120.9342095,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

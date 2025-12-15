@@ -1,0 +1,85 @@
+{
+  "data": {
+    "contractId": "15CA0106",
+    "description": "CONSTRUCTION OF CATMON BRIDGE, BARANGAY CALAYLAYAN, ABUCAY, BATAAN",
+    "category": "Bridges",
+    "status": "Completed",
+    "budget": 12370083.63,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region III",
+      "province": "Bataan 1st DEO",
+      "infraType": "Bridges",
+      "coordinates": null
+    },
+    "infraType": "Bridges",
+    "contractor": "ORANI CONSTRUCTION AND SUPPLY CORPORATION (FORMERLY:ORANI BUILDERS & SUPPLY) (05349)",
+    "startDate": "2016-02-29",
+    "completionDate": "2016-09-22",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-02-29",
+    "expiryDate": "2016-08-26",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 Locally Funded Projects",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00047091LZ-CW1",
+        "description": "Construction of Bridge - Construction of Catmon Bridge, Brgy. Calaylayan, Abucay, Bataan",
+        "infraType": "Bridges",
+        "typeOfWork": "Construction of Bridge",
+        "region": "Region III",
+        "province": "BATAAN",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "ORANI CONSTRUCTION AND SUPPLY CORPORATION (FORMERLY:ORANI BUILDERS & SUPPLY)",
+    "bidders": [
+      {
+        "name": "ORANI CONSTRUCTION AND SUPPLY CORPORATION (FORMERLY:ORANI BUILDERS & SUPPLY) (05349)",
+        "pcabId": "05349",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "DUNGAN CONT'RS.& TDG. CORP (FORMERLY DUNGAN CONST. (19301)",
+        "pcabId": "19301",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION OF CATMON BRIDGE, BARANGAY CALAYLAYAN, ABUCAY, BATAAN",
+      "abc": "13230000.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-12-21 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-01-14 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "12370083.6300000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/april/img483.jpg",
+      "noticeToProceed": "",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

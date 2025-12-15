@@ -1,0 +1,97 @@
+{
+  "data": {
+    "contractId": "15B00061",
+    "description": "RECONST'N OF DAMAGED PAVED NAT'L RDS. INCLUDING DRAINAGE ON PVM'T MNG'T",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 16572371.16,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region II",
+      "province": "Region II",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 17.053501277193,
+        "longitude": 121.627289055251,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "W.D. NAVARRO CONSTRUCTION CO. (14327)",
+    "startDate": "2016-01-28",
+    "completionDate": "2016-06-06",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-01-28",
+    "expiryDate": "2016-06-06",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00000814LZ-CW1",
+        "description": "Rehabilitation of Concrete Road - Santiago-Tuguegarao Rd - K0375+163 - K0375+578, K0395+789 - K0396+510, K0416+000 - K0416+246, K0413+844.5 - K0414+233",
+        "infraType": "Roads",
+        "typeOfWork": "Rehabilitation of Concrete Road",
+        "region": "Region II",
+        "province": "KALINGA",
+        "coordinates": {
+          "latitude": 17.053501277193,
+          "longitude": 121.627289055251,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "W.D. NAVARRO CONSTRUCTION CO.",
+    "bidders": [
+      {
+        "name": "W.D. NAVARRO CONSTRUCTION CO. (14327)",
+        "pcabId": "14327",
+        "participation": 100,
+        "isWinner": true
+      }
+    ],
+    "procurement": {
+      "contractName": "RECONST'N OF DAMAGED PAVED NAT'L RDS. INCLUDING DRAINAGE ON PVM'T MNG'T",
+      "abc": "17451525.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-10-29 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-11-24 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "16578042.2500000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/may/15b00061-Cont.agreemnt.pdf",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/may/15b00061-Noa.pdf",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/may/15b00061-Cont.agreemnt.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 17.053501277193,
+    "longitude": 121.627289055251,
+    "coordinates": [
+      {
+        "componentId": "P00000814LZ-CW1",
+        "description": "Rehabilitation of Concrete Road - Santiago-Tuguegarao Rd - K0375+163 - K0375+578, K0395+789 - K0396+510, K0416+000 - K0416+246, K0413+844.5 - K0414+233",
+        "latitude": 17.053501277193,
+        "longitude": 121.627289055251,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

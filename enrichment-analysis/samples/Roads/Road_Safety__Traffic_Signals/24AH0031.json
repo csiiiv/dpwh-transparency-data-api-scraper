@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "24AH0031",
+    "description": "IMPROVEMENT OF INTERSECTION-PANGASINAN LA UNION RD(S00305LZ)-K0380+050 AND TAMBAK RD.DAG.CITY,PANGAS",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 9800000,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region I",
+      "province": "Pangasinan 2nd DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 16.0459972,
+        "longitude": 120.3565907,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "ALCEL CONSTRUCTION (15129)",
+    "startDate": "2024-05-03",
+    "completionDate": "2024-06-10",
+    "infraYear": "2024",
+    "contractEffectivityDate": "2024-05-03",
+    "expiryDate": "2024-07-31",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2024 SSP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00837691LZ-CW1",
+        "description": "Road Safety: Traffic Signals - Improvement of Intersection - Pangasinan-La Union Rd (S00305LZ) - K0380 + 050 and Tambac Rd",
+        "infraType": "Roads",
+        "typeOfWork": "Road Safety: Traffic Signals",
+        "region": "Region I",
+        "province": "PANGASINAN",
+        "coordinates": {
+          "latitude": 16.0459972,
+          "longitude": 120.3565907,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "ALCEL CONSTRUCTION",
+    "bidders": [
+      {
+        "name": "ALCEL CONSTRUCTION (15129)",
+        "pcabId": "15129",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "W.M. SALAYOG CONSTRUCTION & GEN MERCHADISE (12851)",
+        "pcabId": "12851",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "IMPROVEMENT OF INTERSECTION-PANGASINAN LA UNION RD(S00305LZ)-K0380+050 AND TAMBAK RD.DAG.CITY,PANGAS",
+      "abc": "9800000.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2024-03-06 00:00:00.0000000",
+      "bidSubmissionDeadline": "2024-03-26 00:00:00.0000000",
+      "dateOfAward": "2024-04-18 00:00:00.0000000",
+      "awardAmount": "9506444.21"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/rfq_itb_24ah0031-32svp.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/ca_-_24ah0031svp.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/noa_-_24ah0031svp.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/ntp_-_24ah0031svp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 16.0459972,
+    "longitude": 120.3565907,
+    "coordinates": [
+      {
+        "componentId": "P00837691LZ-CW1",
+        "description": "Road Safety: Traffic Signals - Improvement of Intersection - Pangasinan-La Union Rd (S00305LZ) - K0380 + 050 and Tambac Rd",
+        "latitude": 16.0459972,
+        "longitude": 120.3565907,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 3,
+      "latestImageDate": "2024-11-19 01:55:19.488000",
+      "hasImages": true
+    }
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "16FB0144",
+    "description": "CONSTRUCTION/REPAIR/REHABILITATION/IMPROVEMENT OF VARIOUS INFRASTRUCTURE INCLUDING LOCAL PROJECTS: DAY CARE CENTER, CAMALIG",
+    "category": "Buildings and Facilities",
+    "status": "Completed",
+    "budget": 350012.91,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region V",
+      "province": "Albay 2nd DEO",
+      "infraType": "Buildings and Facilities",
+      "coordinates": {
+        "latitude": 13.183849,
+        "longitude": 123.670509,
+        "verified": false
+      }
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "GEMELLUS BUILDERS AND GENERAL SUPPLY (40979)",
+    "startDate": "2017-12-04",
+    "completionDate": "2018-01-17",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2017-12-04",
+    "expiryDate": "2018-01-17",
+    "nysReason": null,
+    "programName": "Outside Infra",
+    "sourceOfFunds": "Outside Infra - GAA 2016 NDRRMF",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00195065LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Other Building - Rehabilitation and Upgrading of Medical and Non-Medical Facilities, Day Care Center, Camalig, Albay",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Rehabilitation / Major Repair of Other Building",
+        "region": "Region V",
+        "province": "ALBAY",
+        "coordinates": {
+          "latitude": 13.183849,
+          "longitude": 123.670509,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "GEMELLUS BUILDERS AND GENERAL SUPPLY",
+    "bidders": [
+      {
+        "name": "GEMELLUS BUILDERS AND GENERAL SUPPLY (40979)",
+        "pcabId": "40979",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "9LEAVES BUILDERS & SUPPLY CORP. (36358)",
+        "pcabId": "36358",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION/REPAIR/REHABILITATION/IMPROVEMENT OF VARIOUS INFRASTRUCTURE INCLUDING LOCAL PROJECTS: DAY CARE CENTER, CAMALIG",
+      "abc": "357507.59",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2017-10-18 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-11-07 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "350,012.91"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/16FB0144_Invitation to Bid (ITB).zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/16fb0144_contract.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/16fb0144_award.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/16fb0144_ntp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 13.183849,
+    "longitude": 123.670509,
+    "coordinates": [
+      {
+        "componentId": "P00195065LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Other Building - Rehabilitation and Upgrading of Medical and Non-Medical Facilities, Day Care Center, Camalig, Albay",
+        "latitude": 13.183849,
+        "longitude": 123.670509,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

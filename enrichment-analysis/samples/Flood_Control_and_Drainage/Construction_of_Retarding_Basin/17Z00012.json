@@ -1,0 +1,97 @@
+{
+  "data": {
+    "contractId": "17Z00012",
+    "description": "CONSTRUCTION OF GENERAL TRIAS RETARDING BASIN I (RIO GRANDE RIVER) UNDER THE FLOOD RISK MANAGEMENT FOR YLANG-YLANG RIVER AND RIO GRANDE RIVER IN THE PROVINCE OF CAVITE INCLUDING ROW",
+    "category": "Flood Control and Drainage",
+    "status": "On-Going",
+    "budget": 933951128.37,
+    "amountPaid": 0,
+    "progress": 98.54,
+    "location": {
+      "region": "Central Office",
+      "province": "Flood Control Management Cluster",
+      "infraType": "Flood Control and Drainage",
+      "coordinates": {
+        "latitude": 14.35886,
+        "longitude": 120.8848,
+        "verified": false
+      }
+    },
+    "infraType": "Flood Control and Drainage",
+    "contractor": "R.U. AQUINO CONSTRUCTION AND DEVELOPMENT CORP. (FO (23507)",
+    "startDate": "2018-02-06",
+    "completionDate": null,
+    "infraYear": "2017",
+    "contractEffectivityDate": "2018-02-06",
+    "expiryDate": "2023-06-02",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2017 MFO-2",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00120046LZ-CW1",
+        "description": "Construction of Retarding Basin - Construction of General Trias Retarding Basin I (Rio Grande River) under the Flood Risk Management Project for Ylang-Ylang River and Rio Grande River in the Province of Cavite (including ROW)",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Construction of Retarding Basin",
+        "region": "Region IV-A",
+        "province": "CAVITE",
+        "coordinates": {
+          "latitude": 14.35886,
+          "longitude": 120.8848,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "R.U. AQUINO CONSTRUCTION AND DEVELOPMENT CORP. (FO",
+    "bidders": [
+      {
+        "name": "R.U. AQUINO CONSTRUCTION AND DEVELOPMENT CORP. (FO (23507)",
+        "pcabId": "23507",
+        "participation": 100,
+        "isWinner": true
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION OF GENERAL TRIAS RETARDING BASIN I (RIO GRANDE RIVER) UNDER THE FLOOD RISK MANAGEMENT FOR YLANG-YLANG RIVER AND RIO GRANDE RIVER IN THE PROVINCE OF CAVITE INCLUDING ROW",
+      "abc": "967728656.47",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2017-10-27 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-11-28 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "948,256,206.34"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/17Z00012.rar",
+      "contractAgreement": "",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/17Z00012 NOA.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/17Z00012 NTP.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 14.35886,
+    "longitude": 120.8848,
+    "coordinates": [
+      {
+        "componentId": "P00120046LZ-CW1",
+        "description": "Construction of Retarding Basin - Construction of General Trias Retarding Basin I (Rio Grande River) under the Flood Risk Management Project for Ylang-Ylang River and Rio Grande River in the Province of Cavite (including ROW)",
+        "latitude": 14.35886,
+        "longitude": 120.8848,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

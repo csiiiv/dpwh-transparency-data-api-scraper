@@ -1,0 +1,97 @@
+{
+  "data": {
+    "contractId": "17E00030",
+    "description": "CONSTRUCTION/IMPROVEMENT OF ACCESS ROADS LEADING TO AIRPORTS, SEAPORTS & DECLARED TOURISM DESTINATIONS, CRUISE PORTS AND FACILITIES, PALAWAN",
+    "category": "Buildings and Facilities",
+    "status": "Completed",
+    "budget": 241108284.82,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region IV-B",
+      "province": "Region IV-B",
+      "infraType": "Buildings and Facilities",
+      "coordinates": null
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "EQUI-PARCO CONSTRUCTION COMPANY (14332)",
+    "startDate": "2017-11-29",
+    "completionDate": "2019-10-18",
+    "infraYear": "2017",
+    "contractEffectivityDate": "2017-11-29",
+    "expiryDate": "2019-10-19",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2017 MFO-3",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00130504LZ-CW1",
+        "description": "Construction of Other Facilities - Cruise Port and Facilities, Palawan",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of Other Facilities",
+        "region": "Region IV-B",
+        "province": "PALAWAN",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "EQUI-PARCO CONSTRUCTION COMPANY",
+    "bidders": [
+      {
+        "name": "EQUI-PARCO CONSTRUCTION COMPANY (14332)",
+        "pcabId": "14332",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "CAVDEAL-CAVITE IDEAL INT'L. CONST. & DEV'T. CORP. (05599)",
+        "pcabId": "05599",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "CAVDEAL-CAVITE IDEAL INT'L. CONST. & DEV'T. CORP. (5599)",
+        "pcabId": "5599",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "HG-III CONSTRUCTION AND DEVELOPMENT CORPORATION (F (8431)",
+        "pcabId": "8431",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION/IMPROVEMENT OF ACCESS ROADS LEADING TO AIRPORTS, SEAPORTS & DECLARED TOURISM DESTINATIONS, CRUISE PORTS AND FACILITIES, PALAWAN",
+      "abc": "241247465.75",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2017-09-16 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-10-10 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "224632109.8"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/INVITATION TO BID 17E00030, 17E00098 and 17E00095.pdf",
+      "contractAgreement": "",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/noa_17e00030.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/17e00030_ntp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

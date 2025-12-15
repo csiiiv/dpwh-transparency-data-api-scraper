@@ -1,0 +1,133 @@
+{
+  "data": {
+    "contractId": "15CD0291",
+    "description": "PREVENTIVE MAINTENANCE ASPHALT OVERLAY ALONG BOCAUE - SAN JOSE ROAD K0030+(-771) - K0030+ (-212) ; K0036+000 - K0037+000 ; K0030+952 - K0031+047",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 15733939.94,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region III",
+      "province": "Bulacan 2nd DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 14.8085878585817,
+        "longitude": 120.946246800104,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "729 CONSTRUCTION, INC. (FORMERLY 722 CONSTRUCTION, INC.) (21923)",
+    "startDate": "2016-02-22",
+    "completionDate": "2016-04-23",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-02-22",
+    "expiryDate": "2016-04-24",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - Roads: Rehabilitation - Asphalt, Roads: Rehabilitation - PCCP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00000627LZ-CW1",
+        "description": "Preventive Maintenance of Road: Concrete Reblocking - Bocaue-Sn Jose Rd - K0030+(-771) - K0030+(-212), K0036+000 - K0037+000, K0030+952 - K0031+047",
+        "infraType": "Roads",
+        "typeOfWork": "Preventive Maintenance of Road: Concrete Reblocking",
+        "region": "Region III",
+        "province": "BULACAN",
+        "coordinates": {
+          "latitude": 14.8085878585817,
+          "longitude": 120.946246800104,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "729 CONSTRUCTION, INC. (FORMERLY 722 CONSTRUCTION, INC.)",
+    "bidders": [
+      {
+        "name": "729 CONSTRUCTION, INC. (FORMERLY 722 CONSTRUCTION, INC.) (21923)",
+        "pcabId": "21923",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "BAQPRINCE CONSTRUCTION AND TRADING CORP. (28337)",
+        "pcabId": "28337",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "HPL GENERAL CONSTRUCTION (22289)",
+        "pcabId": "22289",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "ITP CONSTRUCTION, INC. (9392)",
+        "pcabId": "9392",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "ORANI CONSTRUCTION AND SUPPLY CORPORATION (FORMERLY:ORANI BUILDERS & SUPPLY) (05349)",
+        "pcabId": "05349",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "PRECIOUS CONSTRUCTION (32995)",
+        "pcabId": "32995",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "VICTORIA DEVELOPMENT AND VENTURES CORP. (FOR: VICTORIA DEV'T AND CONST. CORP.) (32638)",
+        "pcabId": "32638",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "PREVENTIVE MAINTENANCE ASPHALT OVERLAY ALONG BOCAUE - SAN JOSE ROAD K0030+(-771) - K0030+ (-212) ; K0036+000 - K0037+000 ; K0030+952 - K0031+047",
+      "abc": "16572508.89",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-12-23 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-01-19 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "15733939.9400000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/september/CA 289,290,291.zip",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/september/NOA 291,292,293,294,295.zip",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/ntp/16/august/NTP 15CD0290,291,292,293,294.zip",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 14.8085878585817,
+    "longitude": 120.946246800104,
+    "coordinates": [
+      {
+        "componentId": "P00000627LZ-CW1",
+        "description": "Preventive Maintenance of Road: Concrete Reblocking - Bocaue-Sn Jose Rd - K0030+(-771) - K0030+(-212), K0036+000 - K0037+000, K0030+952 - K0031+047",
+        "latitude": 14.8085878585817,
+        "longitude": 120.946246800104,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "data": {
+    "contractId": "17JF0098",
+    "description": "PROPOSED REPAIR/ REHAB UPGRADING OF RURAL HEALTH UNIT AT POBLACION IPIL, IPIL ZAMBOANGA SIBUGAY",
+    "category": "Buildings and Facilities",
+    "status": "Completed",
+    "budget": 9358512.14,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region IX",
+      "province": "Zamboanga Sibugay 2nd DEO",
+      "infraType": "Buildings and Facilities",
+      "coordinates": {
+        "latitude": 7.7845,
+        "longitude": 122.58821,
+        "verified": false
+      }
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "BARILLO CONSTRUCTION AND ENTERPRISES (23836)",
+    "startDate": "2019-02-11",
+    "completionDate": "2019-08-09",
+    "infraYear": "2017",
+    "contractEffectivityDate": "2019-02-11",
+    "expiryDate": "2019-08-09",
+    "nysReason": null,
+    "programName": "Outside Infra",
+    "sourceOfFunds": "Outside Infra - GAA 2017 DOH HFEP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00199260MN-CW1",
+        "description": "Construction of Rural Health Unit - Repair/Rehab./Upgrading of Rural Health Unit at Poblacion, Ipil, Zamboanga Sibugay",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of Rural Health Unit",
+        "region": "Region IX",
+        "province": "ZAMBOANGA SIBUGAY",
+        "coordinates": {
+          "latitude": 7.7845,
+          "longitude": 122.58821,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "BARILLO CONSTRUCTION AND ENTERPRISES",
+    "bidders": [
+      {
+        "name": "BARILLO CONSTRUCTION AND ENTERPRISES (23836)",
+        "pcabId": "23836",
+        "participation": 100,
+        "isWinner": true
+      }
+    ],
+    "procurement": {
+      "contractName": "PROPOSED REPAIR/ REHAB UPGRADING OF RURAL HEALTH UNIT AT POBLACION IPIL, IPIL ZAMBOANGA SIBUGAY",
+      "abc": "9452500.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2017-11-16 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-12-08 00:00:00.0000000",
+      "dateOfAward": "2017-12-18 00:00:00.0000000",
+      "awardAmount": "9358512.14"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/new ITB 17JF0098.pdf",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/17jf0098_contract.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/17jf0098_notice_of_award.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/17jf0098_ntp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 7.7845,
+    "longitude": 122.58821,
+    "coordinates": [
+      {
+        "componentId": "P00199260MN-CW1",
+        "description": "Construction of Rural Health Unit - Repair/Rehab./Upgrading of Rural Health Unit at Poblacion, Ipil, Zamboanga Sibugay",
+        "latitude": 7.7845,
+        "longitude": 122.58821,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

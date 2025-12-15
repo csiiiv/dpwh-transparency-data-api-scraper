@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "15BC0169",
+    "description": "CONSTRUCTION & MAINTENANCE OF BRIDGES ALONG NATIONAL ROADS:REPLACEMENT FROM TEMPORARY TO PERMANENT:BANGA BRIDGE #1 (B04518LZ) ALONG JLLGR",
+    "category": "Bridges",
+    "status": "Completed",
+    "budget": 15716351.96,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region II",
+      "province": "Cagayan 2nd DEO",
+      "infraType": "Bridges",
+      "coordinates": {
+        "latitude": 17.8805523423438,
+        "longitude": 121.38038976348,
+        "verified": false
+      }
+    },
+    "infraType": "Bridges",
+    "contractor": "EGB CONSTRUCTION CORPORATION (FORMERLY: EGB CONSTRUCTION) (13722)",
+    "startDate": "2016-03-14",
+    "completionDate": "2018-02-25",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-03-14",
+    "expiryDate": "2016-08-22",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00002744LZ-CW1",
+        "description": "Replacement of Bridge - Banga Br. 1 (B04518LZ) along Jct Logac-Lasam-Gagabutan Rd",
+        "infraType": "Bridges",
+        "typeOfWork": "Replacement of Bridge",
+        "region": "Region II",
+        "province": "CAGAYAN",
+        "coordinates": {
+          "latitude": 17.8805523423438,
+          "longitude": 121.38038976348,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "EGB CONSTRUCTION CORPORATION (FORMERLY: EGB CONSTRUCTION)",
+    "bidders": [
+      {
+        "name": "EGB CONSTRUCTION CORPORATION (FORMERLY: EGB CONSTRUCTION) (13722)",
+        "pcabId": "13722",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "AJ TAYLAN CONSTRUCTION CORPORATION (2336)",
+        "pcabId": "2336",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION & MAINTENANCE OF BRIDGES ALONG NATIONAL ROADS:REPLACEMENT FROM TEMPORARY TO PERMANENT:BANGA BRIDGE #1 (B04518LZ) ALONG JLLGR",
+      "abc": "16268000.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-01-22 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-02-11 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "15716351.9600000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/april/15BC0169-Contract AGreement.jpg",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/15bc0169-noa.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/15bc0169-ntp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 17.8805523423438,
+    "longitude": 121.38038976348,
+    "coordinates": [
+      {
+        "componentId": "P00002744LZ-CW1",
+        "description": "Replacement of Bridge - Banga Br. 1 (B04518LZ) along Jct Logac-Lasam-Gagabutan Rd",
+        "latitude": 17.8805523423438,
+        "longitude": 121.38038976348,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

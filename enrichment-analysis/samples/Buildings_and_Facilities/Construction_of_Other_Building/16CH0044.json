@@ -1,0 +1,127 @@
+{
+  "data": {
+    "contractId": "16CH0044",
+    "description": "CONSTRUCTION OF TWO STOREY OFFICE BUILDING SAN ANTONIO, GUAGUA, PAMPANGA",
+    "category": "Buildings and Facilities",
+    "status": "Completed",
+    "budget": 12392799.99,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region III",
+      "province": "Pampanga 2nd DEO",
+      "infraType": "Buildings and Facilities",
+      "coordinates": {
+        "latitude": 14.967823,
+        "longitude": 120.606041,
+        "verified": false
+      }
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "R.M. VITUG CONSTRUCTION (9227)",
+    "startDate": "2016-09-19",
+    "completionDate": "2017-02-15",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-09-19",
+    "expiryDate": "2017-02-15",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 Locally Funded Projects",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00055842LZ-CW1",
+        "description": "Construction of Other Building - Construction of Two-Storey DPWH Office Building, San Antonio, Guagua, Pampanga",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of Other Building",
+        "region": "Region III",
+        "province": "PAMPANGA",
+        "coordinates": {
+          "latitude": 14.967823,
+          "longitude": 120.606041,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "R.M. VITUG CONSTRUCTION",
+    "bidders": [
+      {
+        "name": "R.M. VITUG CONSTRUCTION (9227)",
+        "pcabId": "9227",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "B-12 CONSTRUCTION AND TRADING CORPORATION (31997)",
+        "pcabId": "31997",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "CEDAR CONSTRUCTION (24865)",
+        "pcabId": "24865",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "MIGGS CONSTRUCTION AND SUPPLY (17993)",
+        "pcabId": "17993",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "OMICRON CONSTRUCTION INC.(FORMERLY: OMICRON CONSTRUCTION) (9575)",
+        "pcabId": "9575",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "STO. CRISTO CONSTRUCTION & TRADING INC. (FOR: STO. CRISTO CONSTRUCTION & TRADING) (26096)",
+        "pcabId": "26096",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION OF TWO STOREY OFFICE BUILDING SAN ANTONIO, GUAGUA, PAMPANGA",
+      "abc": "12658221.94",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-07-01 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-08-17 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "12,392,799.99"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/16ch0044_contract_agreement.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/16ch0044_notice_of_award.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/16ch0044_notice_to_proceed.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 14.967823,
+    "longitude": 120.606041,
+    "coordinates": [
+      {
+        "componentId": "P00055842LZ-CW1",
+        "description": "Construction of Other Building - Construction of Two-Storey DPWH Office Building, San Antonio, Guagua, Pampanga",
+        "latitude": 14.967823,
+        "longitude": 120.606041,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

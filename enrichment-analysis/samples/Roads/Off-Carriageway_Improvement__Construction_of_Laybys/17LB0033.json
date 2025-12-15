@@ -1,0 +1,155 @@
+{
+  "data": {
+    "contractId": "17LB0033",
+    "description": "OFF-CARRIAGEWAY IMPROVEMENT INCLUDING DRAINAGE OF DAVAO CITY DIVERSION ROAD, DAVAO CITY,K1498+000-K1",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 39062241.73,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region XI",
+      "province": "Davao City DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 7.14713798307892,
+        "longitude": 125.65807779261,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "ARN BUILDERS, INC. (FOR: ARN BUILDERS) (18930)",
+    "startDate": "2017-05-16",
+    "completionDate": "2019-03-17",
+    "infraYear": "2017",
+    "contractEffectivityDate": "2017-05-16",
+    "expiryDate": "2017-12-22",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2017 MFO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00106545MN-CW1",
+        "description": "Off-Carriageway Improvement: Construction of Laybys - Davao City Div Rd - K1498+000 - K1498+599, K1498+695 - K1499+397, K1499+500 - K1499+900, K1501+000 - K1501+400, K1501+900 - K1502+790, K1502+820 - K1503+300, K1503+400 - K1503+930, K1504+100 - K1504+35",
+        "infraType": "Roads",
+        "typeOfWork": "Off-Carriageway Improvement: Construction of Laybys",
+        "region": "Region XI",
+        "province": "DAVAO DEL SUR",
+        "coordinates": {
+          "latitude": 7.14713798307892,
+          "longitude": 125.65807779261,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00106545MN-CW2",
+        "description": "Off-Carriageway Improvement: Flaring of Intersections / Improvement of Intersections - Davao City Div Rd - K1498+000 - K1498+599, K1498+695 - K1499+397, K1499+500 - K1499+900, K1501+000 - K1501+400, K1501+900 - K1502+790, K1502+820 - K1503+300, K1503+400",
+        "infraType": "Roads",
+        "typeOfWork": "Off-Carriageway Improvement: Flaring of Intersections / Improvement of Intersections",
+        "region": "Region XI",
+        "province": "DAVAO DEL SUR",
+        "coordinates": {
+          "latitude": 7.14436722752884,
+          "longitude": 125.655163819733,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "ARN BUILDERS, INC. (FOR: ARN BUILDERS)",
+    "bidders": [
+      {
+        "name": "ARN BUILDERS, INC. (FOR: ARN BUILDERS) (18930)",
+        "pcabId": "18930",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "ALZAM ENTERPRISES INCORPORATED (FORMERLY: ALZAM ENTERPRISES) (19113)",
+        "pcabId": "19113",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "MONOLITHIC CONSTRUCTION & CONCRETE PRODUCTS, INC. (5733)",
+        "pcabId": "5733",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "M.R. VARGAS CONSTRUCTION CORPORATION (FORMERLY: M.R. VARGAS CONSTRUCTION) (8215)",
+        "pcabId": "8215",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "RELY CONSTRUCTION & SUPPLY INC.(FORMERLY: RELY CONSTRUCTION AND SUPPLY) (10433)",
+        "pcabId": "10433",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "TEDDIE CONSTRUCTION DEVELOPMENT, INC. (6313)",
+        "pcabId": "6313",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "THREE W BUILDERS, INC. (10722)",
+        "pcabId": "10722",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "OFF-CARRIAGEWAY IMPROVEMENT INCLUDING DRAINAGE OF DAVAO CITY DIVERSION ROAD, DAVAO CITY,K1498+000-K1",
+      "abc": "39062200.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-12-19 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-01-12 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "38,472,415.23"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/itb civil 19th batch Feb. 17, 2017.doc",
+      "contractAgreement": "",
+      "noticeOfAward": "",
+      "noticeToProceed": "",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 7.14713798307892,
+    "longitude": 125.65807779261,
+    "coordinates": [
+      {
+        "componentId": "P00106545MN-CW1",
+        "description": "Off-Carriageway Improvement: Construction of Laybys - Davao City Div Rd - K1498+000 - K1498+599, K1498+695 - K1499+397, K1499+500 - K1499+900, K1501+000 - K1501+400, K1501+900 - K1502+790, K1502+820 - K1503+300, K1503+400 - K1503+930, K1504+100 - K1504+35",
+        "latitude": 7.14713798307892,
+        "longitude": 125.65807779261,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00106545MN-CW2",
+        "description": "Off-Carriageway Improvement: Flaring of Intersections / Improvement of Intersections - Davao City Div Rd - K1498+000 - K1498+599, K1498+695 - K1499+397, K1499+500 - K1499+900, K1501+000 - K1501+400, K1501+900 - K1502+790, K1502+820 - K1503+300, K1503+400",
+        "latitude": 7.14436722752884,
+        "longitude": 125.655163819733,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

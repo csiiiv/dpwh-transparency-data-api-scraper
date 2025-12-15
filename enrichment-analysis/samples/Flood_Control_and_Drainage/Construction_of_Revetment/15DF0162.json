@@ -1,0 +1,137 @@
+{
+  "data": {
+    "contractId": "15DF0162",
+    "description": "MFO2 - FLOOD MANAGEMENT SERVICES, CONSTRUCTION/MAINTENANCE OF FLOOD MITIGATION STRUCTURES AND DRAINA",
+    "category": "Flood Control and Drainage",
+    "status": "Completed",
+    "budget": 36649258.96,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region IV-A",
+      "province": "Cavite 1st DEO",
+      "infraType": "Flood Control and Drainage",
+      "coordinates": {
+        "latitude": 14.4492808,
+        "longitude": 120.9506618,
+        "verified": false
+      }
+    },
+    "infraType": "Flood Control and Drainage",
+    "contractor": "NEWBIG FOUR J CONSTRUCTION INC. (FORMERLY: FOUR J CONSTRUCTION) (15104)",
+    "startDate": "2016-02-02",
+    "completionDate": "2016-08-09",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-02-02",
+    "expiryDate": "2016-08-09",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-2",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00020561LZ-CW1",
+        "description": "Construction of Revetment - Construction of Revetment Bacoor River Along Habay Section Phase I, Cavite 2nd LD",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Construction of Revetment",
+        "region": "Region IV-A",
+        "province": "CAVITE",
+        "coordinates": {
+          "latitude": 14.4492808,
+          "longitude": 120.9506618,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00020562LZ-CW1",
+        "description": "Construction of Revetment - Construction of Revetment Bacoor River Along Daang Bukid Section Phase I, Cavite 2nd LD",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Construction of Revetment",
+        "region": "Region IV-A",
+        "province": "CAVITE",
+        "coordinates": {
+          "latitude": 14.4537193,
+          "longitude": 120.9413608,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "NEWBIG FOUR J CONSTRUCTION INC. (FORMERLY: FOUR J CONSTRUCTION)",
+    "bidders": [
+      {
+        "name": "NEWBIG FOUR J CONSTRUCTION INC. (FORMERLY: FOUR J CONSTRUCTION) (15104)",
+        "pcabId": "15104",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "ARCINUE COMM'L CORPORATION (6746)",
+        "pcabId": "6746",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "C.T. LEONCIO CONSTRUCTION & TRADING (17371)",
+        "pcabId": "17371",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "GENETIAN BUILDERS AND ENTERPRISES INCORPORATED (FORMERLY: GENETIAN BUILDERS) (18052)",
+        "pcabId": "18052",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "MFO2 - FLOOD MANAGEMENT SERVICES, CONSTRUCTION/MAINTENANCE OF FLOOD MITIGATION STRUCTURES AND DRAINA",
+      "abc": "39200000.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-11-04 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-11-24 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "36649258.9600000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/contract_15df0162.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/noa_15df0162.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/ntp_15df0162.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 14.4492808,
+    "longitude": 120.9506618,
+    "coordinates": [
+      {
+        "componentId": "P00020561LZ-CW1",
+        "description": "Construction of Revetment - Construction of Revetment Bacoor River Along Habay Section Phase I, Cavite 2nd LD",
+        "latitude": 14.4492808,
+        "longitude": 120.9506618,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00020562LZ-CW1",
+        "description": "Construction of Revetment - Construction of Revetment Bacoor River Along Daang Bukid Section Phase I, Cavite 2nd LD",
+        "latitude": 14.4537193,
+        "longitude": 120.9413608,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

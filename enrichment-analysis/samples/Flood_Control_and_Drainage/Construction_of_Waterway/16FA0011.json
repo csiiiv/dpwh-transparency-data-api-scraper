@@ -1,0 +1,241 @@
+{
+  "data": {
+    "contractId": "16FA0011",
+    "description": "IMPROVEMENT OF BACACAY FLOOD CONTROL STRUCTURE, LABANON SECTION, BRGY. BASUD, BACACAY, ALBAY",
+    "category": "Flood Control and Drainage",
+    "status": "Completed",
+    "budget": 46546823.29,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region V",
+      "province": "Albay 1st DEO",
+      "infraType": "Flood Control and Drainage",
+      "coordinates": {
+        "latitude": 13.27555556,
+        "longitude": 123.7955556,
+        "verified": false
+      }
+    },
+    "infraType": "Flood Control and Drainage",
+    "contractor": "WEARR ENTERPRISES & DEVELOPMENT CORP. (14123)",
+    "startDate": "2016-03-13",
+    "completionDate": "2016-10-29",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-03-13",
+    "expiryDate": "2016-10-29",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-2",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00020688LZ-CW1",
+        "description": "Construction of Waterway - Improvement of Bacacay Flood Control Structure, Albay",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Construction of Waterway",
+        "region": "Region V",
+        "province": "ALBAY",
+        "coordinates": {
+          "latitude": 13.27555556,
+          "longitude": 123.7955556,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "WEARR ENTERPRISES & DEVELOPMENT CORP.",
+    "bidders": [
+      {
+        "name": "WEARR ENTERPRISES & DEVELOPMENT CORP. (14123)",
+        "pcabId": "14123",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "AARCON BUILDERS (28336)",
+        "pcabId": "28336",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "ALNINO CONSTRUCTION & SUPPLY CORPORATION (FORMERLY: AL NINO CONSTRUCTION & SUPPLY) (18378)",
+        "pcabId": "18378",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "ANTONIO V. NIDEA CONST., INC.(FORMERLY ANTONIO V. (6382)",
+        "pcabId": "6382",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "CHIARA2300 INCORPORATED (8736)",
+        "pcabId": "8736",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "DSB CONSTRUCTION  & SUPPLY, INC. (FORMERLY: DSB CO (16126)",
+        "pcabId": "16126",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "E. GARCIA CONSTRUCTION CORP.(FOR. E. GARCIA CONST (7243)",
+        "pcabId": "7243",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "ELKANKONSTRAK DEVELOPMENT CORPORATION (26220)",
+        "pcabId": "26220",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "HGG BUILDERS & SUPPLY (17824)",
+        "pcabId": "17824",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "HI-TONE CONSTRUCTION & DEVELOPMENT CORP. (FORMERLY (23385)",
+        "pcabId": "23385",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "HONEYVILLECONST AND DEVELOPMENT CORPORATION (32160)",
+        "pcabId": "32160",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "INFRA BUILDERS AND SELLERS, PHILIPPINES (9391)",
+        "pcabId": "9391",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "LEGAZPI PREMIUM DEVELOPMENT CORPORATION (20701)",
+        "pcabId": "20701",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "MAKAPA CORPORATION (30029)",
+        "pcabId": "30029",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "M.G. SALAZAR CONSTRUCTION CORP. (FOR. M.G. SALAZAR (4072)",
+        "pcabId": "4072",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "PHILWORKS CONSTRUCTION & SUPPLY (32103)",
+        "pcabId": "32103",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "PRECIOUS CONSTRUCTION (32995)",
+        "pcabId": "32995",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "PROTECH CONSTRUCTION & DEVELOPMENT CORP. (FORMERLY (15408)",
+        "pcabId": "15408",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "RAMARPLUS INCORPORATED (FORMERLY RAMAR ENTERPRISES (8092)",
+        "pcabId": "8092",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "ROSAND BUILDERS CORPORATION (FORMERLY: ROSAND BUILDERS) (15781)",
+        "pcabId": "15781",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "SANRHO BUILDERS, INC.(FOR. SANRHO CONST. AND SUPPL (24213)",
+        "pcabId": "24213",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "SUNWEST, INC. (FORMERLY: SUNWEST CONSTRUCTION & DEVELOPMENT CORPORATION) (15906)",
+        "pcabId": "15906",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "WCS CONSTRUCTION, INC. (6516)",
+        "pcabId": "6516",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "WELEX CONSTRUCTION, INCORPORATED (FORMERLY WELEX C (9323)",
+        "pcabId": "9323",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "WERR CORPORATION INTERNATIONAL (14133)",
+        "pcabId": "14133",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "IMPROVEMENT OF BACACAY FLOOD CONTROL STRUCTURE, LABANON SECTION, BRGY. BASUD, BACACAY, ALBAY",
+      "abc": "49000560.74",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-11-03 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-01-19 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "46546823.29"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/16fa0011_c.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/16fa0011_noa.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/16fa0011_ntp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 13.27555556,
+    "longitude": 123.7955556,
+    "coordinates": [
+      {
+        "componentId": "P00020688LZ-CW1",
+        "description": "Construction of Waterway - Improvement of Bacacay Flood Control Structure, Albay",
+        "latitude": 13.27555556,
+        "longitude": 123.7955556,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

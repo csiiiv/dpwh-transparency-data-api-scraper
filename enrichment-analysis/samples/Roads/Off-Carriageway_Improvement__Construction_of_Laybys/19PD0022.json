@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "19PD0022",
+    "description": "OFF-CARRIAGEWAY IMPROVEMENT: CONSTRUCTION OF LAYBYS- ALONG LEONARD WOOD ROAD (S00411LZ) K0250+813 TO K0250+931",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 6860000,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Cordillera Administrative Region",
+      "province": "Baguio City DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 16.4143799,
+        "longitude": 120.6111305,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "RIMATYRE CONSTRUCTION SERVICES (42485)",
+    "startDate": "2019-06-16",
+    "completionDate": "2020-05-24",
+    "infraYear": "2019",
+    "contractEffectivityDate": "2019-06-16",
+    "expiryDate": "2019-11-08",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2019 OO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00301973LZ-CW1",
+        "description": "Off-Carriageway Improvement: Construction of Laybys - Leonard Wood Rd - K0250 + 813 - K0250 + 931",
+        "infraType": "Roads",
+        "typeOfWork": "Off-Carriageway Improvement: Construction of Laybys",
+        "region": "Cordillera Administrative Region",
+        "province": "BENGUET",
+        "coordinates": {
+          "latitude": 16.4143799,
+          "longitude": 120.6111305,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "RIMATYRE CONSTRUCTION SERVICES",
+    "bidders": [
+      {
+        "name": "RIMATYRE CONSTRUCTION SERVICES (42485)",
+        "pcabId": "42485",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "MELECIO CONSTRUCTION (35275)",
+        "pcabId": "35275",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "OFF-CARRIAGEWAY IMPROVEMENT: CONSTRUCTION OF LAYBYS- ALONG LEONARD WOOD ROAD (S00411LZ) K0250+813 TO K0250+931",
+      "abc": "6859370.37",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2018-10-12 00:00:00.0000000",
+      "bidSubmissionDeadline": "2018-11-06 00:00:00.0000000",
+      "dateOfAward": "2019-05-27 00:00:00.0000000",
+      "awardAmount": "6518400"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/19PD0022 IB BOQ Checklist Bid Docs Attachments Plans.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/Contract 19PD0022.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/Award 19PD0022.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/Contract 19PD0022.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 16.4143799,
+    "longitude": 120.6111305,
+    "coordinates": [
+      {
+        "componentId": "P00301973LZ-CW1",
+        "description": "Off-Carriageway Improvement: Construction of Laybys - Leonard Wood Rd - K0250 + 813 - K0250 + 931",
+        "latitude": 16.4143799,
+        "longitude": 120.6111305,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

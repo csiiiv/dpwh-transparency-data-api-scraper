@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "15B00092",
+    "description": "CONST'N & MAINTENANCE OF BRIDGES ALONG NAT'L RDS: RETROFITTING/STRENGTHENING OF PERMANENT BRIDGES: L",
+    "category": "Bridges",
+    "status": "Completed",
+    "budget": 3894595.88,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region II",
+      "province": "Region II",
+      "infraType": "Bridges",
+      "coordinates": {
+        "latitude": 17.4314159881815,
+        "longitude": 121.621676037081,
+        "verified": false
+      }
+    },
+    "infraType": "Bridges",
+    "contractor": "ORANI CONSTRUCTION AND SUPPLY CORPORATION (FORMERLY:ORANI BUILDERS & SUPPLY) (05349)",
+    "startDate": "2016-03-14",
+    "completionDate": "2016-05-13",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-03-14",
+    "expiryDate": "2016-05-15",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00001865LZ-CW1",
+        "description": "Retrofitting / Strengthening of Bridge - Laguinday Br. (B01164LZ) along Santiago-Tuguegarao Rd",
+        "infraType": "Bridges",
+        "typeOfWork": "Retrofitting / Strengthening of Bridge",
+        "region": "Region II",
+        "province": "KALINGA",
+        "coordinates": {
+          "latitude": 17.4314159881815,
+          "longitude": 121.621676037081,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "ORANI CONSTRUCTION AND SUPPLY CORPORATION (FORMERLY:ORANI BUILDERS & SUPPLY)",
+    "bidders": [
+      {
+        "name": "ORANI CONSTRUCTION AND SUPPLY CORPORATION (FORMERLY:ORANI BUILDERS & SUPPLY) (05349)",
+        "pcabId": "05349",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "ORANI CONSTRUCTION AND SUPPLY CORPORATION (FORMERLY:ORANI BUILDERS & SUPPLY) (5349)",
+        "pcabId": "5349",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONST'N & MAINTENANCE OF BRIDGES ALONG NAT'L RDS: RETROFITTING/STRENGTHENING OF PERMANENT BRIDGES: L",
+      "abc": "3900000.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-01-21 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-02-15 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "3786125.4700000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/may/15b00092-Cont.agreemnt.pdf",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/may/15b00092-Noa.pdf",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/may/15b00092-Cont.agreemnt.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 17.4314159881815,
+    "longitude": 121.621676037081,
+    "coordinates": [
+      {
+        "componentId": "P00001865LZ-CW1",
+        "description": "Retrofitting / Strengthening of Bridge - Laguinday Br. (B01164LZ) along Santiago-Tuguegarao Rd",
+        "latitude": 17.4314159881815,
+        "longitude": 121.621676037081,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "data": {
+    "contractId": "16LC0107",
+    "description": "PROVISION OF TECHVOC WORKSHOP BUILDING/LABORATORIES FOR SHS, MAMBAGO-B NHS, IGACOS, DAVAO DEL NORTE",
+    "category": "Buildings and Facilities",
+    "status": "Completed",
+    "budget": 2711341.1,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region XI",
+      "province": "Davao del Norte DEO",
+      "infraType": "Buildings and Facilities",
+      "coordinates": {
+        "latitude": 7.110572,
+        "longitude": 125.692967,
+        "verified": false
+      }
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "MAG CORPORATION (36929)",
+    "startDate": "2017-02-01",
+    "completionDate": "2017-04-26",
+    "infraYear": "2017",
+    "contractEffectivityDate": "2017-02-01",
+    "expiryDate": "2017-04-26",
+    "nysReason": null,
+    "programName": "Outside Infra",
+    "sourceOfFunds": "Outside Infra - GAA 2016 DepED BEFF / GAA 2017 DepEd BEFF",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00075341MN-CW1",
+        "description": "Construction of School Buildings - Provision of Techvoc Workshop Buildings/Laboratories for Senior High School, Mambago-B National High School, Island Garden City of Samal, Davao del Norte 2nd LD",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of School Buildings",
+        "region": "Region XI",
+        "province": "DAVAO DEL NORTE",
+        "coordinates": {
+          "latitude": 7.110572,
+          "longitude": 125.692967,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00171955MN-CW1",
+        "description": "Completion of School Buildings - Construction (Completion) of a TechVoc Workshop School Building, Mambago-B NHS, Island Garden City of Samal, Davao del Norte",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Completion of School Buildings",
+        "region": "Region XI",
+        "province": "DAVAO DEL NORTE",
+        "coordinates": {
+          "latitude": 7.101667,
+          "longitude": 125.692222,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "MAG CORPORATION",
+    "bidders": [
+      {
+        "name": "MAG CORPORATION (36929)",
+        "pcabId": "36929",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "FGM BUILDERS RESOURCES & DEVELOPMENT CORP. (31807)",
+        "pcabId": "31807",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "JLACE BUILDERS CORPORATION (FOR. JLA CONSTRUCTION & SUPPLIES) (24503)",
+        "pcabId": "24503",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "LLM UNIFIED BUILDERS & TRADING CORP. (FORMERLY:LLM CONCRETE PRODUCTS) (14235)",
+        "pcabId": "14235",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "PROVISION OF TECHVOC WORKSHOP BUILDING/LABORATORIES FOR SHS, MAMBAGO-B NHS, IGACOS, DAVAO DEL NORTE",
+      "abc": "2742349.33",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-12-06 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-12-27 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "2711341.1"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/Approved Contract Agreement 16LC0107.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/Approved NOA 16LC0107.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/Approved Contract Agreement 16LC0107.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 7.110572,
+    "longitude": 125.692967,
+    "coordinates": [
+      {
+        "componentId": "P00075341MN-CW1",
+        "description": "Construction of School Buildings - Provision of Techvoc Workshop Buildings/Laboratories for Senior High School, Mambago-B National High School, Island Garden City of Samal, Davao del Norte 2nd LD",
+        "latitude": 7.110572,
+        "longitude": 125.692967,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00171955MN-CW1",
+        "description": "Completion of School Buildings - Construction (Completion) of a TechVoc Workshop School Building, Mambago-B NHS, Island Garden City of Samal, Davao del Norte",
+        "latitude": 7.101667,
+        "longitude": 125.692222,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "data": {
+    "contractId": "22E00159",
+    "description": "COASTAL ROADS/CAUSEWAY FOR ENVIRONMENTAL PROTECTION/CONSERVATION - CONSTRUCTION OF ROXAS BYPASS/TOURISM COASTAL ROAD AT BRGY. DANGAY, STA. 00+000-STA. 00+277.80, ROXAS, OR. MINDORO",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 136136372.79,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region IV-B",
+      "province": "Region IV-B",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 12.5921829,
+        "longitude": 121.5292833,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "MARCPHIL CONSTRUCTION OPC (FORMERLY: MARCPHIL CONSTRUCTION) (10949)",
+    "startDate": "2022-08-25",
+    "completionDate": "2023-06-08",
+    "infraYear": "2022",
+    "contractEffectivityDate": "2022-08-25",
+    "expiryDate": "2023-06-08",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2022 CSSP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00636997LZ-CW1",
+        "description": "Embankment - Construction of Roxas Bypass/ Tourism Coastal Road at Brgy. Dangay, Roxas, Oriental, Mindoro",
+        "infraType": "Roads",
+        "typeOfWork": "Embankment",
+        "region": "Region IV-B",
+        "province": "ORIENTAL MINDORO",
+        "coordinates": {
+          "latitude": 12.5921829,
+          "longitude": 121.5292833,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "MARCPHIL CONSTRUCTION OPC (FORMERLY: MARCPHIL CONSTRUCTION)",
+    "bidders": [
+      {
+        "name": "MARCPHIL CONSTRUCTION OPC (FORMERLY: MARCPHIL CONSTRUCTION) (10949)",
+        "pcabId": "10949",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "C.B. GARAY PHILWIDE BUILDERS (6004)",
+        "pcabId": "6004",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "DCEBUILDERS CORPORATION (FORMERLY: DCESTRANERO CORPORATION) (29347)",
+        "pcabId": "29347",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "MONOLITHIC CONSTRUCTION & CONCRETE PRODUCTS, INC. (5733)",
+        "pcabId": "5733",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "ST. TIMOTHY CONSTRUCTION CORPORATION ([REVOKED] 39196)",
+        "pcabId": "[REVOKED] 39196",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "COASTAL ROADS/CAUSEWAY FOR ENVIRONMENTAL PROTECTION/CONSERVATION - CONSTRUCTION OF ROXAS BYPASS/TOURISM COASTAL ROAD AT BRGY. DANGAY, STA. 00+000-STA. 00+277.80, ROXAS, OR. MINDORO",
+      "abc": "144749975.93",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2022-04-01 00:00:00.0000000",
+      "bidSubmissionDeadline": "2022-05-17 00:00:00.0000000",
+      "dateOfAward": "2022-08-15 00:00:00.0000000",
+      "awardAmount": "123760659.5"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/22-159.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/noa_reso_22e00159.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/22e00159_notice_to_proceed.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 12.5921829,
+    "longitude": 121.5292833,
+    "coordinates": [
+      {
+        "componentId": "P00636997LZ-CW1",
+        "description": "Embankment - Construction of Roxas Bypass/ Tourism Coastal Road at Brgy. Dangay, Roxas, Oriental, Mindoro",
+        "latitude": 12.5921829,
+        "longitude": 121.5292833,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 2,
+      "latestImageDate": "2023-11-23 02:53:25.848999",
+      "hasImages": true
+    }
+  }
+}

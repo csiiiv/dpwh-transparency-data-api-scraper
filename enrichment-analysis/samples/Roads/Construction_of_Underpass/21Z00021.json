@@ -1,0 +1,121 @@
+{
+  "data": {
+    "contractId": "21Z00021",
+    "description": "GENERAL SANTOS CITY UNDERPASS/INTERCHANGES (MABUHAY-BULAONG ROAD AND DIGOS-MAKAR ROAD INTERCHANGE) (PACKAGE 1)",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 244646630.41,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Central Office",
+      "province": "Bureau of Construction",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 6.11861111,
+        "longitude": 125.16055556,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "VICENTE T. LAO CONSTRUCTION (7040)",
+    "startDate": "2022-07-04",
+    "completionDate": "2022-12-31",
+    "infraYear": "2021",
+    "contractEffectivityDate": "2022-07-04",
+    "expiryDate": "2023-02-28",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2021 OO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00502189MN-CW1",
+        "description": "Construction of Underpass - General Santos City Underpass/ Interchanges (Mabuhay-Bulaong Road and Digos-Makar Road Intersection)",
+        "infraType": "Roads",
+        "typeOfWork": "Construction of Underpass",
+        "region": "Region XII",
+        "province": "SOUTH COTABATO",
+        "coordinates": {
+          "latitude": 6.11861111,
+          "longitude": 125.16055556,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "VICENTE T. LAO CONSTRUCTION",
+    "bidders": [
+      {
+        "name": "VICENTE T. LAO CONSTRUCTION (7040)",
+        "pcabId": "7040",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "GENETIAN BUILDERS AND ENTERPRISES INCORPORATED (FORMERLY: GENETIAN BUILDERS) (18052) / SUPREME ABF CONST. & CONST. SUPPLY COMPANY INC. (25226) (JV ID: JV-22-7028)",
+        "pcabId": "",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "PRIME GIGABUILD CONSTRUCTION CORP. (FORMERLY: RON DANIELL CONSTRUCTION CORPORATION) (31251) / KEILANA RESOURCE AND DEVELOPMENT CORPORATION (37270) (JV ID: JV-22-7195)",
+        "pcabId": "",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "MONOLITHIC CONSTRUCTION & CONCRETE PRODUCTS, INC. (5733) / L.V. LEDESMA CONSTRUCTION, INC. (34473) (JV ID: JV-22-7132)",
+        "pcabId": "",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "ROMA CONSTRUCTION & DEVELOPMENT CORPORATION (6514)",
+        "pcabId": "6514",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "GENERAL SANTOS CITY UNDERPASS/INTERCHANGES (MABUHAY-BULAONG ROAD AND DIGOS-MAKAR ROAD INTERCHANGE) (PACKAGE 1)",
+      "abc": "250887571.54",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2022-01-27 00:00:00.0000000",
+      "bidSubmissionDeadline": "2022-02-22 00:00:00.0000000",
+      "dateOfAward": "2022-03-23 00:00:00.0000000",
+      "awardAmount": "222,411,938.65"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/Invitation to Bid_21Z00021.pdf",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/CA_21Z00021.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/ROA and NOA_21Z00021_signed_merged.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/CA_21Z00021.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 6.11861111,
+    "longitude": 125.16055556,
+    "coordinates": [
+      {
+        "componentId": "P00502189MN-CW1",
+        "description": "Construction of Underpass - General Santos City Underpass/ Interchanges (Mabuhay-Bulaong Road and Digos-Makar Road Intersection)",
+        "latitude": 6.11861111,
+        "longitude": 125.16055556,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "data": {
+    "contractId": "16GC0024",
+    "description": "PROPOSED CONSTRUCTION/REHABILITATION OF FLOOD MITIGATION FACILITIES, MANDALAGAN RIVER, BACOLOD CITY",
+    "category": "Flood Control and Drainage",
+    "status": "Completed",
+    "budget": 9278244.55,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Negros Island Region",
+      "province": "Bacolod City DEO",
+      "infraType": "Flood Control and Drainage",
+      "coordinates": null
+    },
+    "infraType": "Flood Control and Drainage",
+    "contractor": "G.F. ROVERO MERCHANDISING (27268)",
+    "startDate": "2016-03-23",
+    "completionDate": "2017-12-01",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-03-23",
+    "expiryDate": "2016-08-19",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-2",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00022666VS-CW1",
+        "description": "Rehabilitation / Major Repair of Drainage Structure - Construction/Rehabilitation of Flood Mitigation Facilities Along Mandalagan River, Station 1: Sta. 0+207 to Sta. 0+584 and Station 2: Sta. 0+238 to Sta. 0+615, Bacolod City",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Rehabilitation / Major Repair of Drainage Structure",
+        "region": "Negros Island Region",
+        "province": "NEGROS OCCIDENTAL",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "G.F. ROVERO MERCHANDISING",
+    "bidders": [
+      {
+        "name": "G.F. ROVERO MERCHANDISING (27268)",
+        "pcabId": "27268",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "AFG ZILLION CONSTRUCTION CORPORATION (FORMERLY: A.F.G. CONSTRUCTION & CONSTRUCTION SUPPLY) (17161)",
+        "pcabId": "17161",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "D.K. JOCSON CONSTRUCTION (6896)",
+        "pcabId": "6896",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "F. GURREA CONSTRUCTION, INCORPORATED (6995)",
+        "pcabId": "6995",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "LEGACY CONSTRUCTION CORPORATION (FORMERLY: LEGACY CONSTRUCTION) (22465)",
+        "pcabId": "22465",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "ST. RAYMUND CONSTRUCTION, INC. (19242)",
+        "pcabId": "19242",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "SUPREME ABF CONST. & CONST. SUPPLY COMPANY INC. (25226)",
+        "pcabId": "25226",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "WILKINSON CONSTRUCTION (21422)",
+        "pcabId": "21422",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "PROPOSED CONSTRUCTION/REHABILITATION OF FLOOD MITIGATION FACILITIES, MANDALAGAN RIVER, BACOLOD CITY",
+      "abc": "9374975.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-02-12 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-03-07 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "9,278,244.55"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/june/CONT121 .pdf",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/june/NOA118 .pdf",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/june/CONT121 .pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

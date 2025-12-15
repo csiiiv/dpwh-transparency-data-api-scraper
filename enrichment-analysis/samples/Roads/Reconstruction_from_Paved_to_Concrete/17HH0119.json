@@ -1,0 +1,127 @@
+{
+  "data": {
+    "contractId": "17HH0119",
+    "description": "CONSTRUCTION / IMPROVEMENT OF ACCESS ROADS LEADING TO DECLARED TOURISM DESTINATIONS, SIKATUNA ST., LEADING TO PARI-AN HERITAGE SHRINE, CASA GORORDO, METROPOLITAN CATHEDRAL, BRGY. ZAPATERA, CEBU CITY",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 12650880,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region VII",
+      "province": "Cebu City DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 10.3043,
+        "longitude": 123.9018467,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "PHIL ASIA RESOURCES & DEVELOPMENT CORP. (33352)",
+    "startDate": "2018-03-15",
+    "completionDate": "2018-06-27",
+    "infraYear": "2018",
+    "contractEffectivityDate": "2018-03-15",
+    "expiryDate": "2018-06-27",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2018 Other Infrastructure (CSSP)",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00230231VS-CW1",
+        "description": "Reconstruction from Paved to Concrete - Sikatuna Street leading to Pari-an Heritage Shrine, Casa Gorordo, Metropolitan Cathedral, Brgy. Zapatera, Cebu City",
+        "infraType": "Roads",
+        "typeOfWork": "Reconstruction from Paved to Concrete",
+        "region": "Region VII",
+        "province": "CEBU",
+        "coordinates": {
+          "latitude": 10.3043,
+          "longitude": 123.9018467,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "PHIL ASIA RESOURCES & DEVELOPMENT CORP.",
+    "bidders": [
+      {
+        "name": "PHIL ASIA RESOURCES & DEVELOPMENT CORP. (33352)",
+        "pcabId": "33352",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "GENETIAN BUILDERS AND ENTERPRISES INCORPORATED (FORMERLY: GENETIAN BUILDERS) (18052)",
+        "pcabId": "18052",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "LVRO CONSTRUCTION & SUPPLY (18116)",
+        "pcabId": "18116",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "NXBUILD CONSTRUCTION (42299)",
+        "pcabId": "42299",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "QUIRANTE CONSTRUCTION CORPORATION (FORMERLY: QUIRANTE CONSTRUCTION) (32827)",
+        "pcabId": "32827",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "ZION CONSTRUCTION(FORMERLY MASTERPIECE CONST. & SU (14881)",
+        "pcabId": "14881",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION / IMPROVEMENT OF ACCESS ROADS LEADING TO DECLARED TOURISM DESTINATIONS, SIKATUNA ST., LEADING TO PARI-AN HERITAGE SHRINE, CASA GORORDO, METROPOLITAN CATHEDRAL, BRGY. ZAPATERA, CEBU CITY",
+      "abc": "13781740.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2017-12-14 00:00:00.0000000",
+      "bidSubmissionDeadline": "2018-01-17 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "12650880"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/ITB 17HH0109-0119.PDF",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/17HH0119 - Contract.PDF",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/17HH0119 - NOA.PDF",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/17HH0119 - Contract.PDF",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 10.3043,
+    "longitude": 123.9018467,
+    "coordinates": [
+      {
+        "componentId": "P00230231VS-CW1",
+        "description": "Reconstruction from Paved to Concrete - Sikatuna Street leading to Pari-an Heritage Shrine, Casa Gorordo, Metropolitan Cathedral, Brgy. Zapatera, Cebu City",
+        "latitude": 10.3043,
+        "longitude": 123.9018467,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

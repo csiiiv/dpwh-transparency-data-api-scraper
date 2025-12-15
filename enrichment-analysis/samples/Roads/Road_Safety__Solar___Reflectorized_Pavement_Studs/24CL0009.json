@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "24CL0009",
+    "description": "INSTALLATION OF ROAD SAFETY DEVICES ALONG OLONGAPO - BUGALION ROAD - K0202 + 290 - K0203 + 003, K0203 + 013 - K0205 + 165, K0206 + 033 - K0206 + 900, K0208 + 000 - K0210 + 000, K0211 +107 - K0212 + 711, K0212 + 803 - K0214 + 000, K0217 + 230 - K0217 + 762",
+    "category": "Roads",
+    "status": "On-Going",
+    "budget": 21682012.41,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region III",
+      "province": "Zambales 1st DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 15.3169041141541,
+        "longitude": 119.991201941018,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "R.A. PAHATI CONST. & SUPPLY, INC. (35843)",
+    "startDate": "2024-06-04",
+    "completionDate": null,
+    "infraYear": "2024",
+    "contractEffectivityDate": "2024-06-04",
+    "expiryDate": "2024-10-01",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2024 SSP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00837472LZ-CW1",
+        "description": "Road Safety: Solar / Reflectorized Pavement Studs - Installation of Road Safety Devices along Olongapo - Bugalion Road - K0202 + 290 - K0203 + 003, K0203 + 013 - K0205 + 165, K0206 + 033 - K0206 + 900, K0208 + 000 - K0210 + 000, K0211 + 107 - K0212 + 711,",
+        "infraType": "Roads",
+        "typeOfWork": "Road Safety: Solar / Reflectorized Pavement Studs",
+        "region": "Region III",
+        "province": "ZAMBALES",
+        "coordinates": {
+          "latitude": 15.3169041141541,
+          "longitude": 119.991201941018,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "R.A. PAHATI CONST. & SUPPLY, INC.",
+    "bidders": [
+      {
+        "name": "R.A. PAHATI CONST. & SUPPLY, INC. (35843)",
+        "pcabId": "35843",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "NUEDA BUILDERS CONSTRUCTION & SUPPLY INC. (39776)",
+        "pcabId": "39776",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "INSTALLATION OF ROAD SAFETY DEVICES ALONG OLONGAPO - BUGALION ROAD - K0202 + 290 - K0203 + 003, K0203 + 013 - K0205 + 165, K0206 + 033 - K0206 + 900, K0208 + 000 - K0210 + 000, K0211 +107 - K0212 + 711, K0212 + 803 - K0214 + 000, K0217 + 230 - K0217 + 762",
+      "abc": "21958692.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2024-01-24 00:00:00.0000000",
+      "bidSubmissionDeadline": "2024-02-13 00:00:00.0000000",
+      "dateOfAward": "2024-05-23 00:00:00.0000000",
+      "awardAmount": "21682012.41"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/24cl0009.rar",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/24cl0009_contract.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/24cl0009_noa_1.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/24cl0009_ntp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 15.3169041141541,
+    "longitude": 119.991201941018,
+    "coordinates": [
+      {
+        "componentId": "P00837472LZ-CW1",
+        "description": "Road Safety: Solar / Reflectorized Pavement Studs - Installation of Road Safety Devices along Olongapo - Bugalion Road - K0202 + 290 - K0203 + 003, K0203 + 013 - K0205 + 165, K0206 + 033 - K0206 + 900, K0208 + 000 - K0210 + 000, K0211 + 107 - K0212 + 711,",
+        "latitude": 15.3169041141541,
+        "longitude": 119.991201941018,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

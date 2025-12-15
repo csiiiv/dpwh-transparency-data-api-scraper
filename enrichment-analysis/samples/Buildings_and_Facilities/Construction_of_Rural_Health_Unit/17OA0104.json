@@ -1,0 +1,109 @@
+{
+  "data": {
+    "contractId": "17OA0104",
+    "description": "CONSTRUCTION OF TINAJEROS HEALTH CENTER, MALABON CITY (PHASE 1)",
+    "category": "Buildings and Facilities",
+    "status": "Completed",
+    "budget": 1920305.87,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "National Capital Region",
+      "province": "Malabon-Navotas DEO",
+      "infraType": "Buildings and Facilities",
+      "coordinates": {
+        "latitude": 14.671233,
+        "longitude": 120.970519,
+        "verified": false
+      }
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "A.M. CANETE CONSTRUCTION AND TRADING (42540)",
+    "startDate": "2018-07-01",
+    "completionDate": "2018-12-27",
+    "infraYear": "2017",
+    "contractEffectivityDate": "2018-07-01",
+    "expiryDate": "2018-12-27",
+    "nysReason": null,
+    "programName": "Outside Infra",
+    "sourceOfFunds": "Outside Infra - GAA 2017 DOH HFEP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00199218LZ-CW1",
+        "description": "Construction of Rural Health Unit - Construction of Tinajeros Health Center, Malabon City (Phase 1)",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of Rural Health Unit",
+        "region": "National Capital Region",
+        "province": "METROPOLITAN MANILA",
+        "coordinates": {
+          "latitude": 14.671233,
+          "longitude": 120.970519,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "A.M. CANETE CONSTRUCTION AND TRADING",
+    "bidders": [
+      {
+        "name": "A.M. CANETE CONSTRUCTION AND TRADING (42540)",
+        "pcabId": "42540",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "IM CONSTRUCTION CORPORATION (20074)",
+        "pcabId": "20074",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "JBERNARDO CONSTRUCTION AND SUPPLY (42108)",
+        "pcabId": "42108",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION OF TINAJEROS HEALTH CENTER, MALABON CITY (PHASE 1)",
+      "abc": "1979680.43",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2018-04-07 00:00:00.0000000",
+      "bidSubmissionDeadline": "2018-04-27 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "1920428.33"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/IB 18OA0095, 18OA0096, 17OA0104.pdf",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/17OA0104 NOA.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/17OA0104 NOA.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/17OA0104 NOA.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 14.671233,
+    "longitude": 120.970519,
+    "coordinates": [
+      {
+        "componentId": "P00199218LZ-CW1",
+        "description": "Construction of Rural Health Unit - Construction of Tinajeros Health Center, Malabon City (Phase 1)",
+        "latitude": 14.671233,
+        "longitude": 120.970519,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

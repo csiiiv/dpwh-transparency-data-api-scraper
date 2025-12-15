@@ -1,0 +1,115 @@
+{
+  "data": {
+    "contractId": "21GL0053",
+    "description": "INSTALLATION OF ROAD SAFETY DEVICES ALONG JCT BAGONAWA - LA CASTELLANA - ISABELA RD K0065 + 018 - K0065+240, LA CASTELLANA, NEGROS OCCIDENTAL",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 24118759.93,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Negros Island Region",
+      "province": "Negros Occidental 2nd DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 10.3236111,
+        "longitude": 123.0191667,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "PHILIPPINE CHEMSTEEL INDUSTRIES, INC. (16965)",
+    "startDate": "2021-04-11",
+    "completionDate": "2021-05-07",
+    "infraYear": "2021",
+    "contractEffectivityDate": "2021-04-11",
+    "expiryDate": "2021-05-07",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2021 CSSP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00532277VS-CW1",
+        "description": "Road Safety: Guardrails (Old) - Installation of Road Safety Devices along Jct Bagonawa - La Castellana - Isabela Rd K0065 + 018 - K0065+240, La Castellana, Negros Occidental",
+        "infraType": "Roads",
+        "typeOfWork": "Road Safety: Guardrails (Old)",
+        "region": "Negros Island Region",
+        "province": "NEGROS OCCIDENTAL",
+        "coordinates": {
+          "latitude": 10.3236111,
+          "longitude": 123.0191667,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "PHILIPPINE CHEMSTEEL INDUSTRIES, INC.",
+    "bidders": [
+      {
+        "name": "PHILIPPINE CHEMSTEEL INDUSTRIES, INC. (16965)",
+        "pcabId": "16965",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "C.S. RAYOS CONSTRUCTION & GENERAL SERVICES, INC. (9790)",
+        "pcabId": "9790",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "FP ALONTO CONSTRUCTION SERVICES (46820)",
+        "pcabId": "46820",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "SUPREME ABF CONST. & CONST. SUPPLY COMPANY INC. (25226)",
+        "pcabId": "25226",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "INSTALLATION OF ROAD SAFETY DEVICES ALONG JCT BAGONAWA - LA CASTELLANA - ISABELA RD K0065 + 018 - K0065+240, LA CASTELLANA, NEGROS OCCIDENTAL",
+      "abc": "24125000.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2021-01-06 00:00:00.0000000",
+      "bidSubmissionDeadline": "2021-01-26 00:00:00.0000000",
+      "dateOfAward": "2021-03-19 00:00:00.0000000",
+      "awardAmount": "22843376.95"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/21GL0053.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/21GL0053 CONTRACT.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/21GL0053 NOA.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/21GL0053 CONTRACT.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 10.3236111,
+    "longitude": 123.0191667,
+    "coordinates": [
+      {
+        "componentId": "P00532277VS-CW1",
+        "description": "Road Safety: Guardrails (Old) - Installation of Road Safety Devices along Jct Bagonawa - La Castellana - Isabela Rd K0065 + 018 - K0065+240, La Castellana, Negros Occidental",
+        "latitude": 10.3236111,
+        "longitude": 123.0191667,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 3,
+      "latestImageDate": "2022-11-21 06:07:19.461999",
+      "hasImages": true
+    }
+  }
+}

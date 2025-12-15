@@ -1,0 +1,94 @@
+{
+  "data": {
+    "contractId": "16EE0111",
+    "description": "CONSTRUCTION OF 2 STOREY 10 CL CUYO NHS CUYO,PALAWAN",
+    "category": "Buildings and Facilities",
+    "status": "Completed",
+    "budget": 15474098.38,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region IV-B",
+      "province": "Palawan 1st DEO",
+      "infraType": "Buildings and Facilities",
+      "coordinates": null
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "E.V. VILLAOS TRADING & CONSTRUCTION (36735)",
+    "startDate": "2017-09-21",
+    "completionDate": "2018-10-10",
+    "infraYear": "2017",
+    "contractEffectivityDate": "2017-09-21",
+    "expiryDate": "2018-03-19",
+    "nysReason": null,
+    "programName": "Outside Infra",
+    "sourceOfFunds": "Outside Infra - GAA 2016 DepED BEFF / GAA 2017 DepEd BEFF",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00075587LZ-CW1",
+        "description": "Construction of Classrooms - Construction of a 2STY10CL school building,  Cuyo National High School, Cuyo, Palawan 1st LD",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of Classrooms",
+        "region": "Region IV-B",
+        "province": "PALAWAN",
+        "coordinates": null
+      },
+      {
+        "componentId": "P00170188LZ-CW1",
+        "description": "Completion of Classrooms - Construction (Completion) of a 2STY10CL School Building, Cuyo NHS, Cuyo, Palawan",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Completion of Classrooms",
+        "region": "Region IV-B",
+        "province": "PALAWAN",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "E.V. VILLAOS TRADING & CONSTRUCTION",
+    "bidders": [
+      {
+        "name": "E.V. VILLAOS TRADING & CONSTRUCTION (36735)",
+        "pcabId": "36735",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "YURICH BUILDERS AND CONSTRUCTION SUPPLY INC. (37064)",
+        "pcabId": "37064",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION OF 2 STOREY 10 CL CUYO NHS CUYO,PALAWAN",
+      "abc": "15615015.41",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-12-02 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-12-27 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "15,474,098.38"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/16-contract-111.pdf",
+      "noticeOfAward": "",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/16-ntp-111.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "data": {
+    "contractId": "19CI0097",
+    "description": "CONST OF FOOT BRIDGE AT BRGY SAPANGBATO, ANGELES CITY PAMPANGA",
+    "category": "Bridges",
+    "status": "Completed",
+    "budget": 3422562.78,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region III",
+      "province": "Pampanga 3rd DEO",
+      "infraType": "Bridges",
+      "coordinates": {
+        "latitude": 15.1694644,
+        "longitude": 120.5099169,
+        "verified": false
+      }
+    },
+    "infraType": "Bridges",
+    "contractor": "E.L. GOMEZ CONSTRUCTION (31522)",
+    "startDate": "2019-08-02",
+    "completionDate": "2019-09-30",
+    "infraYear": "2019",
+    "contractEffectivityDate": "2019-08-02",
+    "expiryDate": "2019-09-30",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2019 LP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00355791LZ-CW1",
+        "description": "Construction of Steel Bridge - Construction of Footbridge Brgy. Sapangbato, Angeles City, Pampanga",
+        "infraType": "Bridges",
+        "typeOfWork": "Construction of Steel Bridge",
+        "region": "Region III",
+        "province": "PAMPANGA",
+        "coordinates": {
+          "latitude": 15.1694644,
+          "longitude": 120.5099169,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "E.L. GOMEZ CONSTRUCTION",
+    "bidders": [
+      {
+        "name": "E.L. GOMEZ CONSTRUCTION (31522)",
+        "pcabId": "31522",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "R.G. DIAZ  BUILDERS & TRADING (23814)",
+        "pcabId": "23814",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "THREE-IN-ONE CONSTRUCTION & TRADING (14695)",
+        "pcabId": "14695",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONST OF FOOT BRIDGE AT BRGY SAPANGBATO, ANGELES CITY PAMPANGA",
+      "abc": "3423977.02",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2019-05-02 00:00:00.0000000",
+      "bidSubmissionDeadline": "2019-05-22 00:00:00.0000000",
+      "dateOfAward": "2019-07-17 00:00:00.0000000",
+      "awardAmount": "3334938.13"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/Invitation to Bid May 22, 2019 (97-109).pdf",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/Contract_76,102.zip",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/New folder.zip",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/56,59.zip",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 15.1694644,
+    "longitude": 120.5099169,
+    "coordinates": [
+      {
+        "componentId": "P00355791LZ-CW1",
+        "description": "Construction of Steel Bridge - Construction of Footbridge Brgy. Sapangbato, Angeles City, Pampanga",
+        "latitude": 15.1694644,
+        "longitude": 120.5099169,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

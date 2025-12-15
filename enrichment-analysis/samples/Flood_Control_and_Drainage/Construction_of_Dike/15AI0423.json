@@ -1,0 +1,85 @@
+{
+  "data": {
+    "contractId": "15AI0423",
+    "description": "CONST/MAINT OF FLOOD MITIGATION STRUCTURES & DRAINAGE SYSTEM-RIVER IMPVT & DIKE W/ PROTECTION WORKS,",
+    "category": "Flood Control and Drainage",
+    "status": "Completed",
+    "budget": 22294018.27,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region I",
+      "province": "Pangasinan 3rd DEO",
+      "infraType": "Flood Control and Drainage",
+      "coordinates": null
+    },
+    "infraType": "Flood Control and Drainage",
+    "contractor": "R.S. SEPIAN CONSTRUCTION & TRUCKING (20519)",
+    "startDate": "2016-02-25",
+    "completionDate": "2016-10-21",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-02-25",
+    "expiryDate": "2016-10-21",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-2",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00020231LZ-CW1",
+        "description": "Construction of Dike - River Improvement and Dike with Protection Works, Bued River Control Project at Brgy. Tara-Tara,Sison, Pangasinan 5th LD",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Construction of Dike",
+        "region": "Region I",
+        "province": "PANGASINAN",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "R.S. SEPIAN CONSTRUCTION & TRUCKING",
+    "bidders": [
+      {
+        "name": "R.S. SEPIAN CONSTRUCTION & TRUCKING (20519)",
+        "pcabId": "20519",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "A.C. SOLIVEN CONSTRUCTION & GENERAL MERCHANDISE (19278)",
+        "pcabId": "19278",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONST/MAINT OF FLOOD MITIGATION STRUCTURES & DRAINAGE SYSTEM-RIVER IMPVT & DIKE W/ PROTECTION WORKS,",
+      "abc": "22294020.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-12-18 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-01-13 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "21502582.2900000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/may/15AI0423 contract.pdf",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/may/15AI0423 award.pdf",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/may/15AI0423 contract.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

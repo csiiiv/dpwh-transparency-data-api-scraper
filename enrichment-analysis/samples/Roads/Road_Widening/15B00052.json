@@ -1,0 +1,109 @@
+{
+  "data": {
+    "contractId": "15B00052",
+    "description": "NETWORK DEVELOPMENT: WIDENING OF NATIONAL ROADS ALONG NATIONAL ROAD 1 (N1)/DM/ASIAN HIGHWAY 26-DM (LZ), K0445+030 - K0445+600, K0447+782 - K0448+918; K0451+205 - K0453+769, CABAGAN-SAN PABLO, ISABELA",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 100430770.95,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region II",
+      "province": "Region II",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 17.4190463300104,
+        "longitude": 121.795300990689,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "GOLDRICH CONSTRUCTION & TRADING (16489)",
+    "startDate": "2016-02-04",
+    "completionDate": "2017-02-25",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-02-04",
+    "expiryDate": "2017-01-03",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00005148LZ-CW1",
+        "description": "Road Widening - Daang Maharlika (LZ) - K0445+030 - K0445+600, K0447+782 - K0448+918, K0451+205 - K0453+769",
+        "infraType": "Roads",
+        "typeOfWork": "Road Widening",
+        "region": "Region II",
+        "province": "CAGAYAN",
+        "coordinates": {
+          "latitude": 17.4190463300104,
+          "longitude": 121.795300990689,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "GOLDRICH CONSTRUCTION & TRADING",
+    "bidders": [
+      {
+        "name": "GOLDRICH CONSTRUCTION & TRADING (16489)",
+        "pcabId": "16489",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "B. VICENCIO BUILDERS (BVB), INC. (FORMERLY:B. VICENCIO CONSTRUCTION) (9687)",
+        "pcabId": "9687",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "E.M. CUERPO, INC. (30963)",
+        "pcabId": "30963",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "NETWORK DEVELOPMENT: WIDENING OF NATIONAL ROADS ALONG NATIONAL ROAD 1 (N1)/DM/ASIAN HIGHWAY 26-DM (LZ), K0445+030 - K0445+600, K0447+782 - K0448+918; K0451+205 - K0453+769, CABAGAN-SAN PABLO, ISABELA",
+      "abc": "105738500.00",
+      "status": "FNV",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-10-24 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-11-17 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "100430770.9500000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/15b00052-cont.agreemnt.pdf",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/april/15b00052-Noa.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/15b00052-ntp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 17.4190463300104,
+    "longitude": 121.795300990689,
+    "coordinates": [
+      {
+        "componentId": "P00005148LZ-CW1",
+        "description": "Road Widening - Daang Maharlika (LZ) - K0445+030 - K0445+600, K0447+782 - K0448+918, K0451+205 - K0453+769",
+        "latitude": 17.4190463300104,
+        "longitude": 121.795300990689,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

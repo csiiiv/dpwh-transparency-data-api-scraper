@@ -1,0 +1,97 @@
+{
+  "data": {
+    "contractId": "15B00059",
+    "description": "PREVENTIVE MAINTENANCE BASED ON PVM'T MNG'T SYSTEM ALONG DAANG MAHARLIKA , STA. FE, NUEVA VISCAYA",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 20332366.09,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region II",
+      "province": "Region II",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 16.1519456482018,
+        "longitude": 120.935340802057,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "JANN-NORRIS CONSTRUCTION AND SUPPLIES INC. (FORMELY: JANN-NORRIS CONSTRUCTION AND SUPPLIES) (35880)",
+    "startDate": "2016-02-21",
+    "completionDate": "2016-09-08",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-02-21",
+    "expiryDate": "2016-09-15",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00000032LZ-CW1",
+        "description": "Preventive Maintenance of Road: Concrete Reblocking - Daang Maharlika (LZ) - K0212+000 - K0214+471",
+        "infraType": "Roads",
+        "typeOfWork": "Preventive Maintenance of Road: Concrete Reblocking",
+        "region": "Region II",
+        "province": "NUEVA VIZCAYA",
+        "coordinates": {
+          "latitude": 16.1519456482018,
+          "longitude": 120.935340802057,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "JANN-NORRIS CONSTRUCTION AND SUPPLIES INC. (FORMELY: JANN-NORRIS CONSTRUCTION AND SUPPLIES)",
+    "bidders": [
+      {
+        "name": "JANN-NORRIS CONSTRUCTION AND SUPPLIES INC. (FORMELY: JANN-NORRIS CONSTRUCTION AND SUPPLIES) (35880)",
+        "pcabId": "35880",
+        "participation": 100,
+        "isWinner": true
+      }
+    ],
+    "procurement": {
+      "contractName": "PREVENTIVE MAINTENANCE BASED ON PVM'T MNG'T SYSTEM ALONG DAANG MAHARLIKA , STA. FE, NUEVA VISCAYA",
+      "abc": "21138975.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-10-29 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-11-24 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "20332366.0900000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/april/15b00059-Cont.agreemnt.pdf",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/april/15b00059-Noa.pdf",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/april/15b00059-Cont.agreemnt.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 16.1519456482018,
+    "longitude": 120.935340802057,
+    "coordinates": [
+      {
+        "componentId": "P00000032LZ-CW1",
+        "description": "Preventive Maintenance of Road: Concrete Reblocking - Daang Maharlika (LZ) - K0212+000 - K0214+471",
+        "latitude": 16.1519456482018,
+        "longitude": 120.935340802057,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

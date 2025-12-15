@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "16CF0180",
+    "description": "ASSET PRESERVATION OF NATIONAL ROADS -REHABILITATION/RECONSTRUCTION/UPGRADING OF DAMAGED PAVED NATIONAL ROADS INCLUDING DRAINAGE BASED ON PAVEMENT MANAGEMENT SYSTEM/HIGHWAY DEVELOPMENT AND MANAGEMENT- 4 (HDM-4) JCT. TABLANG - GABALDON ROAD, PALAYAN CITY K",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 45621991.16,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region III",
+      "province": "Nueva Ecija 2nd DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 15.5790155526184,
+        "longitude": 121.117680918468,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "R.A. PAHATI CONST. & SUPPLY, INC. (35843)",
+    "startDate": "2017-03-01",
+    "completionDate": "2017-07-13",
+    "infraYear": "2017",
+    "contractEffectivityDate": "2017-03-01",
+    "expiryDate": "2017-07-13",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2017 MFO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00102092LZ-CW1",
+        "description": "Reconstruction from Asphalt to Concrete - Jct Tablang-Gabaldon Road - K0136+000 - K0139+000, K0144+974.40 - K0145+778.47",
+        "infraType": "Roads",
+        "typeOfWork": "Reconstruction from Asphalt to Concrete",
+        "region": "Region III",
+        "province": "NUEVA ECIJA",
+        "coordinates": {
+          "latitude": 15.5790155526184,
+          "longitude": 121.117680918468,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "R.A. PAHATI CONST. & SUPPLY, INC.",
+    "bidders": [
+      {
+        "name": "R.A. PAHATI CONST. & SUPPLY, INC. (35843)",
+        "pcabId": "35843",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "SPECO BUILDERS INC. (FORMERLY VRF CONSTRUCTION) (15301)",
+        "pcabId": "15301",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "ASSET PRESERVATION OF NATIONAL ROADS -REHABILITATION/RECONSTRUCTION/UPGRADING OF DAMAGED PAVED NATIONAL ROADS INCLUDING DRAINAGE BASED ON PAVEMENT MANAGEMENT SYSTEM/HIGHWAY DEVELOPMENT AND MANAGEMENT- 4 (HDM-4) JCT. TABLANG - GABALDON ROAD, PALAYAN CITY K",
+      "abc": "47040000.76",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-11-23 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-12-19 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "45,621,991.16"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/16cf180_a.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/16cf180n.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 15.5790155526184,
+    "longitude": 121.117680918468,
+    "coordinates": [
+      {
+        "componentId": "P00102092LZ-CW1",
+        "description": "Reconstruction from Asphalt to Concrete - Jct Tablang-Gabaldon Road - K0136+000 - K0139+000, K0144+974.40 - K0145+778.47",
+        "latitude": 15.5790155526184,
+        "longitude": 121.117680918468,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

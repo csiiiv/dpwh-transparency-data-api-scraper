@@ -1,0 +1,133 @@
+{
+  "data": {
+    "contractId": "16GA0035",
+    "description": "CONST. OF RIVER CONTROL (REVETMENT WALL) ALONG AKLAN RIVER POBLACION MALINAO, MALINAO, AKLAN",
+    "category": "Flood Control and Drainage",
+    "status": "Completed",
+    "budget": 45829851.89,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region VI",
+      "province": "Aklan DEO",
+      "infraType": "Flood Control and Drainage",
+      "coordinates": null
+    },
+    "infraType": "Flood Control and Drainage",
+    "contractor": "F. GURREA CONSTRUCTION, INCORPORATED (6995)",
+    "startDate": "2016-06-13",
+    "completionDate": "2017-06-29",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-06-13",
+    "expiryDate": "2017-01-12",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-2",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00022739VS-CW1",
+        "description": "Construction of Sabo Dam - Construction of River Control along Aklan River, Brgy. Poblacion Malinao, Aklan, Sta. 14+540 to Sta. 14+570, L=330.0m",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Construction of Sabo Dam",
+        "region": "Region VI",
+        "province": "AKLAN",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "F. GURREA CONSTRUCTION, INCORPORATED",
+    "bidders": [
+      {
+        "name": "F. GURREA CONSTRUCTION, INCORPORATED (6995)",
+        "pcabId": "6995",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "B. VICENCIO BUILDERS (BVB), INC. (FORMERLY:B. VICENCIO CONSTRUCTION) (9687)",
+        "pcabId": "9687",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "HENSCHA PHILS. INC. (34164)",
+        "pcabId": "34164",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "IBC INTERNATIONAL BUILDERS CORPORATION (8576)",
+        "pcabId": "8576",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "M.G. SALAZAR CONSTRUCTION CORP. (FOR. M.G. SALAZAR (4072)",
+        "pcabId": "4072",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "MONOLITHIC CONSTRUCTION & CONCRETE PRODUCTS, INC. (5733)",
+        "pcabId": "5733",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "ORANI CONSTRUCTION AND SUPPLY CORPORATION (FORMERLY:ORANI BUILDERS & SUPPLY) (05349)",
+        "pcabId": "05349",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "PRECIOUS CONSTRUCTION (32995)",
+        "pcabId": "32995",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "ROPRIM CONSTRUCTION CORPORATION (FORMERLY ROPRIM  CONSTRUCTION) (8546)",
+        "pcabId": "8546",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "SUPREME ABF CONST. & CONST. SUPPLY COMPANY INC. (25226)",
+        "pcabId": "25226",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONST. OF RIVER CONTROL (REVETMENT WALL) ALONG AKLAN RIVER POBLACION MALINAO, MALINAO, AKLAN",
+      "abc": "48250000.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-03-29 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-04-18 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "45,829,851.89"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/june/CA 16GA0035.pdf",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/june/NOA 16GA0035.pdf",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/june/CA 16GA0035.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

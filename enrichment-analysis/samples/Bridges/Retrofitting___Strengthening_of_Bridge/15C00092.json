@@ -1,0 +1,97 @@
+{
+  "data": {
+    "contractId": "15C00092",
+    "description": "CONSTRUCTION & MAINTENANCE OF BRIDGES ALONG NATIONAL ROADS, RETROFITTING/STRENGTHENING OF PERMANENT BRIDGES, DIG-DIG BRIDGE (BOO121LZ) ALONG DAANG MAHARLIKA (LZ), NUEVA ECIJA 2ND LEGISLATIVE DISTRICT, PROVINCE OF NUEVA ECIJA",
+    "category": "Bridges",
+    "status": "Completed",
+    "budget": 4186960.94,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region III",
+      "province": "Region III",
+      "infraType": "Bridges",
+      "coordinates": {
+        "latitude": 15.9454641974052,
+        "longitude": 120.977760323997,
+        "verified": false
+      }
+    },
+    "infraType": "Bridges",
+    "contractor": "WIZARD CONCRETE SOLUTIONS AND CONSTRUCTION CORPORATION (FORMERLY: WIZARD TRADING & CONSTRUCTION) (21921)",
+    "startDate": "2016-03-02",
+    "completionDate": "2016-08-28",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-03-02",
+    "expiryDate": "2016-08-28",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00001926LZ-CW1",
+        "description": "Retrofitting / Strengthening of Bridge - Digdig Br. (B00121LZ) along Daang Maharlika (LZ)",
+        "infraType": "Bridges",
+        "typeOfWork": "Retrofitting / Strengthening of Bridge",
+        "region": "Region III",
+        "province": "NUEVA ECIJA",
+        "coordinates": {
+          "latitude": 15.9454641974052,
+          "longitude": 120.977760323997,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "WIZARD CONCRETE SOLUTIONS AND CONSTRUCTION CORPORATION (FORMERLY: WIZARD TRADING & CONSTRUCTION)",
+    "bidders": [
+      {
+        "name": "WIZARD CONCRETE SOLUTIONS AND CONSTRUCTION CORPORATION (FORMERLY: WIZARD TRADING & CONSTRUCTION) (21921)",
+        "pcabId": "21921",
+        "participation": 100,
+        "isWinner": true
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION & MAINTENANCE OF BRIDGES ALONG NATIONAL ROADS, RETROFITTING/STRENGTHENING OF PERMANENT BRIDGES, DIG-DIG BRIDGE (BOO121LZ) ALONG DAANG MAHARLIKA (LZ), NUEVA ECIJA 2ND LEGISLATIVE DISTRICT, PROVINCE OF NUEVA ECIJA",
+      "abc": "4317894.15",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-12-10 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-01-19 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "4186960.9400000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/august/15C00092.pdf",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/february/NOA-Dig-Dig Bridge.pdf",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/august/15C00092.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 15.9454641974052,
+    "longitude": 120.977760323997,
+    "coordinates": [
+      {
+        "componentId": "P00001926LZ-CW1",
+        "description": "Retrofitting / Strengthening of Bridge - Digdig Br. (B00121LZ) along Daang Maharlika (LZ)",
+        "latitude": 15.9454641974052,
+        "longitude": 120.977760323997,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

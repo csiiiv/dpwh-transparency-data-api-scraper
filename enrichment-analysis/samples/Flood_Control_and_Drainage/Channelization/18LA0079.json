@@ -1,0 +1,131 @@
+{
+  "data": {
+    "contractId": "18LA0079",
+    "description": "RECHANNELING AND CONSTRUCTION OF REVETMENT ALONG BATUTU RIVER, BARANGAY FATIMA TO CAMANLANGAN, NEW BATAAN, COMPOSTELA VALLEY PROVINCE",
+    "category": "Flood Control Structures, Waterway",
+    "status": "Completed",
+    "budget": 48509999.65,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region XI",
+      "province": "Davao de Oro 1st DEO",
+      "infraType": "Flood Control and Drainage",
+      "coordinates": {
+        "latitude": 7.5368014,
+        "longitude": 126.1071031,
+        "verified": false
+      }
+    },
+    "infraType": "Flood Control and Drainage",
+    "contractor": "AAA ROCK CONSTRUCTION CORPORATION (FORMERLY: DAVAO ROCK MIXER ENTERPRISES) (19250)",
+    "startDate": "2018-04-13",
+    "completionDate": "2018-11-14",
+    "infraYear": "2018",
+    "contractEffectivityDate": "2018-04-13",
+    "expiryDate": "2018-11-14",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2018 OO-2",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00222005MN-CW1",
+        "description": "Construction of Revetment - Rechanneling and Construction of Revetment along Batutu River, Barangay Fatima to Camanlangan, New Bataan, Compostela Valley",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Construction of Revetment",
+        "region": "Region XI",
+        "province": "DAVAO DE ORO",
+        "coordinates": {
+          "latitude": 7.5368014,
+          "longitude": 126.1071031,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00222005MN-CW2",
+        "description": "Channelization - Rechanneling and Construction of Revetment along Batutu River, Barangay Fatima to Camanlangan, New Bataan, Compostela Valley",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Channelization",
+        "region": "Region XI",
+        "province": "DAVAO DE ORO",
+        "coordinates": {
+          "latitude": 7.5367648,
+          "longitude": 126.1071523,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "AAA ROCK CONSTRUCTION CORPORATION (FORMERLY: DAVAO ROCK MIXER ENTERPRISES)",
+    "bidders": [
+      {
+        "name": "AAA ROCK CONSTRUCTION CORPORATION (FORMERLY: DAVAO ROCK MIXER ENTERPRISES) (19250)",
+        "pcabId": "19250",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "ARCINUE COMM'L CORPORATION (6746)",
+        "pcabId": "6746",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "RELY CONSTRUCTION & SUPPLY INC.(FORMERLY: RELY CONSTRUCTION AND SUPPLY) (10433)",
+        "pcabId": "10433",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "RECHANNELING AND CONSTRUCTION OF REVETMENT ALONG BATUTU RIVER, BARANGAY FATIMA TO CAMANLANGAN, NEW BATAAN, COMPOSTELA VALLEY PROVINCE",
+      "abc": "48499669.23",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2017-12-08 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-12-27 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "47043390.18"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/18la0079_contract_agreement.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/NOA.PDF",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/18la0079_contract_agreement.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 7.5368014,
+    "longitude": 126.1071031,
+    "coordinates": [
+      {
+        "componentId": "P00222005MN-CW1",
+        "description": "Construction of Revetment - Rechanneling and Construction of Revetment along Batutu River, Barangay Fatima to Camanlangan, New Bataan, Compostela Valley",
+        "latitude": 7.5368014,
+        "longitude": 126.1071031,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00222005MN-CW2",
+        "description": "Channelization - Rechanneling and Construction of Revetment along Batutu River, Barangay Fatima to Camanlangan, New Bataan, Compostela Valley",
+        "latitude": 7.5367648,
+        "longitude": 126.1071523,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

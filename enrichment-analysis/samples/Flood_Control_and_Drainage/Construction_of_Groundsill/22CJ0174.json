@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "22CJ0174",
+    "description": "FLOOD MANAGEMENT PROGRAM CONSTRUCTION/ MAINTENANCE OF FLOOD MITIGATION STRUCTURES AND DRAINAGE SYSTEMS CONSTRUCTION OF GROUNDSILL ACROSS TARLAC RIVER, DOWNSTREAM OF NINOY AQUINO BRIDGE, TARLAC CITY, TARLAC",
+    "category": "Flood Control and Drainage",
+    "status": "Completed",
+    "budget": 73765257.64,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region III",
+      "province": "Tarlac DEO",
+      "infraType": "Flood Control and Drainage",
+      "coordinates": {
+        "latitude": 15.4886361,
+        "longitude": 120.58705,
+        "verified": false
+      }
+    },
+    "infraType": "Flood Control and Drainage",
+    "contractor": "NORTHERN BUILDERS (8789)",
+    "startDate": "2022-02-22",
+    "completionDate": "2022-07-18",
+    "infraYear": "2022",
+    "contractEffectivityDate": "2022-02-22",
+    "expiryDate": "2022-09-25",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2022 OO-2",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00620173LZ-CW1",
+        "description": "Construction of Groundsill - Construction of Groundsill Across Tarlac River, Downstream of Ninoy Aquino Bridge, Tarlac City, Tarlac",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Construction of Groundsill",
+        "region": "Region III",
+        "province": "TARLAC",
+        "coordinates": {
+          "latitude": 15.4886361,
+          "longitude": 120.58705,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "NORTHERN BUILDERS",
+    "bidders": [
+      {
+        "name": "NORTHERN BUILDERS (8789)",
+        "pcabId": "8789",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "STO. CRISTO CONSTRUCTION & TRADING INC. (FOR: STO. CRISTO CONSTRUCTION & TRADING) (26096)",
+        "pcabId": "26096",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "FLOOD MANAGEMENT PROGRAM CONSTRUCTION/ MAINTENANCE OF FLOOD MITIGATION STRUCTURES AND DRAINAGE SYSTEMS CONSTRUCTION OF GROUNDSILL ACROSS TARLAC RIVER, DOWNSTREAM OF NINOY AQUINO BRIDGE, TARLAC CITY, TARLAC",
+      "abc": "75270000.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2021-11-25 00:00:00.0000000",
+      "bidSubmissionDeadline": "2021-12-16 00:00:00.0000000",
+      "dateOfAward": "2022-02-10 00:00:00.0000000",
+      "awardAmount": "73765257.64"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/22CJ0169 174 BID DOCS.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/22cj0174-contract.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/22cj0174_notice_of_award.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/22cj0174-contract.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 15.4886361,
+    "longitude": 120.58705,
+    "coordinates": [
+      {
+        "componentId": "P00620173LZ-CW1",
+        "description": "Construction of Groundsill - Construction of Groundsill Across Tarlac River, Downstream of Ninoy Aquino Bridge, Tarlac City, Tarlac",
+        "latitude": 15.4886361,
+        "longitude": 120.58705,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 8,
+      "latestImageDate": "2025-08-01 06:42:47.663000",
+      "hasImages": true
+    }
+  }
+}

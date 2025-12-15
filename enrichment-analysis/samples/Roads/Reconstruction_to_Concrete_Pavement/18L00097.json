@@ -1,0 +1,231 @@
+{
+  "data": {
+    "contractId": "18L00097",
+    "description": "NABUNTURAN-MARAGUSAN ROAD INCLUDING ROW-K1450+567-K1450+810;K1453+061-K1453+312;K1456+315-K1457+581,",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 153498212.03,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region XI",
+      "province": "Region XI",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 7.4915874,
+        "longitude": 126.1178915,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "AB APONESTO CONSTRUCTION PARTS AND SUPPLY, INC. (22998)",
+    "startDate": "2018-07-05",
+    "completionDate": "2020-12-31",
+    "infraYear": "2018",
+    "contractEffectivityDate": "2018-07-05",
+    "expiryDate": "2020-02-13",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2018 OO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00200731MN-CW1",
+        "description": "Road Widening - Nabunturan-Maragusan Rd incl. ROW - K1450 + 567 - K1450 + 810, K1453 + 061 - K1453 + 312, K1456 + 315 - K1457 + 581",
+        "infraType": "Roads",
+        "typeOfWork": "Road Widening",
+        "region": "Region XI",
+        "province": "DAVAO DE ORO",
+        "coordinates": {
+          "latitude": 7.4915874,
+          "longitude": 126.1178915,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00200731MN-CW2",
+        "description": "Paving of Unpaved Roads - Nabunturan-Maragusan Rd incl. ROW - K1450 + 567 - K1450 + 810, K1453 + 061 - K1453 + 312, K1456 + 315 - K1457 + 581",
+        "infraType": "Roads",
+        "typeOfWork": "Paving of Unpaved Roads",
+        "region": "Region XI",
+        "province": "DAVAO DE ORO",
+        "coordinates": {
+          "latitude": 7.4916468,
+          "longitude": 126.1179169,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00200731MN-CW3",
+        "description": "Reconstruction to Concrete Pavement - Nabunturan-Maragusan Rd incl. ROW - K1450 + 567 - K1450 + 810, K1453 + 061 - K1453 + 312, K1456 + 315 - K1457 + 581",
+        "infraType": "Roads",
+        "typeOfWork": "Reconstruction to Concrete Pavement",
+        "region": "Region XI",
+        "province": "DAVAO DE ORO",
+        "coordinates": {
+          "latitude": 7.4744106,
+          "longitude": 126.1276925,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "AB APONESTO CONSTRUCTION PARTS AND SUPPLY, INC.",
+    "bidders": [
+      {
+        "name": "AB APONESTO CONSTRUCTION PARTS AND SUPPLY, INC. (22998)",
+        "pcabId": "22998",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "ALGON ENGINEERING CONSTRUCTION CORPORATION (270)",
+        "pcabId": "270",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "GEMMA CONSTRUCTION SUPPLY, INC.(FORMERLY:GEMMA CON (5044)",
+        "pcabId": "5044",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "GRACE CONSTRUCTION CORPORATION (3771)",
+        "pcabId": "3771",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "H2 LANDMARK BUILDERS, INC. (7400)",
+        "pcabId": "7400",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "LEGACY CONSTRUCTION CORPORATION (FORMERLY: LEGACY CONSTRUCTION) (22465)",
+        "pcabId": "22465",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "MAVERICK BUILDERS INCORPORATED (FORMERLY MAVERICK (14466)",
+        "pcabId": "14466",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "MONOLITHIC CONSTRUCTION & CONCRETE PRODUCTS, INC. (5733)",
+        "pcabId": "5733",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "P.L. SEBASTIAN CONSTRUCTION, INC. (FORMERLY: P.L. SEBASTIAN CONSTRUCTION) (35840)",
+        "pcabId": "35840",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "PREMIUM MEGASTRUCTURES INC. (36079)",
+        "pcabId": "36079",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "RELY CONSTRUCTION & SUPPLY INC.(FORMERLY: RELY CONSTRUCTION AND SUPPLY) (10433)",
+        "pcabId": "10433",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "SARGASSO CONSTRUCTION & DEVELOPMENT CORP. (6587)",
+        "pcabId": "6587",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "TEDDIE CONSTRUCTION DEVELOPMENT, INC. (6313)",
+        "pcabId": "6313",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "ULTICON BUILDERS, INC. (17267)",
+        "pcabId": "17267",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "VICENTE T. LAO CONSTRUCTION (7040)",
+        "pcabId": "7040",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "YAKAL CONSTRUCTION (9685)",
+        "pcabId": "9685",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "NABUNTURAN-MARAGUSAN ROAD INCLUDING ROW-K1450+567-K1450+810;K1453+061-K1453+312;K1456+315-K1457+581,",
+      "abc": "158067000.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2018-04-10 00:00:00.0000000",
+      "bidSubmissionDeadline": "2018-05-03 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "153308391.8"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/18L00097, 0099, 0103, 0119, 0128 - INVITATION TO BID.pdf",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/CONTRACT 18L00097.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/NOA 18L00097.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/CONTRACT 18L00097.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 7.4915874,
+    "longitude": 126.1178915,
+    "coordinates": [
+      {
+        "componentId": "P00200731MN-CW1",
+        "description": "Road Widening - Nabunturan-Maragusan Rd incl. ROW - K1450 + 567 - K1450 + 810, K1453 + 061 - K1453 + 312, K1456 + 315 - K1457 + 581",
+        "latitude": 7.4915874,
+        "longitude": 126.1178915,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00200731MN-CW2",
+        "description": "Paving of Unpaved Roads - Nabunturan-Maragusan Rd incl. ROW - K1450 + 567 - K1450 + 810, K1453 + 061 - K1453 + 312, K1456 + 315 - K1457 + 581",
+        "latitude": 7.4916468,
+        "longitude": 126.1179169,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00200731MN-CW3",
+        "description": "Reconstruction to Concrete Pavement - Nabunturan-Maragusan Rd incl. ROW - K1450 + 567 - K1450 + 810, K1453 + 061 - K1453 + 312, K1456 + 315 - K1457 + 581",
+        "latitude": 7.4744106,
+        "longitude": 126.1276925,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

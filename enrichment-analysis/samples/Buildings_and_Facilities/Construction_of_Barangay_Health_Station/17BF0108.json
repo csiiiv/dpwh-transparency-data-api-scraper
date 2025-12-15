@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "17BF0108",
+    "description": "CONSTRUCTION OF BARANGAY HEALTH STATION (BHS) (SMALL MODEL), RIZAL, NAGUILIAN, ISABELA",
+    "category": "Buildings and Facilities",
+    "status": "Completed",
+    "budget": 1134155.01,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region II",
+      "province": "Isabela 2nd DEO",
+      "infraType": "Buildings and Facilities",
+      "coordinates": {
+        "latitude": 16.72025,
+        "longitude": 121.54556,
+        "verified": false
+      }
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "ATLANTIC CONSTRUCTION (24232)",
+    "startDate": "2018-01-29",
+    "completionDate": "2018-10-04",
+    "infraYear": "2017",
+    "contractEffectivityDate": "2018-01-29",
+    "expiryDate": "2018-04-28",
+    "nysReason": null,
+    "programName": "Outside Infra",
+    "sourceOfFunds": "Outside Infra - GAA 2017 DOH HFEP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00199049LZ-CW1",
+        "description": "Construction of Barangay Health Station - Construction of Rizal Barangay Health Station, Naguilian, Isabela",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of Barangay Health Station",
+        "region": "Region II",
+        "province": "ISABELA",
+        "coordinates": {
+          "latitude": 16.72025,
+          "longitude": 121.54556,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "ATLANTIC CONSTRUCTION",
+    "bidders": [
+      {
+        "name": "ATLANTIC CONSTRUCTION (24232)",
+        "pcabId": "24232",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "JMU CONSTRUCTION (6877)",
+        "pcabId": "6877",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION OF BARANGAY HEALTH STATION (BHS) (SMALL MODEL), RIZAL, NAGUILIAN, ISABELA",
+      "abc": "1193999.99",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2017-09-21 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-10-10 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "1134155.01"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/17BF0107-0114 & 0093(RE-AD).zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/17BF0108-CONTRACT.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/17BF0108-NOA.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/17BF0108-CONTRACT.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 16.72025,
+    "longitude": 121.54556,
+    "coordinates": [
+      {
+        "componentId": "P00199049LZ-CW1",
+        "description": "Construction of Barangay Health Station - Construction of Rizal Barangay Health Station, Naguilian, Isabela",
+        "latitude": 16.72025,
+        "longitude": 121.54556,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

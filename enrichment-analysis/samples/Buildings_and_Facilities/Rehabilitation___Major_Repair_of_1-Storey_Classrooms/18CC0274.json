@@ -1,0 +1,97 @@
+{
+  "data": {
+    "contractId": "18CC0274",
+    "description": "SCHOOL IMPROVEMENT OF ONE STOREY ONE CLASSROOM PADRE PIO ES CACARONG BATA, PANDI, BULACAN",
+    "category": "Buildings and Facilities",
+    "status": "Completed",
+    "budget": 949655.54,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region III",
+      "province": "Bulacan 1st DEO",
+      "infraType": "Buildings and Facilities",
+      "coordinates": {
+        "latitude": 14.9041607,
+        "longitude": 120.963802,
+        "verified": false
+      }
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "M.G. FRANCISCO CONSTRUCTION (29831)",
+    "startDate": "2018-07-30",
+    "completionDate": "2018-09-11",
+    "infraYear": "2018",
+    "contractEffectivityDate": "2018-07-30",
+    "expiryDate": "2018-09-27",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2018 LP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00254616LZ-CW1",
+        "description": "Rehabilitation / Major Repair of 1-Storey Classrooms - School Improvement of One storey One CLassroom, Padre Pio ES, Cacarong Bata, Pandi, Bulacan",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Rehabilitation / Major Repair of 1-Storey Classrooms",
+        "region": "Region III",
+        "province": "BULACAN",
+        "coordinates": {
+          "latitude": 14.9041607,
+          "longitude": 120.963802,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "M.G. FRANCISCO CONSTRUCTION",
+    "bidders": [
+      {
+        "name": "M.G. FRANCISCO CONSTRUCTION (29831)",
+        "pcabId": "29831",
+        "participation": 100,
+        "isWinner": true
+      }
+    ],
+    "procurement": {
+      "contractName": "SCHOOL IMPROVEMENT OF ONE STOREY ONE CLASSROOM PADRE PIO ES CACARONG BATA, PANDI, BULACAN",
+      "abc": "999649.45",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2018-05-31 00:00:00.0000000",
+      "bidSubmissionDeadline": "2018-06-21 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "949655.54"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/bds18cc0274.pdf",
+      "contractAgreement": "",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/noa18cc0274.pdf",
+      "noticeToProceed": "",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 14.9041607,
+    "longitude": 120.963802,
+    "coordinates": [
+      {
+        "componentId": "P00254616LZ-CW1",
+        "description": "Rehabilitation / Major Repair of 1-Storey Classrooms - School Improvement of One storey One CLassroom, Padre Pio ES, Cacarong Bata, Pandi, Bulacan",
+        "latitude": 14.9041607,
+        "longitude": 120.963802,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

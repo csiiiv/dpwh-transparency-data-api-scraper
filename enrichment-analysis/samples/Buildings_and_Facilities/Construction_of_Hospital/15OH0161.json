@@ -1,0 +1,97 @@
+{
+  "data": {
+    "contractId": "15OH0161",
+    "description": "PROPOSED CONSTRUCTION OF J.FABELLA HEALTH CENTER, MANILA",
+    "category": "Buildings and Facilities",
+    "status": "Completed",
+    "budget": 8658390.36,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "National Capital Region",
+      "province": "South Manila DEO",
+      "infraType": "Buildings and Facilities",
+      "coordinates": null
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "PRECIOUS CONSTRUCTION (32995)",
+    "startDate": "2016-12-05",
+    "completionDate": "2017-06-02",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-12-05",
+    "expiryDate": "2017-03-04",
+    "nysReason": null,
+    "programName": "Outside Infra",
+    "sourceOfFunds": "Outside Infra - GAA 2016 DOH HFEP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00061056LZ-CW1",
+        "description": "Construction of Hospital - Construction of J. Fabella Health Center, City of Manila",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of Hospital",
+        "region": "National Capital Region",
+        "province": "METROPOLITAN MANILA",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "PRECIOUS CONSTRUCTION",
+    "bidders": [
+      {
+        "name": "PRECIOUS CONSTRUCTION (32995)",
+        "pcabId": "32995",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "COORS CONSTRUCTION CO.,INC. (33038)",
+        "pcabId": "33038",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "NVF CONSTRUCTION (13941)",
+        "pcabId": "13941",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "R.D. TALENS CONSTRUCTION AND TRADING (36817)",
+        "pcabId": "36817",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "PROPOSED CONSTRUCTION OF J.FABELLA HEALTH CENTER, MANILA",
+      "abc": "9461981.47",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-11-26 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-12-17 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "8658390.3600000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/15oh0161_contract.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/15oh0161_notice_of_award.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/15oh0161_ntp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

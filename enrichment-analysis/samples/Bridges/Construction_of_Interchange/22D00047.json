@@ -1,0 +1,97 @@
+{
+  "data": {
+    "contractId": "22D00047",
+    "description": "CONSTRUCTION OF FLYOVERS / INTERCHANGES / UNDERPASSES / LONG SPAN BRIDGESSOUTH LUZON EXPRESSWAY (SLEX) NORTHBOUND EXIT INTECHANGE LAGUNA PROVINCE",
+    "category": "Bridges",
+    "status": "Completed",
+    "budget": 87000270.26,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region IV-A",
+      "province": "Region IV-A",
+      "infraType": "Bridges",
+      "coordinates": {
+        "latitude": 14.3672061,
+        "longitude": 121.0451823,
+        "verified": false
+      }
+    },
+    "infraType": "Bridges",
+    "contractor": "ST. GERRARD CONSTRUCTION GEN. CONTRACTOR & DEVELOPMENT CORP. (FORMERLY:ST. GERRARD CONSTRUCTION) ([REVOKED] 31762)",
+    "startDate": "2022-06-14",
+    "completionDate": "2023-12-15",
+    "infraYear": "2022",
+    "contractEffectivityDate": "2022-06-14",
+    "expiryDate": "2024-03-23",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2022 OO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00608296LZ-CW1",
+        "description": "Construction of Interchange - South Luzon Expressway (SLEX) Northbound Exit Interchange",
+        "infraType": "Bridges",
+        "typeOfWork": "Construction of Interchange",
+        "region": "Region IV-A",
+        "province": "LAGUNA",
+        "coordinates": {
+          "latitude": 14.3672061,
+          "longitude": 121.0451823,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "ST. GERRARD CONSTRUCTION GEN. CONTRACTOR & DEVELOPMENT CORP. (FORMERLY:ST. GERRARD CONSTRUCTION)",
+    "bidders": [
+      {
+        "name": "ST. GERRARD CONSTRUCTION GEN. CONTRACTOR & DEVELOPMENT CORP. (FORMERLY:ST. GERRARD CONSTRUCTION) ([REVOKED] 31762)",
+        "pcabId": "[REVOKED] 31762",
+        "participation": 100,
+        "isWinner": true
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION OF FLYOVERS / INTERCHANGES / UNDERPASSES /  LONG SPAN BRIDGES SOUTH LUZON EXPRESSWAY (SLEX) NORTHBOUND EXIT INTECHANGE LAGUNA PROVINCE",
+      "abc": "90227500.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2022-02-24 00:00:00.0000000",
+      "bidSubmissionDeadline": "2022-03-15 00:00:00.0000000",
+      "dateOfAward": "2022-05-26 00:00:00.0000000",
+      "awardAmount": "87521246.38"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/22D00047 FOR POSTING.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/ca_22d00047_22d00090_re-ad.zip",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/22d00047-noa.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/22d00047_ntp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 14.3672061,
+    "longitude": 121.0451823,
+    "coordinates": [
+      {
+        "componentId": "P00608296LZ-CW1",
+        "description": "Construction of Interchange - South Luzon Expressway (SLEX) Northbound Exit Interchange",
+        "latitude": 14.3672061,
+        "longitude": 121.0451823,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 1,
+      "latestImageDate": "2022-10-06 05:06:29.647000",
+      "hasImages": true
+    }
+  }
+}

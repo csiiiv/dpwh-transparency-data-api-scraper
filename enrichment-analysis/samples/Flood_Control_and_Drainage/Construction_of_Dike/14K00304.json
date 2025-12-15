@@ -1,0 +1,133 @@
+{
+  "data": {
+    "contractId": "14K00304",
+    "description": "RECONST. OF DAMAGED FLOOD CONTROL DIKE ALONG CDO RIVER, CALA-CALA-TIBASAK-MACASANDIG,STA.6+764-STA.7",
+    "category": "Flood Control and Drainage",
+    "status": "Completed",
+    "budget": 127329379.69,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region X",
+      "province": "Region X",
+      "infraType": "Flood Control and Drainage",
+      "coordinates": {
+        "latitude": 8.451475825,
+        "longitude": 124.6381658,
+        "verified": false
+      }
+    },
+    "infraType": "Flood Control and Drainage",
+    "contractor": "EQUI-PARCO CONSTRUCTION COMPANY (14332)",
+    "startDate": "2016-02-26",
+    "completionDate": "2016-11-07",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-02-26",
+    "expiryDate": "2016-11-07",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-2",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00020928MN-CW1",
+        "description": "Construction of Dike - Reconstruction of Flood Control Dike along Cagayan de Oro River (Cala-cala-Tibasak-Macasandig), Cagayan de Oro City - Sta. 6+764 - Sta. 7+740",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Construction of Dike",
+        "region": "Region X",
+        "province": "MISAMIS ORIENTAL",
+        "coordinates": {
+          "latitude": 8.451475825,
+          "longitude": 124.6381658,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "EQUI-PARCO CONSTRUCTION COMPANY",
+    "bidders": [
+      {
+        "name": "EQUI-PARCO CONSTRUCTION COMPANY (14332)",
+        "pcabId": "14332",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "ADFIL CORPORATION (14437)",
+        "pcabId": "14437",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "ALGON ENGINEERING CONSTRUCTION CORPORATION (270)",
+        "pcabId": "270",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "GRACE CONSTRUCTION CORPORATION (3771)",
+        "pcabId": "3771",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "HI-TRI DEVELOPMENT CORPORATION (1758)",
+        "pcabId": "1758",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "MONOLITHIC CONSTRUCTION & CONCRETE PRODUCTS, INC. (5733)",
+        "pcabId": "5733",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "UKC BUILDERS, INC. (10759)",
+        "pcabId": "10759",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "RECONST. OF DAMAGED FLOOD CONTROL DIKE ALONG CDO RIVER, CALA-CALA-TIBASAK-MACASANDIG,STA.6+764-STA.7",
+      "abc": "137654400.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2014-12-19 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-01-14 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "127329379.6900000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/august/14K00304.rar",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/14k00304_notice_of_award.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/14k00304-ntp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 8.451475825,
+    "longitude": 124.6381658,
+    "coordinates": [
+      {
+        "componentId": "P00020928MN-CW1",
+        "description": "Construction of Dike - Reconstruction of Flood Control Dike along Cagayan de Oro River (Cala-cala-Tibasak-Macasandig), Cagayan de Oro City - Sta. 6+764 - Sta. 7+740",
+        "latitude": 8.451475825,
+        "longitude": 124.6381658,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

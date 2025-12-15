@@ -1,0 +1,115 @@
+{
+  "data": {
+    "contractId": "17DQ0028",
+    "description": "MFO 1 - NATIONAL ROAD NETWORK SERVICES, NETWORK DEVELOPMENT, OFF-CARRIAGEWAY IMPROVEMENT INCLUDING DRAINAGE, PRIMARY ROADS, INTERSECTION ALONG DASMARIÑAS-CARMONA RD - K0046+207 - K0046+266, CARMONA, CAVITE",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 13162416.19,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region IV-A",
+      "province": "Cavite 3rd DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 14.310751,
+        "longitude": 121.040527,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "MARCBILT CONSTRUCTION, INC. (21844)",
+    "startDate": "2017-05-04",
+    "completionDate": "2019-06-23",
+    "infraYear": "2017",
+    "contractEffectivityDate": "2017-05-04",
+    "expiryDate": "2019-06-23",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2017 MFO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00106042LZ-CW1",
+        "description": "Off-Carriageway Improvement: Flaring of Intersections / Improvement of Intersections - Intersection along Dasmari±as - Carmona Rd - K0046 + 207 - K0046 + 266",
+        "infraType": "Roads",
+        "typeOfWork": "Off-Carriageway Improvement: Flaring of Intersections / Improvement of Intersections",
+        "region": "Region IV-A",
+        "province": "CAVITE",
+        "coordinates": {
+          "latitude": 14.310751,
+          "longitude": 121.040527,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "MARCBILT CONSTRUCTION, INC.",
+    "bidders": [
+      {
+        "name": "MARCBILT CONSTRUCTION, INC. (21844)",
+        "pcabId": "21844",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "C.T. LEONCIO CONSTRUCTION & TRADING (17371)",
+        "pcabId": "17371",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "KENBE CONSTRUCTION & SUPPLY (34290)",
+        "pcabId": "34290",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "TWO DIMENSION CONSTRUCTION (39410)",
+        "pcabId": "39410",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "MFO 1 - NATIONAL ROAD NETWORK SERVICES, NETWORK DEVELOPMENT, OFF-CARRIAGEWAY IMPROVEMENT INCLUDING DRAINAGE, PRIMARY ROADS, INTERSECTION ALONG DASMARIÑAS-CARMONA RD - K0046+207 - K0046+266, CARMONA, CAVITE",
+      "abc": "13162449.58",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2017-03-07 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-03-29 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "12504304.48"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/1 -  INVITATION TO BID - 17DQ0028-17DQ0031.pdf",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/CONTRACT AGREEMENT 17DQ0028.zip",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/Notice Of Award (17DQ0028).zip",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/doc02948020171114210338_003 NTP.jpg",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 14.310751,
+    "longitude": 121.040527,
+    "coordinates": [
+      {
+        "componentId": "P00106042LZ-CW1",
+        "description": "Off-Carriageway Improvement: Flaring of Intersections / Improvement of Intersections - Intersection along Dasmari±as - Carmona Rd - K0046 + 207 - K0046 + 266",
+        "latitude": 14.310751,
+        "longitude": 121.040527,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

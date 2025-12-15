@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "24AH0029",
+    "description": "IMPROVEMENT OF INTERSECTION-URDANETA JCT.-LINGAYEN RD.AND JUDGE JOSE DE VENECIA BLVD.EXT'N.RD. DAGUP",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 9800000,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region I",
+      "province": "Pangasinan 2nd DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 16.020771,
+        "longitude": 120.3225208,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "R.A. MATIAS CONSTRUCTION AND DEVELOPERS INC. (FORMERLY : R.A. MATIAS CONSTRUCTION AND DEVELOPERS) (26346) / BET CONSTRUCTION & SUPPLY (31764)",
+    "startDate": "2024-05-17",
+    "completionDate": "2024-08-14",
+    "infraYear": "2024",
+    "contractEffectivityDate": "2024-05-17",
+    "expiryDate": "2024-08-14",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2024 SSP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00837687LZ-CW1",
+        "description": "Road Safety: Traffic Signals - Improvement of Intersection - Urdaneta Jct-Lingayen Rd and Judge Jose De Venecia Boulevard Ext'n Rd",
+        "infraType": "Roads",
+        "typeOfWork": "Road Safety: Traffic Signals",
+        "region": "Region I",
+        "province": "PANGASINAN",
+        "coordinates": {
+          "latitude": 16.020771,
+          "longitude": 120.3225208,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "BET CONSTRUCTION & SUPPLY, R.A. MATIAS CONSTRUCTION AND DEVELOPERS INC. (FORMERLY : R.A. MATIAS CONSTRUCTION AND DEVELOPERS)",
+    "bidders": [
+      {
+        "name": "BET CONSTRUCTION & SUPPLY (31764) / R.A. MATIAS CONSTRUCTION AND DEVELOPERS INC. (FORMERLY : R.A. MATIAS CONSTRUCTION AND DEVELOPERS) (26346) (JV ID: JV-24-14579)",
+        "pcabId": "",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "W.M. SALAYOG CONSTRUCTION & GEN MERCHADISE (12851)",
+        "pcabId": "12851",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "IMPROVEMENT OF INTERSECTION-URDANETA JCT.-LINGAYEN RD.AND JUDGE JOSE DE VENECIA BLVD.EXT'N.RD. DAGUP",
+      "abc": "9800000.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2024-04-03 00:00:00.0000000",
+      "bidSubmissionDeadline": "2024-04-24 00:00:00.0000000",
+      "dateOfAward": "2024-04-30 00:00:00.0000000",
+      "awardAmount": "9511724.09"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/24ah0029_republished_itbbdplans.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/24ah0029_ca.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/noa_-_24ah0029_republished.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/ntp_-_24ah0029.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 16.020771,
+    "longitude": 120.3225208,
+    "coordinates": [
+      {
+        "componentId": "P00837687LZ-CW1",
+        "description": "Road Safety: Traffic Signals - Improvement of Intersection - Urdaneta Jct-Lingayen Rd and Judge Jose De Venecia Boulevard Ext'n Rd",
+        "latitude": 16.020771,
+        "longitude": 120.3225208,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 2,
+      "latestImageDate": "2025-03-03 06:55:02.451000",
+      "hasImages": true
+    }
+  }
+}

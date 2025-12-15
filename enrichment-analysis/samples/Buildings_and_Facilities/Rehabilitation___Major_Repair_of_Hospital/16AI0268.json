@@ -1,0 +1,85 @@
+{
+  "data": {
+    "contractId": "16AI0268",
+    "description": "RENOVATION FOR 3 IN 1 AT STO. TOMAS RURAL HEALTH UNIT, STO. TOMAS, PANGASINAN",
+    "category": "Buildings and Facilities",
+    "status": "Completed",
+    "budget": 3908927.02,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region I",
+      "province": "Pangasinan 3rd DEO",
+      "infraType": "Buildings and Facilities",
+      "coordinates": null
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "AMP 723 CONSTRUCTION CORPORATION (FORMERLY: A.M.P. CONSTRUCTION) (16574)",
+    "startDate": "2017-03-02",
+    "completionDate": "2017-07-29",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2017-03-02",
+    "expiryDate": "2017-07-29",
+    "nysReason": null,
+    "programName": "Outside Infra",
+    "sourceOfFunds": "Outside Infra - GAA 2016 DOH HFEP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00061121LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Hospital - Renovation for 3in 1, Santo Tomas RHU, Santo Tomas, Pangasinan",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Rehabilitation / Major Repair of Hospital",
+        "region": "Region I",
+        "province": "PANGASINAN",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "AMP 723 CONSTRUCTION CORPORATION (FORMERLY: A.M.P. CONSTRUCTION)",
+    "bidders": [
+      {
+        "name": "AMP 723 CONSTRUCTION CORPORATION (FORMERLY: A.M.P. CONSTRUCTION) (16574)",
+        "pcabId": "16574",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "2-R CONSTRUCTION AND SUPPLY (15304)",
+        "pcabId": "15304",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "RENOVATION FOR 3 IN 1 AT STO. TOMAS RURAL HEALTH UNIT, STO. TOMAS, PANGASINAN",
+      "abc": "3980000.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-12-27 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-01-16 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "3,908,927.02"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/16AI0268 bid docs.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/16AI0268 contract.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/16AI0268 award.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/16AI0268 contract.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

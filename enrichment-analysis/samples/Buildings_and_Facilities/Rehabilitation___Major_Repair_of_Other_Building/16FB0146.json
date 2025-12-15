@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "16FB0146",
+    "description": "REHABILITATION/REPAIR/IMPROVEMENT/RESTORATION/UPGRADING OF MANITO RHU 1",
+    "category": "Buildings and Facilities",
+    "status": "Completed",
+    "budget": 1625207.99,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region V",
+      "province": "Albay 2nd DEO",
+      "infraType": "Buildings and Facilities",
+      "coordinates": {
+        "latitude": 13.1225143,
+        "longitude": 123.8696113,
+        "verified": false
+      }
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "NEXT GENERATION CONSTRUCTION AND SUPPLY CORPORATION (40088)",
+    "startDate": "2018-01-03",
+    "completionDate": "2018-03-03",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2018-01-03",
+    "expiryDate": "2018-03-03",
+    "nysReason": null,
+    "programName": "Outside Infra",
+    "sourceOfFunds": "Outside Infra - GAA 2016 NDRRMF",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00195059LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Other Building - Rehabilitation and Upgrading of Medical and Non-Medical Facilities, Manito RHU 1, Manito",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Rehabilitation / Major Repair of Other Building",
+        "region": "Region V",
+        "province": "ALBAY",
+        "coordinates": {
+          "latitude": 13.1225143,
+          "longitude": 123.8696113,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "NEXT GENERATION CONSTRUCTION AND SUPPLY CORPORATION",
+    "bidders": [
+      {
+        "name": "NEXT GENERATION CONSTRUCTION AND SUPPLY CORPORATION (40088)",
+        "pcabId": "40088",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "LIENEL BUILDERS AND SUPPLY (40023)",
+        "pcabId": "40023",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "REHABILITATION/REPAIR/IMPROVEMENT/RESTORATION/UPGRADING OF MANITO RHU 1",
+      "abc": "1641624.23",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2017-11-19 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-12-08 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "1625207.99"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/BID DOCUMENTS for Contract ID No. 16FB00146.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/16fb0146_contract.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/16fb0146_award.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/16fb0146_ntp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 13.1225143,
+    "longitude": 123.8696113,
+    "coordinates": [
+      {
+        "componentId": "P00195059LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Other Building - Rehabilitation and Upgrading of Medical and Non-Medical Facilities, Manito RHU 1, Manito",
+        "latitude": 13.1225143,
+        "longitude": 123.8696113,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

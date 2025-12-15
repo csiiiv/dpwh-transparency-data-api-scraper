@@ -1,0 +1,79 @@
+{
+  "data": {
+    "contractId": "16MB0025",
+    "description": "COMPLETION OF/REPAIR/REHABILTAION/IMPROVEMENT/CONSTRUCTION OF PEDESTRIAN OVERPASSES, MAKAR-KIAMBA ROAD (S00246MN), BRGY. CALUMPANG, GENERAL SANTOS CITY (PHASE II), K1659+967",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 5600900.83,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region XII",
+      "province": "South Cotabato 1st DEO",
+      "infraType": "Roads",
+      "coordinates": null
+    },
+    "infraType": "Roads",
+    "contractor": "REYDAN BUILDERS (13059)",
+    "startDate": "2016-04-25",
+    "completionDate": "2016-07-30",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-05-01",
+    "expiryDate": "2016-08-08",
+    "nysReason": null,
+    "programName": "Outside Infra",
+    "sourceOfFunds": "Outside Infra - Special Road Support Fund 2016",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00090015MN-CW1",
+        "description": "Road Safety: Pedestrian Overpass - Completion/Repair/Rehabilitation/Improvement/Construction of pedestrian overpass, Makar-Kiamba Road (S00246MN), Brgy. Calumpang, General Santos City (Phase II), K1659+967",
+        "infraType": "Roads",
+        "typeOfWork": "Road Safety: Pedestrian Overpass",
+        "region": "Region XII",
+        "province": "SOUTH COTABATO",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "REYDAN BUILDERS",
+    "bidders": [
+      {
+        "name": "REYDAN BUILDERS (13059)",
+        "pcabId": "13059",
+        "participation": 100,
+        "isWinner": true
+      }
+    ],
+    "procurement": {
+      "contractName": "COMPLETION OF/REPAIR/REHABILTAION/IMPROVEMENT/CONSTRUCTION OF PEDESTRIAN OVERPASSES, MAKAR-KIAMBA ROAD (S00246MN), BRGY. CALUMPANG, GENERAL SANTOS CITY (PHASE II), K1659+967",
+      "abc": "5643000.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-01-30 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-02-18 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "5,600,900.83"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/noa16mb0025.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/ntp16mb0025.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

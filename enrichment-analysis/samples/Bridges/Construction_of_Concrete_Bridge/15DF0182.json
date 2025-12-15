@@ -1,0 +1,100 @@
+{
+  "data": {
+    "contractId": "15DF0182",
+    "description": "LOCAL INFRASTRUCTURE PROGRAM - CONCRETING OF ROAD-GOV. CAMERINO AVENUE-BRGYS. ZONE 1, ZONE 2, ZONE 3",
+    "category": "Bridges, Roads",
+    "status": "Completed",
+    "budget": 27917971.9,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region IV-A",
+      "province": "Cavite 1st DEO",
+      "infraType": "Roads",
+      "coordinates": null
+    },
+    "infraType": "Roads",
+    "contractor": "KLDS TRADING & CONSTRUCTION (28091)",
+    "startDate": "2016-02-02",
+    "completionDate": "2016-07-30",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-02-02",
+    "expiryDate": "2016-07-30",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - Bridges-Construction-Concrete, Roads: Construction - PCCP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00046013LZ-CW1",
+        "description": "Road Upgrading Gravel to Paved - Concreting of Road-Governor Camerino Avenue - Brgys. Zone 1, Zone 2, Zone 3 and Zone 4, City of Dasmarinas, Cavite",
+        "infraType": "Roads",
+        "typeOfWork": "Road Upgrading Gravel to Paved",
+        "region": "Region IV-A",
+        "province": "CAVITE",
+        "coordinates": null
+      },
+      {
+        "componentId": "P00047208LZ-CW1",
+        "description": "Construction of Concrete Bridge - Construction of Piela Bridge - Brgy. Sampaloc 3, City of Dasmari±as, Cavite",
+        "infraType": "Bridges",
+        "typeOfWork": "Construction of Concrete Bridge",
+        "region": "Region IV-A",
+        "province": "CAVITE",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "KLDS TRADING & CONSTRUCTION",
+    "bidders": [
+      {
+        "name": "KLDS TRADING & CONSTRUCTION (28091)",
+        "pcabId": "28091",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "HEXAMINDZ CORPORATION (FORMERLY:KILUSANG MAGKAIBIG (31666)",
+        "pcabId": "31666",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "TRIPLE 8 CONSTRUCTION & SUPPLY, INC. (FORMERLY TRIPLE 8 CONST. & SUPPLY) (10684)",
+        "pcabId": "10684",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "LOCAL INFRASTRUCTURE PROGRAM - CONCRETING OF ROAD-GOV. CAMERINO AVENUE-BRGYS. ZONE 1, ZONE 2, ZONE 3",
+      "abc": "29700000.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-12-09 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-12-29 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "27917971.9000000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/ca_15df0182.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/noa_15df0182.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/ntp_15df0182.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

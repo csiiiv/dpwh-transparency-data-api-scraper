@@ -1,0 +1,109 @@
+{
+  "data": {
+    "contractId": "16CD0109",
+    "description": "VALENZUELA-OBANDO-MEYCAUAYAN FLOOD CONTROL PROJECT CONSTRUCTION OF RELIEF PUMPING STATION AT BRGY.SALUYSOY,MEYCAUAYAN,BULACAN",
+    "category": "Flood Control and Drainage",
+    "status": "Completed",
+    "budget": 9209177.32,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region III",
+      "province": "Bulacan 2nd DEO",
+      "infraType": "Flood Control and Drainage",
+      "coordinates": {
+        "latitude": 14.740141,
+        "longitude": 120.953824,
+        "verified": false
+      }
+    },
+    "infraType": "Flood Control and Drainage",
+    "contractor": "TRIPLE 8 CONSTRUCTION & SUPPLY, INC. (FORMERLY TRIPLE 8 CONST. & SUPPLY) (10684)",
+    "startDate": "2016-05-30",
+    "completionDate": "2016-11-15",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-05-30",
+    "expiryDate": "2016-11-16",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-2",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00022742LZ-CW1",
+        "description": "Construction of Flood Mitigation Facility - Valenzuela-Obando-Meycauayan Flood Control Project-Construction of Relief Pumping Station at Brgy. Saluysoy, Meycauayan, Bulacan",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Construction of Flood Mitigation Facility",
+        "region": "Region III",
+        "province": "BULACAN",
+        "coordinates": {
+          "latitude": 14.740141,
+          "longitude": 120.953824,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "TRIPLE 8 CONSTRUCTION & SUPPLY, INC. (FORMERLY TRIPLE 8 CONST. & SUPPLY)",
+    "bidders": [
+      {
+        "name": "TRIPLE 8 CONSTRUCTION & SUPPLY, INC. (FORMERLY TRIPLE 8 CONST. & SUPPLY) (10684)",
+        "pcabId": "10684",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "ST. GERRARD CONSTRUCTION GEN. CONTRACTOR & DEVELOPMENT CORP. (FORMERLY:ST. GERRARD CONSTRUCTION) ([REVOKED] 31762)",
+        "pcabId": "[REVOKED] 31762",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "STO. CRISTO CONSTRUCTION & TRADING INC. (FOR: STO. CRISTO CONSTRUCTION & TRADING) (26096)",
+        "pcabId": "26096",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "VALENZUELA-OBANDO-MEYCAUAYAN FLOOD CONTROL PROJECT CONSTRUCTION OF RELIEF PUMPING STATION AT BRGY.SALUYSOY,MEYCAUAYAN,BULACAN",
+      "abc": "9699997.18",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-03-02 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-03-22 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "9,209,177.32"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/october/109.pdf",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/october/109.pdf",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/october/109.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 14.740141,
+    "longitude": 120.953824,
+    "coordinates": [
+      {
+        "componentId": "P00022742LZ-CW1",
+        "description": "Construction of Flood Mitigation Facility - Valenzuela-Obando-Meycauayan Flood Control Project-Construction of Relief Pumping Station at Brgy. Saluysoy, Meycauayan, Bulacan",
+        "latitude": 14.740141,
+        "longitude": 120.953824,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

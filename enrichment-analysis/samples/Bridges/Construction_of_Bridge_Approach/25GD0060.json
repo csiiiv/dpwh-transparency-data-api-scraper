@@ -1,0 +1,125 @@
+{
+  "data": {
+    "contractId": "25GD0060",
+    "description": "WIDENING OF BRIDGE - ANHAWON BR. (B00244PN) ALONG ILOILO EAST COAST-CAPIZ RD (PHASE II)",
+    "category": "Bridges",
+    "status": "On-Going",
+    "budget": 36978184.94,
+    "amountPaid": 0,
+    "progress": 6.9,
+    "location": {
+      "region": "Region VI",
+      "province": "Capiz 1st DEO",
+      "infraType": "Bridges",
+      "coordinates": {
+        "latitude": 11.5360664,
+        "longitude": 122.7931695,
+        "verified": false
+      }
+    },
+    "infraType": "Bridges",
+    "contractor": "ALPHA & OMEGA GEN. CONTRACTOR & DEVELOPMENT CORP. ([REVOKED] 38958)",
+    "startDate": "2025-07-08",
+    "completionDate": null,
+    "infraYear": "2025",
+    "contractEffectivityDate": "2025-07-08",
+    "expiryDate": "2026-03-04",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2025 OO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00906805VS-CW1",
+        "description": "Widening of Bridge - Anhawon Br. (B00244PN) along Iloilo East Coast-Capiz Rd (Phase II)",
+        "infraType": "Bridges",
+        "typeOfWork": "Widening of Bridge",
+        "region": "Region VI",
+        "province": "CAPIZ",
+        "coordinates": {
+          "latitude": 11.5360664,
+          "longitude": 122.7931695,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00906805VS-CW2",
+        "description": "Construction of Bridge Approach - Anhawon Br. (B00244PN) along Iloilo East Coast-Capiz Rd (Phase II)",
+        "infraType": "Bridges",
+        "typeOfWork": "Construction of Bridge Approach",
+        "region": "Region VI",
+        "province": "CAPIZ",
+        "coordinates": {
+          "latitude": 11.5363792,
+          "longitude": 122.7930526,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "ALPHA & OMEGA GEN. CONTRACTOR & DEVELOPMENT CORP.",
+    "bidders": [
+      {
+        "name": "ALPHA & OMEGA GEN. CONTRACTOR & DEVELOPMENT CORP. ([REVOKED] 38958)",
+        "pcabId": "[REVOKED] 38958",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "KIRSKAT VENTURE (32042)",
+        "pcabId": "32042",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "WIDENING OF BRIDGE - ANHAWON BR. (B00244PN) ALONG ILOILO EAST COAST-CAPIZ RD (PHASE II)",
+      "abc": "37732800.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2025-03-18 00:00:00.0000000",
+      "bidSubmissionDeadline": "2025-04-08 00:00:00.0000000",
+      "dateOfAward": "2025-06-17 00:00:00.0000000",
+      "awardAmount": "36978184.94"
+    },
+    "links": {
+      "advertisement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/advertisement/bidding_documents_25gd0060.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/25gd0060-contract.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/25gd0060-noa_reso.zip",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/25gd0060-ntp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 11.5360664,
+    "longitude": 122.7931695,
+    "coordinates": [
+      {
+        "componentId": "P00906805VS-CW1",
+        "description": "Widening of Bridge - Anhawon Br. (B00244PN) along Iloilo East Coast-Capiz Rd (Phase II)",
+        "latitude": 11.5360664,
+        "longitude": 122.7931695,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00906805VS-CW2",
+        "description": "Construction of Bridge Approach - Anhawon Br. (B00244PN) along Iloilo East Coast-Capiz Rd (Phase II)",
+        "latitude": 11.5363792,
+        "longitude": 122.7930526,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 2,
+      "latestImageDate": "2025-10-13 05:49:29.332999",
+      "hasImages": true
+    }
+  }
+}

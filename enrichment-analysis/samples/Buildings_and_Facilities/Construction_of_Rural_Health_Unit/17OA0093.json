@@ -1,0 +1,109 @@
+{
+  "data": {
+    "contractId": "17OA0093",
+    "description": "EXPANSION/REPAIR/REHABILITATION OF NORTH BAY BLVD. NORTH HC, NAV. CITY",
+    "category": "Buildings and Facilities",
+    "status": "Completed",
+    "budget": 2304869.79,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "National Capital Region",
+      "province": "Malabon-Navotas DEO",
+      "infraType": "Buildings and Facilities",
+      "coordinates": {
+        "latitude": 14.647804,
+        "longitude": 120.950601,
+        "verified": false
+      }
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "DMLC BUILDERS (36650)",
+    "startDate": "2018-01-03",
+    "completionDate": "2018-04-17",
+    "infraYear": "2017",
+    "contractEffectivityDate": "2018-01-03",
+    "expiryDate": "2018-04-17",
+    "nysReason": null,
+    "programName": "Outside Infra",
+    "sourceOfFunds": "Outside Infra - GAA 2017 DOH HFEP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00199231LZ-CW1",
+        "description": "Construction of Rural Health Unit - Expansion /Repair/Rehabilitation of North Bay Boulevard, North Health Center, Navotas",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of Rural Health Unit",
+        "region": "National Capital Region",
+        "province": "METROPOLITAN MANILA",
+        "coordinates": {
+          "latitude": 14.647804,
+          "longitude": 120.950601,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "DMLC BUILDERS",
+    "bidders": [
+      {
+        "name": "DMLC BUILDERS (36650)",
+        "pcabId": "36650",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "IM CONSTRUCTION CORPORATION (20074)",
+        "pcabId": "20074",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "JAGONBUILD CONSTRUCTION CORP. (FOR. JAGON BUILDERS (24748)",
+        "pcabId": "24748",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "EXPANSION/REPAIR/REHABILITATION OF NORTH BAY BLVD. NORTH HC, NAV. CITY",
+      "abc": "2299886.92",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2017-11-10 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-12-04 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "2229050.4"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/IB 18OA0010 to 18OA0013, 17OA0093.pdf",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/17OA0093 CONTRACT.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/17OA0093 NOA.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/17OA0093 CONTRACT.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 14.647804,
+    "longitude": 120.950601,
+    "coordinates": [
+      {
+        "componentId": "P00199231LZ-CW1",
+        "description": "Construction of Rural Health Unit - Expansion /Repair/Rehabilitation of North Bay Boulevard, North Health Center, Navotas",
+        "latitude": 14.647804,
+        "longitude": 120.950601,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

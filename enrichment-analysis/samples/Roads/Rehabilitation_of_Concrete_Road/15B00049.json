@@ -1,0 +1,109 @@
+{
+  "data": {
+    "contractId": "15B00049",
+    "description": "ASSET PRESERVATION:REHAB/RECONSTRUCTION/UPGRADING OF DAMAGED NATIONAL ROADS INCLUDING DRAINAGE BASED ON PMS/HDM-4, BAYBAYO-BAGGAO-DALIN-STA MARGARITA ROAD, K0519+591 TO K0521+655; K0522+697 TO K0523+223, BAGGAO, CAGAYAN",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 51857400.54,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region II",
+      "province": "Region II",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 17.9085292682695,
+        "longitude": 121.744475441742,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "JTA BUILDERS (18401) / D.J.D. CONSTRUCTION INC. (FORMERLY: D. J. D. CONSTRUCTION) (32217)",
+    "startDate": "2016-02-04",
+    "completionDate": "2017-02-27",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-02-04",
+    "expiryDate": "2016-09-23",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00009071LZ-CW1",
+        "description": "Rehabilitation of Concrete Road - Baybayog-Baggao-Dalin-Sta. Margarita Rd - K0519+591 - K0521+655, K0522+697 - K0523+223.5",
+        "infraType": "Roads",
+        "typeOfWork": "Rehabilitation of Concrete Road",
+        "region": "Region II",
+        "province": "CAGAYAN",
+        "coordinates": {
+          "latitude": 17.9085292682695,
+          "longitude": 121.744475441742,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "D.J.D. CONSTRUCTION INC. (FORMERLY: D. J. D. CONSTRUCTION), JTA BUILDERS",
+    "bidders": [
+      {
+        "name": "JTA BUILDERS (18401) / D.J.D. CONSTRUCTION INC. (FORMERLY: D. J. D. CONSTRUCTION) (32217) (JV ID: JV-15-596)",
+        "pcabId": "",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "HONEYVILLECONST AND DEVELOPMENT CORPORATION (32160)",
+        "pcabId": "32160",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "JLL PULSAR CONSTRUCTION CORPORATION (FORMERLY: PULSAR CONSTRUCTION) (24422)",
+        "pcabId": "24422",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "ASSET PRESERVATION:REHAB/RECONSTRUCTION/UPGRADING OF DAMAGED NATIONAL ROADS INCLUDING DRAINAGE BASED ON PMS/HDM-4, BAYBAYO-BAGGAO-DALIN-STA MARGARITA ROAD, K0519+591 TO K0521+655; K0522+697 TO K0523+223, BAGGAO, CAGAYAN",
+      "abc": "51797850.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-10-21 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-12-07 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "49204037.7200000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/april/15b00049-Cont.agreemnt.pdf",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/april/15b00049-Noa.pdf",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/april/15b00049-Cont.agreemnt.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 17.9085292682695,
+    "longitude": 121.744475441742,
+    "coordinates": [
+      {
+        "componentId": "P00009071LZ-CW1",
+        "description": "Rehabilitation of Concrete Road - Baybayog-Baggao-Dalin-Sta. Margarita Rd - K0519+591 - K0521+655, K0522+697 - K0523+223.5",
+        "latitude": 17.9085292682695,
+        "longitude": 121.744475441742,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

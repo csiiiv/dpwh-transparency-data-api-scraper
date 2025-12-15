@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "15B00054",
+    "description": "NETWORK DEVELOPMENT: IMPROVEMENT/WIDENING OF NATIONAL ROADS OUTSIDE N1 SANTIAGO-TUGUEGARAO ROAD, K0434+(-754) - K0435+144, BRGY ROMA, ENRILE, CAGAYAN",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 51323215.52,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region II",
+      "province": "Region II",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 17.4922659181285,
+        "longitude": 121.709536891205,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "EGB CONSTRUCTION CORPORATION (FORMERLY: EGB CONSTRUCTION) (13722)",
+    "startDate": "2016-01-28",
+    "completionDate": "2016-10-31",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-01-28",
+    "expiryDate": "2016-08-17",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00012006LZ-CW1",
+        "description": "Road Widening - Santiago-Tuguegarao Rd - K0434+-754- K0435+144",
+        "infraType": "Roads",
+        "typeOfWork": "Road Widening",
+        "region": "Region II",
+        "province": "CAGAYAN",
+        "coordinates": {
+          "latitude": 17.4922659181285,
+          "longitude": 121.709536891205,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "EGB CONSTRUCTION CORPORATION (FORMERLY: EGB CONSTRUCTION)",
+    "bidders": [
+      {
+        "name": "EGB CONSTRUCTION CORPORATION (FORMERLY: EGB CONSTRUCTION) (13722)",
+        "pcabId": "13722",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "JLL PULSAR CONSTRUCTION CORPORATION (FORMERLY: PULSAR CONSTRUCTION) (24422) / RPF CONSTRUCTION (39106) (JV ID: JV-15-537)",
+        "pcabId": "",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "NETWORK DEVELOPMENT: IMPROVEMENT/WIDENING OF NATIONAL ROADS OUTSIDE N1 SANTIAGO-TUGUEGARAO ROAD, K0434+(-754) - K0435+144, BRGY ROMA, ENRILE, CAGAYAN",
+      "abc": "53968616.58",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-10-24 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-11-17 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "51323215.5200000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/april/15b00054-Cont.agreemnt.pdf",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/april/15b00054-Noa.pdf",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/april/15b00054-Cont.agreemnt.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 17.4922659181285,
+    "longitude": 121.709536891205,
+    "coordinates": [
+      {
+        "componentId": "P00012006LZ-CW1",
+        "description": "Road Widening - Santiago-Tuguegarao Rd - K0434+-754- K0435+144",
+        "latitude": 17.4922659181285,
+        "longitude": 121.709536891205,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

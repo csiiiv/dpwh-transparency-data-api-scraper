@@ -1,0 +1,181 @@
+{
+  "data": {
+    "contractId": "20H00087",
+    "description": "PROPOSED BIKE LANES IN METRO CEBU, COVERING THE CITIES OF TALISAY, CEBU, MANDAUE AND LAPU-LAPU CITY",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 150000000,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region VII",
+      "province": "Region VII",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 10.265668,
+        "longitude": 123.8762324,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "P.B. OBIAL CONSTRUCTION (16784)",
+    "startDate": "2020-12-16",
+    "completionDate": "2021-06-15",
+    "infraYear": "2020",
+    "contractEffectivityDate": "2020-12-16",
+    "expiryDate": "2021-08-25",
+    "nysReason": null,
+    "programName": "Outside Infra",
+    "sourceOfFunds": "Outside Infra - R.A. 11494 DOTr Bike Lanes",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00499003VS-CW1",
+        "description": "Off-Carriageway Improvement: Construction of Bike Lanes - Construction of Bikelane Network in Metro Cebu",
+        "infraType": "Roads",
+        "typeOfWork": "Off-Carriageway Improvement: Construction of Bike Lanes",
+        "region": "Region VII",
+        "province": "CEBU",
+        "coordinates": {
+          "latitude": 10.265668,
+          "longitude": 123.8762324,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "P.B. OBIAL CONSTRUCTION",
+    "bidders": [
+      {
+        "name": "P.B. OBIAL CONSTRUCTION (16784)",
+        "pcabId": "16784",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "B.C. CUERPO CONSTRUCTION CORPORATION (11898)",
+        "pcabId": "11898",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "ED1SON DEVELOPMENT & CONSTRUCTION INC. (2400)",
+        "pcabId": "2400",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "GICAR CONSTRUCTION, INC. (12624)",
+        "pcabId": "12624",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "INFRAHUB CONSTRUCTION AND DEVELOPMENT CORP. (FORMERLY: OSCAR R. SARMIENTO CONSTRUCTION, INC.) (1411)",
+        "pcabId": "1411",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "LDG CONSTRUCTION (13264)",
+        "pcabId": "13264",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "N.N. YU CONSTRUCTION, INC. (FORMERLY: YU CONSTRUCTION) (10470)",
+        "pcabId": "10470",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "QM BUILDERS (30743)",
+        "pcabId": "30743",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "QUIRANTE CONSTRUCTION CORPORATION (FORMERLY: QUIRANTE CONSTRUCTION) (32827)",
+        "pcabId": "32827",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "RJIR ENTERPRISES CORPORATION (34843)",
+        "pcabId": "34843",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "VICENTE T. LAO CONSTRUCTION (7040)",
+        "pcabId": "7040",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "WERR CORPORATION INTERNATIONAL (14133)",
+        "pcabId": "14133",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "WT CONSTRUCTION, INC. (5490)",
+        "pcabId": "5490",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "WTG CONSTRUCTION & DEVELOPMENT CORPORATION (7494)",
+        "pcabId": "7494",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "YAKAL CONSTRUCTION (9685)",
+        "pcabId": "9685",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "PROPOSED BIKE LANES IN METRO CEBU, COVERING THE CITIES OF TALISAY, CEBU, MANDAUE AND LAPU-LAPU CITY",
+      "abc": "144750000.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2020-11-11 00:00:00.0000000",
+      "bidSubmissionDeadline": "2020-12-01 00:00:00.0000000",
+      "dateOfAward": "2020-12-10 00:00:00.0000000",
+      "awardAmount": "140247790.6"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/20H000087 Plan 1.pdf",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/CA 20H00087.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/NOA 20H00087.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/CA 20H00087.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 10.265668,
+    "longitude": 123.8762324,
+    "coordinates": [
+      {
+        "componentId": "P00499003VS-CW1",
+        "description": "Off-Carriageway Improvement: Construction of Bike Lanes - Construction of Bikelane Network in Metro Cebu",
+        "latitude": 10.265668,
+        "longitude": 123.8762324,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 3,
+      "latestImageDate": "2021-10-27 02:35:42.190000",
+      "hasImages": true
+    }
+  }
+}

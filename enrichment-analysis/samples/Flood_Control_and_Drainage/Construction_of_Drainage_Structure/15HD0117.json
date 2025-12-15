@@ -1,0 +1,127 @@
+{
+  "data": {
+    "contractId": "15HD0117",
+    "description": "CONSTRUCITON OF FLOOD CONTROL DRAINAGE/FACILITIES AT BOGO-CURVA-MEDELLIN-DAANBANTAYAN ROAD",
+    "category": "Flood Control and Drainage",
+    "status": "Completed",
+    "budget": 16514484.24,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region VII",
+      "province": "Cebu 4th DEO",
+      "infraType": "Flood Control and Drainage",
+      "coordinates": null
+    },
+    "infraType": "Flood Control and Drainage",
+    "contractor": "PLD CONSTRUCTION AND DEVELOPMENT INC. (FORMERLY: PLD CONSTRUCTION) (01859)",
+    "startDate": "2016-03-07",
+    "completionDate": "2016-08-23",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-03-07",
+    "expiryDate": "2016-08-23",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-2",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00020834VS-CW1",
+        "description": "Construction of Drainage Structure - Construction of Flood Control/ Drainage Facilitites along Bogo-Curva-Medellin-Daanbantayan Road Daanbantayan. K0136+500-K0138+000",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Construction of Drainage Structure",
+        "region": "Region VII",
+        "province": "CEBU",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "PLD CONSTRUCTION AND DEVELOPMENT INC. (FORMERLY: PLD CONSTRUCTION)",
+    "bidders": [
+      {
+        "name": "PLD CONSTRUCTION AND DEVELOPMENT INC. (FORMERLY: PLD CONSTRUCTION) (01859)",
+        "pcabId": "01859",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "DINAH RBS CONSTRUCTION AND SUPPLY INCORPORATED (FORMERLY: DINAH JANE CONSTRUCTION AND SUPPLY) (33925)",
+        "pcabId": "33925",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "GOLDFIN CONSTRUCTION & DEVELOPMENT CORPORATION (FORMERLY: GOLDFIN CONSTRUCTION) (21343)",
+        "pcabId": "21343",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "GONZALODO ENTERPRISES (30681)",
+        "pcabId": "30681",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "JIAN ARMEL RICHARD CHRISTERSON (JARC) CONSTRUCTION & MARINE SERVICES CORPORATION (FORMERLY:J.A.R.C. (33057)",
+        "pcabId": "33057",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "JJ &J CONSTRUCTION & GENERAL SUPPLY (30231)",
+        "pcabId": "30231",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "MPJR BUILDERS COMPANY (20446)",
+        "pcabId": "20446",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "QUIRANTE CONSTRUCTION CORPORATION (FORMERLY: QUIRANTE CONSTRUCTION) (32827)",
+        "pcabId": "32827",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "SQUARE CUBE CONSTRUCTION(FORMERLY SQUARE CUBE TRAD (25120)",
+        "pcabId": "25120",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCITON OF FLOOD CONTROL DRAINAGE/FACILITIES AT BOGO-CURVA-MEDELLIN-DAANBANTAYAN ROAD",
+      "abc": "17640000.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-10-29 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-11-26 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "16514484.2400000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/april/15HD0117-Contract.pdf",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/april/15HD0117-Award.pdf",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/april/15HD0117-Contract.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "data": {
+    "contractId": "23L00100",
+    "description": "SITIO PASOG - LICUP - TAGBITAN-AG - SITIO TAGLUNO ROAD LEADING TO PUTING BATO AND CANIBAD RESORT, BRGY. AUNDANAO, ISLAND GARDEN CITY OF SAMAL, DAVAO DEL NORTE",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 2393747.46,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region XI",
+      "province": "Region XI",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 7.0811139,
+        "longitude": 125.7832169,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "ROSBILL CONSTRUCTION AND SUPPLY (45622)",
+    "startDate": "2023-10-16",
+    "completionDate": "2023-11-14",
+    "infraYear": "2023",
+    "contractEffectivityDate": "2023-10-16",
+    "expiryDate": "2023-11-14",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2023 CSSP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00731984MN-CW1",
+        "description": "Construction of Concrete Road - Sitio Pasog-Licup-Tagbitan-ag-Sitio Tagluno Road leading to Puting Bato and Canibad Resort, Brgy. Aundanao, Island Garden City of Samal, Davao del Norte",
+        "infraType": "Roads",
+        "typeOfWork": "Construction of Concrete Road",
+        "region": "Region XI",
+        "province": "DAVAO DEL NORTE",
+        "coordinates": {
+          "latitude": 7.0811139,
+          "longitude": 125.7832169,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00731984MN-CW2",
+        "description": "Road Safety: Guardrails - Sitio Pasog-Licup-Tagbitan-ag-Sitio Tagluno Road leading to Puting Bato and Canibad Resort, Brgy. Aundanao, Island Garden City of Samal, Davao del Norte",
+        "infraType": "Roads",
+        "typeOfWork": "Road Safety: Guardrails",
+        "region": "Region XI",
+        "province": "DAVAO DEL NORTE",
+        "coordinates": {
+          "latitude": 7.0811139,
+          "longitude": 125.7832169,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "ROSBILL CONSTRUCTION AND SUPPLY",
+    "bidders": [
+      {
+        "name": "ROSBILL CONSTRUCTION AND SUPPLY (45622)",
+        "pcabId": "45622",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "ALTAPIL CONSTRUCTION & SUPPLY (43269)",
+        "pcabId": "43269",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "MINDANAO CONST. SERVICES & LAND DEVT. CORP. (34147)",
+        "pcabId": "34147",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "SITIO PASOG - LICUP - TAGBITAN-AG - SITIO TAGLUNO ROAD LEADING TO PUTING BATO AND CANIBAD RESORT, BRGY. AUNDANAO, ISLAND GARDEN CITY OF SAMAL, DAVAO DEL NORTE",
+      "abc": "2412500.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2022-12-24 00:00:00.0000000",
+      "bidSubmissionDeadline": "2023-01-18 00:00:00.0000000",
+      "dateOfAward": "2023-08-08 00:00:00.0000000",
+      "awardAmount": "2393747.46"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/23l00100_bidding_documents_and_ib11.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/23l00100-_2._contract_agreement_1copy_1.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/23l00100-noa.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/23l00100-_1._ntp_1copy_1.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 7.0811139,
+    "longitude": 125.7832169,
+    "coordinates": [
+      {
+        "componentId": "P00731984MN-CW1",
+        "description": "Construction of Concrete Road - Sitio Pasog-Licup-Tagbitan-ag-Sitio Tagluno Road leading to Puting Bato and Canibad Resort, Brgy. Aundanao, Island Garden City of Samal, Davao del Norte",
+        "latitude": 7.0811139,
+        "longitude": 125.7832169,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00731984MN-CW2",
+        "description": "Road Safety: Guardrails - Sitio Pasog-Licup-Tagbitan-ag-Sitio Tagluno Road leading to Puting Bato and Canibad Resort, Brgy. Aundanao, Island Garden City of Samal, Davao del Norte",
+        "latitude": 7.0811139,
+        "longitude": 125.7832169,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 12,
+      "latestImageDate": "2024-02-22 08:45:28.463000",
+      "hasImages": true
+    }
+  }
+}

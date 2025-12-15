@@ -1,0 +1,295 @@
+{
+  "data": {
+    "contractId": "19FA0091",
+    "description": "CLUSTER 48-REHAB./EXPANSION OF PUBLIC MARKET & PUBLIC CEMETERY IN THE FIRST DISTRICT OF ALBAY",
+    "category": "Buildings and Facilities",
+    "status": "Completed",
+    "budget": 74625000,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region V",
+      "province": "Albay 1st DEO",
+      "infraType": "Buildings and Facilities",
+      "coordinates": {
+        "latitude": 13.3563278,
+        "longitude": 123.6913167,
+        "verified": false
+      }
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "SANRHO BUILDERS, INC.(FOR. SANRHO CONST. AND SUPPL (24213)",
+    "startDate": "2020-06-18",
+    "completionDate": "2020-12-31",
+    "infraYear": "2019",
+    "contractEffectivityDate": "2020-06-18",
+    "expiryDate": "2021-03-14",
+    "nysReason": null,
+    "programName": "Outside Infra",
+    "sourceOfFunds": "Outside Infra - GAA 2019 DILG Funds",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00391523LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Facilities - Rehabilitation of Tabaco City Public Cemetery, Brgy. San Antonio, Tabaco City, Albay",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Rehabilitation / Major Repair of Facilities",
+        "region": "Region V",
+        "province": "ALBAY",
+        "coordinates": {
+          "latitude": 13.3563278,
+          "longitude": 123.6913167,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00391524LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Facilities - Rehabilitation of Santo Domingo Public Cemetery, Brgy. San Isidro, Santo Domingo, Albay",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Rehabilitation / Major Repair of Facilities",
+        "region": "Region V",
+        "province": "ALBAY",
+        "coordinates": {
+          "latitude": 13.2318669,
+          "longitude": 123.7708569,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00391525LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Facilities - Rehabilitation of Tiwi Public Cemetery, Brgy. Libjo, Tiwi, Albay",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Rehabilitation / Major Repair of Facilities",
+        "region": "Region V",
+        "province": "ALBAY",
+        "coordinates": {
+          "latitude": 13.4607944,
+          "longitude": 123.6733694,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00391526LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Facilities - Rehabilitation of Tabaco City Public Market, Divino Rostro, City of Tabaco, Albay",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Rehabilitation / Major Repair of Facilities",
+        "region": "Region V",
+        "province": "ALBAY",
+        "coordinates": {
+          "latitude": 13.357125,
+          "longitude": 123.7309194,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00391527LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Facilities - Rehabilitation of Manlilipot Public Market, Brgy. 3, Malilipot, Albay",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Rehabilitation / Major Repair of Facilities",
+        "region": "Region V",
+        "province": "ALBAY",
+        "coordinates": {
+          "latitude": 13.3194857,
+          "longitude": 123.7397338,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00391528LZ-CW1",
+        "description": "Construction of Other Facilities - Completion of the Rehabilitation of Santo Domingo Public Market, Market Site, Santo Domingo, Albay",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of Other Facilities",
+        "region": "Region V",
+        "province": "ALBAY",
+        "coordinates": {
+          "latitude": 13.2361613,
+          "longitude": 123.7767325,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00391529LZ-CW1",
+        "description": "Construction of Other Facilities - Expansion of Tiwi Public Market, Tigbi, Tiwi, Albay",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of Other Facilities",
+        "region": "Region V",
+        "province": "ALBAY",
+        "coordinates": {
+          "latitude": 13.3567917,
+          "longitude": 123.7305667,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "SANRHO BUILDERS, INC.(FOR. SANRHO CONST. AND SUPPL",
+    "bidders": [
+      {
+        "name": "SANRHO BUILDERS, INC.(FOR. SANRHO CONST. AND SUPPL (24213)",
+        "pcabId": "24213",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "6RM CONSTRUCTION AND DEVT. CORP. (FORMERLY R.R. MA (174)",
+        "pcabId": "174",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "A.C. RIVERO DEVELOPMENT CORPORATION (5122)",
+        "pcabId": "5122",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "DSB CONSTRUCTION  & SUPPLY, INC. (FORMERLY: DSB CO (16126)",
+        "pcabId": "16126",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "E. GARCIA CONSTRUCTION CORP.(FOR. E. GARCIA CONST (7243)",
+        "pcabId": "7243",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "HGG BUILDERS & SUPPLY (17824)",
+        "pcabId": "17824",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "HI-TONE CONSTRUCTION & DEVELOPMENT CORP. (FORMERLY (23385)",
+        "pcabId": "23385",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "JTA BUILDERS (18401)",
+        "pcabId": "18401",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "MUNTOPAR BUILDERS CORP. (29800)",
+        "pcabId": "29800",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "SPRING STAR CONSTRUCTION AND SUPPLY (20240)",
+        "pcabId": "20240",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "SUNWEST, INC. (FORMERLY: SUNWEST CONSTRUCTION & DEVELOPMENT CORPORATION) (15906)",
+        "pcabId": "15906",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "TR CONSTRUCTION CORPORATION (FOR: TR CONSTRUCTION) (11697)",
+        "pcabId": "11697",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CLUSTER 48-REHAB./EXPANSION OF PUBLIC MARKET & PUBLIC CEMETERY IN THE FIRST DISTRICT OF ALBAY",
+      "abc": "74803909.14",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2019-12-07 00:00:00.0000000",
+      "bidSubmissionDeadline": "2019-12-27 00:00:00.0000000",
+      "dateOfAward": "2020-05-29 00:00:00.0000000",
+      "awardAmount": "72123623.74"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/19FA0091 Bid Docs.pdf",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/19FA0091 C.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/19FA0091 NOA.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/19FA0091 C.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 13.3563278,
+    "longitude": 123.6913167,
+    "coordinates": [
+      {
+        "componentId": "P00391523LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Facilities - Rehabilitation of Tabaco City Public Cemetery, Brgy. San Antonio, Tabaco City, Albay",
+        "latitude": 13.3563278,
+        "longitude": 123.6913167,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00391524LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Facilities - Rehabilitation of Santo Domingo Public Cemetery, Brgy. San Isidro, Santo Domingo, Albay",
+        "latitude": 13.2318669,
+        "longitude": 123.7708569,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00391525LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Facilities - Rehabilitation of Tiwi Public Cemetery, Brgy. Libjo, Tiwi, Albay",
+        "latitude": 13.4607944,
+        "longitude": 123.6733694,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00391526LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Facilities - Rehabilitation of Tabaco City Public Market, Divino Rostro, City of Tabaco, Albay",
+        "latitude": 13.357125,
+        "longitude": 123.7309194,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00391527LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Facilities - Rehabilitation of Manlilipot Public Market, Brgy. 3, Malilipot, Albay",
+        "latitude": 13.3194857,
+        "longitude": 123.7397338,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00391528LZ-CW1",
+        "description": "Construction of Other Facilities - Completion of the Rehabilitation of Santo Domingo Public Market, Market Site, Santo Domingo, Albay",
+        "latitude": 13.2361613,
+        "longitude": 123.7767325,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00391529LZ-CW1",
+        "description": "Construction of Other Facilities - Expansion of Tiwi Public Market, Tigbi, Tiwi, Albay",
+        "latitude": 13.3567917,
+        "longitude": 123.7305667,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

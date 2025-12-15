@@ -1,0 +1,145 @@
+{
+  "data": {
+    "contractId": "15CC0285",
+    "description": "PREVENTIVE MAINTENANCE BASED ON PMS/HDM-4 (INTERMITTENT SECTIONS) ALONG OLD CAGAYAN VALLEY ROAD K0045+000 TO K0045+514 BALIUAG, BULACAN",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 5077049.2,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region III",
+      "province": "Bulacan 1st DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 14.9090722610374,
+        "longitude": 120.882259560182,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "AYANA CONSTRUCTION AND TRADING (38623)",
+    "startDate": "2016-03-09",
+    "completionDate": "2016-05-07",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-03-09",
+    "expiryDate": "2016-05-07",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00000624LZ-CW1",
+        "description": "Preventive Maintenance of Road: Concrete Reblocking - Old Cagayan Valley Rd - K0045+000 - K0045+514",
+        "infraType": "Roads",
+        "typeOfWork": "Preventive Maintenance of Road: Concrete Reblocking",
+        "region": "Region III",
+        "province": "BULACAN",
+        "coordinates": {
+          "latitude": 14.9090722610374,
+          "longitude": 120.882259560182,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "AYANA CONSTRUCTION AND TRADING",
+    "bidders": [
+      {
+        "name": "AYANA CONSTRUCTION AND TRADING (38623)",
+        "pcabId": "38623",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "ALPHA & OMEGA GEN. CONTRACTOR & DEVELOPMENT CORP. ([REVOKED] 38958)",
+        "pcabId": "[REVOKED] 38958",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "CHRISMAN CONSTRUCTION & SUPPLIES CORP. (FORMERLY CHRISMAN CONSTRUCTION & SUPPLIES) (50791)",
+        "pcabId": "50791",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "EL-JAKE BUILDERS (38162)",
+        "pcabId": "38162",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "J.S. GENERAL CONTRACTOR (15258)",
+        "pcabId": "15258",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "PRODEL CONSTRUCTION & DEVELOPMENT CORPORATION (10839)",
+        "pcabId": "10839",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "ST. TIMOTHY CONSTRUCTION CORPORATION ([REVOKED] 39196)",
+        "pcabId": "[REVOKED] 39196",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "THUNDER CONSTRUCTION (17247)",
+        "pcabId": "17247",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "WINPRO CONSTRUCTION (37527)",
+        "pcabId": "37527",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "PREVENTIVE MAINTENANCE BASED ON PMS/HDM-4 (INTERMITTENT SECTIONS) ALONG OLD CAGAYAN VALLEY ROAD K0045+000 TO K0045+514 BALIUAG, BULACAN",
+      "abc": "5344129.38",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-12-02 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-12-22 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "5077049.2000000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/september/cwa15cc0285.doc",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/march/6015cc0285.doc",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/ntp/16/april/6815cc0285.doc",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 14.9090722610374,
+    "longitude": 120.882259560182,
+    "coordinates": [
+      {
+        "componentId": "P00000624LZ-CW1",
+        "description": "Preventive Maintenance of Road: Concrete Reblocking - Old Cagayan Valley Rd - K0045+000 - K0045+514",
+        "latitude": 14.9090722610374,
+        "longitude": 120.882259560182,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

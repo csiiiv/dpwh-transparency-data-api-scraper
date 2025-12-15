@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "22I00109",
+    "description": "EXPANSION OF ACTIVE TRANSPORT INFRASTRUCTURE IN TACLOBAN, LEYTE",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 18165171.47,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region VIII",
+      "province": "Region VIII",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 11.2040278,
+        "longitude": 125.0079833,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "NEWINGTON BUILDERS, INC.(FOR: E. GARDIOLA CONSTRUC (17542)",
+    "startDate": "2023-08-15",
+    "completionDate": "2023-12-15",
+    "infraYear": "2022",
+    "contractEffectivityDate": "2023-08-15",
+    "expiryDate": "2023-12-15",
+    "nysReason": null,
+    "programName": "Outside Infra",
+    "sourceOfFunds": "Outside Infra - Trust Funds 2022",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00699026VS-CW1",
+        "description": "Road Safety: Pavement Markings - Expansion of Active Transport Infrastructure in Tacloban, Leyte",
+        "infraType": "Roads",
+        "typeOfWork": "Road Safety: Pavement Markings",
+        "region": "Region VIII",
+        "province": "LEYTE",
+        "coordinates": {
+          "latitude": 11.2040278,
+          "longitude": 125.0079833,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "NEWINGTON BUILDERS, INC.(FOR: E. GARDIOLA CONSTRUC",
+    "bidders": [
+      {
+        "name": "NEWINGTON BUILDERS, INC.(FOR: E. GARDIOLA CONSTRUC (17542)",
+        "pcabId": "17542",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "HGG BUILDERS & SUPPLY (17824)",
+        "pcabId": "17824",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "EXPANSION OF ACTIVE TRANSPORT INFRASTRUCTURE IN TACLOBAN, LEYTE",
+      "abc": "18366397.19",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2023-05-31 00:00:00.0000000",
+      "bidSubmissionDeadline": "2023-06-19 00:00:00.0000000",
+      "dateOfAward": "2023-07-17 00:00:00.0000000",
+      "awardAmount": "18165690.59"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/invitation_to_bid_-22i00109.pdf",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/22i00109-ca.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/22i00109-noa.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/22i00109-ca.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 11.2040278,
+    "longitude": 125.0079833,
+    "coordinates": [
+      {
+        "componentId": "P00699026VS-CW1",
+        "description": "Road Safety: Pavement Markings - Expansion of Active Transport Infrastructure in Tacloban, Leyte",
+        "latitude": 11.2040278,
+        "longitude": 125.0079833,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 12,
+      "latestImageDate": "2024-08-28 02:44:41.546000",
+      "hasImages": true
+    }
+  }
+}

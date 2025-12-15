@@ -1,0 +1,109 @@
+{
+  "data": {
+    "contractId": "15CJ0154",
+    "description": "CONST./MAINT. OF FMSDS-CONST. OF CONC. RIVER REVETMENT AT PUROK 2 & PUROK 3, BRGY. TAMBUGAN, CAMILIN",
+    "category": "Flood Control and Drainage",
+    "status": "Completed",
+    "budget": 18815921.8,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region III",
+      "province": "Tarlac DEO",
+      "infraType": "Flood Control and Drainage",
+      "coordinates": {
+        "latitude": 15.699776,
+        "longitude": 120.41715,
+        "verified": false
+      }
+    },
+    "infraType": "Flood Control and Drainage",
+    "contractor": "STO. CRISTO CONSTRUCTION & TRADING INC. (FOR: STO. CRISTO CONSTRUCTION & TRADING) (26096)",
+    "startDate": "2016-01-21",
+    "completionDate": "2016-06-17",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-01-21",
+    "expiryDate": "2016-06-17",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-2",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00020492LZ-CW1",
+        "description": "Construction of Revetment - Construction of Concrete River Revetment at Purok 2 and Purok 3, Barangay Tambugan, Camiling, Tarlac",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Construction of Revetment",
+        "region": "Region III",
+        "province": "TARLAC",
+        "coordinates": {
+          "latitude": 15.699776,
+          "longitude": 120.41715,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "STO. CRISTO CONSTRUCTION & TRADING INC. (FOR: STO. CRISTO CONSTRUCTION & TRADING)",
+    "bidders": [
+      {
+        "name": "STO. CRISTO CONSTRUCTION & TRADING INC. (FOR: STO. CRISTO CONSTRUCTION & TRADING) (26096)",
+        "pcabId": "26096",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "A.C. SOLIVEN CONSTRUCTION & GENERAL MERCHANDISE (19278)",
+        "pcabId": "19278",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "ROYAL CROWN MONARCH CONSTRUCTION & SUPPLIES CORP. (09036)",
+        "pcabId": "09036",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONST./MAINT. OF FMSDS-CONST. OF CONC. RIVER REVETMENT AT PUROK 2 & PUROK 3, BRGY. TAMBUGAN, CAMILIN",
+      "abc": "19599998.51",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-11-19 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-12-09 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "18815921.8000000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/15cj0154_contract.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/15cj0154_noa.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/15cj0154_contract.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 15.699776,
+    "longitude": 120.41715,
+    "coordinates": [
+      {
+        "componentId": "P00020492LZ-CW1",
+        "description": "Construction of Revetment - Construction of Concrete River Revetment at Purok 2 and Purok 3, Barangay Tambugan, Camiling, Tarlac",
+        "latitude": 15.699776,
+        "longitude": 120.41715,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

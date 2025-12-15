@@ -1,0 +1,109 @@
+{
+  "data": {
+    "contractId": "16BK0199",
+    "description": "REPAIR/RESTORATION/IMPROVEMENT ALONG CORDON-AURORA BOUNDARY ROAD (S04745LZ), K0394+850 (RS) NAGTIPUNAN, QUIRINO",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 2526765.37,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region II",
+      "province": "Quirino DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 16.2268974238493,
+        "longitude": 121.717342856138,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "A.P.D. CONSTRUCTION, INC. (FORMERLY: APD CONSTRUCTION) (17467)",
+    "startDate": "2017-05-29",
+    "completionDate": "2017-07-27",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2017-05-29",
+    "expiryDate": "2017-07-27",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 Locally Funded Projects",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00056115LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Road Slope Protection Structure - Repair/Restoration/Improvement along Cordon-Aurora Bdry Road (S04745LZ), K0394+850 (RS), Nagtipunan, Quirino",
+        "infraType": "Roads",
+        "typeOfWork": "Rehabilitation / Major Repair of Road Slope Protection Structure",
+        "region": "Region II",
+        "province": "QUIRINO",
+        "coordinates": {
+          "latitude": 16.2268974238493,
+          "longitude": 121.717342856138,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "A.P.D. CONSTRUCTION, INC. (FORMERLY: APD CONSTRUCTION)",
+    "bidders": [
+      {
+        "name": "A.P.D. CONSTRUCTION, INC. (FORMERLY: APD CONSTRUCTION) (17467)",
+        "pcabId": "17467",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "MAR-DEB CONSTRUCTION & DEVELOPMENT CORP. (FORMERLY: MAR-DEB CONSTRUCTION & DEVELOPMENT) (6715)",
+        "pcabId": "6715",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "TRIBU DESIGN & CONSTRUCTION (12756)",
+        "pcabId": "12756",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "REPAIR/RESTORATION/IMPROVEMENT ALONG CORDON-AURORA BOUNDARY ROAD (S04745LZ), K0394+850 (RS) NAGTIPUNAN, QUIRINO",
+      "abc": "2605500.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2017-04-12 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-05-02 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "2526765.37"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/16BK0199 BOQwithIB.pdf",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/16bk0199_ca.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/16bk0199_noa.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/16bk0199_ca.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 16.2268974238493,
+    "longitude": 121.717342856138,
+    "coordinates": [
+      {
+        "componentId": "P00056115LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Road Slope Protection Structure - Repair/Restoration/Improvement along Cordon-Aurora Bdry Road (S04745LZ), K0394+850 (RS), Nagtipunan, Quirino",
+        "latitude": 16.2268974238493,
+        "longitude": 121.717342856138,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

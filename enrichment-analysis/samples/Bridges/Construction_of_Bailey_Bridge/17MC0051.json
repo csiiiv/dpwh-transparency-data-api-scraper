@@ -1,0 +1,79 @@
+{
+  "data": {
+    "contractId": "17MC0051",
+    "description": "COMPLETION OF HANGING BRIDGE, BRGY. MARBEL, KIDAPAWAN CITY, NORTH COTABATO, 2ND LD",
+    "category": "Bridges",
+    "status": "Completed",
+    "budget": 1451021.53,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region XII",
+      "province": "Cotabato 2nd DEO",
+      "infraType": "Bridges",
+      "coordinates": null
+    },
+    "infraType": "Bridges",
+    "contractor": "LLABAN CONSTRUCTION & SUPPLY (FORMERLY: LLABAN CON (29504)",
+    "startDate": "2017-03-03",
+    "completionDate": "2017-06-15",
+    "infraYear": "2017",
+    "contractEffectivityDate": "2017-03-03",
+    "expiryDate": "2017-05-16",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2017 LFP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00144130MN-CW1",
+        "description": "Construction of Bailey Bridge - Completion of Hanging Bridge, Brgy. Marbel, Kidapawan City, North Cotabato",
+        "infraType": "Bridges",
+        "typeOfWork": "Construction of Bailey Bridge",
+        "region": "Region XII",
+        "province": "COTABATO (NORTH COTABATO)",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "LLABAN CONSTRUCTION & SUPPLY (FORMERLY: LLABAN CON",
+    "bidders": [
+      {
+        "name": "LLABAN CONSTRUCTION & SUPPLY (FORMERLY: LLABAN CON (29504)",
+        "pcabId": "29504",
+        "participation": 100,
+        "isWinner": true
+      }
+    ],
+    "procurement": {
+      "contractName": "COMPLETION OF HANGING BRIDGE, BRGY. MARBEL, KIDAPAWAN CITY, NORTH COTABATO, 2ND LD",
+      "abc": "1468700.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-11-11 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-12-01 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "1,395,282.14"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "",
+      "noticeOfAward": "",
+      "noticeToProceed": "",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

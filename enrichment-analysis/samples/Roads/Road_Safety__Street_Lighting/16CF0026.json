@@ -1,0 +1,91 @@
+{
+  "data": {
+    "contractId": "16CF0026",
+    "description": "NATIONAL ROAD LIGHTING PROGRAM ( CIVIL WORKS)-PACKAGE 10,NUEVA ECIJA -AURORA ROAD, PALAYAN CITY, NUEVA ECIJA KO129+468.00 TO KO133+068.00",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 40774454.17,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region III",
+      "province": "Nueva Ecija 2nd DEO",
+      "infraType": "Roads",
+      "coordinates": null
+    },
+    "infraType": "Roads",
+    "contractor": "HI-TRI DEVELOPMENT CORPORATION (1758)",
+    "startDate": "2016-04-06",
+    "completionDate": "2016-11-06",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-04-06",
+    "expiryDate": "2016-10-02",
+    "nysReason": null,
+    "programName": "Outside Infra",
+    "sourceOfFunds": "Outside Infra - Special Road Support Fund 2016",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00090006LZ-CW1",
+        "description": "Road Safety: Street Lighting - National Road Lighting Program (Civil Works) package 10 along Nueva Ecija-Aurora Road, Palayan, Nueva Ecija - K0129+468 to K0133+068",
+        "infraType": "Roads",
+        "typeOfWork": "Road Safety: Street Lighting",
+        "region": "Region III",
+        "province": "PAMPANGA",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "HI-TRI DEVELOPMENT CORPORATION",
+    "bidders": [
+      {
+        "name": "HI-TRI DEVELOPMENT CORPORATION (1758)",
+        "pcabId": "1758",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "JERRY R. SANTIAGO CONSTRUCTION CORP. (FORMERLY: JERRY SANTIAGO CONSTRUCTION) (18453)",
+        "pcabId": "18453",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "L.M.G. CONSTRUCTION INCORPORATED (FORMERLY: LMG CONSTRUCTION) (5719)",
+        "pcabId": "5719",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "NATIONAL ROAD LIGHTING PROGRAM ( CIVIL WORKS)-PACKAGE 10,NUEVA ECIJA -AURORA ROAD, PALAYAN CITY, NUEVA ECIJA KO129+468.00 TO KO133+068.00",
+      "abc": "41580000.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-02-05 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-03-11 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "40,774,454.17"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/16cf0026_noa_._pdf.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/16cf0026_ntp_._pdf.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

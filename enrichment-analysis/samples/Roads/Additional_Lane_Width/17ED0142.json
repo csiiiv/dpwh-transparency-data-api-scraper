@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "17ED0142",
+    "description": "REPAIR/REHABILITATION/IMPROVEMENT (ADD'L PAVEMENT WIDTH W/ SLOPE PROTECTION) OF CNR K0011+640 - K0012+136, CALAPAN CITY, ORIENTAL MINDORO",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 9137502.24,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region IV-B",
+      "province": "Mindoro Oriental DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 13.3545481174558,
+        "longitude": 121.136878356039,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "CMSEL CONSTRUCTION & DEVELOPER (19610)",
+    "startDate": "2017-11-20",
+    "completionDate": "2018-04-30",
+    "infraYear": "2017",
+    "contractEffectivityDate": "2017-11-20",
+    "expiryDate": "2018-04-18",
+    "nysReason": null,
+    "programName": "Outside Infra",
+    "sourceOfFunds": "Outside Infra - Special Road Support Fund 2017",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00190215LZ-CW1",
+        "description": "Additional Lane Width - Additional Pavement Width w/ Slope Protection along Calapan North Road (B/S), K0011+640 to K0012+136",
+        "infraType": "Roads",
+        "typeOfWork": "Additional Lane Width",
+        "region": "Region IV-B",
+        "province": "ORIENTAL MINDORO",
+        "coordinates": {
+          "latitude": 13.3545481174558,
+          "longitude": 121.136878356039,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "CMSEL CONSTRUCTION & DEVELOPER",
+    "bidders": [
+      {
+        "name": "CMSEL CONSTRUCTION & DEVELOPER (19610)",
+        "pcabId": "19610",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "DELROL CONSTRUCTION CORPORATION (PREVIOUSLY :DELROL ENTERPRISES) (37858)",
+        "pcabId": "37858",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "REPAIR/REHABILITATION/IMPROVEMENT (ADD'L PAVEMENT WIDTH W/ SLOPE PROTECTION) OF CNR K0011+640 - K0012+136, CALAPAN CITY, ORIENTAL MINDORO",
+      "abc": "9528667.06",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2017-09-18 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-10-10 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "9137502.24"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/17ED0135_17ED0142.pdf",
+      "contractAgreement": "",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/17ed0142_noa.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/17ed0142_notice_to_proceed.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 13.3545481174558,
+    "longitude": 121.136878356039,
+    "coordinates": [
+      {
+        "componentId": "P00190215LZ-CW1",
+        "description": "Additional Lane Width - Additional Pavement Width w/ Slope Protection along Calapan North Road (B/S), K0011+640 to K0012+136",
+        "latitude": 13.3545481174558,
+        "longitude": 121.136878356039,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

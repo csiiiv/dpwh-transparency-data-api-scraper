@@ -1,0 +1,97 @@
+{
+  "data": {
+    "contractId": "23GA0144",
+    "description": "REPAIR OF DAM AND BANK PROTECTION  IN TANGALAN, AKLAN",
+    "category": "Flood Control and Drainage",
+    "status": "Completed",
+    "budget": 9898994.31,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region VI",
+      "province": "Aklan DEO",
+      "infraType": "Flood Control and Drainage",
+      "coordinates": {
+        "latitude": 11.7615614,
+        "longitude": 122.2423006,
+        "verified": false
+      }
+    },
+    "infraType": "Flood Control and Drainage",
+    "contractor": "G.F. ROVERO MERCHANDISING (27268)",
+    "startDate": "2023-05-22",
+    "completionDate": "2024-02-07",
+    "infraYear": "2023",
+    "contractEffectivityDate": "2023-05-22",
+    "expiryDate": "2024-02-12",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2023 CSSP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00733713VS-CW1",
+        "description": "Repair/Maintenance of Flood Control Structures - Repair of Dam and Bank Protection in Tangalan, Aklan",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Repair/Maintenance of Flood Control Structures",
+        "region": "Region VI",
+        "province": "AKLAN",
+        "coordinates": {
+          "latitude": 11.7615614,
+          "longitude": 122.2423006,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "G.F. ROVERO MERCHANDISING",
+    "bidders": [
+      {
+        "name": "G.F. ROVERO MERCHANDISING (27268)",
+        "pcabId": "27268",
+        "participation": 100,
+        "isWinner": true
+      }
+    ],
+    "procurement": {
+      "contractName": "REPAIR OF DAM AND BANK PROTECTION  IN TANGALAN, AKLAN",
+      "abc": "9900000.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2023-04-06 00:00:00.0000000",
+      "bidSubmissionDeadline": "2023-04-26 00:00:00.0000000",
+      "dateOfAward": "2023-05-11 00:00:00.0000000",
+      "awardAmount": "9797834.54"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/23ga0144_repair_tangalan_dam.rar",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/ca23ga0144.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/noa23ga0144.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/ca23ga0144.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 11.7615614,
+    "longitude": 122.2423006,
+    "coordinates": [
+      {
+        "componentId": "P00733713VS-CW1",
+        "description": "Repair/Maintenance of Flood Control Structures - Repair of Dam and Bank Protection in Tangalan, Aklan",
+        "latitude": 11.7615614,
+        "longitude": 122.2423006,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 9,
+      "latestImageDate": "2024-05-02 13:43:45.094000",
+      "hasImages": true
+    }
+  }
+}

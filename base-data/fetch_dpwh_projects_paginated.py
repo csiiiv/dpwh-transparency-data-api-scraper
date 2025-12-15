@@ -5,6 +5,7 @@ import random
 from typing import Optional
 from concurrent.futures import ThreadPoolExecutor, as_completed
 import threading
+import sys
 
 try:
     # Prefer curl_cffi for Cloudflare-friendly TLS fingerprints if available
@@ -22,6 +23,13 @@ os.makedirs(LISTS_DIR, exist_ok=True)
 SUCCESS_PATH = os.path.join(LISTS_DIR, "successful_pages.txt")
 FAIL_PATH = os.path.join(LISTS_DIR, "failed_pages.txt")
 PROGRESS_PATH = os.path.join(BASE_DIR, "progress_stats.json")
+
+# Allow importing shared helpers from repo root when running from subdir.
+REPO_ROOT = os.path.abspath(os.path.join(BASE_DIR, ".."))
+if REPO_ROOT not in sys.path:
+    sys.path.insert(0, REPO_ROOT)
+
+from impersonation_pool_manager import default_manager
 
 API_BASE = "https://api.transparency.dpwh.gov.ph/projects"
 LIMIT = 5000  # default max as requested; can override via CLI
@@ -51,21 +59,6 @@ REFERERS = [
     ""
 ]
 
-IMPERSONATE_POOL_RAW = [
-    # Chrome (latest and recent)
-    "chrome120", "chrome119", "chrome118", "chrome117", "chrome116", "chrome115", "chrome114", "chrome113", "chrome112", "chrome111", "chrome110",
-    "chrome109", "chrome108", "chrome107", "chrome106", "chrome105", "chrome104", "chrome103", "chrome102", "chrome101", "chrome100",
-    # Firefox (latest and recent)
-    "firefox119", "firefox117", "firefox116", "firefox115", "firefox114", "firefox113", "firefox112", "firefox111", "firefox110",
-    "firefox109", "firefox108", "firefox107", "firefox106", "firefox105", "firefox104", "firefox103", "firefox102", "firefox101", "firefox100",
-    # Safari (latest and recent)
-    "safari17_0", "safari16_3", "safari16_0", "safari15_6_1", "safari15_3", "safari15_1", "safari14_1",
-    # Edge (latest and recent)
-    "edge119", "edge118", "edge117", "edge116", "edge115", "edge114", "edge113", "edge112", "edge111", "edge110",
-    # Opera (latest and recent)
-    "opera102", "opera100", "opera99", "opera98", "opera97", "opera96", "opera95"
-]
-
 MIN_DELAY = 0.8
 MAX_DELAY = 2.5
 MAX_RETRIES = 4
@@ -74,16 +67,7 @@ MAX_RETRIES = 4
 tls_stats = {}
 tls_stats_lock = threading.Lock()
 
-# Load never-success TLS fingerprints
-NEVER_SUCCESS_TLS_PATH = os.path.join(BASE_DIR, "never_success_tls.json")
-try:
-    with open(NEVER_SUCCESS_TLS_PATH, "r") as f:
-        NEVER_SUCCESS_TLS = set(json.load(f).get("never_success_tls", []))
-except Exception:
-    NEVER_SUCCESS_TLS = set()
-
-# Filter out never-success fingerprints from pool
-IMPERSONATE_POOL = [fp for fp in IMPERSONATE_POOL_RAW if fp not in NEVER_SUCCESS_TLS]
+impersonation_manager = default_manager(REPO_ROOT)
 
 
 def build_url(page: int, limit: int = LIMIT) -> str:
@@ -143,10 +127,11 @@ def fetch_page(page: int, limit: int = LIMIT, retries: dict = None) -> Optional[
         kwargs = {"headers": headers, "timeout": 30}
         impersonate_choice = None
         if CURL_CFFI:
-            if len(IMPERSONATE_POOL) == 0:
+            pool = impersonation_manager.get_active_pool()
+            if len(pool) == 0:
                 print(f"[ERROR] Page {page}: No valid fingerprints remaining!")
                 return None
-            impersonate_choice = random.choice(IMPERSONATE_POOL)
+            impersonate_choice = impersonation_manager.choose().fingerprint
             kwargs["impersonate"] = impersonate_choice
             print(f"[TLS] Page {page} attempt {attempt}/{MAX_RETRIES}: {impersonate_choice}")
             # Initialize TLS stats entry if not exists
@@ -165,6 +150,7 @@ def fetch_page(page: int, limit: int = LIMIT, retries: dict = None) -> Optional[
                 if impersonate_choice:
                     with tls_stats_lock:
                         tls_stats[impersonate_choice]["success"] += 1
+                    impersonation_manager.report_success(impersonate_choice)
                 return resp.json()
             
             # Handle rate limit/backoff
@@ -176,6 +162,8 @@ def fetch_page(page: int, limit: int = LIMIT, retries: dict = None) -> Optional[
                             tls_stats[impersonate_choice]["block"] += 1
                         else:
                             tls_stats[impersonate_choice]["rate_limited"] += 1
+                    # Rate limit / Cloudflare blocks are usually not fingerprint-specific, so don't auto-disable.
+                    impersonation_manager.report_failure(impersonate_choice, reason="block" if is_cf_block else "rate_limited")
                 if retries is not None:
                     retries[page] = attempt
                 time.sleep(5 * attempt)
@@ -186,6 +174,7 @@ def fetch_page(page: int, limit: int = LIMIT, retries: dict = None) -> Optional[
             if impersonate_choice:
                 with tls_stats_lock:
                     tls_stats[impersonate_choice]["fail"] += 1
+                impersonation_manager.report_failure(impersonate_choice, reason=f"http_{resp.status_code}")
             if attempt == MAX_RETRIES:
                 raw_path = os.path.join(LISTS_DIR, f"dump-page-{page}-{limit}-raw.txt")
                 with open(raw_path, "w", encoding="utf-8") as f:
@@ -204,19 +193,9 @@ def fetch_page(page: int, limit: int = LIMIT, retries: dict = None) -> Optional[
                 print(f"[BLACKLIST] {impersonate_choice} is not supported - removing from pool")
                 with tls_stats_lock:
                     tls_stats[impersonate_choice]["exception"] += 1
-                    # Remove from pool immediately
-                    if impersonate_choice in IMPERSONATE_POOL:
-                        IMPERSONATE_POOL.remove(impersonate_choice)
-                    # Add to never-success set
-                    NEVER_SUCCESS_TLS.add(impersonate_choice)
-                # Save updated never-success list immediately
-                try:
-                    with open(NEVER_SUCCESS_TLS_PATH, "w") as f:
-                        json.dump({"never_success_tls": sorted(NEVER_SUCCESS_TLS), "timestamp": time.strftime('%Y-%m-%d %H:%M:%S')}, f, indent=2)
-                except Exception:
-                    pass
+                impersonation_manager.report_failure(impersonate_choice, reason="not_supported")
                 # Check if we have any fingerprints left
-                if len(IMPERSONATE_POOL) == 0:
+                if len(impersonation_manager.get_active_pool()) == 0:
                     print(f"[ERROR] No valid fingerprints remaining!")
                     return None
                 # IMPORTANT: Don't count this against retry limit - decrement counter
@@ -230,6 +209,8 @@ def fetch_page(page: int, limit: int = LIMIT, retries: dict = None) -> Optional[
                     tls_stats[impersonate_choice]["exception"] += 1
                     if "timeout" in error_msg:
                         tls_stats[impersonate_choice]["timeout"] += 1
+                reason = "timeout" if "timeout" in error_msg else "exception"
+                impersonation_manager.report_failure(impersonate_choice, reason=reason)
             if attempt == MAX_RETRIES:
                 error_path = os.path.join(LISTS_DIR, f"dump-page-{page}-{limit}-error.txt")
                 with open(error_path, "w", encoding="utf-8") as f:
@@ -358,13 +339,7 @@ def main(start_page: int = 1, end_page: Optional[int] = None, limit: int = LIMIT
                 if stats["success"] == 0 and total >= 2:  # At least 2 attempts with 0 success
                     never_success.append(fp)
         
-        # Save never-success TLS fingerprints
-        if never_success:
-            print(f"\n[WARNING] {len(never_success)} fingerprints never succeeded: {never_success}")
-            with open(NEVER_SUCCESS_TLS_PATH, "w") as f:
-                json.dump({"never_success_tls": never_success, "timestamp": time.strftime('%Y-%m-%d %H:%M:%S')}, f, indent=2)
-            print(f"[INFO] Saved never-success fingerprints to {NEVER_SUCCESS_TLS_PATH}")
-            print(f"[INFO] These fingerprints will be excluded from future runs. Rerun the script to retry failed pages with valid fingerprints.")
+        # Note: fingerprint demotion is handled persistently by the shared pool manager.
     
     print(f"[SUMMARY] Saved pages {start_page}-{end_page}; total_items ~ {total_items}")
 

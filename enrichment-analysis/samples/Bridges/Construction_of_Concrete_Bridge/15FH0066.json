@@ -1,0 +1,85 @@
+{
+  "data": {
+    "contractId": "15FH0066",
+    "description": "CONSTRUCTION OF FOOTBRIDGE IN BRGY. CONCEPCION, VIRAC, CATANDUANES",
+    "category": "Bridges",
+    "status": "Completed",
+    "budget": 1920312.24,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region V",
+      "province": "Catanduanes DEO",
+      "infraType": "Bridges",
+      "coordinates": null
+    },
+    "infraType": "Bridges",
+    "contractor": "ATHENA CONSTRUCTION AND DEVELOPMENT (37750)",
+    "startDate": "2016-07-20",
+    "completionDate": "2017-01-31",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-07-20",
+    "expiryDate": "2016-10-20",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 Locally Funded Projects",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00047219LZ-CW1",
+        "description": "Construction of Concrete Bridge - Construction of Footbridge in Brgy. Concepcion, Virac, Catanduanes Lone District",
+        "infraType": "Bridges",
+        "typeOfWork": "Construction of Concrete Bridge",
+        "region": "Region V",
+        "province": "CATANDUANES",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "ATHENA CONSTRUCTION AND DEVELOPMENT",
+    "bidders": [
+      {
+        "name": "ATHENA CONSTRUCTION AND DEVELOPMENT (37750)",
+        "pcabId": "37750",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "AL-JON CONSTRUCTION DEVELOPMENT, INC. (FORMERLY: ALJON CONSTRUCTION & SUPPLY) (34481)",
+        "pcabId": "34481",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION OF FOOTBRIDGE IN BRGY. CONCEPCION, VIRAC, CATANDUANES",
+      "abc": "1979988.20",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-11-04 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-11-24 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "1920312.2400000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/august/15FH0066-contract and agreement-bidding-11-24-2015001.pdf",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/april/15FH0066 - notice of award001.pdf",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/august/15FH0066-contract and agreement-bidding-11-24-2015001.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

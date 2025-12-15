@@ -1,0 +1,91 @@
+{
+  "data": {
+    "contractId": "15DC0176",
+    "description": "LOCALLY-FUNDED PROJECTS, LOCAL INFRASTRUCTURE PROGRAM (LIP), BUILDINGS AND OTHER STRUCTURES, CONSTRU",
+    "category": "Buildings and Facilities",
+    "status": "Completed",
+    "budget": 8710394.98,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region IV-A",
+      "province": "Batangas 3rd DEO",
+      "infraType": "Buildings and Facilities",
+      "coordinates": null
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "OIC CONZTRUCT AND SUPPLY CORPORATION(FORMERLY:OIC CONST.) (23727)",
+    "startDate": "2016-02-22",
+    "completionDate": "2017-04-09",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-02-22",
+    "expiryDate": "2017-04-09",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 Locally Funded Projects",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00051065LZ-CW1",
+        "description": "Construction of Classrooms - Construction of 2-Storey 6 Classrooms at Brgy. Tumaway Elementary School, Talisay, Batangas",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of Classrooms",
+        "region": "Region IV-A",
+        "province": "BATANGAS",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "OIC CONZTRUCT AND SUPPLY CORPORATION(FORMERLY:OIC CONST.)",
+    "bidders": [
+      {
+        "name": "OIC CONZTRUCT AND SUPPLY CORPORATION(FORMERLY:OIC CONST.) (23727)",
+        "pcabId": "23727",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "NBL CONSTRUCTION, INC. (FORMERLY: NBL CONSTRUCTION) (30396)",
+        "pcabId": "30396",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "WERR CORPORATION INTERNATIONAL (14133)",
+        "pcabId": "14133",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "LOCALLY-FUNDED PROJECTS, LOCAL INFRASTRUCTURE PROGRAM (LIP), BUILDINGS AND OTHER STRUCTURES, CONSTRU",
+      "abc": "8955000.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-12-29 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-01-19 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "8710394.9800000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/april/contract_15DC0176.pdf",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/april/award_15DC0176.pdf",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/april/contract_15DC0176.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

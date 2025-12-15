@@ -1,0 +1,147 @@
+{
+  "data": {
+    "contractId": "19LB0059",
+    "description": "OFF-CARRIAGEWAY IMPROVEMENT: SHOULDER PAVING/CONSTRUCTION ALONG DAVAO CITY DIV. RD. (S00013MN) CW1: 1498+(-)252-K1498+000 LS,K1499+805-K1500+000 LS, K1503+ 811-K1504+300 RS; K1504+100-K1504 +300 LS, CW2: K1505+629-K1505+694 RS; K1505+310-K1505+500",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 5766472.34,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region XI",
+      "province": "Davao City DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 7.1484869,
+        "longitude": 125.6595925,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "MAXBUILDER CONSTRUCTION CORP. (43765)",
+    "startDate": "2019-07-18",
+    "completionDate": "2019-11-04",
+    "infraYear": "2019",
+    "contractEffectivityDate": "2019-07-18",
+    "expiryDate": "2019-11-04",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2019 OO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00302152MN-CW1",
+        "description": "Off-Carriageway Improvement: Shoulder Paving / Construction - Davao City Div Rd - K1498 + (-252)  - K1498 + 000 , K1499 + 805 - K1500 + 000 , K1503 + 811 - K1504 + 300, K1504 +100 - K1504 + 300 , K1505 + 629 - K1505 + 694 , K1505 + 310 - K1505 + 500",
+        "infraType": "Roads",
+        "typeOfWork": "Off-Carriageway Improvement: Shoulder Paving / Construction",
+        "region": "Region XI",
+        "province": "DAVAO DEL SUR",
+        "coordinates": {
+          "latitude": 7.1484869,
+          "longitude": 125.6595925,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00302152MN-CW2",
+        "description": "Off-Carriageway Improvement: Construction of Laybys - Davao City Div Rd - K1498 + (-252)  - K1498 + 000 , K1499 + 805 - K1500 + 000 , K1503 + 811 - K1504 + 300, K1504 +100 - K1504 + 300 , K1505 + 629 - K1505 + 694 , K1505 + 310 - K1505 + 500",
+        "infraType": "Roads",
+        "typeOfWork": "Off-Carriageway Improvement: Construction of Laybys",
+        "region": "Region XI",
+        "province": "DAVAO DEL SUR",
+        "coordinates": {
+          "latitude": 7.1057852,
+          "longitude": 125.6044177,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00302152MN-CW3",
+        "description": "Off-Carriageway Improvement: Construction of Median/Center Island - Davao City Div Rd - K1498 + (-252)  - K1498 + 000 , K1499 + 805 - K1500 + 000 , K1503 + 811 - K1504 + 300, K1504 +100 - K1504 + 300 , K1505 + 629 - K1505 + 694 , K1505 + 310 - K1505 + 500",
+        "infraType": "Roads",
+        "typeOfWork": "Off-Carriageway Improvement: Construction of Median/Center Island",
+        "region": "Region XI",
+        "province": "DAVAO DEL SUR",
+        "coordinates": {
+          "latitude": 7.1064993,
+          "longitude": 125.6071888,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "MAXBUILDER CONSTRUCTION CORP.",
+    "bidders": [
+      {
+        "name": "MAXBUILDER CONSTRUCTION CORP. (43765)",
+        "pcabId": "43765",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "MINDANAO CONST. SERVICES & LAND DEVT. CORP. (34147)",
+        "pcabId": "34147",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "OFF-CARRIAGEWAY IMPROVEMENT: SHOULDER PAVING/CONSTRUCTION ALONG DAVAO CITY DIV. RD. (S00013MN) CW1: 1498+(-)252-K1498+000 LS,K1499+805-K1500+000 LS, K1503+ 811-K1504+300 RS; K1504+100-K1504 +300 LS, CW2: K1505+629-K1505+694 RS; K1505+310-K1505+500",
+      "abc": "5853540.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2019-04-10 00:00:00.0000000",
+      "bidSubmissionDeadline": "2019-04-30 00:00:00.0000000",
+      "dateOfAward": "2019-06-26 00:00:00.0000000",
+      "awardAmount": "5766472.34"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/ITB and Bidding Forms for April 30, 2019 Bidding (REBID).rar",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/n059c.pdf",
+      "noticeOfAward": "",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/n059c.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 7.1484869,
+    "longitude": 125.6595925,
+    "coordinates": [
+      {
+        "componentId": "P00302152MN-CW1",
+        "description": "Off-Carriageway Improvement: Shoulder Paving / Construction - Davao City Div Rd - K1498 + (-252)  - K1498 + 000 , K1499 + 805 - K1500 + 000 , K1503 + 811 - K1504 + 300, K1504 +100 - K1504 + 300 , K1505 + 629 - K1505 + 694 , K1505 + 310 - K1505 + 500",
+        "latitude": 7.1484869,
+        "longitude": 125.6595925,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00302152MN-CW2",
+        "description": "Off-Carriageway Improvement: Construction of Laybys - Davao City Div Rd - K1498 + (-252)  - K1498 + 000 , K1499 + 805 - K1500 + 000 , K1503 + 811 - K1504 + 300, K1504 +100 - K1504 + 300 , K1505 + 629 - K1505 + 694 , K1505 + 310 - K1505 + 500",
+        "latitude": 7.1057852,
+        "longitude": 125.6044177,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00302152MN-CW3",
+        "description": "Off-Carriageway Improvement: Construction of Median/Center Island - Davao City Div Rd - K1498 + (-252)  - K1498 + 000 , K1499 + 805 - K1500 + 000 , K1503 + 811 - K1504 + 300, K1504 +100 - K1504 + 300 , K1505 + 629 - K1505 + 694 , K1505 + 310 - K1505 + 500",
+        "latitude": 7.1064993,
+        "longitude": 125.6071888,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "data": {
+    "contractId": "18PL0081",
+    "description": "CONSTRUCTION OF WAGUD - BUAYA BRIDGE",
+    "category": "Bridges",
+    "status": "Completed",
+    "budget": 65578087.49,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Cordillera Administrative Region",
+      "province": "Lower Kalinga DEO",
+      "infraType": "Bridges",
+      "coordinates": {
+        "latitude": 17.5907283,
+        "longitude": 121.3230005,
+        "verified": false
+      }
+    },
+    "infraType": "Bridges",
+    "contractor": "J.C. BAAC CONSTRUCTION CORPORATION (25974) / OMENGAN CONSTRUCTION & DEVELOPMENT CORPORATION (5119)",
+    "startDate": "2018-02-26",
+    "completionDate": "2020-03-01",
+    "infraYear": "2018",
+    "contractEffectivityDate": "2018-02-26",
+    "expiryDate": "2018-11-17",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2018 LP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00247935LZ-CW1",
+        "description": "Construction of Superstructure - Construction of Wagud-Buaya Bridge, Kalinga",
+        "infraType": "Bridges",
+        "typeOfWork": "Construction of Superstructure",
+        "region": "Cordillera Administrative Region",
+        "province": "KALINGA",
+        "coordinates": {
+          "latitude": 17.5907283,
+          "longitude": 121.3230005,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "J.C. BAAC CONSTRUCTION CORPORATION, OMENGAN CONSTRUCTION & DEVELOPMENT CORPORATION",
+    "bidders": [
+      {
+        "name": "OMENGAN CONSTRUCTION & DEVELOPMENT CORPORATION (5119) / J.C. BAAC CONSTRUCTION CORPORATION (25974) (JV ID: JV-17-1188)",
+        "pcabId": "",
+        "participation": 100,
+        "isWinner": true
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION OF WAGUD - BUAYA BRIDGE",
+      "abc": "67459603.62",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2017-11-07 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-12-11 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "65578087.49"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/18PL0081.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/18pl0081_contract_agreement.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/18pl0081_notice_of_award.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/18pl0081_notice_to_proceed.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 17.5907283,
+    "longitude": 121.3230005,
+    "coordinates": [
+      {
+        "componentId": "P00247935LZ-CW1",
+        "description": "Construction of Superstructure - Construction of Wagud-Buaya Bridge, Kalinga",
+        "latitude": 17.5907283,
+        "longitude": 121.3230005,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

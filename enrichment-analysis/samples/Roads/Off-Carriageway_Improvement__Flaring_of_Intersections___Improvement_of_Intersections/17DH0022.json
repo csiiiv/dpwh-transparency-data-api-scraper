@@ -1,0 +1,97 @@
+{
+  "data": {
+    "contractId": "17DH0022",
+    "description": "NETWORK DEVELOPMENT, OFF-CARRIAGEWAY IMPROVEMENT INCLUDING DRAINAGE, SECONDARY ROADS, IMPROVEMENT OF INTERSECTION ALONG CALAMBA-STA. CRUZ-FAMY JCT. ROAD, K0105 + 620",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 11309971.53,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region IV-A",
+      "province": "Laguna 1st DEO",
+      "infraType": "Roads",
+      "coordinates": null
+    },
+    "infraType": "Roads",
+    "contractor": "MAR-VEL CONSTRUCTION & SUPPLY (23722)",
+    "startDate": "2017-02-09",
+    "completionDate": "2018-01-03",
+    "infraYear": "2017",
+    "contractEffectivityDate": "2017-02-09",
+    "expiryDate": "2018-01-05",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2017 MFO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00106519LZ-CW1",
+        "description": "Off-Carriageway Improvement: Flaring of Intersections / Improvement of Intersections - Improvement of Intersection along Calamba-Sta Cruz-Famy Jct Rd - K0105 + 620",
+        "infraType": "Roads",
+        "typeOfWork": "Off-Carriageway Improvement: Flaring of Intersections / Improvement of Intersections",
+        "region": "Region IV-A",
+        "province": "LAGUNA",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "MAR-VEL CONSTRUCTION & SUPPLY",
+    "bidders": [
+      {
+        "name": "MAR-VEL CONSTRUCTION & SUPPLY (23722)",
+        "pcabId": "23722",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "ORANI CONSTRUCTION AND SUPPLY CORPORATION (FORMERLY:ORANI BUILDERS & SUPPLY) (05349)",
+        "pcabId": "05349",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "ORANI CONSTRUCTION AND SUPPLY CORPORATION (FORMERLY:ORANI BUILDERS & SUPPLY) (5349)",
+        "pcabId": "5349",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "R'CEL GENERAL CONTRACTOR & GEN  MERCHANDISE (13385)",
+        "pcabId": "13385",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "NETWORK DEVELOPMENT, OFF-CARRIAGEWAY IMPROVEMENT INCLUDING DRAINAGE, SECONDARY ROADS, IMPROVEMENT OF INTERSECTION ALONG CALAMBA-STA. CRUZ-FAMY JCT. ROAD, K0105 + 620",
+      "abc": "11760000.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-11-22 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-12-14 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "11309971.53"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/Contract 17DH0022.zip",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/Award 17DH0022001.zip",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/NTP 17DH0022001.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

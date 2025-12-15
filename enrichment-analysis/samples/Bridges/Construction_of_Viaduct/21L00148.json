@@ -1,0 +1,163 @@
+{
+  "data": {
+    "contractId": "21L00148",
+    "description": "CONSTRUCTION OF DAVAO CITY COASTAL ROAD (TALOMO SECTION) - DAVAO - BUKIDNON ROAD (CATALUNAN PEQUEÑO - MINTAL SECTION - CALINAN SECTION) BYPASS ROAD (VIADUCT) (PARTIAL SUBSTRUCTURE), BARANGAY TALOMO PROPER AND BARANGAY CATALUNAN PEQUEÑO, DAVAO CITY",
+    "category": "Bridges",
+    "status": "On-Going",
+    "budget": 513024606.76,
+    "amountPaid": 0,
+    "progress": 81.69,
+    "location": {
+      "region": "Region XI",
+      "province": "Region XI",
+      "infraType": "Bridges",
+      "coordinates": {
+        "latitude": 7.0555511,
+        "longitude": 125.5430002,
+        "verified": false
+      }
+    },
+    "infraType": "Bridges",
+    "contractor": "GEMMA CONSTRUCTION SUPPLY, INC.(FORMERLY:GEMMA CON (5044) / WEE ENG CONSTRUCTION, INC. (16380)",
+    "startDate": "2021-10-29",
+    "completionDate": null,
+    "infraYear": "2021",
+    "contractEffectivityDate": "2021-10-29",
+    "expiryDate": "2023-05-26",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2021 LP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00550636MN-CW1",
+        "description": "Construction of Viaduct - Davao City Coastal Road (Talomo Section) - Davao Bukidnon Road (Catalunan Pequeno - Mintal Section - Calinan Section) Bypass Road (Viaduct), Barangay Talomo Proper and Barangay Catalunan Peque±o, Davao City",
+        "infraType": "Bridges",
+        "typeOfWork": "Construction of Viaduct",
+        "region": "Region XI",
+        "province": "DAVAO DEL SUR",
+        "coordinates": {
+          "latitude": 7.0555511,
+          "longitude": 125.5430002,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "GEMMA CONSTRUCTION SUPPLY, INC.(FORMERLY:GEMMA CON, WEE ENG CONSTRUCTION, INC.",
+    "bidders": [
+      {
+        "name": "GEMMA CONSTRUCTION SUPPLY, INC.(FORMERLY:GEMMA CON (5044) / WEE ENG CONSTRUCTION, INC. (16380) (JV ID: JV-21-4949)",
+        "pcabId": "",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "NORTHERN BUILDERS (8789) / PADER CONSTRUCTION & SUPPLY (20213) (JV ID: JV-21-4855)",
+        "pcabId": "",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "ADFIL CORPORATION (14437)",
+        "pcabId": "14437",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "AKN CONSTRUCTION CORPORATION (11845)",
+        "pcabId": "11845",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "ALGON ENGINEERING CONSTRUCTION CORPORATION (270)",
+        "pcabId": "270",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "BSP & COMPANY, INC. (19091)",
+        "pcabId": "19091",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "GRACE CONSTRUCTION CORPORATION (3771)",
+        "pcabId": "3771",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "MAC BUILDERS CORP. (FORMERLY: MAC BUILDERS DEVELOPMENT CORPORATION) (7249)",
+        "pcabId": "7249",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "TOKWING CONSTRUCTION, CORP.(FOR;  TOKWING CONSTRUC (9650)",
+        "pcabId": "9650",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "ULTICON BUILDERS, INC. (17267)",
+        "pcabId": "17267",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "VICENTE T. LAO CONSTRUCTION (7040)",
+        "pcabId": "7040",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "YAKAL CONSTRUCTION (9685)",
+        "pcabId": "9685",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION OF DAVAO CITY COASTAL ROAD (TALOMO SECTION) - DAVAO - BUKIDNON ROAD (CATALUNAN PEQUEÑO - MINTAL SECTION - CALINAN SECTION) BYPASS ROAD (VIADUCT) (PARTIAL SUBSTRUCTURE), BARANGAY TALOMO PROPER AND BARANGAY CATALUNAN PEQUEÑO, DAVAO CITY",
+      "abc": "524577860.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2021-02-25 00:00:00.0000000",
+      "bidSubmissionDeadline": "2021-03-19 00:00:00.0000000",
+      "dateOfAward": "2021-10-20 00:00:00.0000000",
+      "awardAmount": "513,024,606.76"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/21L00148 - BIDDING DOCUMENTS.rar",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/CONTRACT 21L00148.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/NOA 21L00148.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/CONTRACT 21L00148.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 7.0555511,
+    "longitude": 125.5430002,
+    "coordinates": [
+      {
+        "componentId": "P00550636MN-CW1",
+        "description": "Construction of Viaduct - Davao City Coastal Road (Talomo Section) - Davao Bukidnon Road (Catalunan Pequeno - Mintal Section - Calinan Section) Bypass Road (Viaduct), Barangay Talomo Proper and Barangay Catalunan Peque±o, Davao City",
+        "latitude": 7.0555511,
+        "longitude": 125.5430002,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 50,
+      "latestImageDate": "2025-10-27 03:17:11.341000",
+      "hasImages": true
+    }
+  }
+}

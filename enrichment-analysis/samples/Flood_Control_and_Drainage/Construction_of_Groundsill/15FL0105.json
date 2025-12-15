@@ -1,0 +1,127 @@
+{
+  "data": {
+    "contractId": "15FL0105",
+    "description": "CONSTRUCTION OF GROUNDSILL ALONG CADAC-AN RIVER (UPSTREAM) IROSIN, SORSOGON",
+    "category": "Flood Control and Drainage",
+    "status": "Completed",
+    "budget": 27811647.36,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region V",
+      "province": "Sorsogon 2nd DEO",
+      "infraType": "Flood Control and Drainage",
+      "coordinates": {
+        "latitude": 12.700356,
+        "longitude": 124.029936,
+        "verified": false
+      }
+    },
+    "infraType": "Flood Control and Drainage",
+    "contractor": "RODA CONSTRUCTION & GENERAL SUPPLY (19674)",
+    "startDate": "2016-03-03",
+    "completionDate": "2016-08-30",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-03-03",
+    "expiryDate": "2016-07-31",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-2",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00020727LZ-CW1",
+        "description": "Construction of Groundsill - Construction of Groundsill along Cadac-an River (Upstream), Irosin, Sorsogon 2nd LD",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Construction of Groundsill",
+        "region": "Region V",
+        "province": "SORSOGON",
+        "coordinates": {
+          "latitude": 12.700356,
+          "longitude": 124.029936,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "RODA CONSTRUCTION & GENERAL SUPPLY",
+    "bidders": [
+      {
+        "name": "RODA CONSTRUCTION & GENERAL SUPPLY (19674)",
+        "pcabId": "19674",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "HONEYVILLECONST AND DEVELOPMENT CORPORATION (32160)",
+        "pcabId": "32160",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "N.B. SALBO CONSTRUCTION (6091)",
+        "pcabId": "6091",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "ROLCO CONSTRUCTION & DEVELOPMENT CORPORATION ( FOR (29686)",
+        "pcabId": "29686",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "WCS CONSTRUCTION, INC. (6516)",
+        "pcabId": "6516",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "WEARR ENTERPRISES & DEVELOPMENT CORP. (14123)",
+        "pcabId": "14123",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION OF GROUNDSILL ALONG CADAC-AN RIVER (UPSTREAM) IROSIN, SORSOGON",
+      "abc": "29399996.90",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-12-08 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-12-28 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "27811647.3600000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/may/Contract - 15FL0105.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/noa_-_15fl0105.pdf",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/may/Contract - 15FL0105.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 12.700356,
+    "longitude": 124.029936,
+    "coordinates": [
+      {
+        "componentId": "P00020727LZ-CW1",
+        "description": "Construction of Groundsill - Construction of Groundsill along Cadac-an River (Upstream), Irosin, Sorsogon 2nd LD",
+        "latitude": 12.700356,
+        "longitude": 124.029936,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

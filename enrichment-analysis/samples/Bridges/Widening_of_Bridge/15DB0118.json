@@ -1,0 +1,85 @@
+{
+  "data": {
+    "contractId": "15DB0118",
+    "description": "WIDENING OF PERMANENT BRIDGES TO MORE THAN 2 LANES, CAYPONSE BR. (B00011LZ) ALONG PALICO-BALAYAN-BATANGAS ROAD",
+    "category": "Bridges",
+    "status": "Completed",
+    "budget": 9929252.93,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region IV-A",
+      "province": "Batangas 1st DEO",
+      "infraType": "Bridges",
+      "coordinates": null
+    },
+    "infraType": "Bridges",
+    "contractor": "V.R. PATRON BUILDERS & DEVELOPERS CORP. (PREVIOUSL (13487)",
+    "startDate": "2016-01-31",
+    "completionDate": "2016-06-28",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-01-31",
+    "expiryDate": "2016-06-28",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - Bridges-Construction-With Bored Piles, Roads: Rehabilitation - PCCP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00002754LZ-CW1",
+        "description": "Widening of Bridge - Cayponce Br. (B00011LZ) along Palico-Balayan-Batangas Rd",
+        "infraType": "Bridges",
+        "typeOfWork": "Widening of Bridge",
+        "region": "Region IV-A",
+        "province": "BATANGAS",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "V.R. PATRON BUILDERS & DEVELOPERS CORP. (PREVIOUSL",
+    "bidders": [
+      {
+        "name": "V.R. PATRON BUILDERS & DEVELOPERS CORP. (PREVIOUSL (13487)",
+        "pcabId": "13487",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "REVERE CONSTRUCTION & SUPPLY CORPORATION (FORMERLY (17426)",
+        "pcabId": "17426",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "WIDENING OF PERMANENT BRIDGES TO MORE THAN 2 LANES, CAYPONSE BR. (B00011LZ) ALONG PALICO-BALAYAN-BATANGAS ROAD",
+      "abc": "10290000.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-11-04 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-11-23 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "9929252.9300000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/15db0118_noa_roa.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/15db0118_ntp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "data": {
+    "contractId": "20LB0282",
+    "description": "OFF-CARRIAGEWAY IMPROVEMENT - DAVAO-COTABATO RD (DAVAO CITY-JCT DIGOS SECT) - K1519+920 - K1519+1100, K1520+048 - K1520+183, K1520+204 - K1520+339, K1520+850 - K1520+950, K1520+871 - K1520+952, K1521+042 - K1521+088, K1523+561 - K1523+731, ET AL",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 9163980,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region XI",
+      "province": "Davao City DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 7.0473333,
+        "longitude": 125.5361861,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "MAXBUILDER CONSTRUCTION CORP. (43765)",
+    "startDate": "2020-12-13",
+    "completionDate": "2021-09-12",
+    "infraYear": "2020",
+    "contractEffectivityDate": "2020-12-13",
+    "expiryDate": "2021-09-12",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2020 OO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00400426MN-CW1",
+        "description": "Off-Carriageway Improvement: Shoulder Paving / Construction - Davao-Cotabato Rd (Davao City-Jct Digos Sect) - K1519 + 922 -  K1519 + 987, K1519 + 1150 - K1520 + 059,K1520 + 250 - K1520 + 315, K1520 + 560 - K1520 + 625,K1520 + 701 - K1520 + 766, K1520 + 90",
+        "infraType": "Roads",
+        "typeOfWork": "Off-Carriageway Improvement: Shoulder Paving / Construction",
+        "region": "Region XI",
+        "province": "DAVAO DEL SUR",
+        "coordinates": {
+          "latitude": 7.0473333,
+          "longitude": 125.5361861,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00400426MN-CW2",
+        "description": "Off-Carriageway Improvement: Construction of Median/Center Island - Davao-Cotabato Rd (Davao City-Jct Digos Sect) - K1519 + 920 -  K1519 + 1100, K1520 + 048 - K1520 + 183, K1520 + 204 - K1520 + 339, K1520 + 850 - K1520 + 950, K1520 + 871 - K1520 + 952, K1",
+        "infraType": "Roads",
+        "typeOfWork": "Off-Carriageway Improvement: Construction of Median/Center Island",
+        "region": "Region XI",
+        "province": "DAVAO DEL SUR",
+        "coordinates": {
+          "latitude": 7.0473306,
+          "longitude": 125.5362278,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "MAXBUILDER CONSTRUCTION CORP.",
+    "bidders": [
+      {
+        "name": "MAXBUILDER CONSTRUCTION CORP. (43765)",
+        "pcabId": "43765",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "JD SOMOZA BUILDERS (42700)",
+        "pcabId": "42700",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "LOTRIM CONSTRUCTION, INC. (12273)",
+        "pcabId": "12273",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "MICAH CONSTRUCTION & SUPPLY (26625)",
+        "pcabId": "26625",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "OFF-CARRIAGEWAY IMPROVEMENT - DAVAO-COTABATO RD (DAVAO CITY-JCT DIGOS SECT) - K1519+920 - K1519+1100, K1520+048 - K1520+183, K1520+204 - K1520+339, K1520+850 - K1520+950, K1520+871 - K1520+952, K1521+042 - K1521+088, K1523+561 - K1523+731, ET AL",
+      "abc": "9163980.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2020-02-21 00:00:00.0000000",
+      "bidSubmissionDeadline": "2020-03-12 00:00:00.0000000",
+      "dateOfAward": "2020-11-23 00:00:00.0000000",
+      "awardAmount": "8916728.35"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/MARCH 12.rar",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/20lb0282.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/20LB0282 Maxbuilder.rar",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/20lb0282.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 7.0473333,
+    "longitude": 125.5361861,
+    "coordinates": [
+      {
+        "componentId": "P00400426MN-CW1",
+        "description": "Off-Carriageway Improvement: Shoulder Paving / Construction - Davao-Cotabato Rd (Davao City-Jct Digos Sect) - K1519 + 922 -  K1519 + 987, K1519 + 1150 - K1520 + 059,K1520 + 250 - K1520 + 315, K1520 + 560 - K1520 + 625,K1520 + 701 - K1520 + 766, K1520 + 90",
+        "latitude": 7.0473333,
+        "longitude": 125.5361861,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00400426MN-CW2",
+        "description": "Off-Carriageway Improvement: Construction of Median/Center Island - Davao-Cotabato Rd (Davao City-Jct Digos Sect) - K1519 + 920 -  K1519 + 1100, K1520 + 048 - K1520 + 183, K1520 + 204 - K1520 + 339, K1520 + 850 - K1520 + 950, K1520 + 871 - K1520 + 952, K1",
+        "latitude": 7.0473306,
+        "longitude": 125.5362278,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 4,
+      "latestImageDate": "2023-04-30 11:03:42.472000",
+      "hasImages": true
+    }
+  }
+}

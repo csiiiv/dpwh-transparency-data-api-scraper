@@ -1,0 +1,91 @@
+{
+  "data": {
+    "contractId": "16AG0103",
+    "description": "CONSTRUCTION OF PUBLIC HEALTH BLDG. AND WAREHOUSE OF SUPPLIES AT WESTERN PANGASINAN DISTRICT HOSPITA",
+    "category": "Buildings and Facilities",
+    "status": "Completed",
+    "budget": 9404000,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region I",
+      "province": "Pangasinan 1st DEO",
+      "infraType": "Buildings and Facilities",
+      "coordinates": null
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "ALCEL CONSTRUCTION (15129)",
+    "startDate": "2017-05-08",
+    "completionDate": "2018-01-31",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2017-05-08",
+    "expiryDate": "2018-02-01",
+    "nysReason": null,
+    "programName": "Outside Infra",
+    "sourceOfFunds": "Outside Infra - GAA 2016 DOH HFEP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00061124LZ-CW1",
+        "description": "Construction of Hospital - Construction of Public Health Building w/water reference laboratory & Warehouse of supplies for RHUs, Western District Hospital, Alaminos City, Pangasinan",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of Hospital",
+        "region": "Region I",
+        "province": "PANGASINAN",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "ALCEL CONSTRUCTION",
+    "bidders": [
+      {
+        "name": "ALCEL CONSTRUCTION (15129)",
+        "pcabId": "15129",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "EFF BUILDERS CORPORATION (31225)",
+        "pcabId": "31225",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "JONIK TRADING & CONSTRUCTION (20612)",
+        "pcabId": "20612",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION OF PUBLIC HEALTH BLDG. AND WAREHOUSE OF SUPPLIES AT WESTERN PANGASINAN DISTRICT HOSPITA",
+      "abc": "9900000.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2017-03-30 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-04-20 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "9,404,000.00"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/16AG0103-ITB,TF,PBD,PLANO.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/16AG0103CONTRACT.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/16AG0103AWARD.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/16AG0103CONTRACT.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

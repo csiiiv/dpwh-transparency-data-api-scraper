@@ -1,0 +1,97 @@
+{
+  "data": {
+    "contractId": "16BD0084",
+    "description": "REHABILITATION OF FARM TO MARKET ROAD (CONSTRUCTION OF 1-UNIT BOX CULVERT), BRGY. DAGUPAN, TUAO, CAGAYAN",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 249475.47,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region II",
+      "province": "Cagayan 3rd DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 17.69042,
+        "longitude": 121.4982,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "JOHN 6:51 BUILDERS (37996)",
+    "startDate": "2017-04-24",
+    "completionDate": "2017-10-17",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2017-04-24",
+    "expiryDate": "2017-07-07",
+    "nysReason": null,
+    "programName": "Outside Infra",
+    "sourceOfFunds": "Outside Infra - GAA 2016 NDRRMF",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00095256LZ-CW1",
+        "description": "Rehabilitation of Paved Road - Rehabilitation of Dagupan Farm-to-Market Road, Barangay Dagupan, Tuao,Cagayan (1 unit Box Culvert)",
+        "infraType": "Roads",
+        "typeOfWork": "Rehabilitation of Paved Road",
+        "region": "Region II",
+        "province": "CAGAYAN",
+        "coordinates": {
+          "latitude": 17.69042,
+          "longitude": 121.4982,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "JOHN 6:51 BUILDERS",
+    "bidders": [
+      {
+        "name": "JOHN 6:51 BUILDERS (37996)",
+        "pcabId": "37996",
+        "participation": 100,
+        "isWinner": true
+      }
+    ],
+    "procurement": {
+      "contractName": "REHABILITATION OF FARM TO MARKET ROAD (CONSTRUCTION OF 1-UNIT BOX CULVERT), BRGY. DAGUPAN, TUAO, CAGAYAN",
+      "abc": "262611.32",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2017-03-08 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-03-28 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "249,475.47"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/16BD0084 FMR Brgy. Dagupan, Tuao.doc",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/img494.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/img495.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/img494.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 17.69042,
+    "longitude": 121.4982,
+    "coordinates": [
+      {
+        "componentId": "P00095256LZ-CW1",
+        "description": "Rehabilitation of Paved Road - Rehabilitation of Dagupan Farm-to-Market Road, Barangay Dagupan, Tuao,Cagayan (1 unit Box Culvert)",
+        "latitude": 17.69042,
+        "longitude": 121.4982,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

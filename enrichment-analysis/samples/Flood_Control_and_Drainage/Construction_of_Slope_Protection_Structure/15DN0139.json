@@ -1,0 +1,115 @@
+{
+  "data": {
+    "contractId": "15DN0139",
+    "description": "FLOOD MANAGEMENT SERVICES- CONSTRUCTION/ MAINTENANCE OF FLOOD CONTROL MITIGATION STRUCTURES AND DRAINAGE SYSTEM CONSTRUCTION OF SPILLWAY, SITIO SAN YSIRO, BRGY. SAN JOSE, ANTIPOLO CITY, 2ND LD",
+    "category": "Flood Control and Drainage",
+    "status": "Completed",
+    "budget": 9172057.8,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region IV-A",
+      "province": "Rizal 1st DEO",
+      "infraType": "Flood Control and Drainage",
+      "coordinates": {
+        "latitude": 14.688479,
+        "longitude": 121.304455,
+        "verified": false
+      }
+    },
+    "infraType": "Flood Control and Drainage",
+    "contractor": "FRAMECON BUILDERS (22482)",
+    "startDate": "2016-01-12",
+    "completionDate": "2016-05-10",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-01-12",
+    "expiryDate": "2016-05-10",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-2",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00020626LZ-CW1",
+        "description": "Construction of Slope Protection Structure - Construction of Spillway, Sitio San Ysiro, Brgy. San Jose, Antipolo City, 2nd LD",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Construction of Slope Protection Structure",
+        "region": "Region IV-A",
+        "province": "RIZAL",
+        "coordinates": {
+          "latitude": 14.688479,
+          "longitude": 121.304455,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "FRAMECON BUILDERS",
+    "bidders": [
+      {
+        "name": "FRAMECON BUILDERS (22482)",
+        "pcabId": "22482",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "KGD BUILDERS INC. (21960)",
+        "pcabId": "21960",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "REMIGIO GENERAL CONSTRUCTION (2298)",
+        "pcabId": "2298",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "W.D. NAVARRO CONSTRUCTION CO. (14327)",
+        "pcabId": "14327",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "FLOOD MANAGEMENT SERVICES- CONSTRUCTION/ MAINTENANCE OF FLOOD CONTROL MITIGATION STRUCTURES AND DRAINAGE SYSTEM CONSTRUCTION OF SPILLWAY, SITIO SAN YSIRO, BRGY. SAN JOSE, ANTIPOLO CITY, 2ND LD",
+      "abc": "9800000.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-11-20 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-12-10 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "9172057.8000000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/april/Contract-15DN0139.pdf",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/april/NOA-15DN0139.pdf",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/april/Contract-15DN0139.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 14.688479,
+    "longitude": 121.304455,
+    "coordinates": [
+      {
+        "componentId": "P00020626LZ-CW1",
+        "description": "Construction of Slope Protection Structure - Construction of Spillway, Sitio San Ysiro, Brgy. San Jose, Antipolo City, 2nd LD",
+        "latitude": 14.688479,
+        "longitude": 121.304455,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "16CC0135",
+    "description": "CONSTRUCTION/REHABILITATION OF FLOOD MITIGATION FACILITIES ALONG MAJOR RIVER BASINS AND PRINCIPAL RIVERS PAMPANGA RIVER BASIN - CONSTRUCTION OF FLOOD CONTROL STRUCTURE ALONG PAMPANGA RIVER MEYSULAO SECTION CALUMPIT, BULACAN",
+    "category": "Flood Control and Drainage",
+    "status": "Completed",
+    "budget": 14612967.55,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region III",
+      "province": "Bulacan 1st DEO",
+      "infraType": "Flood Control and Drainage",
+      "coordinates": null
+    },
+    "infraType": "Flood Control and Drainage",
+    "contractor": "E.R. DELA CRUZ CONSTRUCTION & SUPPLY (32158)",
+    "startDate": "2016-12-15",
+    "completionDate": "2017-05-28",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-12-15",
+    "expiryDate": "2017-05-28",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-2",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00022696LZ-CW1",
+        "description": "Construction of Flood Mitigation Facility - Construction of Flood Control Structure along Pampanga River, Meysulao Section, Calumpit, Bulacan",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Construction of Flood Mitigation Facility",
+        "region": "Region III",
+        "province": "BULACAN",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "E.R. DELA CRUZ CONSTRUCTION & SUPPLY",
+    "bidders": [
+      {
+        "name": "E.R. DELA CRUZ CONSTRUCTION & SUPPLY (32158)",
+        "pcabId": "32158",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "ALL EML CONSTRUCTION CORPORATION (FORMERLY: E.M.L. CONSTRUCTION & TRADING) (10151)",
+        "pcabId": "10151",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "HIGH STRENGTH DEV. CORPORATION (31976)",
+        "pcabId": "31976",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "ORANI CONSTRUCTION AND SUPPLY CORPORATION (FORMERLY:ORANI BUILDERS & SUPPLY) (05349)",
+        "pcabId": "05349",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "STAR WILLIAM CONSTRUCTION (35938)",
+        "pcabId": "35938",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION/REHABILITATION OF FLOOD MITIGATION FACILITIES ALONG MAJOR RIVER BASINS AND PRINCIPAL RIVERS PAMPANGA RIVER BASIN - CONSTRUCTION OF FLOOD CONTROL STRUCTURE ALONG PAMPANGA RIVER MEYSULAO SECTION CALUMPIT, BULACAN",
+      "abc": "14955561.08",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-09-28 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-10-20 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "14,612,967.55"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "",
+      "noticeOfAward": "",
+      "noticeToProceed": "",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

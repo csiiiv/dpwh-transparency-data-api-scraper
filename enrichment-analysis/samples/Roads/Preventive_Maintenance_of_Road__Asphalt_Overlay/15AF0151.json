@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "15AF0151",
+    "description": "PREVENTIVE MAINT. BASED ON PAVEMENT SYS/HWAY DEV'T. & MGMT.-(HDM-4). ROSARIO-PUGO ACCESS RD. CHAINAG",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 3272359.22,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region I",
+      "province": "La Union 2nd DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 16.2300970330598,
+        "longitude": 120.487017958226,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "E.E. MADAYAG CONSTRUCTION (25029)",
+    "startDate": "2016-01-25",
+    "completionDate": "2016-03-01",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-01-25",
+    "expiryDate": "2016-03-01",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00000313LZ-CW1",
+        "description": "Preventive Maintenance of Road: Asphalt Overlay - Rosario-Pugo Access Rd - Chainage 0  -  Chainage 325",
+        "infraType": "Roads",
+        "typeOfWork": "Preventive Maintenance of Road: Asphalt Overlay",
+        "region": "Region I",
+        "province": "LA UNION",
+        "coordinates": {
+          "latitude": 16.2300970330598,
+          "longitude": 120.487017958226,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "E.E. MADAYAG CONSTRUCTION",
+    "bidders": [
+      {
+        "name": "E.E. MADAYAG CONSTRUCTION (25029)",
+        "pcabId": "25029",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "J.A. OLIVAR ENGINEERING DESIGN, CONSTRUCTION AND S (35602)",
+        "pcabId": "35602",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "PREVENTIVE MAINT. BASED ON PAVEMENT SYS/HWAY DEV'T. & MGMT.-(HDM-4). ROSARIO-PUGO ACCESS RD. CHAINAG",
+      "abc": "3444999.68",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-12-03 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-12-22 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "3272359.2200000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/march/15AF151 CONT.pdf",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/march/15AF151 NOA.pdf",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/march/15AF151 CONT.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 16.2300970330598,
+    "longitude": 120.487017958226,
+    "coordinates": [
+      {
+        "componentId": "P00000313LZ-CW1",
+        "description": "Preventive Maintenance of Road: Asphalt Overlay - Rosario-Pugo Access Rd - Chainage 0  -  Chainage 325",
+        "latitude": 16.2300970330598,
+        "longitude": 120.487017958226,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

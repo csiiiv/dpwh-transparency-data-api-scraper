@@ -1,0 +1,115 @@
+{
+  "data": {
+    "contractId": "15CH0102",
+    "description": "CONSTRUCTION OF NATIONAL HIGH SCHOOL BUILDING IN SAN PABLO 2, LUBAO, PAMPANGA",
+    "category": "Buildings and Facilities",
+    "status": "Completed",
+    "budget": 1902549.38,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region III",
+      "province": "Pampanga 2nd DEO",
+      "infraType": "Buildings and Facilities",
+      "coordinates": {
+        "latitude": 14.922058,
+        "longitude": 120.538768,
+        "verified": false
+      }
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "E.M. MALLARI CONSTRUCTION (38973)",
+    "startDate": "2016-02-08",
+    "completionDate": "2016-07-06",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-02-08",
+    "expiryDate": "2016-04-22",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 Locally Funded Projects",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00040112LZ-CW1",
+        "description": "Construction of School Buildings - Construction of National High School Building in San Pablo 2, Lubao, Pampanga",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of School Buildings",
+        "region": "Region III",
+        "province": "PAMPANGA",
+        "coordinates": {
+          "latitude": 14.922058,
+          "longitude": 120.538768,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "E.M. MALLARI CONSTRUCTION",
+    "bidders": [
+      {
+        "name": "E.M. MALLARI CONSTRUCTION (38973)",
+        "pcabId": "38973",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "ECANGELES CONST. & CONST. SUPPLY (34420)",
+        "pcabId": "34420",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "MICKAJETTE CONSTRUCTION AND TRADING (35239)",
+        "pcabId": "35239",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "VERET CONSTRUCTION (36804)",
+        "pcabId": "36804",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION OF NATIONAL HIGH SCHOOL BUILDING IN SAN PABLO 2, LUBAO, PAMPANGA",
+      "abc": "1971917.36",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-11-13 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-12-09 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "1902549.3800000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/15ch0102_contract_agreement.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/15ch0102_notice_of_award.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/15ch0102_notice_to_proceed.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 14.922058,
+    "longitude": 120.538768,
+    "coordinates": [
+      {
+        "componentId": "P00040112LZ-CW1",
+        "description": "Construction of School Buildings - Construction of National High School Building in San Pablo 2, Lubao, Pampanga",
+        "latitude": 14.922058,
+        "longitude": 120.538768,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

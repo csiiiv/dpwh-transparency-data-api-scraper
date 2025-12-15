@@ -1,0 +1,79 @@
+{
+  "data": {
+    "contractId": "15BA0032",
+    "description": "REHABILITATION/RECONSTRUCTION OF NATIONAL ROADS WITH SLIPS, ROAD COLLAPSE AND LANDSLIDE, UYUGAN IN",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 3403179.1,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region II",
+      "province": "Batanes DEO",
+      "infraType": "Roads",
+      "coordinates": null
+    },
+    "infraType": "Roads",
+    "contractor": "SYNDTITE CONSTRUCTION CORPORATION (FORMERLY: R.C. TAGALA CONSTRUCTION) (11597)",
+    "startDate": "2016-06-03",
+    "completionDate": "2017-04-15",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-06-03",
+    "expiryDate": "2016-10-05",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00010000LZ-CW1",
+        "description": "Construction of Road Slope Protection Structure - Uyugan-Mahatao Interior Road - K0025+(-077) - K0025+035.70, K0025+038 - K0025+136.80",
+        "infraType": "Roads",
+        "typeOfWork": "Construction of Road Slope Protection Structure",
+        "region": "Region II",
+        "province": "BATANES",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "SYNDTITE CONSTRUCTION CORPORATION (FORMERLY: R.C. TAGALA CONSTRUCTION)",
+    "bidders": [
+      {
+        "name": "SYNDTITE CONSTRUCTION CORPORATION (FORMERLY: R.C. TAGALA CONSTRUCTION) (11597)",
+        "pcabId": "11597",
+        "participation": 100,
+        "isWinner": true
+      }
+    ],
+    "procurement": {
+      "contractName": "REHABILITATION/RECONSTRUCTION OF NATIONAL ROADS WITH SLIPS, ROAD COLLAPSE AND LANDSLIDE, UYUGAN IN",
+      "abc": "3430000.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-03-29 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-04-18 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "3403179.1000000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/15ba0032_contract_agreement.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/15ba0032_noa_2.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/15ba0032_ntp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

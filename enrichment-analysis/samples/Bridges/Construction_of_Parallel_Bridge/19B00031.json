@@ -1,0 +1,97 @@
+{
+  "data": {
+    "contractId": "19B00031",
+    "description": "ORGANIZATIONAL OUTCOME 1: ENSURE SAFE AND RELIABLE NATIONAL ROAD SYSTEM: BRIDGE PROGRAM: CONSTRUCTION OF NEW PERMANENT BRIDGE: DISILUAD BRIDGE ALONG CORDON-AURORA BOUNDARY ROAD (ISABELA BDRY.-JCT. DUMABATO) (PARALLEL BRIDGE) B01939LZ, K0350+749, QUIRINO",
+    "category": "Bridges",
+    "status": "Completed",
+    "budget": 186441765.96,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region II",
+      "province": "Region II",
+      "infraType": "Bridges",
+      "coordinates": {
+        "latitude": 16.46804,
+        "longitude": 121.6294433,
+        "verified": false
+      }
+    },
+    "infraType": "Bridges",
+    "contractor": "J.H. PAJARA CONSTRUCTION CORPORATION (1890) / C-BROS CONSTRUCTION (36606)",
+    "startDate": "2019-08-23",
+    "completionDate": "2021-10-23",
+    "infraYear": "2019",
+    "contractEffectivityDate": "2019-08-23",
+    "expiryDate": "2021-10-23",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2019 OO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00300490LZ-CW1",
+        "description": "Construction of Parallel Bridge - Disiluad Br. along Cordon-Aurora Bdry Rd (Isabela Bdry-Jct Dumabato) (Parallel Br.)",
+        "infraType": "Bridges",
+        "typeOfWork": "Construction of Parallel Bridge",
+        "region": "Region II",
+        "province": "QUIRINO",
+        "coordinates": {
+          "latitude": 16.46804,
+          "longitude": 121.6294433,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "C-BROS CONSTRUCTION, J.H. PAJARA CONSTRUCTION CORPORATION",
+    "bidders": [
+      {
+        "name": "J.H. PAJARA CONSTRUCTION CORPORATION (1890) / C-BROS CONSTRUCTION (36606) (JV ID: JV-19-022)",
+        "pcabId": "",
+        "participation": 100,
+        "isWinner": true
+      }
+    ],
+    "procurement": {
+      "contractName": "ORGANIZATIONAL OUTCOME 1: ENSURE SAFE AND RELIABLE NATIONAL ROAD SYSTEM: BRIDGE PROGRAM: CONSTRUCTION OF NEW PERMANENT BRIDGE: DISILUAD BRIDGE ALONG CORDON-AURORA BOUNDARY ROAD (ISABELA BDRY.-JCT. DUMABATO) (PARALLEL BRIDGE) B01939LZ, K0350+749, QUIRINO",
+      "abc": "187175000.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2019-06-25 00:00:00.0000000",
+      "bidSubmissionDeadline": "2019-07-16 00:00:00.0000000",
+      "dateOfAward": "2019-07-30 00:00:00.0000000",
+      "awardAmount": "186443012.5"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/19B00031.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/19B00031 Contract.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/19B00031 NOA.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/19B00031 Contract.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 16.46804,
+    "longitude": 121.6294433,
+    "coordinates": [
+      {
+        "componentId": "P00300490LZ-CW1",
+        "description": "Construction of Parallel Bridge - Disiluad Br. along Cordon-Aurora Bdry Rd (Isabela Bdry-Jct Dumabato) (Parallel Br.)",
+        "latitude": 16.46804,
+        "longitude": 121.6294433,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "22AA0074",
+    "description": "OFF CARRIAGEWAY IMPROVEMENT - PRIMARY ROADS - MANILA NORTH ROAD - K0491+278 - K0491+799",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 19081936.86,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region I",
+      "province": "Ilocos Norte 1st DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 18.2342881,
+        "longitude": 120.6115031,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "ASIAN PEARL CONSTRUCTION & DEVT. CORP. (9059)",
+    "startDate": "2022-03-03",
+    "completionDate": "2022-11-16",
+    "infraYear": "2022",
+    "contractEffectivityDate": "2022-03-03",
+    "expiryDate": "2022-10-23",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2022 OO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00606291LZ-CW1",
+        "description": "Off-Carriageway Improvement: Paving of Shoulders - Manila North Rd - K0491 + 278 - K0491 + 799",
+        "infraType": "Roads",
+        "typeOfWork": "Off-Carriageway Improvement: Paving of Shoulders",
+        "region": "Region I",
+        "province": "ILOCOS NORTE",
+        "coordinates": {
+          "latitude": 18.2342881,
+          "longitude": 120.6115031,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "ASIAN PEARL CONSTRUCTION & DEVT. CORP.",
+    "bidders": [
+      {
+        "name": "ASIAN PEARL CONSTRUCTION & DEVT. CORP. (9059)",
+        "pcabId": "9059",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "VCD CONSTRUCTION (13949)",
+        "pcabId": "13949",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "OFF CARRIAGEWAY IMPROVEMENT - PRIMARY ROADS - MANILA NORTH ROAD - K0491+278 - K0491+799",
+      "abc": "19081937.16",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2021-12-02 00:00:00.0000000",
+      "bidSubmissionDeadline": "2021-12-21 00:00:00.0000000",
+      "dateOfAward": "2022-02-21 00:00:00.0000000",
+      "awardAmount": "18780715.17"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/22AA0074.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/74 CONTRACT.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/22-74 NOA.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/74 CONTRACT.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 18.2342881,
+    "longitude": 120.6115031,
+    "coordinates": [
+      {
+        "componentId": "P00606291LZ-CW1",
+        "description": "Off-Carriageway Improvement: Paving of Shoulders - Manila North Rd - K0491 + 278 - K0491 + 799",
+        "latitude": 18.2342881,
+        "longitude": 120.6115031,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 3,
+      "latestImageDate": "2023-07-09 10:26:47.211000",
+      "hasImages": true
+    }
+  }
+}

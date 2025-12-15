@@ -1,0 +1,91 @@
+{
+  "data": {
+    "contractId": "15CC0258",
+    "description": "CONSTRUCTION OF ONE STOREY TWO CLASSROOM TIBAGUIN ES HAGONOY, BULACAN",
+    "category": "Buildings and Facilities",
+    "status": "Completed",
+    "budget": 1874184.25,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region III",
+      "province": "Bulacan 1st DEO",
+      "infraType": "Buildings and Facilities",
+      "coordinates": null
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "ESN CONSTRUCTION & TRADING (32720)",
+    "startDate": "2016-08-31",
+    "completionDate": "2016-11-23",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-08-31",
+    "expiryDate": "2016-11-23",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 Locally Funded Projects",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00040097LZ-CW1",
+        "description": "Construction of 2-Storey Classrooms - Construction of 1 Storey 2 Classroom Building at Tibaguin, Hagonoy, Bulacan",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of 2-Storey Classrooms",
+        "region": "Region III",
+        "province": "BULACAN",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "ESN CONSTRUCTION & TRADING",
+    "bidders": [
+      {
+        "name": "ESN CONSTRUCTION & TRADING (32720)",
+        "pcabId": "32720",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "PRODEL CONSTRUCTION & DEVELOPMENT CORPORATION (10839)",
+        "pcabId": "10839",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "WINPRO CONSTRUCTION (37527)",
+        "pcabId": "37527",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION OF ONE STOREY TWO CLASSROOM TIBAGUIN ES HAGONOY, BULACAN",
+      "abc": "1980186.55",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-06-03 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-06-23 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "1874184.2500000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/september/cwa15cc0258.doc",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/september/6015cc0258.doc",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/ntp/16/september/6815cc0258.doc",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

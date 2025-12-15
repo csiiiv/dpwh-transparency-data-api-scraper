@@ -1,0 +1,109 @@
+{
+  "data": {
+    "contractId": "22DB0133",
+    "description": "CONSTRUCTION (COMPLETION) OF BARANGAY HEALTH  CENTER, BARANGAY NATIPUAN, NASUGBU,BATANGAS",
+    "category": "Buildings and Facilities",
+    "status": "Completed",
+    "budget": 4950000,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region IV-A",
+      "province": "Batangas 1st DEO",
+      "infraType": "Buildings and Facilities",
+      "coordinates": {
+        "latitude": 14.1100039,
+        "longitude": 120.7845947,
+        "verified": false
+      }
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "MICLOVER GENERAL CONSTRUCTION & IRON WORKS (31527)",
+    "startDate": "2022-03-28",
+    "completionDate": "2022-09-08",
+    "infraYear": "2022",
+    "contractEffectivityDate": "2022-03-28",
+    "expiryDate": "2022-09-08",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2022 CSSP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00641182LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Rural Health Unit - Construction (Completion) of Barangay Health  Center, Barangay Natipuan, Nasugbu, Batangas",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Rehabilitation / Major Repair of Rural Health Unit",
+        "region": "Region IV-A",
+        "province": "BATANGAS",
+        "coordinates": {
+          "latitude": 14.1100039,
+          "longitude": 120.7845947,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "MICLOVER GENERAL CONSTRUCTION & IRON WORKS",
+    "bidders": [
+      {
+        "name": "MICLOVER GENERAL CONSTRUCTION & IRON WORKS (31527)",
+        "pcabId": "31527",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "RICH ADS CONSTRUCTION CORP. (FORMERLY RICH ADS CON (31157)",
+        "pcabId": "31157",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "VICMAR CONSTRUCTION, INC. (28997)",
+        "pcabId": "28997",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION (COMPLETION) OF BARANGAY HEALTH  CENTER, BARANGAY NATIPUAN, NASUGBU, BATANGAS",
+      "abc": "4950000.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2022-01-28 00:00:00.0000000",
+      "bidSubmissionDeadline": "2022-02-16 00:00:00.0000000",
+      "dateOfAward": "2022-03-22 00:00:00.0000000",
+      "awardAmount": "4800399.09"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/22DB0133 All Bidding Documents.pdf",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/22DB0133 CA.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/22DB0133 ROA NOA.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/22DB0133 CA.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 14.1100039,
+    "longitude": 120.7845947,
+    "coordinates": [
+      {
+        "componentId": "P00641182LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Rural Health Unit - Construction (Completion) of Barangay Health  Center, Barangay Natipuan, Nasugbu, Batangas",
+        "latitude": 14.1100039,
+        "longitude": 120.7845947,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 2,
+      "latestImageDate": "2023-02-01 08:00:08.164999",
+      "hasImages": true
+    }
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "data": {
+    "contractId": "23DJ0184",
+    "description": "CONVERGENCE AND SPECIAL SUPPORT PROGRAM-SPECIAL ROAD FUND-MOTOR VEHICLE USER'S CHARGE (MVUC) AS PER R.A. 11239, INSTALLATION OF ROAD ROLLER BARRIERS- QUEZON ECO-TOURISM RD- K0162+572-K0162+714, K0162+900-K0163+143, BRGY TALAAN APLAYA, SARIAYA, QUEZON",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 96500000,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region IV-A",
+      "province": "Quezon 2nd DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 13.8932692,
+        "longitude": 121.5747494,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "MG SAMIDAN CONSTRUCTION (33234)",
+    "startDate": "2024-02-28",
+    "completionDate": "2024-06-18",
+    "infraYear": "2023",
+    "contractEffectivityDate": "2024-02-28",
+    "expiryDate": "2024-06-26",
+    "nysReason": null,
+    "programName": "Outside Infra",
+    "sourceOfFunds": "Outside Infra - Unprogrammed Appropriations 2023",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00761722LZ-CW1",
+        "description": "Road Safety: Guardrails - Installation of Road Roller Barriers - Quezon Eco-Tourism Rd - K0162 + 572 - K0162 + 714, K0162 + 900 - K0163 + 143, Brgy Talaan Aplaya, Sariaya, Quezon",
+        "infraType": "Roads",
+        "typeOfWork": "Road Safety: Guardrails",
+        "region": "Region IV-A",
+        "province": "QUEZON",
+        "coordinates": {
+          "latitude": 13.8932692,
+          "longitude": 121.5747494,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "MG SAMIDAN CONSTRUCTION",
+    "bidders": [
+      {
+        "name": "MG SAMIDAN CONSTRUCTION (33234)",
+        "pcabId": "33234",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "MONOLITHIC CONSTRUCTION & CONCRETE PRODUCTS, INC. (5733)",
+        "pcabId": "5733",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "ST. GERRARD CONSTRUCTION GEN. CONTRACTOR & DEVELOPMENT CORP. (FORMERLY:ST. GERRARD CONSTRUCTION) ([REVOKED] 31762)",
+        "pcabId": "[REVOKED] 31762",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONVERGENCE AND SPECIAL SUPPORT PROGRAM-SPECIAL ROAD FUND-MOTOR VEHICLE USER'S CHARGE (MVUC) AS PER R.A. 11239, INSTALLATION OF ROAD ROLLER BARRIERS- QUEZON ECO-TOURISM RD- K0162+572-K0162+714, K0162+900-K0163+143, BRGY TALAAN APLAYA, SARIAYA, QUEZON",
+      "abc": "96500000.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2024-01-15 00:00:00.0000000",
+      "bidSubmissionDeadline": "2024-02-06 00:00:00.0000000",
+      "dateOfAward": "2024-02-19 00:00:00.0000000",
+      "awardAmount": "93498251.02"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/23dj0184.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/23dj0184_contract.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/23dj0184_noa_bac_resolution.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/23dj0184_ntp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 13.8932692,
+    "longitude": 121.5747494,
+    "coordinates": [
+      {
+        "componentId": "P00761722LZ-CW1",
+        "description": "Road Safety: Guardrails - Installation of Road Roller Barriers - Quezon Eco-Tourism Rd - K0162 + 572 - K0162 + 714, K0162 + 900 - K0163 + 143, Brgy Talaan Aplaya, Sariaya, Quezon",
+        "latitude": 13.8932692,
+        "longitude": 121.5747494,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 2,
+      "latestImageDate": "2024-03-26 10:07:01.790999",
+      "hasImages": true
+    }
+  }
+}

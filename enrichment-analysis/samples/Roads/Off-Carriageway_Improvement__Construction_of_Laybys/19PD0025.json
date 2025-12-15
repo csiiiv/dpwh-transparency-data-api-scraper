@@ -1,0 +1,115 @@
+{
+  "data": {
+    "contractId": "19PD0025",
+    "description": "OFF-CARRIAGEWAY IMPROVEMENT: CONSTRUCTION OF LAYBYS-ALONG LEONARD WOOD ROAD (S00412LZ) KO 252+215 TO KO 252+400",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 3517253.68,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Cordillera Administrative Region",
+      "province": "Baguio City DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 16.4141204,
+        "longitude": 120.621463,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "HARLANCE BUILDERS (42843)",
+    "startDate": "2019-06-13",
+    "completionDate": "2019-12-05",
+    "infraYear": "2019",
+    "contractEffectivityDate": "2019-06-13",
+    "expiryDate": "2019-11-19",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2019 OO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00301974LZ-CW1",
+        "description": "Off-Carriageway Improvement: Construction of Laybys - Leonard Wood Rd - K0252 + 215 - K0252 + 400",
+        "infraType": "Roads",
+        "typeOfWork": "Off-Carriageway Improvement: Construction of Laybys",
+        "region": "Cordillera Administrative Region",
+        "province": "BENGUET",
+        "coordinates": {
+          "latitude": 16.4141204,
+          "longitude": 120.621463,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "HARLANCE BUILDERS",
+    "bidders": [
+      {
+        "name": "HARLANCE BUILDERS (42843)",
+        "pcabId": "42843",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "MELECIO CONSTRUCTION (35275)",
+        "pcabId": "35275",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "MJLAC CONSTRUCTION AND AGGREGATES (36539)",
+        "pcabId": "36539",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "R.M. BILOG CONSTRUCTION AND ENGINEERING SERVICES (40810)",
+        "pcabId": "40810",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "OFF-CARRIAGEWAY IMPROVEMENT: CONSTRUCTION OF LAYBYS-ALONG LEONARD WOOD ROAD (S00412LZ) KO 252+215 TO KO 252+400",
+      "abc": "3919400.16",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2019-02-07 00:00:00.0000000",
+      "bidSubmissionDeadline": "2019-02-28 00:00:00.0000000",
+      "dateOfAward": "2019-05-28 00:00:00.0000000",
+      "awardAmount": "3197503.68"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/19PD0025 IB BOQ Checklist Bid Docs Attachments Plans.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/Contract 19PD0025.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/Award 19PD0025.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/Contract 19PD0025.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 16.4141204,
+    "longitude": 120.621463,
+    "coordinates": [
+      {
+        "componentId": "P00301974LZ-CW1",
+        "description": "Off-Carriageway Improvement: Construction of Laybys - Leonard Wood Rd - K0252 + 215 - K0252 + 400",
+        "latitude": 16.4141204,
+        "longitude": 120.621463,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

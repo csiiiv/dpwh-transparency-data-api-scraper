@@ -1,0 +1,121 @@
+{
+  "data": {
+    "contractId": "17CD0223",
+    "description": "THERMOPLASTIC PAVEMENT MARKINGS & ROADSIGNS BOCAUE  SAN JOSE ROAD K0030+(-771) TO K0042 + 140,  NCR / BULACAN BDRY. BIGTE  IPO DAM ROAD K0029+(-836) - K0044 + 2598, MUZON TUNGKONG MANGGA ROAD  K0041 + (-779) - K0045 + 036, STA. MARIA/CITY OF SAN JOSE",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 12508488.01,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region III",
+      "province": "Bulacan 2nd DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 14.8085878585817,
+        "longitude": 120.946246800104,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "L.R. TIQUI BUILDERS, INC. (13810)",
+    "startDate": "2017-12-13",
+    "completionDate": "2018-03-12",
+    "infraYear": "2017",
+    "contractEffectivityDate": "2017-12-13",
+    "expiryDate": "2018-03-12",
+    "nysReason": null,
+    "programName": "Outside Infra",
+    "sourceOfFunds": "Outside Infra - Special Road Support Fund 2017",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00190146LZ-CW1",
+        "description": "Road Safety: Pavement markings - Thermoplastic Pavement Markings and Road signs along NCR/Bulacan Boundary-Bigte-Ipo Dam Rd, K0030+(-771) to K0042+140; Bocaue-Bigte-Ipo Dam Road, K0029+(-836) to K0044+2598; Muzon-Tungkong Mangga Road, K0041+(-779) to K004",
+        "infraType": "Roads",
+        "typeOfWork": "Road Safety: Pavement markings",
+        "region": "Region III",
+        "province": "BULACAN",
+        "coordinates": {
+          "latitude": 14.8085878585817,
+          "longitude": 120.946246800104,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "L.R. TIQUI BUILDERS, INC.",
+    "bidders": [
+      {
+        "name": "L.R. TIQUI BUILDERS, INC. (13810)",
+        "pcabId": "13810",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "CGGFR CONSTRUCTION & CONSTRUCTION SUPPLY (37075)",
+        "pcabId": "37075",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "JQM CONSTRUCTION AND TRADING (36354)",
+        "pcabId": "36354",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "MDAN CONSTRUCTION AND TRADING (38077)",
+        "pcabId": "38077",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "SILVERGRACES CONSTRUCTION AND CONSTRUCTION SUPPLY (36158)",
+        "pcabId": "36158",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "THERMOPLASTIC PAVEMENT MARKINGS & ROADSIGNS BOCAUE  SAN JOSE ROAD K0030+(-771) TO K0042 + 140,  NCR / BULACAN BDRY. BIGTE  IPO DAM ROAD K0029+(-836) - K0044 + 2598, MUZON TUNGKONG MANGGA ROAD  K0041 + (-779) - K0045 + 036, STA. MARIA/CITY OF SAN JOSE",
+      "abc": "13166829.01",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2017-08-24 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-09-14 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "12508488.01"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/CA.docx",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/NOA.docx",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/NTP.docx",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 14.8085878585817,
+    "longitude": 120.946246800104,
+    "coordinates": [
+      {
+        "componentId": "P00190146LZ-CW1",
+        "description": "Road Safety: Pavement markings - Thermoplastic Pavement Markings and Road signs along NCR/Bulacan Boundary-Bigte-Ipo Dam Rd, K0030+(-771) to K0042+140; Bocaue-Bigte-Ipo Dam Road, K0029+(-836) to K0044+2598; Muzon-Tungkong Mangga Road, K0041+(-779) to K004",
+        "latitude": 14.8085878585817,
+        "longitude": 120.946246800104,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

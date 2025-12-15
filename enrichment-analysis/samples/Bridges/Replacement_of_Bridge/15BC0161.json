@@ -1,0 +1,109 @@
+{
+  "data": {
+    "contractId": "15BC0161",
+    "description": "CONSTRUCTION & MAINTENANCE OF BRIDGES ALONG NATIONAL ROADS :REPLACEMENT OF BRIDGES FROM TEMPORARY TO PERMANENT MINUGYAN BR (B04286LZ). ALONG JLLGR",
+    "category": "Bridges",
+    "status": "Completed",
+    "budget": 14290667.48,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region II",
+      "province": "Cagayan 2nd DEO",
+      "infraType": "Bridges",
+      "coordinates": {
+        "latitude": 17.8671018088191,
+        "longitude": 121.370668008975,
+        "verified": false
+      }
+    },
+    "infraType": "Bridges",
+    "contractor": "E.C.T. CONSTRUCTION (10060)",
+    "startDate": "2016-03-14",
+    "completionDate": "2017-07-25",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-03-14",
+    "expiryDate": "2016-08-22",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00002746LZ-CW1",
+        "description": "Replacement of Bridge - Minugyan Br. (B04286LZ) along Jct Logac-Lasam-Gagabutan Rd",
+        "infraType": "Bridges",
+        "typeOfWork": "Replacement of Bridge",
+        "region": "Region II",
+        "province": "CAGAYAN",
+        "coordinates": {
+          "latitude": 17.8671018088191,
+          "longitude": 121.370668008975,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "E.C.T. CONSTRUCTION",
+    "bidders": [
+      {
+        "name": "E.C.T. CONSTRUCTION (10060)",
+        "pcabId": "10060",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "AJ TAYLAN CONSTRUCTION CORPORATION (2336)",
+        "pcabId": "2336",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "EGB CONSTRUCTION CORPORATION (FORMERLY: EGB CONSTRUCTION) (13722)",
+        "pcabId": "13722",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION & MAINTENANCE OF BRIDGES ALONG NATIONAL ROADS :REPLACEMENT OF BRIDGES FROM TEMPORARY TO PERMANENT MINUGYAN BR (B04286LZ). ALONG JLLGR",
+      "abc": "14896000.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-01-22 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-02-11 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "14290667.4800000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/april/15BC0161-CONTRACT AGREEMENT.jpg",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/15bc0161-noa.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/15bc0161-ntp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 17.8671018088191,
+    "longitude": 121.370668008975,
+    "coordinates": [
+      {
+        "componentId": "P00002746LZ-CW1",
+        "description": "Replacement of Bridge - Minugyan Br. (B04286LZ) along Jct Logac-Lasam-Gagabutan Rd",
+        "latitude": 17.8671018088191,
+        "longitude": 121.370668008975,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

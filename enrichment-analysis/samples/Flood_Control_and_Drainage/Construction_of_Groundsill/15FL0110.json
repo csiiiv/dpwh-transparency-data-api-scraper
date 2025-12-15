@@ -1,0 +1,205 @@
+{
+  "data": {
+    "contractId": "15FL0110",
+    "description": "CONSTRUCTION OF RIVER PROTECTION AND GROUNDSILL ALONG GULANG-GULANG RIVER (DOWNSTREAM) GULANG-GULANG, IROSIN, SORSOGON",
+    "category": "Flood Control and Drainage",
+    "status": "Completed",
+    "budget": 18619610.11,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region V",
+      "province": "Sorsogon 2nd DEO",
+      "infraType": "Flood Control and Drainage",
+      "coordinates": {
+        "latitude": 12.733689,
+        "longitude": 123.999617,
+        "verified": false
+      }
+    },
+    "infraType": "Flood Control and Drainage",
+    "contractor": "WEARR ENTERPRISES & DEVELOPMENT CORP. (14123)",
+    "startDate": "2016-02-11",
+    "completionDate": "2016-07-01",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-02-11",
+    "expiryDate": "2016-06-29",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-2",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00020728LZ-CW1",
+        "description": "Construction of Groundsill - Construction of River Protection and Groundsill along Gulang-gulang River (Downstream), Sorsogon 2nd LD",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Construction of Groundsill",
+        "region": "Region V",
+        "province": "SORSOGON",
+        "coordinates": {
+          "latitude": 12.733689,
+          "longitude": 123.999617,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "WEARR ENTERPRISES & DEVELOPMENT CORP.",
+    "bidders": [
+      {
+        "name": "WEARR ENTERPRISES & DEVELOPMENT CORP. (14123)",
+        "pcabId": "14123",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "A.C. RIVERO DEVELOPMENT CORPORATION (5122)",
+        "pcabId": "5122",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "CHIARA2300 INCORPORATED (8736)",
+        "pcabId": "8736",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "C.T. LEONCIO CONSTRUCTION & TRADING (17371)",
+        "pcabId": "17371",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "DSB CONSTRUCTION  & SUPPLY, INC. (FORMERLY: DSB CO (16126)",
+        "pcabId": "16126",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "E.A. SANCHO CONST. INC. (FORM. E.A. SANCHO CONST.) (5648)",
+        "pcabId": "5648",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "E. GARCIA CONSTRUCTION CORP.(FOR. E. GARCIA CONST (7243)",
+        "pcabId": "7243",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "HGG BUILDERS & SUPPLY (17824)",
+        "pcabId": "17824",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "HI-TONE CONSTRUCTION & DEVELOPMENT CORP. (FORMERLY (23385)",
+        "pcabId": "23385",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "HONEYVILLECONST AND DEVELOPMENT CORPORATION (32160)",
+        "pcabId": "32160",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "M.G. SALAZAR CONSTRUCTION CORP. (FOR. M.G. SALAZAR (4072)",
+        "pcabId": "4072",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "N.B. SALBO CONSTRUCTION (6091)",
+        "pcabId": "6091",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "NFH CONSTRUCTION & SUPPLY (16055)",
+        "pcabId": "16055",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "PRECIOUS CONSTRUCTION (32995)",
+        "pcabId": "32995",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "RAMARPLUS INCORPORATED (FORMERLY RAMAR ENTERPRISES (8092)",
+        "pcabId": "8092",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "R.A. PAHATI CONST. & SUPPLY, INC. (35843)",
+        "pcabId": "35843",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "ROLCO CONSTRUCTION & DEVELOPMENT CORPORATION ( FOR (29686)",
+        "pcabId": "29686",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "SPRING STAR CONSTRUCTION AND SUPPLY (20240)",
+        "pcabId": "20240",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "WCS CONSTRUCTION, INC. (6516)",
+        "pcabId": "6516",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION OF RIVER PROTECTION AND GROUNDSILL ALONG GULANG-GULANG RIVER (DOWNSTREAM) GULANG-GULANG, IROSIN, SORSOGON",
+      "abc": "19599958.22",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-12-08 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-12-28 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "18619610.1100000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/may/Contract - 15FL0110.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/noa_-_15fl0110.pdf",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/may/Contract - 15FL0110.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 12.733689,
+    "longitude": 123.999617,
+    "coordinates": [
+      {
+        "componentId": "P00020728LZ-CW1",
+        "description": "Construction of Groundsill - Construction of River Protection and Groundsill along Gulang-gulang River (Downstream), Sorsogon 2nd LD",
+        "latitude": 12.733689,
+        "longitude": 123.999617,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

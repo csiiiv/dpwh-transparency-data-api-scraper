@@ -1,0 +1,109 @@
+{
+  "data": {
+    "contractId": "19DC0024",
+    "description": "CONVERGENCE AND SPECIAL SUPPORT PROGRAM, CONSTRUCTION/IMPROVEMENT OF ACCESS ROADS LEADING TO DECLARE",
+    "category": "Bridges",
+    "status": "Completed",
+    "budget": 96498692.83,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region IV-A",
+      "province": "Batangas 3rd DEO",
+      "infraType": "Bridges",
+      "coordinates": {
+        "latitude": 13.9073031,
+        "longitude": 120.9826911,
+        "verified": false
+      }
+    },
+    "infraType": "Bridges",
+    "contractor": "N.D.M. SANCHEZ BUILDERS & DEVELOPMENT CORPORATION (35410) / V.R. PATRON BUILDERS & DEVELOPERS CORP. (PREVIOUSL (13487)",
+    "startDate": "2019-08-13",
+    "completionDate": "2020-12-16",
+    "infraYear": "2019",
+    "contractEffectivityDate": "2019-08-13",
+    "expiryDate": "2020-11-04",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2019 CSSP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00330276LZ-CW1",
+        "description": "Construction of Viaduct - Taal Lake Circumferential Road (Viaduct - Phase III), Santa Teresita, Batangas",
+        "infraType": "Bridges",
+        "typeOfWork": "Construction of Viaduct",
+        "region": "Region IV-A",
+        "province": "BATANGAS",
+        "coordinates": {
+          "latitude": 13.9073031,
+          "longitude": 120.9826911,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "N.D.M. SANCHEZ BUILDERS & DEVELOPMENT CORPORATION, V.R. PATRON BUILDERS & DEVELOPERS CORP. (PREVIOUSL",
+    "bidders": [
+      {
+        "name": "N.D.M. SANCHEZ BUILDERS & DEVELOPMENT CORPORATION (35410) / V.R. PATRON BUILDERS & DEVELOPERS CORP. (PREVIOUSL (13487) (JV ID: JV-18-733)",
+        "pcabId": "",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "SUPREME ABF CONST. & CONST. SUPPLY COMPANY INC. (25226)",
+        "pcabId": "25226",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "VICTORIA DEVELOPMENT AND VENTURES CORP. (FOR: VICTORIA DEV'T AND CONST. CORP.) (32638)",
+        "pcabId": "32638",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONVERGENCE AND SPECIAL SUPPORT PROGRAM, CONSTRUCTION/IMPROVEMENT OF ACCESS ROADS LEADING TO DECLARE",
+      "abc": "96500000.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2018-10-25 00:00:00.0000000",
+      "bidSubmissionDeadline": "2018-11-15 00:00:00.0000000",
+      "dateOfAward": "2019-07-26 00:00:00.0000000",
+      "awardAmount": "92640000"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/PLAN_19DC0024.rar",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/contract_19DC0024.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/award_19DC0024.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/contract_19DC0024.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 13.9073031,
+    "longitude": 120.9826911,
+    "coordinates": [
+      {
+        "componentId": "P00330276LZ-CW1",
+        "description": "Construction of Viaduct - Taal Lake Circumferential Road (Viaduct - Phase III), Santa Teresita, Batangas",
+        "latitude": 13.9073031,
+        "longitude": 120.9826911,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "data": {
+    "contractId": "15IB0305",
+    "description": "CONST./UPGRADING/REHABILITATION OF DRAINAGE ALONG NATIONAL ROAD JCT. TAFT-ORAS-SAN POLICARPO-ARTECHE ROAD (S00167SM) K0921+056, K0921+085, EASTERN SAMAR",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 9466560.39,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region VIII",
+      "province": "Eastern Samar DEO",
+      "infraType": "Roads",
+      "coordinates": null
+    },
+    "infraType": "Roads",
+    "contractor": "ED1SON DEVELOPMENT & CONSTRUCTION INC. (2400)",
+    "startDate": "2016-02-28",
+    "completionDate": "2016-05-23",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-02-28",
+    "expiryDate": "2016-05-23",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00011027VS-CW1",
+        "description": "Rehabilitation / Major Repair of Drainage Structure along Road - Jct Taft-Oras-Sn Policarpo-Arteche Rd - K0921+056, K0921+085",
+        "infraType": "Roads",
+        "typeOfWork": "Rehabilitation / Major Repair of Drainage Structure along Road",
+        "region": "Region VIII",
+        "province": "EASTERN SAMAR",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "ED1SON DEVELOPMENT & CONSTRUCTION INC.",
+    "bidders": [
+      {
+        "name": "ED1SON DEVELOPMENT & CONSTRUCTION INC. (2400)",
+        "pcabId": "2400",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "A.C. RIVERO DEVELOPMENT CORPORATION (5122)",
+        "pcabId": "5122",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONST./UPGRADING/REHABILITATION OF DRAINAGE ALONG NATIONAL ROAD JCT. TAFT-ORAS-SAN POLICARPO-ARTECHE ROAD (S00167SM) K0921+056, K0921+085, EASTERN SAMAR",
+      "abc": "9784905.66",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-12-02 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-12-22 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "9466560.3900000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "",
+      "noticeOfAward": "",
+      "noticeToProceed": "",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

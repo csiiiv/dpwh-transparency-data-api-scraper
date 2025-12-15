@@ -1,0 +1,79 @@
+{
+  "data": {
+    "contractId": "17PL0109",
+    "description": "PEDESTRIAN OVERPASS, KO499+090 - KO499+550, KALINGA-CAGAYAN (CALANAN-ENRILE ROAD SECTION), TABUK CITY, KALINGA",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 31639403.24,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Cordillera Administrative Region",
+      "province": "Lower Kalinga DEO",
+      "infraType": "Roads",
+      "coordinates": null
+    },
+    "infraType": "Roads",
+    "contractor": "UPLAND CONSTRUCTION AND ENGINEERING SERVICES (34866) / THREE W BUILDERS, INC. (10722)",
+    "startDate": "2018-01-16",
+    "completionDate": "2020-06-28",
+    "infraYear": "2017",
+    "contractEffectivityDate": "2018-01-16",
+    "expiryDate": "2018-07-09",
+    "nysReason": null,
+    "programName": "Outside Infra",
+    "sourceOfFunds": "Outside Infra - Special Road Support Fund 2017",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00190134LZ-CW1",
+        "description": "Road Safety: Pedestrian Overpass - Pedestrian Overpass along Kalinga-Cagayan Rd (Calanan-Enrile Section) S00566LZ, K0499+090 to K0499+550",
+        "infraType": "Roads",
+        "typeOfWork": "Road Safety: Pedestrian Overpass",
+        "region": "Cordillera Administrative Region",
+        "province": "KALINGA",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "THREE W BUILDERS, INC., UPLAND CONSTRUCTION AND ENGINEERING SERVICES",
+    "bidders": [
+      {
+        "name": "UPLAND CONSTRUCTION AND ENGINEERING SERVICES (34866) / THREE W BUILDERS, INC. (10722) (JV ID: JV-17-1671)",
+        "pcabId": "",
+        "participation": 100,
+        "isWinner": true
+      }
+    ],
+    "procurement": {
+      "contractName": "PEDESTRIAN OVERPASS, KO499+090 - KO499+550, KALINGA-CAGAYAN (CALANAN-ENRILE ROAD SECTION), TABUK CITY, KALINGA",
+      "abc": "32096199.83",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2017-12-05 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-12-27 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "31639403.24"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/17PL0109.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/17pl0109_contract_agreement-.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/17pl0109_notice_of_award-.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/17pl0109_notice_to_proceed-.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "data": {
+    "contractId": "15HI0114",
+    "description": "CONSTRUCTION OF FLOOD CONTROL & DRAINAGE FACILITY ALONG CEBU NORTH HAGNAYA WHARF ROAD, LILOAN, CEBU (K0017+830 - K0018+170). LILOAN, CEBU",
+    "category": "Flood Control and Drainage",
+    "status": "Completed",
+    "budget": 18185000,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region VII",
+      "province": "Cebu 5th DEO",
+      "infraType": "Flood Control and Drainage",
+      "coordinates": null
+    },
+    "infraType": "Flood Control and Drainage",
+    "contractor": "PLD CONSTRUCTION AND DEVELOPMENT INC. (FORMERLY: PLD CONSTRUCTION) (01859)",
+    "startDate": "2016-03-14",
+    "completionDate": "2017-01-07",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-03-14",
+    "expiryDate": "2016-11-08",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-2",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00020854VS-CW1",
+        "description": "Construction of Drainage Structure - Construction of Flood Control And Drainage Facility along Cebu North-Hagnaya Wharf Road, Compostela (K0017+830-K0018+170)",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Construction of Drainage Structure",
+        "region": "Region VII",
+        "province": "CEBU",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "PLD CONSTRUCTION AND DEVELOPMENT INC. (FORMERLY: PLD CONSTRUCTION)",
+    "bidders": [
+      {
+        "name": "PLD CONSTRUCTION AND DEVELOPMENT INC. (FORMERLY: PLD CONSTRUCTION) (01859)",
+        "pcabId": "01859",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "VEN RAY CONSTRUCTION CORPORATION (18310)",
+        "pcabId": "18310",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION OF FLOOD CONTROL & DRAINAGE FACILITY ALONG CEBU NORTH HAGNAYA WHARF ROAD, LILOAN, CEBU (K0017+830 - K0018+170). LILOAN, CEBU",
+      "abc": "19600000.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-11-04 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-11-23 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "18185000.0000000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/september/CONTRACT 15HI0114.zip",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/september/NOA 15HI0114.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/15hi0114_contract_agreement.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

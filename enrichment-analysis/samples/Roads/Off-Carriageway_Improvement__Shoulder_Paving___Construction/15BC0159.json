@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "15BC0159",
+    "description": "OFF-CARRIAGEWAY IMPROVEMENT INCLUDING DRAINAGE CALOG-PUDTOL ROAD",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 7602010.52,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region II",
+      "province": "Cagayan 2nd DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 18.3475334693375,
+        "longitude": 121.402627417404,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "DANDEX CONSTRUCTION (36946)",
+    "startDate": "2016-02-01",
+    "completionDate": "2016-07-11",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-02-01",
+    "expiryDate": "2016-07-15",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - Flood Control/Hydraulics/Drainage, Roads: Construction - PCCP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00003255LZ-CW1",
+        "description": "Off-Carriageway Improvement: Shoulder Paving / Construction - Calog-Pudtol Rd - K0666+713 -  K0667+387",
+        "infraType": "Roads",
+        "typeOfWork": "Off-Carriageway Improvement: Shoulder Paving / Construction",
+        "region": "Region II",
+        "province": "CAGAYAN",
+        "coordinates": {
+          "latitude": 18.3475334693375,
+          "longitude": 121.402627417404,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "DANDEX CONSTRUCTION",
+    "bidders": [
+      {
+        "name": "DANDEX CONSTRUCTION (36946)",
+        "pcabId": "36946",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "OCP CONSTRUCTION (38490)",
+        "pcabId": "38490",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "OFF-CARRIAGEWAY IMPROVEMENT INCLUDING DRAINAGE CALOG-PUDTOL ROAD",
+      "abc": "7807660.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-11-12 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-12-08 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "7602010.5200000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/february/15BC0159-CONTRACT AGREEMENT.jpg",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/15bc0159-noa.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/15bc0159-ntp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 18.3475334693375,
+    "longitude": 121.402627417404,
+    "coordinates": [
+      {
+        "componentId": "P00003255LZ-CW1",
+        "description": "Off-Carriageway Improvement: Shoulder Paving / Construction - Calog-Pudtol Rd - K0666+713 -  K0667+387",
+        "latitude": 18.3475334693375,
+        "longitude": 121.402627417404,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "16GK0054",
+    "description": "NATIONAL ROAD LIGHTING PROGRAM AT BACOLOD - SILAY AIRPORT ACCESS ROAD (BSAAR) COMPLETION (SILAY - LANTAWAN ROAD) SILAY CITY SECTION, K0018+402 - K0019+000, SILAY CITY, NEGROS OCCIDENTAL",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 7723721.72,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Negros Island Region",
+      "province": "Negros Occidental 1st DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 10.776972,
+        "longitude": 123.011081,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "TRAFFIC SUPPLIES & CONSTRUCTION CORP. (19584)",
+    "startDate": "2016-03-29",
+    "completionDate": "2016-07-27",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-03-29",
+    "expiryDate": "2016-07-27",
+    "nysReason": null,
+    "programName": "Outside Infra",
+    "sourceOfFunds": "Outside Infra - Special Road Support Fund 2016",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00090011VS-CW1",
+        "description": "Road Safety: Street Lighting - National Road Lighting Program (Civil Works) package 10 along Bacolod Silay Airport Access Road (BSAAR) Completion, Silay - Lantawan Road. K0018+402 to K0019+000",
+        "infraType": "Roads",
+        "typeOfWork": "Road Safety: Street Lighting",
+        "region": "Negros Island Region",
+        "province": "NEGROS OCCIDENTAL",
+        "coordinates": {
+          "latitude": 10.776972,
+          "longitude": 123.011081,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "TRAFFIC SUPPLIES & CONSTRUCTION CORP.",
+    "bidders": [
+      {
+        "name": "TRAFFIC SUPPLIES & CONSTRUCTION CORP. (19584)",
+        "pcabId": "19584",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "AFG ZILLION CONSTRUCTION CORPORATION (FORMERLY: A.F.G. CONSTRUCTION & CONSTRUCTION SUPPLY) (17161)",
+        "pcabId": "17161",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "NATIONAL ROAD LIGHTING PROGRAM AT BACOLOD - SILAY AIRPORT ACCESS ROAD (BSAAR) COMPLETION (SILAY - LANTAWAN ROAD) SILAY CITY SECTION, K0018+402 - K0019+000, SILAY CITY, NEGROS OCCIDENTAL",
+      "abc": "8133864.11",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-02-29 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-03-21 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "7,723,721.72"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/16gk0054_contract.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/16gk0054_award.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/16gk0054_ntp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 10.776972,
+    "longitude": 123.011081,
+    "coordinates": [
+      {
+        "componentId": "P00090011VS-CW1",
+        "description": "Road Safety: Street Lighting - National Road Lighting Program (Civil Works) package 10 along Bacolod Silay Airport Access Road (BSAAR) Completion, Silay - Lantawan Road. K0018+402 to K0019+000",
+        "latitude": 10.776972,
+        "longitude": 123.011081,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "data": {
+    "contractId": "22MB0010",
+    "description": "OFF - CARRIAGEWAY IMPROVEMENT - SECONDARY ROAD - ALBERT MORROW BLVD - K1649 + 438 - K1651 + 841",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 29397744.06,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region XII",
+      "province": "South Cotabato 1st DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 6.1655447,
+        "longitude": 125.1521198,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "MONFORT PJ BUILDERS AND SUPPLY CORPORATION (48620)",
+    "startDate": "2022-02-24",
+    "completionDate": "2023-04-25",
+    "infraYear": "2022",
+    "contractEffectivityDate": "2022-02-24",
+    "expiryDate": "2023-01-05",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2022 OO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00602467MN-CW1",
+        "description": "Off-Carriageway Improvement: Construction of Traffic Island - Albert Morrow Blvd - K1649 + 438 - K1651 + 841",
+        "infraType": "Roads",
+        "typeOfWork": "Off-Carriageway Improvement: Construction of Traffic Island",
+        "region": "Region XII",
+        "province": "SOUTH COTABATO",
+        "coordinates": {
+          "latitude": 6.1655447,
+          "longitude": 125.1521198,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "MONFORT PJ BUILDERS AND SUPPLY CORPORATION",
+    "bidders": [
+      {
+        "name": "MONFORT PJ BUILDERS AND SUPPLY CORPORATION (48620)",
+        "pcabId": "48620",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "FREDEN CONSTRUCTION (22665)",
+        "pcabId": "22665",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "J.G. ORANZA CONSTRUCTION (33370)",
+        "pcabId": "33370",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "LHE CONSTRUCTION & INDUSTRIAL SERVICES, INC. (FORMERLY: LHE CONSTRUCTION & ENG'G. SERVICES) (34789)",
+        "pcabId": "34789",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "MJ TIONGSON CONSTRUCTION (FORMERLY: MJT BUILDERS) (24202)",
+        "pcabId": "24202",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "PASE CONSTRUCTION (15849)",
+        "pcabId": "15849",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "RL ANTONNE BUILDERS (49370)",
+        "pcabId": "49370",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "ROCKSTONE CONSTRUCTION SERVICES & SUPPLY (22702)",
+        "pcabId": "22702",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "VERTICAL BUILDERS (14029)",
+        "pcabId": "14029",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "OFF - CARRIAGEWAY IMPROVEMENT - SECONDARY ROAD - ALBERT MORROW BLVD - K1649 + 438 - K1651 + 841",
+      "abc": "29400000.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2021-10-29 00:00:00.0000000",
+      "bidSubmissionDeadline": "2021-11-17 00:00:00.0000000",
+      "dateOfAward": "2022-01-26 00:00:00.0000000",
+      "awardAmount": "27909344.98"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/22MB0010-Bid Docs,BOQ & Plans.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/22mb0010_contract_agreement.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/22mb0010_notice_of_award.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/22mb0010_notice_to_proceed.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 6.1655447,
+    "longitude": 125.1521198,
+    "coordinates": [
+      {
+        "componentId": "P00602467MN-CW1",
+        "description": "Off-Carriageway Improvement: Construction of Traffic Island - Albert Morrow Blvd - K1649 + 438 - K1651 + 841",
+        "latitude": 6.1655447,
+        "longitude": 125.1521198,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 14,
+      "latestImageDate": "2023-04-27 11:42:31.730000",
+      "hasImages": true
+    }
+  }
+}

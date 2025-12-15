@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "15AD0192",
+    "description": "REPAIR/RESTORATION OF SANTA SEAWALL ALONG MNR.K0385+600,SANTA,ILOCOS SUR",
+    "category": "Flood Control and Drainage",
+    "status": "Completed",
+    "budget": 7718930.78,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region I",
+      "province": "Ilocos Sur 2nd DEO",
+      "infraType": "Flood Control and Drainage",
+      "coordinates": {
+        "latitude": 17.479598,
+        "longitude": 120.435621,
+        "verified": false
+      }
+    },
+    "infraType": "Flood Control and Drainage",
+    "contractor": "M.V. SABALBURO CONSTRUCTION AND SUPPLY (32561)",
+    "startDate": "2016-02-01",
+    "completionDate": "2016-05-27",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-02-01",
+    "expiryDate": "2016-05-30",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-2",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00020279LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Flood Control Structure - Repair/Restoration of Santa Seawall along Manila North Road, Km. 385+600, Santa, Ilocos Sur 2nd LD",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Rehabilitation / Major Repair of Flood Control Structure",
+        "region": "Region I",
+        "province": "ILOCOS SUR",
+        "coordinates": {
+          "latitude": 17.479598,
+          "longitude": 120.435621,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "M.V. SABALBURO CONSTRUCTION AND SUPPLY",
+    "bidders": [
+      {
+        "name": "M.V. SABALBURO CONSTRUCTION AND SUPPLY (32561)",
+        "pcabId": "32561",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "MBB CONSTRUCTION AND SUPPLY (FORMERLY: MBB CONSTRUCTION) (11363)",
+        "pcabId": "11363",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "REPAIR/RESTORATION OF SANTA SEAWALL ALONG MNR.K0385+600,SANTA,ILOCOS SUR",
+      "abc": "7964153.41",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-12-08 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-12-28 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "7727943.6000000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/june/15AD0192 CA097.pdf",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/june/15AD0192 NOA095.pdf",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/june/15AD0192 CA097.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 17.479598,
+    "longitude": 120.435621,
+    "coordinates": [
+      {
+        "componentId": "P00020279LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Flood Control Structure - Repair/Restoration of Santa Seawall along Manila North Road, Km. 385+600, Santa, Ilocos Sur 2nd LD",
+        "latitude": 17.479598,
+        "longitude": 120.435621,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

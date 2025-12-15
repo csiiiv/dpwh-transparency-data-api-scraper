@@ -1,0 +1,79 @@
+{
+  "data": {
+    "contractId": "17EI0029",
+    "description": "CONSTRUCTION OF TAWAS BAILEY BRIDGE, APPROACHES A AND B, BONGABONG, ORIENTAL MINDORO",
+    "category": "Bridges",
+    "status": "Completed",
+    "budget": 2449381.82,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region IV-B",
+      "province": "Southern Mindoro DEO",
+      "infraType": "Bridges",
+      "coordinates": null
+    },
+    "infraType": "Bridges",
+    "contractor": "GREEN ISLAND ENTERPRISES (36835)",
+    "startDate": "2017-08-17",
+    "completionDate": "2017-11-14",
+    "infraYear": "2017",
+    "contractEffectivityDate": "2017-08-17",
+    "expiryDate": "2017-11-14",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2017 LFP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00144106LZ-CW1",
+        "description": "Construction of Bailey Bridge - Construction of Tawas Bailey Bridge Approaches A & B, Bongabong, Oriental Mindoro",
+        "infraType": "Bridges",
+        "typeOfWork": "Construction of Bailey Bridge",
+        "region": "Region IV-B",
+        "province": "ORIENTAL MINDORO",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "GREEN ISLAND ENTERPRISES",
+    "bidders": [
+      {
+        "name": "GREEN ISLAND ENTERPRISES (36835)",
+        "pcabId": "36835",
+        "participation": 100,
+        "isWinner": true
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION OF TAWAS BAILEY BRIDGE, APPROACHES \"A\" AND \"B\", BONGABONG, ORIENTAL MINDORO",
+      "abc": "2475000.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-12-19 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-01-12 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "2,449,381.82"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/17ei0029_ca.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/17ei0029_noa.pdf",
+      "noticeToProceed": "",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

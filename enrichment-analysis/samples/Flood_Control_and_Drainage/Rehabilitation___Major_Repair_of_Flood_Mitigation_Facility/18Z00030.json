@@ -1,0 +1,115 @@
+{
+  "data": {
+    "contractId": "18Z00030",
+    "description": "METRO MANILA FLOOD MANAGEMENT PROJECT, PHASE I, REHABILITATION WORKS FOR BALUT PUMPING STATION",
+    "category": "Flood Control and Drainage",
+    "status": "Completed",
+    "budget": 390874497.37,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Central Office",
+      "province": "Flood Control Management Cluster",
+      "infraType": "Flood Control and Drainage",
+      "coordinates": {
+        "latitude": 14.62967928,
+        "longitude": 120.968637656712,
+        "verified": false
+      }
+    },
+    "infraType": "Flood Control and Drainage",
+    "contractor": "TOKWING CONSTRUCTION, CORP.(FOR;  TOKWING CONSTRUC (9650) / FERDSTAR BUILDERS INC. (4965)",
+    "startDate": "2019-01-17",
+    "completionDate": "2021-01-15",
+    "infraYear": "2018",
+    "contractEffectivityDate": "2019-01-17",
+    "expiryDate": "2021-01-15",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2018 Foreign Assisted Projects",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00264504LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Flood Mitigation Facility - Metro Manila Flood Management Project, Phase I (MMFMP1), Balut, City of Manila",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Rehabilitation / Major Repair of Flood Mitigation Facility",
+        "region": "National Capital Region",
+        "province": "METROPOLITAN MANILA",
+        "coordinates": {
+          "latitude": 14.62967928,
+          "longitude": 120.968637656712,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "FERDSTAR BUILDERS INC., TOKWING CONSTRUCTION, CORP.(FOR;  TOKWING CONSTRUC",
+    "bidders": [
+      {
+        "name": "TOKWING CONSTRUCTION, CORP.(FOR;  TOKWING CONSTRUC (9650) / FERDSTAR BUILDERS INC. (4965) (JV ID: JV-18-307)",
+        "pcabId": "",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "MARKBILT CONSTRUCTION TRADING & DEVELOPMENT CORP. (FORMERLY:MARKBILT CONSTRUCTION) (12522) / MRRM TRADING & CONSTRUCTION (19657) / G.G. UY CONSTRUCTION (32319) (JV ID: JV-18-303)",
+        "pcabId": "",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "J.D. LEGASPI CONSTRUCTION (9608) / S.A. PLEYTO CONSTRUCTION CORPORATION (33269) (JV ID: JV-18-0293)",
+        "pcabId": "",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "AKN CONSTRUCTION CORPORATION (11845)",
+        "pcabId": "11845",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "METRO MANILA FLOOD MANAGEMENT PROJECT, PHASE I, REHABILITATION WORKS FOR BALUT PUMPING STATION",
+      "abc": "342517420.26",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2018-08-10 00:00:00.0000000",
+      "bidSubmissionDeadline": "2018-09-11 00:00:00.0000000",
+      "dateOfAward": "2018-10-24 00:00:00.0000000",
+      "awardAmount": "332895797.5"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/Technical Specification (Balut Pumping Station).zip",
+      "contractAgreement": "",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/18Z00030 NOA.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/18z00030_ntp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 14.62967928,
+    "longitude": 120.968637656712,
+    "coordinates": [
+      {
+        "componentId": "P00264504LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Flood Mitigation Facility - Metro Manila Flood Management Project, Phase I (MMFMP1), Balut, City of Manila",
+        "latitude": 14.62967928,
+        "longitude": 120.968637656712,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

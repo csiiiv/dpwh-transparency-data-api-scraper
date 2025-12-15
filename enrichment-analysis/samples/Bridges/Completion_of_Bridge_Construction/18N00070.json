@@ -1,0 +1,211 @@
+{
+  "data": {
+    "contractId": "18N00070",
+    "description": "CONSTRUCTION OF BYPASS/DIVERSION ROADS, SURIGAO-AGUSAN WEST COASTAL ROAD, PACKAGE A, INCL. ROW BRIDGES AND SLOPE PROTECTION, SURIGAO DEL NORTE",
+    "category": "Bridges",
+    "status": "Completed",
+    "budget": 231891170,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region XIII",
+      "province": "Region XIII",
+      "infraType": "Bridges",
+      "coordinates": {
+        "latitude": 9.6597782,
+        "longitude": 125.3951985,
+        "verified": false
+      }
+    },
+    "infraType": "Bridges",
+    "contractor": "EQUI-PARCO CONSTRUCTION COMPANY (14332) / TRIPARCO DEVELOPMENT CORPORATION (23327)",
+    "startDate": "2018-07-31",
+    "completionDate": "2020-09-10",
+    "infraYear": "2018",
+    "contractEffectivityDate": "2018-07-31",
+    "expiryDate": "2020-09-10",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2018 OO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00200463MN-CW1",
+        "description": "Completion of Bridge Construction - Surigao-Agusan West Coastal Road, Surigao, Package A, incl. ROW, Bridges and Slope Protection, Surigao del Norte",
+        "infraType": "Bridges",
+        "typeOfWork": "Completion of Bridge Construction",
+        "region": "Region XIII",
+        "province": "SURIGAO DEL NORTE",
+        "coordinates": {
+          "latitude": 9.6597782,
+          "longitude": 125.3951985,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00200463MN-CW2",
+        "description": "Construction of Concrete Bridge - Surigao-Agusan West Coastal Road, Surigao, Package A, incl. ROW, Bridges and Slope Protection, Surigao del Norte",
+        "infraType": "Bridges",
+        "typeOfWork": "Construction of Concrete Bridge",
+        "region": "Region XIII",
+        "province": "SURIGAO DEL NORTE",
+        "coordinates": {
+          "latitude": 9.5867028,
+          "longitude": 125.4126281,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00200463MN-CW3",
+        "description": "Construction of Concrete Bridge - Surigao-Agusan West Coastal Road, Surigao, Package A, incl. ROW, Bridges and Slope Protection, Surigao del Norte",
+        "infraType": "Bridges",
+        "typeOfWork": "Construction of Concrete Bridge",
+        "region": "Region XIII",
+        "province": "SURIGAO DEL NORTE",
+        "coordinates": {
+          "latitude": 9.5412099,
+          "longitude": 125.4292947,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00200463MN-CW4",
+        "description": "Construction of Concrete Bridge - Surigao-Agusan West Coastal Road, Surigao, Package A, incl. ROW, Bridges and Slope Protection, Surigao del Norte",
+        "infraType": "Bridges",
+        "typeOfWork": "Construction of Concrete Bridge",
+        "region": "Region XIII",
+        "province": "SURIGAO DEL NORTE",
+        "coordinates": {
+          "latitude": 9.5299839,
+          "longitude": 125.4300753,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "EQUI-PARCO CONSTRUCTION COMPANY, TRIPARCO DEVELOPMENT CORPORATION",
+    "bidders": [
+      {
+        "name": "EQUI-PARCO CONSTRUCTION COMPANY (14332) / TRIPARCO DEVELOPMENT CORPORATION (23327) (JV ID: JV-17-1382)",
+        "pcabId": "",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "ADFIL CORPORATION (14437)",
+        "pcabId": "14437",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "B. VICENCIO BUILDERS (BVB), INC. (FORMERLY:B. VICENCIO CONSTRUCTION) (9687)",
+        "pcabId": "9687",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "GRACE CONSTRUCTION CORPORATION (3771)",
+        "pcabId": "3771",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "MAC BUILDERS CORP. (FORMERLY: MAC BUILDERS DEVELOPMENT CORPORATION) (7249)",
+        "pcabId": "7249",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "M. MONTESCLAROS ENTERPRISES, INC. (6506)",
+        "pcabId": "6506",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "MONOLITHIC CONSTRUCTION & CONCRETE PRODUCTS, INC. (5733)",
+        "pcabId": "5733",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "PREMIUM MEGASTRUCTURES INC. (36079)",
+        "pcabId": "36079",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "UKC BUILDERS, INC. (10759)",
+        "pcabId": "10759",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION OF BYPASS/DIVERSION ROADS, SURIGAO-AGUSAN WEST COASTAL ROAD, PACKAGE A, INCL. ROW BRIDGES AND SLOPE PROTECTION, SURIGAO DEL NORTE",
+      "abc": "231891170.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2017-11-28 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-12-27 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "220292718"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/18N00070 BID DOCS.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/CONTRACT 18N00070.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/noa_18n00070.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/ntp_18n00070.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 9.6597782,
+    "longitude": 125.3951985,
+    "coordinates": [
+      {
+        "componentId": "P00200463MN-CW1",
+        "description": "Completion of Bridge Construction - Surigao-Agusan West Coastal Road, Surigao, Package A, incl. ROW, Bridges and Slope Protection, Surigao del Norte",
+        "latitude": 9.6597782,
+        "longitude": 125.3951985,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00200463MN-CW2",
+        "description": "Construction of Concrete Bridge - Surigao-Agusan West Coastal Road, Surigao, Package A, incl. ROW, Bridges and Slope Protection, Surigao del Norte",
+        "latitude": 9.5867028,
+        "longitude": 125.4126281,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00200463MN-CW3",
+        "description": "Construction of Concrete Bridge - Surigao-Agusan West Coastal Road, Surigao, Package A, incl. ROW, Bridges and Slope Protection, Surigao del Norte",
+        "latitude": 9.5412099,
+        "longitude": 125.4292947,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00200463MN-CW4",
+        "description": "Construction of Concrete Bridge - Surigao-Agusan West Coastal Road, Surigao, Package A, incl. ROW, Bridges and Slope Protection, Surigao del Norte",
+        "latitude": 9.5299839,
+        "longitude": 125.4300753,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

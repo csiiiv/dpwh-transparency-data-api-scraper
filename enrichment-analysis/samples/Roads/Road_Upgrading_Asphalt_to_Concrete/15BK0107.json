@@ -1,0 +1,109 @@
+{
+  "data": {
+    "contractId": "15BK0107",
+    "description": "REHAB./RECON./UPGRADING OF DAMAGED PAVED NATIONAL ROADS INCLUDING DRAINAGE BASED ON PAVEMENT MANAGEMENT SYSTEM/HIGHWAY DEVELOPMENT AND MANAGEMENT-4 (HDM-4) ALONG CORDON-AURORA BDRY RD ( JCT. DUMABATO-AURORA BDRY) K0372+000-K0372+100, K0372+360-K0373+366.5",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 25093880,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region II",
+      "province": "Quirino DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 16.3260313304397,
+        "longitude": 121.65925794399,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "A.P.D. CONSTRUCTION, INC. (FORMERLY: APD CONSTRUCTION) (17467)",
+    "startDate": "2016-03-21",
+    "completionDate": "2016-06-30",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-03-21",
+    "expiryDate": "2016-08-08",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00000864LZ-CW1",
+        "description": "Road Upgrading Asphalt to Concrete - Cordon-Aurora Bdry Rd (Jct Dumabato-Aurora Bdry.) - K0372+000 - K0372+100, K0372+360 - K0373+366.50",
+        "infraType": "Roads",
+        "typeOfWork": "Road Upgrading Asphalt to Concrete",
+        "region": "Region II",
+        "province": "QUIRINO",
+        "coordinates": {
+          "latitude": 16.3260313304397,
+          "longitude": 121.65925794399,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "A.P.D. CONSTRUCTION, INC. (FORMERLY: APD CONSTRUCTION)",
+    "bidders": [
+      {
+        "name": "A.P.D. CONSTRUCTION, INC. (FORMERLY: APD CONSTRUCTION) (17467)",
+        "pcabId": "17467",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "MAR-DEB CONSTRUCTION & DEVELOPMENT CORP. (FORMERLY: MAR-DEB CONSTRUCTION & DEVELOPMENT) (6715)",
+        "pcabId": "6715",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "TRIBU DESIGN & CONSTRUCTION (12756)",
+        "pcabId": "12756",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "REHAB./RECON./UPGRADING OF DAMAGED PAVED NATIONAL ROADS INCLUDING DRAINAGE BASED ON PAVEMENT MANAGEMENT SYSTEM/HIGHWAY DEVELOPMENT AND MANAGEMENT-4 (HDM-4) ALONG CORDON-AURORA BDRY RD ( JCT. DUMABATO-AURORA BDRY) K0372+000-K0372+100, K0372+360-K0373+366.5",
+      "abc": "25093880.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-12-10 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-02-18 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "24534274.6400000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/march/15BK0107 CA.pdf",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/march/15BK0107 NOA.pdf",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/march/15BK0107 CA.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 16.3260313304397,
+    "longitude": 121.65925794399,
+    "coordinates": [
+      {
+        "componentId": "P00000864LZ-CW1",
+        "description": "Road Upgrading Asphalt to Concrete - Cordon-Aurora Bdry Rd (Jct Dumabato-Aurora Bdry.) - K0372+000 - K0372+100, K0372+360 - K0373+366.50",
+        "latitude": 16.3260313304397,
+        "longitude": 121.65925794399,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

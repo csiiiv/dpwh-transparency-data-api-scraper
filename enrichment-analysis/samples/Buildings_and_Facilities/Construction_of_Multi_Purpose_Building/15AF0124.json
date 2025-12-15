@@ -1,0 +1,85 @@
+{
+  "data": {
+    "contractId": "15AF0124",
+    "description": "CONSTRUCTION OF MULTI-PURPOSE BLDG., BRGY. BACCUIT, BAUANG, LA UNION",
+    "category": "Buildings and Facilities",
+    "status": "Completed",
+    "budget": 1919356.67,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region I",
+      "province": "La Union 2nd DEO",
+      "infraType": "Buildings and Facilities",
+      "coordinates": null
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "J.A. OLIVAR ENGINEERING DESIGN, CONSTRUCTION AND S (35602)",
+    "startDate": "2016-01-25",
+    "completionDate": "2016-03-14",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-01-25",
+    "expiryDate": "2016-03-24",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 Locally Funded Projects",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00040914LZ-CW1",
+        "description": "Construction of Multi Purpose Building - Construction of Multi-Purpose Building,Brgy. Bacuit Sur,Bauang,La Union",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of Multi Purpose Building",
+        "region": "Region I",
+        "province": "LA UNION",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "J.A. OLIVAR ENGINEERING DESIGN, CONSTRUCTION AND S",
+    "bidders": [
+      {
+        "name": "J.A. OLIVAR ENGINEERING DESIGN, CONSTRUCTION AND S (35602)",
+        "pcabId": "35602",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "E.E. MADAYAG CONSTRUCTION (25029)",
+        "pcabId": "25029",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION OF MULTI-PURPOSE BLDG., BRGY. BACCUIT, BAUANG, LA UNION",
+      "abc": "2000000.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-11-06 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-11-25 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "1919356.6700000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/march/15AF124 CONT.pdf",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/march/15AF124 NOA.pdf",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/march/15AF124 CONT.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

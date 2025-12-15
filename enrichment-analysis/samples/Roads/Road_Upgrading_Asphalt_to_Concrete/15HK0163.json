@@ -1,0 +1,125 @@
+{
+  "data": {
+    "contractId": "15HK0163",
+    "description": "REHAB./RECONST./UPGRADING OF DAMAGED PAVED NATIONAL ROADS INCLUDING DRAINAGE BASED ON PAVEMENT MANAG",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 43190759.62,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Negros Island Region",
+      "province": "Negros Oriental 2nd DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 9.50269713622522,
+        "longitude": 123.143905670757,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "UY CONDEV CORPORATION (FORMERLY:UY CONSTRUCTION & (12336)",
+    "startDate": "2016-03-23",
+    "completionDate": "2017-02-15",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-03-23",
+    "expiryDate": "2016-10-09",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00001510VS-CW1",
+        "description": "Rehabilitation of Concrete Road - Sta Catalina-Pamplona-Tanjay City - K0032+887 - K0034+000, K0037+836 - K0038+172, K0051+898 - K0052+000",
+        "infraType": "Roads",
+        "typeOfWork": "Rehabilitation of Concrete Road",
+        "region": "Negros Island Region",
+        "province": "NEGROS ORIENTAL",
+        "coordinates": {
+          "latitude": 9.50269713622522,
+          "longitude": 123.143905670757,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00001510VS-CW2",
+        "description": "Road Upgrading Asphalt to Concrete - Sta Catalina-Pamplona-Tanjay City - K0032+887 - K0034+000, K0037+836 - K0038+172, K0051+898 - K0052+000",
+        "infraType": "Roads",
+        "typeOfWork": "Road Upgrading Asphalt to Concrete",
+        "region": "Negros Island Region",
+        "province": "NEGROS ORIENTAL",
+        "coordinates": {
+          "latitude": 9.47207704755287,
+          "longitude": 123.118896959858,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "UY CONDEV CORPORATION (FORMERLY:UY CONSTRUCTION &",
+    "bidders": [
+      {
+        "name": "UY CONDEV CORPORATION (FORMERLY:UY CONSTRUCTION & (12336)",
+        "pcabId": "12336",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "VESA ENGINEERING AND CONSTRUCTION (32334)",
+        "pcabId": "32334",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "REHAB./RECONST./UPGRADING OF DAMAGED PAVED NATIONAL ROADS INCLUDING DRAINAGE BASED ON PAVEMENT MANAG",
+      "abc": "46463760.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-11-27 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-02-10 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "43190759.6200000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/may/15HK0163-CA(1).zip",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/15hk0163_noa.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/15hk0163_ntp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 9.50269713622522,
+    "longitude": 123.143905670757,
+    "coordinates": [
+      {
+        "componentId": "P00001510VS-CW1",
+        "description": "Rehabilitation of Concrete Road - Sta Catalina-Pamplona-Tanjay City - K0032+887 - K0034+000, K0037+836 - K0038+172, K0051+898 - K0052+000",
+        "latitude": 9.50269713622522,
+        "longitude": 123.143905670757,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00001510VS-CW2",
+        "description": "Road Upgrading Asphalt to Concrete - Sta Catalina-Pamplona-Tanjay City - K0032+887 - K0034+000, K0037+836 - K0038+172, K0051+898 - K0052+000",
+        "latitude": 9.47207704755287,
+        "longitude": 123.118896959858,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "15B00071",
+    "description": "ASSET PRESERVATION OF NAT'L RD.:PREVENTIVE MAINTENANCE BASED ON PVM'T MNG'T SYSTEM(HDM-4) INTERMITEN",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 11173446.23,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region II",
+      "province": "Region II",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 16.6538201501283,
+        "longitude": 121.412978966447,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "V.B. MANUBAY CONSTRUCTION (32705)",
+    "startDate": "2016-02-21",
+    "completionDate": "2017-01-08",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-02-21",
+    "expiryDate": "2016-07-25",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00000007LZ-CW1",
+        "description": "Preventive Maintenance of Road: Concrete Reblocking - Santiago-Tuguegarao Rd - K0329+122 - K0330+195.50, K0330+220 - K0330+486.10",
+        "infraType": "Roads",
+        "typeOfWork": "Preventive Maintenance of Road: Concrete Reblocking",
+        "region": "Region II",
+        "province": "ISABELA",
+        "coordinates": {
+          "latitude": 16.6538201501283,
+          "longitude": 121.412978966447,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "V.B. MANUBAY CONSTRUCTION",
+    "bidders": [
+      {
+        "name": "V.B. MANUBAY CONSTRUCTION (32705)",
+        "pcabId": "32705",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "N.B. AVILA CONSTRUCTION (13751)",
+        "pcabId": "13751",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "ASSET PRESERVATION OF NAT'L RD.:PREVENTIVE MAINTENANCE BASED ON PVM'T MNG'T SYSTEM(HDM-4) INTERMITEN",
+      "abc": "11762400.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-11-10 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-12-01 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "11173446.2300000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/may/15b00074-Cont.agreemnt.pdf",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/may/15b00071-Noa.pdf",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/may/15b00074-Cont.agreemnt.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 16.6538201501283,
+    "longitude": 121.412978966447,
+    "coordinates": [
+      {
+        "componentId": "P00000007LZ-CW1",
+        "description": "Preventive Maintenance of Road: Concrete Reblocking - Santiago-Tuguegarao Rd - K0329+122 - K0330+195.50, K0330+220 - K0330+486.10",
+        "latitude": 16.6538201501283,
+        "longitude": 121.412978966447,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

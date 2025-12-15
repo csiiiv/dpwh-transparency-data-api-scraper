@@ -1,0 +1,112 @@
+{
+  "data": {
+    "contractId": "16CB0119",
+    "description": "CONSTRUCTION OF TWO(2) UNIT THREE(3) STOREY NINE(9) CLASSROOM AT LAMAO NATIONAL HIGH SCHOOL, LIMAY, BATAAN",
+    "category": "Buildings and Facilities",
+    "status": "Completed",
+    "budget": 36497514.08,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region III",
+      "province": "Bataan 2nd DEO",
+      "infraType": "Buildings and Facilities",
+      "coordinates": null
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "VF CONSTRUCTION (10048)",
+    "startDate": "2017-07-31",
+    "completionDate": "2018-10-26",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2017-07-31",
+    "expiryDate": "2018-10-28",
+    "nysReason": null,
+    "programName": "Outside Infra",
+    "sourceOfFunds": "Outside Infra - GAA 2016 DepED BEFF",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00070944LZ-CW1",
+        "description": "Construction of Classrooms - Construction of 2 3STY9CL School Buildings, Lamao NHS, Limay, Bataan 2nd LD",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of Classrooms",
+        "region": "Region III",
+        "province": "BATAAN",
+        "coordinates": null
+      },
+      {
+        "componentId": "P00076150LZ-CW1",
+        "description": "Completion of Classrooms - Construction (Completion) of 2 units 3STY9CL School Building, Lamao NHS, Limay, Bataan",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Completion of Classrooms",
+        "region": "Region III",
+        "province": "BATAAN",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "VF CONSTRUCTION",
+    "bidders": [
+      {
+        "name": "VF CONSTRUCTION (10048)",
+        "pcabId": "10048",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "ED1SON DEVELOPMENT & CONSTRUCTION INC. (2400)",
+        "pcabId": "2400",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "E.R. VENZON CONSTRUCTION (19013)",
+        "pcabId": "19013",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "FAME BUILDER PHILIPPINES (8936)",
+        "pcabId": "8936",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "STO. CRISTO CONSTRUCTION & TRADING INC. (FOR: STO. CRISTO CONSTRUCTION & TRADING) (26096)",
+        "pcabId": "26096",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION OF TWO(2) UNIT THREE(3) STOREY NINE(9) CLASSROOM AT LAMAO NATIONAL HIGH SCHOOL, LIMAY, BATAAN",
+      "abc": "37276499.08",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2017-03-02 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-04-06 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "36497513.06"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/16CB0119.rar",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/16cb0119_contract.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/16cb0119_noa.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/16cb0119_ntp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

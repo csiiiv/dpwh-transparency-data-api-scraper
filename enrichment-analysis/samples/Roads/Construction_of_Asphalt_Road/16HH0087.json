@@ -1,0 +1,133 @@
+{
+  "data": {
+    "contractId": "16HH0087",
+    "description": "CONSTRUCTION / IMPROVEMENT OF ACCESS ROADS LEADING TO AIRPORTS, SEAPORTS AND DECLARED TOURISM DESTINATIONS, DON LEON KILAT ST., CEBU CITY 1ST LD",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 2645208.06,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region VII",
+      "province": "Cebu City DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 10.2988406759,
+        "longitude": 123.895521138,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "WTG CONSTRUCTION & DEVELOPMENT CORPORATION (7494)",
+    "startDate": "2017-03-06",
+    "completionDate": "2017-04-19",
+    "infraYear": "2017",
+    "contractEffectivityDate": "2017-03-06",
+    "expiryDate": "2017-04-19",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2017 MFO-3",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00131069VS-CW1",
+        "description": "Construction of Asphalt Road - Don Leon Kilat St., Cebu City",
+        "infraType": "Roads",
+        "typeOfWork": "Construction of Asphalt Road",
+        "region": "Region VII",
+        "province": "CEBU",
+        "coordinates": {
+          "latitude": 10.2988406759,
+          "longitude": 123.895521138,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "WTG CONSTRUCTION & DEVELOPMENT CORPORATION",
+    "bidders": [
+      {
+        "name": "WTG CONSTRUCTION & DEVELOPMENT CORPORATION (7494)",
+        "pcabId": "7494",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "A.S.T BUILDERS (34104)",
+        "pcabId": "34104",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "A.T. TAN CONSTRUCTION CORPORATION (36012)",
+        "pcabId": "36012",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "GOLDFIN CONSTRUCTION & DEVELOPMENT CORPORATION (FORMERLY: GOLDFIN CONSTRUCTION) (21343)",
+        "pcabId": "21343",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "GOWIL BUILDERS (18733)",
+        "pcabId": "18733",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "PLD CONSTRUCTION AND DEVELOPMENT INC. (FORMERLY: PLD CONSTRUCTION) (01859)",
+        "pcabId": "01859",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "SOCOR CONSTRUCTION CORPORATION (8020)",
+        "pcabId": "8020",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION / IMPROVEMENT OF ACCESS ROADS LEADING TO AIRPORTS, SEAPORTS AND DECLARED TOURISM DESTINATIONS, DON LEON KILAT ST., CEBU CITY 1ST LD",
+      "abc": "3626000.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-11-14 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-12-13 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "3,313,688.00"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/noa_16hh0087.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/ntp_16hh0087.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 10.2988406759,
+    "longitude": 123.895521138,
+    "coordinates": [
+      {
+        "componentId": "P00131069VS-CW1",
+        "description": "Construction of Asphalt Road - Don Leon Kilat St., Cebu City",
+        "latitude": 10.2988406759,
+        "longitude": 123.895521138,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

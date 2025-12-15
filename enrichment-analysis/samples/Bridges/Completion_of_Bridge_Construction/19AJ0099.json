@@ -1,0 +1,109 @@
+{
+  "data": {
+    "contractId": "19AJ0099",
+    "description": "CONSTRUCTION (COMPLETION) OF WAIG-TOBOR BRIDGE AND APPROACHES, BARANGAY WAIG, MALASIQUI, PANGASINAN",
+    "category": "Bridges",
+    "status": "Completed",
+    "budget": 19110238.17,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region I",
+      "province": "Pangasinan 4th DEO",
+      "infraType": "Bridges",
+      "coordinates": {
+        "latitude": 15.8701719,
+        "longitude": 120.5051783,
+        "verified": false
+      }
+    },
+    "infraType": "Bridges",
+    "contractor": "JEUSMACK BUILDERS & CONSTRUCTION SUPPLY (42334)",
+    "startDate": "2019-08-12",
+    "completionDate": "2020-01-16",
+    "infraYear": "2019",
+    "contractEffectivityDate": "2019-08-12",
+    "expiryDate": "2020-01-16",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2019 LP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00355786LZ-CW1",
+        "description": "Completion of Bridge Construction - Construction (Completion) of Waig-Tobor Bridge and Approaches, Barangay Waig, Malasiqui, Pangasinan",
+        "infraType": "Bridges",
+        "typeOfWork": "Completion of Bridge Construction",
+        "region": "Region I",
+        "province": "PANGASINAN",
+        "coordinates": {
+          "latitude": 15.8701719,
+          "longitude": 120.5051783,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "JEUSMACK BUILDERS & CONSTRUCTION SUPPLY",
+    "bidders": [
+      {
+        "name": "JEUSMACK BUILDERS & CONSTRUCTION SUPPLY (42334)",
+        "pcabId": "42334",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "AQUINO-DELA CRUZ ENGINEERING & CONSTRUCTION (16751)",
+        "pcabId": "16751",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "STO. CRISTO CONSTRUCTION & TRADING INC. (FOR: STO. CRISTO CONSTRUCTION & TRADING) (26096)",
+        "pcabId": "26096",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION (COMPLETION) OF WAIG-TOBOR BRIDGE AND APPROACHES, BARANGAY WAIG, MALASIQUI, PANGASINAN",
+      "abc": "19600000.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2019-06-20 00:00:00.0000000",
+      "bidSubmissionDeadline": "2019-07-11 00:00:00.0000000",
+      "dateOfAward": "2019-07-24 00:00:00.0000000",
+      "awardAmount": "19110238.17"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/19AJ0099 Republish.zip",
+      "contractAgreement": "",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/Notice Of Award.doc",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/Notice to Proceed.doc",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 15.8701719,
+    "longitude": 120.5051783,
+    "coordinates": [
+      {
+        "componentId": "P00355786LZ-CW1",
+        "description": "Completion of Bridge Construction - Construction (Completion) of Waig-Tobor Bridge and Approaches, Barangay Waig, Malasiqui, Pangasinan",
+        "latitude": 15.8701719,
+        "longitude": 120.5051783,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

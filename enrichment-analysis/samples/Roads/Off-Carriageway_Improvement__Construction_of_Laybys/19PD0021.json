@@ -1,0 +1,109 @@
+{
+  "data": {
+    "contractId": "19PD0021",
+    "description": "OFF-CARRIAGEWAY IMPROVEMENT: CONSTRUCTION OF LAYBYS-ON SPECIFIC LOCATIONS ALONG QUIRINO H-WAY (BAGUIO-BAUANG) (S00420LZ) KO299+570 TO KO303+790",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 8840300.86,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Cordillera Administrative Region",
+      "province": "Baguio City DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 16.413018,
+        "longitude": 120.5737745,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "4RMCONSTRUCTION & SUPPLIES (35767)",
+    "startDate": "2019-06-25",
+    "completionDate": "2020-11-01",
+    "infraYear": "2019",
+    "contractEffectivityDate": "2019-06-25",
+    "expiryDate": "2019-11-01",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2019 OO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00301977LZ-CW1",
+        "description": "Off-Carriageway Improvement: Construction of Laybys - Quirino H-Way (Baguio-Bauang) - K0299 + 570 - K0299 + 703, K0303 + 729 - K0303 + 790",
+        "infraType": "Roads",
+        "typeOfWork": "Off-Carriageway Improvement: Construction of Laybys",
+        "region": "Cordillera Administrative Region",
+        "province": "BENGUET",
+        "coordinates": {
+          "latitude": 16.413018,
+          "longitude": 120.5737745,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "4RMCONSTRUCTION & SUPPLIES",
+    "bidders": [
+      {
+        "name": "4RMCONSTRUCTION & SUPPLIES (35767)",
+        "pcabId": "35767",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "GUAVA CONSTRUCTION (37027)",
+        "pcabId": "37027",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "KANE CONSTRUCTION, INC. (2888)",
+        "pcabId": "2888",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "OFF-CARRIAGEWAY IMPROVEMENT: CONSTRUCTION OF LAYBYS-ON SPECIFIC LOCATIONS ALONG QUIRINO H-WAY (BAGUIO-BAUANG) (S00420LZ) KO299+570 TO KO303+790",
+      "abc": "9799237.37",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2019-01-17 00:00:00.0000000",
+      "bidSubmissionDeadline": "2019-02-07 00:00:00.0000000",
+      "dateOfAward": "2019-06-13 00:00:00.0000000",
+      "awardAmount": "8840300.86"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/19PD0021 (re-IB Bid Docs BOQ Checklist Attachment Plans1).zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/Contract 19PD0021.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/Award 19PD0021.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/Contract 19PD0021.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 16.413018,
+    "longitude": 120.5737745,
+    "coordinates": [
+      {
+        "componentId": "P00301977LZ-CW1",
+        "description": "Off-Carriageway Improvement: Construction of Laybys - Quirino H-Way (Baguio-Bauang) - K0299 + 570 - K0299 + 703, K0303 + 729 - K0303 + 790",
+        "latitude": 16.413018,
+        "longitude": 120.5737745,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

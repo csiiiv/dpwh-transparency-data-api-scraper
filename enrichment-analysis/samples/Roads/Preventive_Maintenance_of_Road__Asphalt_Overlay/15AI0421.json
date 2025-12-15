@@ -1,0 +1,97 @@
+{
+  "data": {
+    "contractId": "15AI0421",
+    "description": "PREVENTIVE MAINT BASED ON PAVEMENT MGMT SYSTEM/HIGHWAY DEVT & MGMT-4 (HDM-4) (INTERMITTENT SECTIONS)",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 45127911.26,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region I",
+      "province": "Pangasinan 3rd DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 15.9509987574826,
+        "longitude": 120.668675778977,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "ORIENTAL SALES CENTER AND CONTRACTOR (33630) / ALCEL CONSTRUCTION (15129)",
+    "startDate": "2016-03-17",
+    "completionDate": "2016-10-17",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-03-17",
+    "expiryDate": "2016-10-17",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00000602LZ-CW1",
+        "description": "Preventive Maintenance of Road: Asphalt Overlay - Pangasinan-Nueva Vizcaya Rd - K0183+500 - K0184+188, K0185+000 - K0186+000, K0186+000 - K0187+093",
+        "infraType": "Roads",
+        "typeOfWork": "Preventive Maintenance of Road: Asphalt Overlay",
+        "region": "Region I",
+        "province": "PANGASINAN",
+        "coordinates": {
+          "latitude": 15.9509987574826,
+          "longitude": 120.668675778977,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "ALCEL CONSTRUCTION, ORIENTAL SALES CENTER AND CONTRACTOR",
+    "bidders": [
+      {
+        "name": "ALCEL CONSTRUCTION (15129) / ORIENTAL SALES CENTER AND CONTRACTOR (33630) (JV ID: JV-15-957)",
+        "pcabId": "",
+        "participation": 100,
+        "isWinner": true
+      }
+    ],
+    "procurement": {
+      "contractName": "PREVENTIVE MAINT BASED ON PAVEMENT MGMT SYSTEM/HIGHWAY DEVT & MGMT-4 (HDM-4) (INTERMITTENT SECTIONS)",
+      "abc": "45551380.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-12-10 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-12-29 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "43273453.1000000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/june/15AI0421 contract.pdf",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/june/15AI0421 award.pdf",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/may/15AI0421 contract.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 15.9509987574826,
+    "longitude": 120.668675778977,
+    "coordinates": [
+      {
+        "componentId": "P00000602LZ-CW1",
+        "description": "Preventive Maintenance of Road: Asphalt Overlay - Pangasinan-Nueva Vizcaya Rd - K0183+500 - K0184+188, K0185+000 - K0186+000, K0186+000 - K0187+093",
+        "latitude": 15.9509987574826,
+        "longitude": 120.668675778977,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

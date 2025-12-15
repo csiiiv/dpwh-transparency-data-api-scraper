@@ -1,0 +1,145 @@
+{
+  "data": {
+    "contractId": "15LB0192",
+    "description": "IMPROVEMENT /REHAB. OF DRAINAGE STRUCTURES AT SANDAWA MAIN DRAIN, ECOLAND,BRGY.76-A, DAVAO CITY",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 18023165.18,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region XI",
+      "province": "Davao City DEO",
+      "infraType": "Roads",
+      "coordinates": null
+    },
+    "infraType": "Roads",
+    "contractor": "DIGOS TESSTON CONST. & SUPPLIES (8921)",
+    "startDate": "2016-02-16",
+    "completionDate": "2016-12-08",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-02-16",
+    "expiryDate": "2016-12-08",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - Flood Control/Hydraulics/Drainage, Roads: Rehabilitation - Asphalt",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00022549MN-CW1",
+        "description": "Rehabilitation / Major Repair of Drainage Structure along Road - Improvement/Rehab.  of Drainage Structures at Sandawa Main Drain, Ecoland, Brgy. 76-A, Davao City 1st LD",
+        "infraType": "Roads",
+        "typeOfWork": "Rehabilitation / Major Repair of Drainage Structure along Road",
+        "region": "Region XI",
+        "province": "DAVAO DEL SUR",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "DIGOS TESSTON CONST. & SUPPLIES",
+    "bidders": [
+      {
+        "name": "DIGOS TESSTON CONST. & SUPPLIES (8921)",
+        "pcabId": "8921",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "ARCINUE COMM'L CORPORATION (6746)",
+        "pcabId": "6746",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "D.L CERVANTES CONSTRUCTION CORPORATION (FORMERLY: (13799)",
+        "pcabId": "13799",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "GEMMA CONSTRUCTION SUPPLY, INC.(FORMERLY:GEMMA CON (5044)",
+        "pcabId": "5044",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "LEGACY CONSTRUCTION CORPORATION (FORMERLY: LEGACY CONSTRUCTION) (22465)",
+        "pcabId": "22465",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "LOTRIM CONSTRUCTION, INC. (12273)",
+        "pcabId": "12273",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "MONOLITHIC CONSTRUCTION & CONCRETE PRODUCTS, INC. (5733)",
+        "pcabId": "5733",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "O. G. SANTOS CONSTRUCTION (2050)",
+        "pcabId": "2050",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "RDG CONSTRUCTION & SUPPLY (19488)",
+        "pcabId": "19488",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "RELY CONSTRUCTION & SUPPLY INC.(FORMERLY: RELY CONSTRUCTION AND SUPPLY) (10433)",
+        "pcabId": "10433",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "TEDDIE CONSTRUCTION DEVELOPMENT, INC. (6313)",
+        "pcabId": "6313",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "THREE W BUILDERS, INC. (10722)",
+        "pcabId": "10722",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "IMPROVEMENT /REHAB. OF DRAINAGE STRUCTURES AT SANDAWA MAIN DRAIN, ECOLAND,BRGY.76-A, DAVAO CITY",
+      "abc": "18022200.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-12-10 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-12-28 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "17463511.8000000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "",
+      "noticeOfAward": "",
+      "noticeToProceed": "",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

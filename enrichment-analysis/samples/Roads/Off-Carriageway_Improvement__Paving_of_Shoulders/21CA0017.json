@@ -1,0 +1,131 @@
+{
+  "data": {
+    "contractId": "21CA0017",
+    "description": "ASSET PRESERVATION PROGRAM  -REHABILITATION/ RECONSTRUCTION/UPGRADING OF DAMAGED PAVED ROADS  TERTIARY ROADS,  CALAGUIMAN VICINAL RD. K0129+219.50-K0129+785,  SAMAL, BATAAN",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 9799998.59,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region III",
+      "province": "Bataan 1st DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 14.7374919,
+        "longitude": 120.4402914,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "AVE-MIRA CONSTRUCTION AND TRADING (42759)",
+    "startDate": "2021-06-14",
+    "completionDate": "2021-12-10",
+    "infraYear": "2021",
+    "contractEffectivityDate": "2021-06-14",
+    "expiryDate": "2021-12-10",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2021 OO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00505672LZ-CW1",
+        "description": "Reconstruction to Concrete Pavement - Calaguiman Vicinal Rd - K0129 + 219.50 - K0129 + 785",
+        "infraType": "Roads",
+        "typeOfWork": "Reconstruction to Concrete Pavement",
+        "region": "Region III",
+        "province": "BATAAN",
+        "coordinates": {
+          "latitude": 14.7374919,
+          "longitude": 120.4402914,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00505672LZ-CW2",
+        "description": "Off-Carriageway Improvement: Paving of Shoulders - Calaguiman Vicinal Rd - K0129 + 219.50 - K0129 + 785",
+        "infraType": "Roads",
+        "typeOfWork": "Off-Carriageway Improvement: Paving of Shoulders",
+        "region": "Region III",
+        "province": "BATAAN",
+        "coordinates": {
+          "latitude": 14.7374919,
+          "longitude": 120.4402914,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "AVE-MIRA CONSTRUCTION AND TRADING",
+    "bidders": [
+      {
+        "name": "AVE-MIRA CONSTRUCTION AND TRADING (42759)",
+        "pcabId": "42759",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "AS MACHA CONSTRUCTION AND TRADING (36878)",
+        "pcabId": "36878",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "MDBV CONSTRUCTION AND SUPPLY (45321)",
+        "pcabId": "45321",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "ASSET PRESERVATION PROGRAM  -REHABILITATION/ RECONSTRUCTION/UPGRADING OF DAMAGED PAVED ROADS  TERTIARY ROADS,  CALAGUIMAN VICINAL RD. K0129+219.50-K0129+785,  SAMAL, BATAAN",
+      "abc": "9799998.59",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2020-11-23 00:00:00.0000000",
+      "bidSubmissionDeadline": "2020-12-23 00:00:00.0000000",
+      "dateOfAward": "2021-06-02 00:00:00.0000000",
+      "awardAmount": "9506979"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/19. Contract Agreement.17.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/Notice of Award.17.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/19. Contract Agreement.17.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 14.7374919,
+    "longitude": 120.4402914,
+    "coordinates": [
+      {
+        "componentId": "P00505672LZ-CW1",
+        "description": "Reconstruction to Concrete Pavement - Calaguiman Vicinal Rd - K0129 + 219.50 - K0129 + 785",
+        "latitude": 14.7374919,
+        "longitude": 120.4402914,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00505672LZ-CW2",
+        "description": "Off-Carriageway Improvement: Paving of Shoulders - Calaguiman Vicinal Rd - K0129 + 219.50 - K0129 + 785",
+        "latitude": 14.7374919,
+        "longitude": 120.4402914,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 4,
+      "latestImageDate": "2022-05-10 07:48:08.885999",
+      "hasImages": true
+    }
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "contractId": "17LA0024",
+    "description": "CONSTRUCTION OF FLOOD MITIGATION FACILITIES ALONG AGUSAN RIVER, BRGY. PANAG, NEW BATAAN, COMPOSTELA VALLEY PROVINCE",
+    "category": "Flood Control and Drainage",
+    "status": "Completed",
+    "budget": 45862918.42,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region XI",
+      "province": "Davao de Oro 1st DEO",
+      "infraType": "Flood Control and Drainage",
+      "coordinates": {
+        "latitude": 7.578247,
+        "longitude": 126.098189,
+        "verified": false
+      }
+    },
+    "infraType": "Flood Control and Drainage",
+    "contractor": "AB APONESTO CONSTRUCTION PARTS AND SUPPLY, INC. (22998)",
+    "startDate": "2017-05-30",
+    "completionDate": "2018-04-23",
+    "infraYear": "2017",
+    "contractEffectivityDate": "2017-05-30",
+    "expiryDate": "2018-02-11",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2017 MFO-2",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00121711MN-CW1",
+        "description": "Construction of Waterway - Construction of Flood Mitigation Facilities along Agusan River, Brgy. Panag, Compostela Valley Sta. 0+443 - Sta. 1+900, Sta. 0+444 - Sta. 2+000",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Construction of Waterway",
+        "region": "Region XI",
+        "province": "DAVAO DE ORO",
+        "coordinates": {
+          "latitude": 7.578247,
+          "longitude": 126.098189,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00121711MN-CW2",
+        "description": "Construction of Revetment - Construction of Flood Mitigation Facilities along Agusan River, Brgy. Panag, Compostela Valley Sta. 0+443 - Sta. 1+900, Sta. 0+444 - Sta. 2+000",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Construction of Revetment",
+        "region": "Region XI",
+        "province": "DAVAO DE ORO",
+        "coordinates": {
+          "latitude": 7.578247,
+          "longitude": 126.098189,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "AB APONESTO CONSTRUCTION PARTS AND SUPPLY, INC.",
+    "bidders": [
+      {
+        "name": "AB APONESTO CONSTRUCTION PARTS AND SUPPLY, INC. (22998)",
+        "pcabId": "22998",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "DAVAO CONCRETE PRODUCTS CONSTRUCTION AND TRADING CORPORATION (FORMERLY: DAVAO CONCRETE PRODUCTS) (12090)",
+        "pcabId": "12090",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "DIGOS TESSTON CONST. & SUPPLIES (8921)",
+        "pcabId": "8921",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "D.L CERVANTES CONSTRUCTION CORPORATION (FORMERLY: (13799)",
+        "pcabId": "13799",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "FFJJ CONSTRUCTION (16712)",
+        "pcabId": "16712",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "GEMMA CONSTRUCTION SUPPLY, INC.(FORMERLY:GEMMA CON (5044)",
+        "pcabId": "5044",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "LEGACY CONSTRUCTION CORPORATION (FORMERLY: LEGACY CONSTRUCTION) (22465)",
+        "pcabId": "22465",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "MONOLITHIC CONSTRUCTION & CONCRETE PRODUCTS, INC. (5733)",
+        "pcabId": "5733",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "NIRVANA CONSTRUCTION & SUPPLIES (18691)",
+        "pcabId": "18691",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "O. G. SANTOS CONSTRUCTION (2050)",
+        "pcabId": "2050",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "RELY CONSTRUCTION & SUPPLY INC.(FORMERLY: RELY CONSTRUCTION AND SUPPLY) (10433)",
+        "pcabId": "10433",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "RUPLINO SEISMUNDO CONSTRUCTION CORPORATION (FORMERLY: R.R. SEISMUNDO CONSTRUCTION & SUPPLY) (10961)",
+        "pcabId": "10961",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "TEDDIE CONSTRUCTION DEVELOPMENT, INC. (6313)",
+        "pcabId": "6313",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "THREE W BUILDERS, INC. (10722)",
+        "pcabId": "10722",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "VICENTE T. LAO CONSTRUCTION (7040)",
+        "pcabId": "7040",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION OF FLOOD MITIGATION FACILITIES ALONG AGUSAN RIVER, BRGY. PANAG, NEW BATAAN, COMPOSTELA VALLEY PROVINCE",
+      "abc": "45862893.53",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-12-09 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-01-26 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "44,466,582.65"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/17la0024_contract_agreement.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/NOA.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/17la0024_contract_agreement.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 7.578247,
+    "longitude": 126.098189,
+    "coordinates": [
+      {
+        "componentId": "P00121711MN-CW1",
+        "description": "Construction of Waterway - Construction of Flood Mitigation Facilities along Agusan River, Brgy. Panag, Compostela Valley Sta. 0+443 - Sta. 1+900, Sta. 0+444 - Sta. 2+000",
+        "latitude": 7.578247,
+        "longitude": 126.098189,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00121711MN-CW2",
+        "description": "Construction of Revetment - Construction of Flood Mitigation Facilities along Agusan River, Brgy. Panag, Compostela Valley Sta. 0+443 - Sta. 1+900, Sta. 0+444 - Sta. 2+000",
+        "latitude": 7.578247,
+        "longitude": 126.098189,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

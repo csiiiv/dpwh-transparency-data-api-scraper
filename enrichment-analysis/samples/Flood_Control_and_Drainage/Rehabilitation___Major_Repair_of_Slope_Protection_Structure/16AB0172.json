@@ -1,0 +1,109 @@
+{
+  "data": {
+    "contractId": "16AB0172",
+    "description": "REHABILITATION OF PUTTAO-BAGBAGO RIVER CONTROL SOLSONA RIVER, BRGY. PUTTAO BAGBAGO, SOLSONA, ILOCOS NORTE",
+    "category": "Flood Control and Drainage",
+    "status": "Completed",
+    "budget": 13612264.11,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region I",
+      "province": "Ilocos Norte 2nd DEO",
+      "infraType": "Flood Control and Drainage",
+      "coordinates": {
+        "latitude": 18.086908,
+        "longitude": 120.760709,
+        "verified": false
+      }
+    },
+    "infraType": "Flood Control and Drainage",
+    "contractor": "TRI-LINE BUILDERS (36452)",
+    "startDate": "2017-02-24",
+    "completionDate": "2017-08-17",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2017-02-24",
+    "expiryDate": "2017-06-10",
+    "nysReason": null,
+    "programName": "Outside Infra",
+    "sourceOfFunds": "Outside Infra - GAA 2016 NDRRMF",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00095323LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Slope Protection Structure - Rehabilitation of Puttao-Bagbago River Control along Solsona River, Brgy. Puttao-Bagbago, Solsona, Ilocos Norte",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Rehabilitation / Major Repair of Slope Protection Structure",
+        "region": "Region I",
+        "province": "ILOCOS NORTE",
+        "coordinates": {
+          "latitude": 18.086908,
+          "longitude": 120.760709,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "TRI-LINE BUILDERS",
+    "bidders": [
+      {
+        "name": "TRI-LINE BUILDERS (36452)",
+        "pcabId": "36452",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "BUSILAC BUILDERS INC. (7701)",
+        "pcabId": "7701",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "SOLSONA-GANAL CONSTRUCTION & SUPPLY (32694)",
+        "pcabId": "32694",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "REHABILITATION OF PUTTAO-BAGBAGO RIVER CONTROL SOLSONA RIVER, BRGY. PUTTAO BAGBAGO, SOLSONA, ILOCOS NORTE",
+      "abc": "14330250.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-12-29 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-01-18 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "13612264.11"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/Puttao-Bagbago, Solsona.rar",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/16AB0172 CA.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/img080.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/16AB0172 CA.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 18.086908,
+    "longitude": 120.760709,
+    "coordinates": [
+      {
+        "componentId": "P00095323LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Slope Protection Structure - Rehabilitation of Puttao-Bagbago River Control along Solsona River, Brgy. Puttao-Bagbago, Solsona, Ilocos Norte",
+        "latitude": 18.086908,
+        "longitude": 120.760709,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

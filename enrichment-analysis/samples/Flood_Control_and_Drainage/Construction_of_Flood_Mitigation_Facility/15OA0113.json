@@ -1,0 +1,127 @@
+{
+  "data": {
+    "contractId": "15OA0113",
+    "description": "CONST. OF 2 PUMPING STATIONS AT BRGY. TANZA (BESIDE RAVAGO SHIPYARD AND R&LT SHIPYARD) NAV. CITY",
+    "category": "Flood Control and Drainage",
+    "status": "Terminated",
+    "budget": 0,
+    "amountPaid": 0,
+    "progress": 0,
+    "location": {
+      "region": "National Capital Region",
+      "province": "Malabon-Navotas DEO",
+      "infraType": "Flood Control and Drainage",
+      "coordinates": {
+        "latitude": 14.673992,
+        "longitude": 120.938503,
+        "verified": false
+      }
+    },
+    "infraType": "Flood Control and Drainage",
+    "contractor": "PRIME PACIFIC MARINE & INDUSTRIAL SERVICES CORP. (36171)",
+    "startDate": "2016-02-19",
+    "completionDate": "2018-02-22",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-02-19",
+    "expiryDate": "2016-05-31",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-2",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00020028LZ-CW1",
+        "description": "Construction of Flood Mitigation Facility - Construction of Two Pumping Stations at Brgy. Tanza (Beside Ravago Shipyard and R&LT Shipyard), Navotas City",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Construction of Flood Mitigation Facility",
+        "region": "National Capital Region",
+        "province": "METROPOLITAN MANILA",
+        "coordinates": {
+          "latitude": 14.673992,
+          "longitude": 120.938503,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "PRIME PACIFIC MARINE & INDUSTRIAL SERVICES CORP.",
+    "bidders": [
+      {
+        "name": "PRIME PACIFIC MARINE & INDUSTRIAL SERVICES CORP. (36171)",
+        "pcabId": "36171",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "ARCINUE COMM'L CORPORATION (6746)",
+        "pcabId": "6746",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "FRAMECON BUILDERS (22482)",
+        "pcabId": "22482",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "L.M.G. CONSTRUCTION INCORPORATED (FORMERLY: LMG CONSTRUCTION) (5719)",
+        "pcabId": "5719",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "M.G. SALAZAR CONSTRUCTION CORP. (FOR. M.G. SALAZAR (4072)",
+        "pcabId": "4072",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "PENTAGON INDUSTRIAL DEVELOPMENT & CONSTRUCTION CO. (12796)",
+        "pcabId": "12796",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONST. OF 2 PUMPING STATIONS AT BRGY. TANZA (BESIDE RAVAGO SHIPYARD AND R&LT SHIPYARD) NAV. CITY",
+      "abc": "9647828.67",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-11-16 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-12-07 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "8958008.9200000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/15oa0113_contract.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/15oa0113_notice_of_award.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/15oa0113_ntp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 14.673992,
+    "longitude": 120.938503,
+    "coordinates": [
+      {
+        "componentId": "P00020028LZ-CW1",
+        "description": "Construction of Flood Mitigation Facility - Construction of Two Pumping Stations at Brgy. Tanza (Beside Ravago Shipyard and R&LT Shipyard), Navotas City",
+        "latitude": 14.673992,
+        "longitude": 120.938503,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

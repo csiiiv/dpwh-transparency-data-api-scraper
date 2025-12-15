@@ -1,0 +1,85 @@
+{
+  "data": {
+    "contractId": "16DD0092",
+    "description": "NATIONAL ROAD LIGHTING PROGRAM ALONG SAN JUAN - LAIYA ROAD, LAIYA BATANGAS (K0162+457 TO K0165+650), SAN JUAN, BATANGAS",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 21847762.55,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region IV-A",
+      "province": "Batangas 4th DEO",
+      "infraType": "Roads",
+      "coordinates": null
+    },
+    "infraType": "Roads",
+    "contractor": "ROSAND BUILDERS CORPORATION (FORMERLY: ROSAND BUILDERS) (15781)",
+    "startDate": "2016-05-30",
+    "completionDate": "2017-03-27",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-05-30",
+    "expiryDate": "2016-11-25",
+    "nysReason": null,
+    "programName": "Outside Infra",
+    "sourceOfFunds": "Outside Infra - Special Road Support Fund 2016",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00090009LZ-CW1",
+        "description": "Road Safety: Street Lighting - National Road Lighting Program (Civil Works) package 10 along San Juan - Laiya Road, Laiya, Batangas. K0162+457 to K0165+650",
+        "infraType": "Roads",
+        "typeOfWork": "Road Safety: Street Lighting",
+        "region": "Region IV-A",
+        "province": "BATANGAS",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "ROSAND BUILDERS CORPORATION (FORMERLY: ROSAND BUILDERS)",
+    "bidders": [
+      {
+        "name": "ROSAND BUILDERS CORPORATION (FORMERLY: ROSAND BUILDERS) (15781)",
+        "pcabId": "15781",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "MACMAC ELECTRICAL & CIVIL CONTRACTORS CORPORATION (24071)",
+        "pcabId": "24071",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "NATIONAL ROAD LIGHTING PROGRAM ALONG SAN JUAN - LAIYA ROAD, LAIYA BATANGAS (K0162+457 TO K0165+650), SAN JUAN, BATANGAS",
+      "abc": "22176000.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-04-06 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-04-25 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "21,847,762.55"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/august/CA 092.pdf",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/august/AWARD 092.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/16dd0092_ntp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

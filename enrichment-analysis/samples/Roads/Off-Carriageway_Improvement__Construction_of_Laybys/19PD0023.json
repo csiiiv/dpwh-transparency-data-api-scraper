@@ -1,0 +1,109 @@
+{
+  "data": {
+    "contractId": "19PD0023",
+    "description": "OFF-CARRIAGEWAY IMPROVEMENT: CONSTRUCTION OF LAYBYS ON SPECIFIC LOCATIONS ALONG MARCOS HI-WAY (S00432LZ) KO280+(-475) TO KO 281+755",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 6594951.35,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Cordillera Administrative Region",
+      "province": "Baguio City DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 16.3916803,
+        "longitude": 120.5685571,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "MAKK BUILDERS (36414)",
+    "startDate": "2019-07-16",
+    "completionDate": "2020-03-08",
+    "infraYear": "2019",
+    "contractEffectivityDate": "2019-07-16",
+    "expiryDate": "2019-12-02",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2019 OO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00301975LZ-CW1",
+        "description": "Off-Carriageway Improvement: Construction of Laybys - Marcos Hi-way - K0280 + (-475) - K0280 + (-292), K0281 + 695 - K0281 + 755",
+        "infraType": "Roads",
+        "typeOfWork": "Off-Carriageway Improvement: Construction of Laybys",
+        "region": "Cordillera Administrative Region",
+        "province": "BENGUET",
+        "coordinates": {
+          "latitude": 16.3916803,
+          "longitude": 120.5685571,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "MAKK BUILDERS",
+    "bidders": [
+      {
+        "name": "MAKK BUILDERS (36414)",
+        "pcabId": "36414",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "4RMCONSTRUCTION & SUPPLIES (35767)",
+        "pcabId": "35767",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "R.M. BILOG CONSTRUCTION AND ENGINEERING SERVICES (40810)",
+        "pcabId": "40810",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "OFF-CARRIAGEWAY IMPROVEMENT: CONSTRUCTION OF LAYBYS ON SPECIFIC LOCATIONS ALONG MARCOS HI-WAY (S00432LZ) KO280+(-475) TO KO 281+755",
+      "abc": "6858679.29",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2019-01-29 00:00:00.0000000",
+      "bidSubmissionDeadline": "2019-02-19 00:00:00.0000000",
+      "dateOfAward": "2019-06-27 00:00:00.0000000",
+      "awardAmount": "5995410.32"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/19PD0023 IB BOQ Checklist Bid Docs Attachments Plans.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/Contract 19PD0023.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/Award 19PD0023.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/Contract 19PD0023.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 16.3916803,
+    "longitude": 120.5685571,
+    "coordinates": [
+      {
+        "componentId": "P00301975LZ-CW1",
+        "description": "Off-Carriageway Improvement: Construction of Laybys - Marcos Hi-way - K0280 + (-475) - K0280 + (-292), K0281 + 695 - K0281 + 755",
+        "latitude": 16.3916803,
+        "longitude": 120.5685571,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

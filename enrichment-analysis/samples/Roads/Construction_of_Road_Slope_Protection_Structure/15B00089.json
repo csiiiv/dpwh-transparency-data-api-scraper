@@ -1,0 +1,97 @@
+{
+  "data": {
+    "contractId": "15B00089",
+    "description": "MFO 1-NAT'L RD. NETWORK SERVICES: ASSET PRESERVATION OF NAT'L RDS./REHAB/RECONST'N OF NAT'L RDS WITH",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 2367320.64,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region II",
+      "province": "Region II",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 17.083593536143,
+        "longitude": 121.852588488293,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "R.T. DIWA CONSTRUCTION (14263)",
+    "startDate": "2016-03-24",
+    "completionDate": "2016-08-29",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-03-24",
+    "expiryDate": "2016-06-11",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00005818LZ-CW1",
+        "description": "Construction of Road Slope Protection Structure - Daang Maharlika (LZ) - K0391+960 - K0392+080",
+        "infraType": "Roads",
+        "typeOfWork": "Construction of Road Slope Protection Structure",
+        "region": "Region II",
+        "province": "ISABELA",
+        "coordinates": {
+          "latitude": 17.083593536143,
+          "longitude": 121.852588488293,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "R.T. DIWA CONSTRUCTION",
+    "bidders": [
+      {
+        "name": "R.T. DIWA CONSTRUCTION (14263)",
+        "pcabId": "14263",
+        "participation": 100,
+        "isWinner": true
+      }
+    ],
+    "procurement": {
+      "contractName": "MFO 1-NAT'L RD. NETWORK SERVICES: ASSET PRESERVATION OF NAT'L RDS./REHAB/RECONST'N OF NAT'L RDS WITH",
+      "abc": "2437500.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-11-24 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-12-22 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "2367320.6400000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/may/15b00089-Cont.agreemnt.pdf",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/may/15b00089-Noa.pdf",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/may/15b00089-Cont.agreemnt.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 17.083593536143,
+    "longitude": 121.852588488293,
+    "coordinates": [
+      {
+        "componentId": "P00005818LZ-CW1",
+        "description": "Construction of Road Slope Protection Structure - Daang Maharlika (LZ) - K0391+960 - K0392+080",
+        "latitude": 17.083593536143,
+        "longitude": 121.852588488293,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

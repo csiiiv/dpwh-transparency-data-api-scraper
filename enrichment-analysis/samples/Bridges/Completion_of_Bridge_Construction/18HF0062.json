@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "18HF0062",
+    "description": "CONSTRUCTION OF MANGOTO BR. ALONG TOLEDO-PINAMUNGAJAN-ALOGUINSAN-MANTALONGON RD (PHASE II)",
+    "category": "Bridges",
+    "status": "Completed",
+    "budget": 9796887.56,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region VII",
+      "province": "Cebu 3rd DEO",
+      "infraType": "Bridges",
+      "coordinates": {
+        "latitude": 10.2634498,
+        "longitude": 123.5834633,
+        "verified": false
+      }
+    },
+    "infraType": "Bridges",
+    "contractor": "WTG CONSTRUCTION & DEVELOPMENT CORPORATION (7494)",
+    "startDate": "2018-03-27",
+    "completionDate": "2018-08-17",
+    "infraYear": "2018",
+    "contractEffectivityDate": "2018-03-27",
+    "expiryDate": "2018-08-18",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2018 OO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00201180VS-CW1",
+        "description": "Completion of Bridge Construction - Mangoto Br. along Toledo-Pinamungajan-Aloguinsan-Mantalongon Rd (Phase II)",
+        "infraType": "Bridges",
+        "typeOfWork": "Completion of Bridge Construction",
+        "region": "Region VII",
+        "province": "CEBU",
+        "coordinates": {
+          "latitude": 10.2634498,
+          "longitude": 123.5834633,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "WTG CONSTRUCTION & DEVELOPMENT CORPORATION",
+    "bidders": [
+      {
+        "name": "WTG CONSTRUCTION & DEVELOPMENT CORPORATION (7494)",
+        "pcabId": "7494",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "JIAN ARMEL RICHARD CHRISTERSON (JARC) CONSTRUCTION & MARINE SERVICES CORPORATION (FORMERLY:J.A.R.C. (33057)",
+        "pcabId": "33057",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION OF MANGOTO BR. ALONG TOLEDO-PINAMUNGAJAN-ALOGUINSAN-MANTALONGON RD (PHASE II)",
+      "abc": "9800000.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2018-02-20 00:00:00.0000000",
+      "bidSubmissionDeadline": "2018-03-12 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "9308736.2"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/Invitation to Bid - 18HF0062.pdf",
+      "contractAgreement": "",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/18hf0062_noa.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/18hf0062_ntp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 10.2634498,
+    "longitude": 123.5834633,
+    "coordinates": [
+      {
+        "componentId": "P00201180VS-CW1",
+        "description": "Completion of Bridge Construction - Mangoto Br. along Toledo-Pinamungajan-Aloguinsan-Mantalongon Rd (Phase II)",
+        "latitude": 10.2634498,
+        "longitude": 123.5834633,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

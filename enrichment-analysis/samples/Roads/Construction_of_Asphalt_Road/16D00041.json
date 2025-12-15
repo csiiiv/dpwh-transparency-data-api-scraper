@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "16D00041",
+    "description": "LOCALLY FUNDED PROJECTS - CONST./REPAIR/ REHAB. OF VARIOUS INFRA.  INCL. LOCAL PROJECTS ROADS AND BRIDGES LOCAL BRIDGES CONSTRUCTION OF 2 -LANE PRE-STRESSED CONCRETE GIRDER BRIDGE INCL. PIER AND SOIL EROSION MITIGATION PROTECTION, UP LOS BAÑOS, LAGUNA",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 62383092.33,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region IV-A",
+      "province": "Region IV-A",
+      "infraType": "Roads",
+      "coordinates": null
+    },
+    "infraType": "Roads",
+    "contractor": "GRANBY TRADING & CONSTRUCTION (27554) / ARN BUILDERS, INC. (FOR: ARN BUILDERS) (18930)",
+    "startDate": "2016-05-26",
+    "completionDate": "2019-05-21",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-05-26",
+    "expiryDate": "2018-09-20",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 Locally Funded Projects",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00054378LZ-CW1",
+        "description": "Construction of Asphalt Road - Construction of 2-Lane PSCG Bridge Pier and Soil Erosion Mitigation Protecton,  UP - Los Ba±os, Laguna - Bridge: Sta 0+068-Sta 0+128; Roads: Sta 0+000-Sta 0+068; Sta 0+128-Sta 0+300; Intersection: Sta 0+048.65-Sta 0+155.53",
+        "infraType": "Roads",
+        "typeOfWork": "Construction of Asphalt Road",
+        "region": "Region IV-A",
+        "province": "LAGUNA",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "ARN BUILDERS, INC. (FOR: ARN BUILDERS), GRANBY TRADING & CONSTRUCTION",
+    "bidders": [
+      {
+        "name": "ARN BUILDERS, INC. (FOR: ARN BUILDERS) (18930) / GRANBY TRADING & CONSTRUCTION (27554) (JV ID: JV-15-1711)",
+        "pcabId": "",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "ST. GERRARD CONSTRUCTION GEN. CONTRACTOR & DEVELOPMENT CORP. (FORMERLY:ST. GERRARD CONSTRUCTION) ([REVOKED] 31762) / RIPER EMPIRE TRADING AND CONSTRUCTION (38290) (JV ID: JV-15-1728)",
+        "pcabId": "",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "LEGAZPI PREMIUM DEVELOPMENT CORPORATION (20701)",
+        "pcabId": "20701",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "V.R. PATRON BUILDERS & DEVELOPERS CORP. (PREVIOUSL (13487)",
+        "pcabId": "13487",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "WERR CORPORATION INTERNATIONAL (14133)",
+        "pcabId": "14133",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "LOCALLY FUNDED PROJECTS - CONST./REPAIR/ REHAB. OF VARIOUS INFRA.  INCL. LOCAL PROJECTS ROADS AND BRIDGES LOCAL BRIDGES CONSTRUCTION OF 2 -LANE PRE-STRESSED CONCRETE GIRDER BRIDGE INCL. PIER AND SOIL EROSION MITIGATION PROTECTION, UP LOS BAÑOS, LAGUNA",
+      "abc": "65325000.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-04-05 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-04-26 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "62,383,092.33"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/july/16D00041_CA.pdf",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/july/16D00041_NOA0001.pdf",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/july/16D00041_CA.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

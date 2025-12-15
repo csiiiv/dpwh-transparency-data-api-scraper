@@ -1,0 +1,127 @@
+{
+  "data": {
+    "contractId": "23CI0020",
+    "description": "CONSTRUCTION/MAINTENANCE OF FLOOD MITIGATION STRUCTURES AND DRAINAGE SYSTEMS; CONSTRUCTION OF GROUNDSILL WITH SLOPE PROTECTION ALONG ABACAN RIVER, STA 0+000-STA 0+110, ANGELES CITY, PAMPANGA",
+    "category": "Flood Control and Drainage",
+    "status": "Completed",
+    "budget": 48693842.16,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region III",
+      "province": "Pampanga 3rd DEO",
+      "infraType": "Flood Control and Drainage",
+      "coordinates": {
+        "latitude": 15.1496706,
+        "longitude": 120.6244567,
+        "verified": false
+      }
+    },
+    "infraType": "Flood Control and Drainage",
+    "contractor": "B-12 CONSTRUCTION AND TRADING CORPORATION (31997)",
+    "startDate": "2023-02-10",
+    "completionDate": "2023-06-02",
+    "infraYear": "2023",
+    "contractEffectivityDate": "2023-02-10",
+    "expiryDate": "2023-07-09",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2023 OO-2",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00726182LZ-CW1",
+        "description": "Construction of Groundsill - Construction of Groundsill with Slope Protection along Abacan River, Downstream of NLEX Bridge, Sta. 0+000 - Sta 0+110, Angeles City, Pampanga",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Construction of Groundsill",
+        "region": "Region III",
+        "province": "PAMPANGA",
+        "coordinates": {
+          "latitude": 15.1496706,
+          "longitude": 120.6244567,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "B-12 CONSTRUCTION AND TRADING CORPORATION",
+    "bidders": [
+      {
+        "name": "B-12 CONSTRUCTION AND TRADING CORPORATION (31997)",
+        "pcabId": "31997",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "3-SIDES BUILDERS & TRADING CORP. (40469)",
+        "pcabId": "40469",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "ALL EML CONSTRUCTION CORPORATION (FORMERLY: E.M.L. CONSTRUCTION & TRADING) (10151)",
+        "pcabId": "10151",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "MCB ZAMORA CONSTRUCTION & SUPPLY (32006)",
+        "pcabId": "32006",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "STO. CRISTO CONSTRUCTION & TRADING INC. (FOR: STO. CRISTO CONSTRUCTION & TRADING) (26096)",
+        "pcabId": "26096",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "THREE-IN-ONE CONSTRUCTION & TRADING (14695)",
+        "pcabId": "14695",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION/MAINTENANCE OF FLOOD MITIGATION STRUCTURES AND DRAINAGE SYSTEMS; CONSTRUCTION OF GROUNDSILL WITH SLOPE PROTECTION ALONG ABACAN RIVER, STA 0+000-STA 0+110, ANGELES CITY, PAMPANGA",
+      "abc": "48789447.39",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2022-12-02 00:00:00.0000000",
+      "bidSubmissionDeadline": "2023-01-17 00:00:00.0000000",
+      "dateOfAward": "2023-01-30 00:00:00.0000000",
+      "awardAmount": "47326378.6"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/itb_23ci14_27.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/ca-202733.zip",
+      "noticeOfAward": "",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/ntp-202733.zip",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 15.1496706,
+    "longitude": 120.6244567,
+    "coordinates": [
+      {
+        "componentId": "P00726182LZ-CW1",
+        "description": "Construction of Groundsill - Construction of Groundsill with Slope Protection along Abacan River, Downstream of NLEX Bridge, Sta. 0+000 - Sta 0+110, Angeles City, Pampanga",
+        "latitude": 15.1496706,
+        "longitude": 120.6244567,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 2,
+      "latestImageDate": "2023-12-28 00:51:00.328999",
+      "hasImages": true
+    }
+  }
+}

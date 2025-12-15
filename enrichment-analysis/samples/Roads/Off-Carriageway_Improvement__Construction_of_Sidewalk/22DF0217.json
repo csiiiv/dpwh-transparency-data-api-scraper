@@ -1,0 +1,147 @@
+{
+  "data": {
+    "contractId": "22DF0217",
+    "description": "ORGANIZATIONAL OUTCOME 1 : ENSURE SAFE AND RELIABLE NATIONAL ROAD SYSTEMNETWORK DEVELOPMENT PROGRAMCONSTRUCTION OF BY-PASS AND DIVERSION ROADSSAN AGUSTIN - LUCIANO BY - PASS ROAD, CAVITE",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 52862700,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region IV-A",
+      "province": "Cavite 1st DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 14.2728846,
+        "longitude": 120.8714452,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "J.M. MALIGAYA CONSTRUCTION CORP. (FORMERLY: J.M. MALIGAYA CONSTRUCTION & CONSTRUCTION SUPPLY) (15018)",
+    "startDate": "2022-03-29",
+    "completionDate": "2023-02-21",
+    "infraYear": "2022",
+    "contractEffectivityDate": "2022-03-29",
+    "expiryDate": "2023-02-21",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2022 OO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00608557LZ-CW1",
+        "description": "Road Widening - San Agustin-Luciano By-Pass Road, Cavite",
+        "infraType": "Roads",
+        "typeOfWork": "Road Widening",
+        "region": "Region IV-A",
+        "province": "CAVITE",
+        "coordinates": {
+          "latitude": 14.2728846,
+          "longitude": 120.8714452,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00608557LZ-CW2",
+        "description": "Construction of Drainage Structure along Road - San Agustin-Luciano By-Pass Road, Cavite",
+        "infraType": "Roads",
+        "typeOfWork": "Construction of Drainage Structure along Road",
+        "region": "Region IV-A",
+        "province": "CAVITE",
+        "coordinates": {
+          "latitude": 14.2729045,
+          "longitude": 120.8714329,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00608557LZ-CW3",
+        "description": "Off-Carriageway Improvement: Construction of Sidewalk - San Agustin-Luciano By-Pass Road, Cavite",
+        "infraType": "Roads",
+        "typeOfWork": "Off-Carriageway Improvement: Construction of Sidewalk",
+        "region": "Region IV-A",
+        "province": "CAVITE",
+        "coordinates": {
+          "latitude": 14.2732638,
+          "longitude": 120.8712644,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "J.M. MALIGAYA CONSTRUCTION CORP. (FORMERLY: J.M. MALIGAYA CONSTRUCTION & CONSTRUCTION SUPPLY)",
+    "bidders": [
+      {
+        "name": "J.M. MALIGAYA CONSTRUCTION CORP. (FORMERLY: J.M. MALIGAYA CONSTRUCTION & CONSTRUCTION SUPPLY) (15018)",
+        "pcabId": "15018",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "J.S. GENERAL CONTRACTOR (15258)",
+        "pcabId": "15258",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "ORGANIZATIONAL OUTCOME 1 : ENSURE SAFE AND RELIABLE NATIONAL ROAD SYSTEM NETWORK DEVELOPMENT PROGRAM CONSTRUCTION OF BY-PASS AND DIVERSION ROADS SAN AGUSTIN - LUCIANO BY - PASS ROAD, CAVITE",
+      "abc": "52862700.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2022-02-21 00:00:00.0000000",
+      "bidSubmissionDeadline": "2022-03-15 00:00:00.0000000",
+      "dateOfAward": "2022-03-18 00:00:00.0000000",
+      "awardAmount": "50209644.26"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/San Agustin-Luciano.pdf",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/CA 22DF0217.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/NOA 22DF0217.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/CA 22DF0217.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 14.2728846,
+    "longitude": 120.8714452,
+    "coordinates": [
+      {
+        "componentId": "P00608557LZ-CW1",
+        "description": "Road Widening - San Agustin-Luciano By-Pass Road, Cavite",
+        "latitude": 14.2728846,
+        "longitude": 120.8714452,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00608557LZ-CW2",
+        "description": "Construction of Drainage Structure along Road - San Agustin-Luciano By-Pass Road, Cavite",
+        "latitude": 14.2729045,
+        "longitude": 120.8714329,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00608557LZ-CW3",
+        "description": "Off-Carriageway Improvement: Construction of Sidewalk - San Agustin-Luciano By-Pass Road, Cavite",
+        "latitude": 14.2732638,
+        "longitude": 120.8712644,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 3,
+      "latestImageDate": "2022-06-15 08:31:06.175000",
+      "hasImages": true
+    }
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "data": {
+    "contractId": "18L00166",
+    "description": "WIDENING/RECONSTRUCTION OF MALAGAMOT ROAD-JCT. MUDIANG ROAD BYPASS INCL. BRIDGES REPLACEMENT (INTO 4",
+    "category": "Bridges, Roads",
+    "status": "Completed",
+    "budget": 184311394.86,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region XI",
+      "province": "Region XI",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 7.162195,
+        "longitude": 125.6454759,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "MONOLITHIC CONSTRUCTION & CONCRETE PRODUCTS, INC. (5733)",
+    "startDate": "2018-09-24",
+    "completionDate": "2021-12-22",
+    "infraYear": "2018",
+    "contractEffectivityDate": "2018-09-24",
+    "expiryDate": "2022-01-20",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2018 OO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00200409MN-CW1",
+        "description": "Road Widening - Malagamot Road-Jct Mudiang Road Bypass, incl. Bridge, Davao City",
+        "infraType": "Roads",
+        "typeOfWork": "Road Widening",
+        "region": "Region XI",
+        "province": "DAVAO DEL SUR",
+        "coordinates": {
+          "latitude": 7.162195,
+          "longitude": 125.6454759,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00200409MN-CW2",
+        "description": "Replacement of Bridge - Malagamot Road-Jct Mudiang Road Bypass, incl. Bridge, Davao City",
+        "infraType": "Bridges",
+        "typeOfWork": "Replacement of Bridge",
+        "region": "Region XI",
+        "province": "DAVAO DEL SUR",
+        "coordinates": {
+          "latitude": 7.1617978,
+          "longitude": 125.6437342,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00200409MN-CW3",
+        "description": "Replacement of Bridge - Malagamot Road-Jct Mudiang Road Bypass, incl. Bridge, Davao City",
+        "infraType": "Bridges",
+        "typeOfWork": "Replacement of Bridge",
+        "region": "Region XI",
+        "province": "DAVAO DEL SUR",
+        "coordinates": {
+          "latitude": 7.1618021,
+          "longitude": 125.6415169,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00200409MN-CW4",
+        "description": "Reconstruction to Concrete Pavement - Malagamot Road-Jct Mudiang Road Bypass, incl. Bridge, Davao City",
+        "infraType": "Roads",
+        "typeOfWork": "Reconstruction to Concrete Pavement",
+        "region": "Region XI",
+        "province": "DAVAO DEL SUR",
+        "coordinates": {
+          "latitude": 7.1622865,
+          "longitude": 125.6411436,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00200409MN-CW5",
+        "description": "Construction of Drainage Structure along Road - Malagamot Road-Jct Mudiang Road Bypass, incl. Bridge, Davao City",
+        "infraType": "Roads",
+        "typeOfWork": "Construction of Drainage Structure along Road",
+        "region": "Region XI",
+        "province": "DAVAO DEL SUR",
+        "coordinates": {
+          "latitude": 7.1622624,
+          "longitude": 125.641145,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "MONOLITHIC CONSTRUCTION & CONCRETE PRODUCTS, INC.",
+    "bidders": [
+      {
+        "name": "MONOLITHIC CONSTRUCTION & CONCRETE PRODUCTS, INC. (5733)",
+        "pcabId": "5733",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "P.L. SEBASTIAN CONSTRUCTION, INC. (FORMERLY: P.L. SEBASTIAN CONSTRUCTION) (35840)",
+        "pcabId": "35840",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "SARGASSO CONSTRUCTION & DEVELOPMENT CORP. (6587)",
+        "pcabId": "6587",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "WIDENING/RECONSTRUCTION OF MALAGAMOT ROAD-JCT. MUDIANG ROAD BYPASS INCL. BRIDGES REPLACEMENT (INTO 4",
+      "abc": "184315000.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2018-07-05 00:00:00.0000000",
+      "bidSubmissionDeadline": "2018-07-31 00:00:00.0000000",
+      "dateOfAward": "2018-08-22 00:00:00.0000000",
+      "awardAmount": "179073186.8"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/18L00166 - PLAN SET 1.rar",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/CONTRACT 18L00166.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/NOA 18L00166.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/CONTRACT 18L00166.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 7.162195,
+    "longitude": 125.6454759,
+    "coordinates": [
+      {
+        "componentId": "P00200409MN-CW1",
+        "description": "Road Widening - Malagamot Road-Jct Mudiang Road Bypass, incl. Bridge, Davao City",
+        "latitude": 7.162195,
+        "longitude": 125.6454759,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00200409MN-CW2",
+        "description": "Replacement of Bridge - Malagamot Road-Jct Mudiang Road Bypass, incl. Bridge, Davao City",
+        "latitude": 7.1617978,
+        "longitude": 125.6437342,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00200409MN-CW3",
+        "description": "Replacement of Bridge - Malagamot Road-Jct Mudiang Road Bypass, incl. Bridge, Davao City",
+        "latitude": 7.1618021,
+        "longitude": 125.6415169,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00200409MN-CW4",
+        "description": "Reconstruction to Concrete Pavement - Malagamot Road-Jct Mudiang Road Bypass, incl. Bridge, Davao City",
+        "latitude": 7.1622865,
+        "longitude": 125.6411436,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00200409MN-CW5",
+        "description": "Construction of Drainage Structure along Road - Malagamot Road-Jct Mudiang Road Bypass, incl. Bridge, Davao City",
+        "latitude": 7.1622624,
+        "longitude": 125.641145,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

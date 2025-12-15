@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "15B00075",
+    "description": "ASSET PRESERVATION OF NAT'L RD:PREVENTIVE MAINTENANCE BASED ON PVM'T MNG'T SYSTEM(HDM-4) SANTIAGO-TU",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 140153994.05,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region II",
+      "province": "Region II",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 17.2439471265104,
+        "longitude": 121.608345804128,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "R.D. INTERIOR JUNIOR CONSTRUCTION (6483)",
+    "startDate": "2016-03-29",
+    "completionDate": "2017-03-31",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-03-29",
+    "expiryDate": "2017-05-02",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00000020LZ-CW1",
+        "description": "Preventive Maintenance of Road: Asphalt Overlay - Santiago-Tuguegarao Rd - K0396+559.50 - K0397+107, K0399+000 - K0403+630, K0404+713 - K0406+000, K0406+880 - K0407+060, K0407+456 - K0408+500, K0413+000 - K0413+484.5",
+        "infraType": "Roads",
+        "typeOfWork": "Preventive Maintenance of Road: Asphalt Overlay",
+        "region": "Region II",
+        "province": "KALINGA",
+        "coordinates": {
+          "latitude": 17.2439471265104,
+          "longitude": 121.608345804128,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "R.D. INTERIOR JUNIOR CONSTRUCTION",
+    "bidders": [
+      {
+        "name": "R.D. INTERIOR JUNIOR CONSTRUCTION (6483)",
+        "pcabId": "6483",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "C.T. LEONCIO CONSTRUCTION & TRADING (17371)",
+        "pcabId": "17371",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "ASSET PRESERVATION OF NAT'L RD:PREVENTIVE MAINTENANCE BASED ON PVM'T MNG'T SYSTEM(HDM-4) SANTIAGO-TU",
+      "abc": "148367403.48",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-11-03 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-12-07 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "141891458.2300000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/may/15b00075-Cont.agreemnt.pdf",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/may/15b00075-Noa.pdf",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/may/15b00075-Cont.agreemnt.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 17.2439471265104,
+    "longitude": 121.608345804128,
+    "coordinates": [
+      {
+        "componentId": "P00000020LZ-CW1",
+        "description": "Preventive Maintenance of Road: Asphalt Overlay - Santiago-Tuguegarao Rd - K0396+559.50 - K0397+107, K0399+000 - K0403+630, K0404+713 - K0406+000, K0406+880 - K0407+060, K0407+456 - K0408+500, K0413+000 - K0413+484.5",
+        "latitude": 17.2439471265104,
+        "longitude": 121.608345804128,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

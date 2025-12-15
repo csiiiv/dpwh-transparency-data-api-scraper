@@ -1,0 +1,97 @@
+{
+  "data": {
+    "contractId": "15BC0178",
+    "description": "OFF-CARRIAGEWAY IMPROVEMENT INCLUDING DRAINAGE ALONG JUNCTION LOGAC-LASAM-GAGABUTAN ROAD K0720+690 - K0721+400, K0721+700 - K0722+529 , K0725+500 - K0726+200, K0727+210- K0728+516,  K0728+542 - K0729+207, LASAM, CAGAYAN",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 45687363.76,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region II",
+      "province": "Cagayan 2nd DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 18.0801143618215,
+        "longitude": 121.592682798708,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "JLL PULSAR CONSTRUCTION CORPORATION (FORMERLY: PULSAR CONSTRUCTION) (24422)",
+    "startDate": "2016-03-08",
+    "completionDate": "2017-03-16",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-03-08",
+    "expiryDate": "2016-11-01",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00003570LZ-CW1",
+        "description": "Off-Carriageway Improvement: Shoulder Paving / Construction - Jct Logac-Lasam-Gagabutan Rd - K0720+690 - K0721+400, K0721+700 - K0722+529, K0725+500 - K0726+200, K0727+210 - K0728+516, K0728+542 - K0729+207",
+        "infraType": "Roads",
+        "typeOfWork": "Off-Carriageway Improvement: Shoulder Paving / Construction",
+        "region": "Region II",
+        "province": "CAGAYAN",
+        "coordinates": {
+          "latitude": 18.0801143618215,
+          "longitude": 121.592682798708,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "JLL PULSAR CONSTRUCTION CORPORATION (FORMERLY: PULSAR CONSTRUCTION)",
+    "bidders": [
+      {
+        "name": "JLL PULSAR CONSTRUCTION CORPORATION (FORMERLY: PULSAR CONSTRUCTION) (24422)",
+        "pcabId": "24422",
+        "participation": 100,
+        "isWinner": true
+      }
+    ],
+    "procurement": {
+      "contractName": "OFF-CARRIAGEWAY IMPROVEMENT INCLUDING DRAINAGE ALONG JUNCTION LOGAC-LASAM-GAGABUTAN ROAD K0720+690 - K0721+400, K0721+700 - K0722+529 , K0725+500 - K0726+200, K0727+210- K0728+516,  K0728+542 - K0729+207, LASAM, CAGAYAN",
+      "abc": "47596640.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-12-31 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-01-28 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "45688290.1800000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/may/15BC0178-Contarct Agreement.jpg",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/15bc0178-noa.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/15bc0178-ntp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 18.0801143618215,
+    "longitude": 121.592682798708,
+    "coordinates": [
+      {
+        "componentId": "P00003570LZ-CW1",
+        "description": "Off-Carriageway Improvement: Shoulder Paving / Construction - Jct Logac-Lasam-Gagabutan Rd - K0720+690 - K0721+400, K0721+700 - K0722+529, K0725+500 - K0726+200, K0727+210 - K0728+516, K0728+542 - K0729+207",
+        "latitude": 18.0801143618215,
+        "longitude": 121.592682798708,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

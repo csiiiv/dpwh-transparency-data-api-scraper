@@ -1,0 +1,109 @@
+{
+  "data": {
+    "contractId": "17GJ0085",
+    "description": "OFF-CARRIAGEWAY IMPROVEMENT: CONSTRUCTION OF BIKE LANES DELGADO ST.- K0001+(-112) - K0001+995",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 5436004.26,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region VI",
+      "province": "Iloilo City DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 10.6978785908065,
+        "longitude": 122.566382025309,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "J. CORDON CONSTRUCTION & SUPPLY (32982)",
+    "startDate": "2017-06-15",
+    "completionDate": "2017-09-17",
+    "infraYear": "2017",
+    "contractEffectivityDate": "2017-06-15",
+    "expiryDate": "2017-08-28",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2017 MFO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00107070VS-CW1",
+        "description": "Off-Carriageway Improvement: Construction of Bike lanes - Delgado St - K0001 + (-291) - K0001 + 995",
+        "infraType": "Roads",
+        "typeOfWork": "Off-Carriageway Improvement: Construction of Bike lanes",
+        "region": "Region VI",
+        "province": "ILOILO",
+        "coordinates": {
+          "latitude": 10.6978785908065,
+          "longitude": 122.566382025309,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "J. CORDON CONSTRUCTION & SUPPLY",
+    "bidders": [
+      {
+        "name": "J. CORDON CONSTRUCTION & SUPPLY (32982)",
+        "pcabId": "32982",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "ALJ CONSTRUCTION AND SUPPLY (30571)",
+        "pcabId": "30571",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "SBF CONSTRUCTION & DEVELOPMENT CORPORATION (11470)",
+        "pcabId": "11470",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "OFF-CARRIAGEWAY IMPROVEMENT: CONSTRUCTION OF BIKE LANES DELGADO ST.- K0001+(-112) - K0001+995",
+      "abc": "5722110.99",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2017-05-11 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-05-30 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "5,436,004.26"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/17GJ0085.zip",
+      "contractAgreement": "",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/noa_17gj0085.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/ntp_17gj0085.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 10.6978785908065,
+    "longitude": 122.566382025309,
+    "coordinates": [
+      {
+        "componentId": "P00107070VS-CW1",
+        "description": "Off-Carriageway Improvement: Construction of Bike lanes - Delgado St - K0001 + (-291) - K0001 + 995",
+        "latitude": 10.6978785908065,
+        "longitude": 122.566382025309,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

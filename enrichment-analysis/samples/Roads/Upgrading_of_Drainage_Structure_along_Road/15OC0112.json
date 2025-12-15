@@ -1,0 +1,115 @@
+{
+  "data": {
+    "contractId": "15OC0112",
+    "description": "REHABILITATION/UPGRADING AND DRAINAGE IMPROVEMENT OF ROMA AMOR ST. AND ITS VICINITY, FROM C-5 ROAD-TARGET RANGE ST.-XYRIS ST.-MILFLORES ST.-ROMA  AMOR ST.-MAKATI PATEROS RIVER, DISTRICT II, MAKATI CITY, METRO MANILA",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 13628125.4,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "National Capital Region",
+      "province": "Metro Manila 2nd DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 14.536726,
+        "longitude": 121.062567,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "R.E. ORLINA CONSTRUCTION CORPORATION (17176)",
+    "startDate": "2016-02-04",
+    "completionDate": "2017-04-12",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-02-04",
+    "expiryDate": "2016-06-02",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-2",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00020043LZ-CW1",
+        "description": "Upgrading of Drainage Structure along Road - Rehabilitation/Upgrading & Drainage Improvement of Roma Amor Street & its Vicinity, from C-5 Road-Target Range St.- Xyris St.- Milflores St.- Roma Amor St.- Makati-Pateros River, District II, Makati City, Metro",
+        "infraType": "Roads",
+        "typeOfWork": "Upgrading of Drainage Structure along Road",
+        "region": "National Capital Region",
+        "province": "METROPOLITAN MANILA",
+        "coordinates": {
+          "latitude": 14.536726,
+          "longitude": 121.062567,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "R.E. ORLINA CONSTRUCTION CORPORATION",
+    "bidders": [
+      {
+        "name": "R.E. ORLINA CONSTRUCTION CORPORATION (17176)",
+        "pcabId": "17176",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "HENSCHA PHILS. INC. (34164)",
+        "pcabId": "34164",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "HONEYVILLECONST AND DEVELOPMENT CORPORATION (32160)",
+        "pcabId": "32160",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "ROSAND BUILDERS CORPORATION (FORMERLY: ROSAND BUILDERS) (15781)",
+        "pcabId": "15781",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "REHABILITATION/UPGRADING AND DRAINAGE IMPROVEMENT OF ROMA AMOR ST. AND ITS VICINITY, FROM C-5 ROAD-TARGET RANGE ST.-XYRIS ST.-MILFLORES ST.-ROMA  AMOR ST.-MAKATI PATEROS RIVER, DISTRICT II, MAKATI CITY, METRO MANILA",
+      "abc": "14475000.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-11-27 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-12-16 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "13628125.4000000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/15oc0112_contract_agreemnt.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/15oc0112_noa_and_resolution.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/15oc0112_ntp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 14.536726,
+    "longitude": 121.062567,
+    "coordinates": [
+      {
+        "componentId": "P00020043LZ-CW1",
+        "description": "Upgrading of Drainage Structure along Road - Rehabilitation/Upgrading & Drainage Improvement of Roma Amor Street & its Vicinity, from C-5 Road-Target Range St.- Xyris St.- Milflores St.- Roma Amor St.- Makati-Pateros River, District II, Makati City, Metro",
+        "latitude": 14.536726,
+        "longitude": 121.062567,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

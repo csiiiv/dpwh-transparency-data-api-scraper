@@ -1,0 +1,85 @@
+{
+  "data": {
+    "contractId": "15CK0171",
+    "description": "CONST & MAINT OF BR ALONG NATL RDS, CONST OF NEW PERMT BR, STO. ROSARIO BR ALONG CONCEPCION-LAPAZ RD",
+    "category": "Bridges",
+    "status": "Completed",
+    "budget": 18421126.32,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region III",
+      "province": "Tarlac 2nd DEO",
+      "infraType": "Bridges",
+      "coordinates": null
+    },
+    "infraType": "Bridges",
+    "contractor": "GVDPM CONSTRUCTION CORP. (FORMERLY: ZM CONSTRUCTIO (9052)",
+    "startDate": "2016-06-03",
+    "completionDate": "2016-10-30",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-06-03",
+    "expiryDate": "2016-10-30",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00017079LZ-CW1",
+        "description": "Construction of Bridge - Sto. Rosario Br. along Concepcion-La Paz Road",
+        "infraType": "Bridges",
+        "typeOfWork": "Construction of Bridge",
+        "region": "Region III",
+        "province": "TARLAC",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "GVDPM CONSTRUCTION CORP. (FORMERLY: ZM CONSTRUCTIO",
+    "bidders": [
+      {
+        "name": "GVDPM CONSTRUCTION CORP. (FORMERLY: ZM CONSTRUCTIO (9052)",
+        "pcabId": "9052",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "STO. CRISTO CONSTRUCTION & TRADING INC. (FOR: STO. CRISTO CONSTRUCTION & TRADING) (26096)",
+        "pcabId": "26096",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONST & MAINT OF BR ALONG NATL RDS, CONST OF NEW PERMT BR, STO. ROSARIO BR ALONG CONCEPCION-LAPAZ RD",
+      "abc": "19599868.85",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-11-22 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-12-11 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "18421126.3200000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "",
+      "noticeOfAward": "",
+      "noticeToProceed": "",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

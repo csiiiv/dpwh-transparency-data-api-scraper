@@ -1,0 +1,97 @@
+{
+  "data": {
+    "contractId": "16HH0084",
+    "description": "OFF-CARRIAGEWAY IMPROVEMENT, CEBU NORTH ROAD, CHAINAGE 0 - CHAINAGE 130 (S00012CB), CEBU CITY",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 1206161.66,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region VII",
+      "province": "Cebu City DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 10.3104583718499,
+        "longitude": 123.893034137222,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "RIKDA CONSTRUCTION & DEVELOPMENT CORPORATION (32758)",
+    "startDate": "2017-02-14",
+    "completionDate": "2017-04-29",
+    "infraYear": "2017",
+    "contractEffectivityDate": "2017-02-14",
+    "expiryDate": "2017-04-29",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2017 MFO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00106009VS-CW1",
+        "description": "Off-Carriageway Improvement: Construction of Loading and Unloading Bays - Cebu North Rd - Chainage 0 - Chainage 130",
+        "infraType": "Roads",
+        "typeOfWork": "Off-Carriageway Improvement: Construction of Loading and Unloading Bays",
+        "region": "Region VII",
+        "province": "CEBU",
+        "coordinates": {
+          "latitude": 10.3104583718499,
+          "longitude": 123.893034137222,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "RIKDA CONSTRUCTION & DEVELOPMENT CORPORATION",
+    "bidders": [
+      {
+        "name": "RIKDA CONSTRUCTION & DEVELOPMENT CORPORATION (32758)",
+        "pcabId": "32758",
+        "participation": 100,
+        "isWinner": true
+      }
+    ],
+    "procurement": {
+      "contractName": "OFF-CARRIAGEWAY IMPROVEMENT, CEBU NORTH ROAD, CHAINAGE 0 - CHAINAGE 130 (S00012CB), CEBU CITY",
+      "abc": "1439620.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-11-14 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-12-13 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "1,418,100.00"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/noa_16hh0084.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/noa_16hh0084.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 10.3104583718499,
+    "longitude": 123.893034137222,
+    "coordinates": [
+      {
+        "componentId": "P00106009VS-CW1",
+        "description": "Off-Carriageway Improvement: Construction of Loading and Unloading Bays - Cebu North Rd - Chainage 0 - Chainage 130",
+        "latitude": 10.3104583718499,
+        "longitude": 123.893034137222,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

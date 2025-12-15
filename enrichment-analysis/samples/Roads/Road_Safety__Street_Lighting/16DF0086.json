@@ -1,0 +1,91 @@
+{
+  "data": {
+    "contractId": "16DF0086",
+    "description": "IMPLEMENTATION OF NATIONAL ROAD LIGHTING PROGRAM (NRLP)(CIVIL WORKS) - PACKAGE 10 KAWIT-NOVELETA DIV",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 36695028.15,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region IV-A",
+      "province": "Cavite 1st DEO",
+      "infraType": "Roads",
+      "coordinates": null
+    },
+    "infraType": "Roads",
+    "contractor": "HEXAMINDZ CORPORATION (FORMERLY:KILUSANG MAGKAIBIG (31666)",
+    "startDate": "2016-04-07",
+    "completionDate": "2016-11-02",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-04-07",
+    "expiryDate": "2016-11-02",
+    "nysReason": null,
+    "programName": "Outside Infra",
+    "sourceOfFunds": "Outside Infra - Special Road Support Fund 2016",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00090010LZ-CW1",
+        "description": "Road Safety: Street Lighting - National Road Lighting Program (Civil Works) package 10 along Kawit - Noveleta Diversion Road, Cavite. K0022+(-364) to K0025+438",
+        "infraType": "Roads",
+        "typeOfWork": "Road Safety: Street Lighting",
+        "region": "Region IV-A",
+        "province": "CAVITE",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "HEXAMINDZ CORPORATION (FORMERLY:KILUSANG MAGKAIBIG",
+    "bidders": [
+      {
+        "name": "HEXAMINDZ CORPORATION (FORMERLY:KILUSANG MAGKAIBIG (31666)",
+        "pcabId": "31666",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "C.T. LEONCIO CONSTRUCTION & TRADING (17371)",
+        "pcabId": "17371",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "TRIPLE 8 CONSTRUCTION & SUPPLY, INC. (FORMERLY TRIPLE 8 CONST. & SUPPLY) (10684)",
+        "pcabId": "10684",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "IMPLEMENTATION OF NATIONAL ROAD LIGHTING PROGRAM (NRLP)(CIVIL WORKS) - PACKAGE 10 KAWIT-NOVELETA DIV",
+      "abc": "38080000.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-02-24 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-03-23 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "36,695,028.15"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/16df0086_contract.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/16df0086_noa.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/16df0086_ntp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

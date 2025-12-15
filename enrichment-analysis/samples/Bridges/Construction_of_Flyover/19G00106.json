@@ -1,0 +1,145 @@
+{
+  "data": {
+    "contractId": "19G00106",
+    "description": "CONSTRUCTION OF UNGKA FLYOVER (PHASE 2), BRGY. UNGKA, PAVIA, ILOILO",
+    "category": "Bridges",
+    "status": "Completed",
+    "budget": 190051855.11,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region VI",
+      "province": "Region VI",
+      "infraType": "Bridges",
+      "coordinates": {
+        "latitude": 10.7487457,
+        "longitude": 122.5389446,
+        "verified": false
+      }
+    },
+    "infraType": "Bridges",
+    "contractor": "IBC INTERNATIONAL BUILDERS CORPORATION (8576)",
+    "startDate": "2020-02-28",
+    "completionDate": "2021-11-26",
+    "infraYear": "2019",
+    "contractEffectivityDate": "2020-02-28",
+    "expiryDate": "2021-11-26",
+    "nysReason": null,
+    "programName": "Outside Infra",
+    "sourceOfFunds": "Outside Infra - Contingent Fund 2019",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00391001VS-CW1",
+        "description": "Construction of Flyover - Construction of Ungka Flyover (Phase 2), Brgy. Ungka, Pavia, Iloilo",
+        "infraType": "Bridges",
+        "typeOfWork": "Construction of Flyover",
+        "region": "Region VI",
+        "province": "ILOILO",
+        "coordinates": {
+          "latitude": 10.7487457,
+          "longitude": 122.5389446,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "IBC INTERNATIONAL BUILDERS CORPORATION",
+    "bidders": [
+      {
+        "name": "IBC INTERNATIONAL BUILDERS CORPORATION (8576)",
+        "pcabId": "8576",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "A.C. RIVERO DEVELOPMENT CORPORATION (5122)",
+        "pcabId": "5122",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "A.D. PENDON CONSTRUCTION & SUPPLY, INC. (FORMERLY: ADP CONSTRUCTION & SUPPLY) (3466)",
+        "pcabId": "3466",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "F. GURREA CONSTRUCTION, INCORPORATED (6995)",
+        "pcabId": "6995",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "MAC BUILDERS CORP. (FORMERLY: MAC BUILDERS DEVELOPMENT CORPORATION) (7249)",
+        "pcabId": "7249",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "MONOLITHIC CONSTRUCTION & CONCRETE PRODUCTS, INC. (5733)",
+        "pcabId": "5733",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "PHILWORKS CONSTRUCTION & SUPPLY (32103)",
+        "pcabId": "32103",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "SARGASSO CONSTRUCTION & DEVELOPMENT CORP. (6587)",
+        "pcabId": "6587",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "SUPREME ABF CONST. & CONST. SUPPLY COMPANY INC. (25226)",
+        "pcabId": "25226",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION OF UNGKA FLYOVER (PHASE 2), BRGY. UNGKA, PAVIA, ILOILO",
+      "abc": "191552500.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2020-01-22 00:00:00.0000000",
+      "bidSubmissionDeadline": "2020-02-17 00:00:00.0000000",
+      "dateOfAward": "2020-02-21 00:00:00.0000000",
+      "awardAmount": "181900000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/19G00106 CONTRACT.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/19g00106_noa.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/19g00106_ntp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 10.7487457,
+    "longitude": 122.5389446,
+    "coordinates": [
+      {
+        "componentId": "P00391001VS-CW1",
+        "description": "Construction of Flyover - Construction of Ungka Flyover (Phase 2), Brgy. Ungka, Pavia, Iloilo",
+        "latitude": 10.7487457,
+        "longitude": 122.5389446,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

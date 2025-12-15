@@ -1,0 +1,115 @@
+{
+  "data": {
+    "contractId": "15K00138",
+    "description": "CONST./UPGRADING/REHAB. OF DRAINAGE ALONG NATL ROADS,LINAMON-ZAMBOANGA RD,LDN",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 28627416.55,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region X",
+      "province": "Region X",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 7.9252760926785,
+        "longitude": 123.772896671611,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "LANAO BUILDER AND ENTERPRISES (15982)",
+    "startDate": "2016-04-18",
+    "completionDate": "2016-11-07",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-04-18",
+    "expiryDate": "2016-11-07",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - Flood Control/Hydraulics/Drainage, Roads: Construction - PCCP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00003142MN-CW1",
+        "description": "Rehabilitation / Major Repair of Drainage Structure along Road - Linamon-Zamboanga Rd - K1600+000 - K1602+756, K1617+891 - K1617+901, K1617+712 - K1617+722, K1618+270 - K1618+300",
+        "infraType": "Roads",
+        "typeOfWork": "Rehabilitation / Major Repair of Drainage Structure along Road",
+        "region": "Region X",
+        "province": "ZAMBOANGA DEL SUR",
+        "coordinates": {
+          "latitude": 7.9252760926785,
+          "longitude": 123.772896671611,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "LANAO BUILDER AND ENTERPRISES",
+    "bidders": [
+      {
+        "name": "LANAO BUILDER AND ENTERPRISES (15982)",
+        "pcabId": "15982",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "AL HUSSEIN CONSTRUCTION (18438)",
+        "pcabId": "18438",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "D.C.M. CONSTRUCTION (5641)",
+        "pcabId": "5641",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "GICAR CONSTRUCTION, INC. (12624)",
+        "pcabId": "12624",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONST./UPGRADING/REHAB. OF DRAINAGE ALONG NATL ROADS,LINAMON-ZAMBOANGA RD,LDN",
+      "abc": "30502875.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-09-30 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-11-25 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "28627416.5500000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/15k00138_ca.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/15k00138_notice_of_award.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/15k00138_ntp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 7.9252760926785,
+    "longitude": 123.772896671611,
+    "coordinates": [
+      {
+        "componentId": "P00003142MN-CW1",
+        "description": "Rehabilitation / Major Repair of Drainage Structure along Road - Linamon-Zamboanga Rd - K1600+000 - K1602+756, K1617+891 - K1617+901, K1617+712 - K1617+722, K1618+270 - K1618+300",
+        "latitude": 7.9252760926785,
+        "longitude": 123.772896671611,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

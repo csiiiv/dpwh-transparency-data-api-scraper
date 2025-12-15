@@ -1,0 +1,115 @@
+{
+  "data": {
+    "contractId": "18CG0332",
+    "description": "CHANNEL IMPROVEMENT AND PROVISION OF CONCRETE SLOPE PROTECTION OF PALAMAN RIVER, MINALIN, PAMPANGA",
+    "category": "Flood Control and Drainage",
+    "status": "Completed",
+    "budget": 18558295,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region III",
+      "province": "Pampanga 1st DEO",
+      "infraType": "Flood Control and Drainage",
+      "coordinates": {
+        "latitude": 15.0819824,
+        "longitude": 120.6365664,
+        "verified": false
+      }
+    },
+    "infraType": "Flood Control and Drainage",
+    "contractor": "BANCAL CONSTRUCTION AND SUPPLY (34050)",
+    "startDate": "2018-09-17",
+    "completionDate": "2019-01-14",
+    "infraYear": "2018",
+    "contractEffectivityDate": "2018-09-17",
+    "expiryDate": "2019-01-14",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2018 OO-2",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00222132LZ-CW1",
+        "description": "Construction of Cutoff Channel - Channel Improvement and Provision of Concrete Slope Protection of Palaman River, Minalin, Pampanga",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Construction of Cutoff Channel",
+        "region": "Region III",
+        "province": "PAMPANGA",
+        "coordinates": {
+          "latitude": 15.0819824,
+          "longitude": 120.6365664,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "BANCAL CONSTRUCTION AND SUPPLY",
+    "bidders": [
+      {
+        "name": "BANCAL CONSTRUCTION AND SUPPLY (34050)",
+        "pcabId": "34050",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "CEDAR CONSTRUCTION (24865)",
+        "pcabId": "24865",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "E.B. MATIAS CONSTRUCTION & TRADING (24996)",
+        "pcabId": "24996",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "STO. CRISTO CONSTRUCTION & TRADING INC. (FOR: STO. CRISTO CONSTRUCTION & TRADING) (26096)",
+        "pcabId": "26096",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CHANNEL IMPROVEMENT AND PROVISION OF CONCRETE SLOPE PROTECTION OF PALAMAN RIVER, MINALIN, PAMPANGA",
+      "abc": "19600000.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2018-08-02 00:00:00.0000000",
+      "bidSubmissionDeadline": "2018-08-23 00:00:00.0000000",
+      "dateOfAward": "2018-08-30 00:00:00.0000000",
+      "awardAmount": "18558295"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/18CG0332.doc",
+      "contractAgreement": "",
+      "noticeOfAward": "",
+      "noticeToProceed": "",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 15.0819824,
+    "longitude": 120.6365664,
+    "coordinates": [
+      {
+        "componentId": "P00222132LZ-CW1",
+        "description": "Construction of Cutoff Channel - Channel Improvement and Provision of Concrete Slope Protection of Palaman River, Minalin, Pampanga",
+        "latitude": 15.0819824,
+        "longitude": 120.6365664,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

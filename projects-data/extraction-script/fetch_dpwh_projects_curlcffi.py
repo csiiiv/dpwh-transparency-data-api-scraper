@@ -6,6 +6,15 @@ import time
 import threading
 from curl_cffi import requests
 from concurrent.futures import ThreadPoolExecutor, as_completed
+import re
+import sys
+
+try:
+    import duckdb
+    DUCKDB_AVAILABLE = True
+except Exception:
+    duckdb = None
+    DUCKDB_AVAILABLE = False
 
 # TLS fingerprint pool for curl_cffi impersonate (expanded, filtered)
 BASE_DIR = os.path.dirname(__file__)
@@ -14,31 +23,26 @@ REPO_ROOT = os.path.abspath(os.path.join(BASE_DIR, "..", ".."))
 DATA_ROOT = os.path.abspath(os.path.join(BASE_DIR, ".."))  # projects-data
 OUTPUT_DIR = os.path.join(DATA_ROOT, "dpwh-projects-api")
 
-# Correct path to parquet dataset which resides under dwph-transparency-api
-PARQUET_PATH = os.path.join(REPO_ROOT, "dwph-transparency-api", "combined_dpwh_transparency_data.parquet")
+# Allow importing shared helpers from repo root when running this script directly.
+if REPO_ROOT not in sys.path:
+    sys.path.insert(0, REPO_ROOT)
 
-# Path for never-success TLS list under the output data directory
-NEVER_SUCCESS_TLS_PATH = os.path.join(OUTPUT_DIR, "never_success_tls.json")
-try:
-    with open(NEVER_SUCCESS_TLS_PATH, "r") as f:
-        NEVER_SUCCESS_TLS = set(json.load(f)["never_success_tls"])
-except Exception:
-    NEVER_SUCCESS_TLS = set()
-IMPERSONATE_POOL = [
-    # Chrome (latest and recent)
-    "chrome120", "chrome119", "chrome118", "chrome117", "chrome116", "chrome115", "chrome114", "chrome113", "chrome112", "chrome111", "chrome110",
-    "chrome109", "chrome108", "chrome107", "chrome106", "chrome105", "chrome104", "chrome103", "chrome102", "chrome101", "chrome100",
-    # Firefox (latest and recent)
-    "firefox119", "firefox118", "firefox117", "firefox116", "firefox115", "firefox114", "firefox113", "firefox112", "firefox111", "firefox110",
-    "firefox109", "firefox108", "firefox107", "firefox106", "firefox105", "firefox104", "firefox103", "firefox102", "firefox101", "firefox100",
-    # Safari (latest and recent)
-    "safari17_0", "safari16_6", "safari16_3", "safari16_0", "safari15_6_1", "safari15_3", "safari15_1", "safari14_1",
-    # Edge (latest and recent)
-    "edge119", "edge118", "edge117", "edge116", "edge115", "edge114", "edge113", "edge112", "edge111", "edge110",
-    # Opera (latest and recent)
-    "opera102", "opera101", "opera100", "opera99", "opera98", "opera97", "opera96", "opera95"
-]
-IMPERSONATE_POOL = [fp for fp in IMPERSONATE_POOL if fp not in NEVER_SUCCESS_TLS]
+from impersonation_pool_manager import default_manager
+
+# Correct path to parquet dataset built from base-data JSON pages
+PARQUET_PATH = os.path.join(REPO_ROOT, "base-data", "archive", "combined_dpwh_transparency_data.parquet")
+
+# DuckDB configuration
+DUCKDB_PATH = os.path.join(OUTPUT_DIR, "dpwh_projects.duckdb")
+# When True, successful contract responses are written into DuckDB instead of per-ID JSON files.
+USE_DUCKDB = True
+# Optionally keep the old per-ID JSON files alongside DuckDB for debugging/backups.
+WRITE_JSON_FILES = False
+
+duckdb_conn = None
+duckdb_lock = threading.Lock() if DUCKDB_AVAILABLE else None
+
+impersonation_manager = default_manager(REPO_ROOT)
 
  # (Replaced above with absolute paths for robustness)
 API_URL = "https://api.transparency.dpwh.gov.ph/projects/{}"
@@ -86,6 +90,32 @@ df = pd.read_parquet(PARQUET_PATH)
 contract_ids = df['contractId'].dropna().unique()
 
 progress_log_path = os.path.join(OUTPUT_DIR, "progress_stats.json")
+
+
+def init_duckdb():
+    """
+    Initialize DuckDB connection and target table.
+
+    We purposely keep the schema minimal – a raw JSON column keyed by contractId –
+    so we don't have to chase upstream schema changes. Downstream analytics can
+    use DuckDB's JSON extension to work with the data.
+    """
+    global duckdb_conn
+    if not DUCKDB_AVAILABLE or not USE_DUCKDB:
+        return
+    # Ensure output directory exists (already created above, but keep this safe)
+    os.makedirs(OUTPUT_DIR, exist_ok=True)
+    # Open connection once for the whole process
+    duckdb_conn = duckdb.connect(DUCKDB_PATH)
+    # Create table if it doesn't exist; contract_id is primary key so re-runs can upsert
+    duckdb_conn.execute(
+        """
+        CREATE TABLE IF NOT EXISTS projects_raw (
+            contract_id TEXT PRIMARY KEY,
+            json TEXT
+        )
+        """
+    )
 
 
 # Accept-Language headers for rotation
@@ -144,6 +174,13 @@ proxy_stats = {proxy: {"success": 0, "fail": 0, "block": 0, "exception": 0, "tim
 # TLS fingerprint stats
 tls_stats = {}
 tls_error_types = ["success", "fail", "block", "exception", "timeout", "curl_7", "curl_35", "curl_56", "rate_limited"]
+
+
+def _blacklist_impersonation(fp: str, *, reason: str) -> None:
+    fp = (fp or "").strip()
+    if not fp:
+        return
+    impersonation_manager.disable(fp, reason=reason)
 
 # Global rate limit tracking for non-proxy requests
 rate_limit_state = {
@@ -323,7 +360,7 @@ def fetch_and_save(cid):
         # Always add Origin
         req_headers["Origin"] = "https://transparency.dpwh.gov.ph"
         # Rotate impersonate (TLS fingerprint) for each request
-        impersonate_choice = random.choice(IMPERSONATE_POOL)
+        impersonate_choice = impersonation_manager.choose().fingerprint
         if impersonate_choice not in tls_stats:
             tls_stats[impersonate_choice] = {err: 0 for err in tls_error_types}
         try:
@@ -381,11 +418,33 @@ def fetch_and_save(cid):
                 if proxy is None and rate_limit_state["non_proxy_rate_limited"]:
                     print(f"[RATE LIMIT LIFTED] Non-proxy rate limit appears to be lifted.")
                     rate_limit_state["non_proxy_rate_limited"] = False
-                with open(out_path, 'w', encoding='utf-8') as f:
-                    f.write(resp.text)
-                print(f"[SUCCESS] {cid}: Saved JSON to {out_path}")
+                # Persist successful response
+                if DUCKDB_AVAILABLE and USE_DUCKDB and duckdb_conn is not None:
+                    # Store raw JSON text keyed by contract_id; guarded by a lock for thread safety
+                    if duckdb_lock is not None:
+                        with duckdb_lock:
+                            duckdb_conn.execute(
+                                "INSERT OR REPLACE INTO projects_raw (contract_id, json) VALUES (?, ?)",
+                                [str(cid), resp.text],
+                            )
+                    else:
+                        duckdb_conn.execute(
+                            "INSERT OR REPLACE INTO projects_raw (contract_id, json) VALUES (?, ?)",
+                            [str(cid), resp.text],
+                        )
+                    print(f"[SUCCESS] {cid}: Saved JSON to DuckDB at {DUCKDB_PATH}")
+                    # Optionally keep per-ID JSON files for debugging/backups
+                    if WRITE_JSON_FILES:
+                        with open(out_path, 'w', encoding='utf-8') as f:
+                            f.write(resp.text)
+                else:
+                    # Fallback: preserve original per-ID JSON behavior
+                    with open(out_path, 'w', encoding='utf-8') as f:
+                        f.write(resp.text)
+                    print(f"[SUCCESS] {cid}: Saved JSON to {out_path}")
                 # TLS fingerprint success stat
                 tls_stats[impersonate_choice]["success"] += 1
+                impersonation_manager.report_success(impersonate_choice)
                 # Append to successful log files and cache
                 with open(os.path.join(lists_dir, "successful_ids.txt"), "a") as stxt:
                     stxt.write(f"{cid}\n")
@@ -406,6 +465,7 @@ def fetch_and_save(cid):
             elif 'Just a moment' in resp.text:
                 print(f"[BLOCKED] {cid}: Cloudflare block detected (attempt {attempt}). Retrying after delay.")
                 tls_stats[impersonate_choice]["block"] += 1
+                impersonation_manager.report_failure(impersonate_choice, reason="block")
                 blocked_this_id = True
                 retries_for_id += 1
                 if proxy:
@@ -420,9 +480,21 @@ def fetch_and_save(cid):
                 print(f"[ERROR] {cid}: Non-JSON or error response (attempt {attempt}). Saving raw response to {raw_path}")
                 with open(raw_path, 'w', encoding='utf-8') as f:
                     f.write(resp.text)
+                # Detect impersonation-not-supported messages in response body and blacklist
+                try:
+                    body_lower = resp.text.lower()
+                    if "impersonating" in body_lower and "not supported" in body_lower:
+                        m = re.search(r"impersonating\s+([a-z0-9_]+)\s+is not supported", body_lower)
+                        if m:
+                            fp = m.group(1)
+                            print(f"[BLACKLIST] Detected unsupported fingerprint: {fp}")
+                            _blacklist_impersonation(fp, reason="not_supported")
+                except Exception:
+                    pass
                 fail_this_id = True
                 # TLS fingerprint error stats
                 tls_stats[impersonate_choice]["fail"] += 1
+                impersonation_manager.report_failure(impersonate_choice, reason="http_fail")
                 # Exception/error types
                 msg = resp.text.lower()
                 if "exception" in msg:
@@ -456,6 +528,33 @@ def fetch_and_save(cid):
             msg = str(e).lower()
             # TLS fingerprint error stats
             tls_stats[impersonate_choice]["exception"] += 1
+            # If exception message indicates unsupported impersonation, blacklist it
+            try:
+                msg = str(e).lower()
+                if "not supported" in msg and "impersonating" in msg:
+                    m = re.search(r"impersonating\s+([a-z0-9_]+)\s+is not supported", msg)
+                    if m:
+                        fp = m.group(1)
+                        print(f"[BLACKLIST] Detected unsupported fingerprint from exception: {fp}")
+                        _blacklist_impersonation(fp, reason="not_supported")
+            except Exception:
+                pass
+
+            # Track continuous failures for this fingerprint (used to auto-demote across runs)
+            try:
+                reason = "exception"
+                low = str(e).lower()
+                if "curl: (35)" in low:
+                    reason = "curl_35"
+                elif "curl: (56)" in low:
+                    reason = "curl_56"
+                elif "curl: (7)" in low or "failed to connect" in low:
+                    reason = "curl_7"
+                elif "timeout" in low:
+                    reason = "timeout"
+                impersonation_manager.report_failure(impersonate_choice, reason=reason)
+            except Exception:
+                pass
             if "timeout" in msg:
                 tls_stats[impersonate_choice]["timeout"] += 1
             if "curl: (7)" in msg:
@@ -578,6 +677,14 @@ if __name__ == "__main__":
     print(f"[INFO] Using {len(PROXIES)} proxies")
     from threading import Lock
     stats_lock = Lock()
+    if DUCKDB_AVAILABLE and USE_DUCKDB:
+        try:
+            init_duckdb()
+            print(f"[INFO] DuckDB enabled. Writing successful responses to {DUCKDB_PATH}")
+        except Exception as e:
+            # If DuckDB initialization fails, fall back to JSON files only
+            print(f"[WARNING] Failed to initialize DuckDB at {DUCKDB_PATH}: {e}")
+            print("[WARNING] Falling back to per-ID JSON files.")
     # Start progress logger thread
     progress_logger = ProgressLogger(interval=10)
     progress_logger.daemon = True

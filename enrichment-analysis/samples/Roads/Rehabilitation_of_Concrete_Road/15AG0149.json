@@ -1,0 +1,109 @@
+{
+  "data": {
+    "contractId": "15AG0149",
+    "description": "REHAB/RECONSTRUCTION/UPGRADING OF DAMAGED PAVED NAT'L ROAD INCLUDING DRAINAGE BASED ON PMS/HDM AT AL",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 7618605.95,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region I",
+      "province": "Pangasinan 1st DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 16.1751671921953,
+        "longitude": 119.991220858438,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "BERSON'S CONSTRUCTION & TRADING (31181)",
+    "startDate": "2016-01-14",
+    "completionDate": "2016-04-15",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-01-14",
+    "expiryDate": "2016-04-22",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - Roads: Rehabilitation - Asphalt, Roads: Rehabilitation - PCCP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00001555LZ-CW1",
+        "description": "Rehabilitation of Concrete Road - Alaminos-Lucap Rd - K0323+440 - K0323+620, K0323+735 - K0324+000, K0325+240 - K0325+290",
+        "infraType": "Roads",
+        "typeOfWork": "Rehabilitation of Concrete Road",
+        "region": "Region I",
+        "province": "PANGASINAN",
+        "coordinates": {
+          "latitude": 16.1751671921953,
+          "longitude": 119.991220858438,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "BERSON'S CONSTRUCTION & TRADING",
+    "bidders": [
+      {
+        "name": "BERSON'S CONSTRUCTION & TRADING (31181)",
+        "pcabId": "31181",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "ALCEL CONSTRUCTION (15129)",
+        "pcabId": "15129",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "JASA GD 2000 CONSTRUCTION CORPORATION (FORMERLY:JASA BUILDER'S) (31330)",
+        "pcabId": "31330",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "REHAB/RECONSTRUCTION/UPGRADING OF DAMAGED PAVED NAT'L ROAD INCLUDING DRAINAGE BASED ON PMS/HDM AT AL",
+      "abc": "7618715.07",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-11-23 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-12-14 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "7234921.2600000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/april/15AG0149CONTRACT.pdf",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/april/15AG0149AWARD.pdf",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/april/15AG0149CONTRACT.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 16.1751671921953,
+    "longitude": 119.991220858438,
+    "coordinates": [
+      {
+        "componentId": "P00001555LZ-CW1",
+        "description": "Rehabilitation of Concrete Road - Alaminos-Lucap Rd - K0323+440 - K0323+620, K0323+735 - K0324+000, K0325+240 - K0325+290",
+        "latitude": 16.1751671921953,
+        "longitude": 119.991220858438,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

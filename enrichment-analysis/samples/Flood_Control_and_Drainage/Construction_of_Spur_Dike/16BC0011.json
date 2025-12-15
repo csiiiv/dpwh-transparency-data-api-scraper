@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "16BC0011",
+    "description": "REHABILITATION OF ABULUG RIVER FLOOD CONTROL PROJECT, CANAYUN, ABULUG, CAGAYAN",
+    "category": "Flood Control and Drainage",
+    "status": "Completed",
+    "budget": 45231506.01,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region II",
+      "province": "Cagayan 2nd DEO",
+      "infraType": "Flood Control and Drainage",
+      "coordinates": {
+        "latitude": 18.3931575,
+        "longitude": 121.4260818,
+        "verified": false
+      }
+    },
+    "infraType": "Flood Control and Drainage",
+    "contractor": "EGB CONSTRUCTION CORPORATION (FORMERLY: EGB CONSTRUCTION) (13722)",
+    "startDate": "2016-06-09",
+    "completionDate": "2017-06-02",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-06-09",
+    "expiryDate": "2017-03-05",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-2",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00022667LZ-CW1",
+        "description": "Construction of Spur Dike - Rehabilitation of Abulug River Flood Control Project, Abulug, Cagayan, Sta. 0+000 - Sta. 0+320",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Construction of Spur Dike",
+        "region": "Region II",
+        "province": "CAGAYAN",
+        "coordinates": {
+          "latitude": 18.3931575,
+          "longitude": 121.4260818,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "EGB CONSTRUCTION CORPORATION (FORMERLY: EGB CONSTRUCTION)",
+    "bidders": [
+      {
+        "name": "EGB CONSTRUCTION CORPORATION (FORMERLY: EGB CONSTRUCTION) (13722)",
+        "pcabId": "13722",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "E.C.T. CONSTRUCTION (10060)",
+        "pcabId": "10060",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "REHABILITATION OF ABULUG RIVER FLOOD CONTROL PROJECT, CANAYUN, ABULUG, CAGAYAN",
+      "abc": "46180075.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-04-05 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-04-26 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "45231506.01"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/august/16BC0011-CONTRACT AGREEMENT.pdf",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/august/16BC0011-NOA.pdf",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/august/16BC0011-CONTRACT AGREEMENT.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 18.3931575,
+    "longitude": 121.4260818,
+    "coordinates": [
+      {
+        "componentId": "P00022667LZ-CW1",
+        "description": "Construction of Spur Dike - Rehabilitation of Abulug River Flood Control Project, Abulug, Cagayan, Sta. 0+000 - Sta. 0+320",
+        "latitude": 18.3931575,
+        "longitude": 121.4260818,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

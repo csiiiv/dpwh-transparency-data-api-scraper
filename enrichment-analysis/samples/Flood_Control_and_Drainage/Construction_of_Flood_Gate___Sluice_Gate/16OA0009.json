@@ -1,0 +1,133 @@
+{
+  "data": {
+    "contractId": "16OA0009",
+    "description": "REHAB./CONST. OF FLOODGATES/PUMPING STATIONS/RIVERWALL  ALONG MALABON-TULLAHAN RIVER, MALABON CITY",
+    "category": "Flood Control and Drainage",
+    "status": "Completed",
+    "budget": 35570080.06,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "National Capital Region",
+      "province": "Malabon-Navotas DEO",
+      "infraType": "Flood Control and Drainage",
+      "coordinates": {
+        "latitude": 14.673819,
+        "longitude": 120.955913,
+        "verified": false
+      }
+    },
+    "infraType": "Flood Control and Drainage",
+    "contractor": "ORANI CONSTRUCTION AND SUPPLY CORPORATION (FORMERLY:ORANI BUILDERS & SUPPLY) (05349)",
+    "startDate": "2016-02-12",
+    "completionDate": "2016-09-04",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-02-12",
+    "expiryDate": "2016-09-04",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-2",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00020021LZ-CW1",
+        "description": "Construction of Flood Gate / Sluice Gate - Rehabilitation/Construction of Floodgates/Pumping Stations/Riverwall along Malabon-Tullahan River, Malabon City",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Construction of Flood Gate / Sluice Gate",
+        "region": "National Capital Region",
+        "province": "METROPOLITAN MANILA",
+        "coordinates": {
+          "latitude": 14.673819,
+          "longitude": 120.955913,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "ORANI CONSTRUCTION AND SUPPLY CORPORATION (FORMERLY:ORANI BUILDERS & SUPPLY)",
+    "bidders": [
+      {
+        "name": "ORANI CONSTRUCTION AND SUPPLY CORPORATION (FORMERLY:ORANI BUILDERS & SUPPLY) (05349)",
+        "pcabId": "05349",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "ARCINUE COMM'L CORPORATION (6746)",
+        "pcabId": "6746",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "CHIARA2300 INCORPORATED (8736)",
+        "pcabId": "8736",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "ED1SON DEVELOPMENT & CONSTRUCTION INC. (2400)",
+        "pcabId": "2400",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "M.G. SALAZAR CONSTRUCTION CORP. (FOR. M.G. SALAZAR (4072)",
+        "pcabId": "4072",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "MONOLITHIC CONSTRUCTION & CONCRETE PRODUCTS, INC. (5733)",
+        "pcabId": "5733",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "R.D. TALENS CONSTRUCTION AND TRADING (36817)",
+        "pcabId": "36817",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "REHAB./CONST. OF FLOODGATES/PUMPING STATIONS/RIVERWALL  ALONG MALABON-TULLAHAN RIVER, MALABON CITY",
+      "abc": "38599397.80",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-11-27 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-12-17 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "35,844,120.95"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/contract_agreement-016oa0009.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/noa-016oa0009.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/ntp-016oa0009.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 14.673819,
+    "longitude": 120.955913,
+    "coordinates": [
+      {
+        "componentId": "P00020021LZ-CW1",
+        "description": "Construction of Flood Gate / Sluice Gate - Rehabilitation/Construction of Floodgates/Pumping Stations/Riverwall along Malabon-Tullahan River, Malabon City",
+        "latitude": 14.673819,
+        "longitude": 120.955913,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

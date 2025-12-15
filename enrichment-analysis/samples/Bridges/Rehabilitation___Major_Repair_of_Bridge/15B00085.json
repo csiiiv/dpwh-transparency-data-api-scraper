@@ -1,0 +1,85 @@
+{
+  "data": {
+    "contractId": "15B00085",
+    "description": "CONST'N & MAINTENANACE OF PERMANENT BRIDGES ALONG NAT'L RDS.;REHAB/MAJOR REPAIR OF PUZZER BRIDGE ALO",
+    "category": "Bridges",
+    "status": "Completed",
+    "budget": 9416407.57,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region II",
+      "province": "Region II",
+      "infraType": "Bridges",
+      "coordinates": null
+    },
+    "infraType": "Bridges",
+    "contractor": "ORANI CONSTRUCTION AND SUPPLY CORPORATION (FORMERLY:ORANI BUILDERS & SUPPLY) (05349)",
+    "startDate": "2016-03-15",
+    "completionDate": "2016-07-04",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-03-15",
+    "expiryDate": "2016-07-08",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00001869LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Bridge - Puzzer Br. (B01189LZ) along Daang Maharlika (LZ)",
+        "infraType": "Bridges",
+        "typeOfWork": "Rehabilitation / Major Repair of Bridge",
+        "region": "Region II",
+        "province": "ISABELA",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "ORANI CONSTRUCTION AND SUPPLY CORPORATION (FORMERLY:ORANI BUILDERS & SUPPLY)",
+    "bidders": [
+      {
+        "name": "ORANI CONSTRUCTION AND SUPPLY CORPORATION (FORMERLY:ORANI BUILDERS & SUPPLY) (05349)",
+        "pcabId": "05349",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "ORANI CONSTRUCTION AND SUPPLY CORPORATION (FORMERLY:ORANI BUILDERS & SUPPLY) (5349)",
+        "pcabId": "5349",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONST'N & MAINTENANACE OF PERMANENT BRIDGES ALONG NAT'L RDS.;REHAB/MAJOR REPAIR OF PUZZER BRIDGE ALO",
+      "abc": "9750000.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-11-18 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-12-15 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "9416407.5700000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/may/15b00085-Cont.agreemnt.pdf",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/may/15b00085-Noa.pdf",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/may/15b00085-Cont.agreemnt.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

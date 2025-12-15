@@ -1,0 +1,121 @@
+{
+  "data": {
+    "contractId": "18J00007",
+    "description": "CONSTRUCTION OF FLYOVERS/INTERCHANGES/UNDERPASSES/LONG SPAN BRIDGES, GOVERNOR CAMINS/MCLL HIGHWAY AND VETERANS AVENUE FLYOVER INCLUDING ROW, ZAMBOANGA CITY",
+    "category": "Bridges",
+    "status": "On-Going",
+    "budget": 233278938.97,
+    "amountPaid": 0,
+    "progress": 56.54,
+    "location": {
+      "region": "Region IX",
+      "province": "Region IX",
+      "infraType": "Bridges",
+      "coordinates": {
+        "latitude": 6.9216397,
+        "longitude": 122.0778861,
+        "verified": false
+      }
+    },
+    "infraType": "Bridges",
+    "contractor": "FREY-FIL CORPORATION (FORMERLY:FREYSSINET FILIPINA (31521)",
+    "startDate": "2018-09-30",
+    "completionDate": null,
+    "infraYear": "2018",
+    "contractEffectivityDate": "2018-09-30",
+    "expiryDate": "2023-11-13",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2018 OO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00200469MN-CW1",
+        "description": "Construction of Flyover - Governor Camins/MCLL Highway and Veterans Avenue Flyover incl. ROW, Zamboanga City",
+        "infraType": "Bridges",
+        "typeOfWork": "Construction of Flyover",
+        "region": "Region IX",
+        "province": "ZAMBOANGA DEL SUR",
+        "coordinates": {
+          "latitude": 6.9216397,
+          "longitude": 122.0778861,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "FREY-FIL CORPORATION (FORMERLY:FREYSSINET FILIPINA",
+    "bidders": [
+      {
+        "name": "FREY-FIL CORPORATION (FORMERLY:FREYSSINET FILIPINA (31521)",
+        "pcabId": "31521",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "GRACE CONSTRUCTION CORPORATION (3771)",
+        "pcabId": "3771",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "PHESCO, INCORPORATED (145)",
+        "pcabId": "145",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "P.L. SEBASTIAN CONSTRUCTION, INC. (FORMERLY: P.L. SEBASTIAN CONSTRUCTION) (35840)",
+        "pcabId": "35840",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "VICENTE T. LAO CONSTRUCTION (7040)",
+        "pcabId": "7040",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION OF FLYOVERS/INTERCHANGES/UNDERPASSES/LONG SPAN BRIDGES, GOVERNOR CAMINS/MCLL HIGHWAY AND VETERANS AVENUE FLYOVER INCLUDING ROW, ZAMBOANGA CITY",
+      "abc": "238040350.46",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2017-10-06 00:00:00.0000000",
+      "bidSubmissionDeadline": "2018-08-08 00:00:00.0000000",
+      "dateOfAward": "2018-09-07 00:00:00.0000000",
+      "awardAmount": "233,278,938.97"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/Bidding Documents with Plans 18J00007.rar",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/Contract Agreement 18J00007.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/NOA 18J00007.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/Contract Agreement 18J00007.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 6.9216397,
+    "longitude": 122.0778861,
+    "coordinates": [
+      {
+        "componentId": "P00200469MN-CW1",
+        "description": "Construction of Flyover - Governor Camins/MCLL Highway and Veterans Avenue Flyover incl. ROW, Zamboanga City",
+        "latitude": 6.9216397,
+        "longitude": 122.0778861,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

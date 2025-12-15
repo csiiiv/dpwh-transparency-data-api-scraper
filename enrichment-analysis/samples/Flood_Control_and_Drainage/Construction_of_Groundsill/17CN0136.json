@@ -1,0 +1,97 @@
+{
+  "data": {
+    "contractId": "17CN0136",
+    "description": "CONSTRUCTION OF SERIES OF GROUNDSILL ALONG BAUL RIVER, BRGY. DINADIAWAN, DIPACULAO, AURORA",
+    "category": "Flood Control and Drainage",
+    "status": "Completed",
+    "budget": 49000000,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region III",
+      "province": "Aurora DEO",
+      "infraType": "Flood Control and Drainage",
+      "coordinates": {
+        "latitude": 16.07377,
+        "longitude": 121.74431,
+        "verified": false
+      }
+    },
+    "infraType": "Flood Control and Drainage",
+    "contractor": "CAVACON CORPORATION (FORMERLY CAGAYAN VALLEY CONST (2622)",
+    "startDate": "2017-08-14",
+    "completionDate": "2018-11-22",
+    "infraYear": "2017",
+    "contractEffectivityDate": "2017-08-14",
+    "expiryDate": "2018-08-27",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2017 MFO-2",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00120839LZ-CW1",
+        "description": "Construction of Groundsill - Construction of Series of Groundsill along Baul River, Brgy. Dinadiawan, Dipaculao, Aurora",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Construction of Groundsill",
+        "region": "Region III",
+        "province": "AURORA",
+        "coordinates": {
+          "latitude": 16.07377,
+          "longitude": 121.74431,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "CAVACON CORPORATION (FORMERLY CAGAYAN VALLEY CONST",
+    "bidders": [
+      {
+        "name": "CAVACON CORPORATION (FORMERLY CAGAYAN VALLEY CONST (2622)",
+        "pcabId": "2622",
+        "participation": 100,
+        "isWinner": true
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION OF SERIES OF GROUNDSILL ALONG BAUL RIVER, BRGY. DINADIAWAN, DIPACULAO, AURORA",
+      "abc": "49000465.83",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2017-06-20 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-07-17 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "47,530,461.86"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/17CN0135-136.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/contract_17cn0136_.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/noa_17cn0136.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/ntp_17cn0136.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 16.07377,
+    "longitude": 121.74431,
+    "coordinates": [
+      {
+        "componentId": "P00120839LZ-CW1",
+        "description": "Construction of Groundsill - Construction of Series of Groundsill along Baul River, Brgy. Dinadiawan, Dipaculao, Aurora",
+        "latitude": 16.07377,
+        "longitude": 121.74431,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

@@ -1,0 +1,149 @@
+{
+  "data": {
+    "contractId": "18LA0082",
+    "description": "CUT-OFF/CONSTRUCTION OF REVETMENT AT UPPER AGUSAN RIVER, OSMEÑA SECTION, COMPOSTELA, COMPOSTELA VALLEY PROVINCE",
+    "category": "Flood Control and Drainage",
+    "status": "Completed",
+    "budget": 94569968.7,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region XI",
+      "province": "Davao de Oro 1st DEO",
+      "infraType": "Flood Control and Drainage",
+      "coordinates": {
+        "latitude": 7.664565,
+        "longitude": 126.0966317,
+        "verified": false
+      }
+    },
+    "infraType": "Flood Control and Drainage",
+    "contractor": "AB APONESTO CONSTRUCTION PARTS AND SUPPLY, INC. (22998)",
+    "startDate": "2018-05-24",
+    "completionDate": "2019-03-10",
+    "infraYear": "2018",
+    "contractEffectivityDate": "2018-05-24",
+    "expiryDate": "2019-02-08",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2018 OO-2",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00221195MN-CW1",
+        "description": "Construction of Revetment - Cut-off/ Construction of Revetment at Upper Agusan River , Osme±a Section, Compostela, Compostela Valley",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Construction of Revetment",
+        "region": "Region XI",
+        "province": "DAVAO DE ORO",
+        "coordinates": {
+          "latitude": 7.664565,
+          "longitude": 126.0966317,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00221195MN-CW2",
+        "description": "Construction of Cutoff Channel - Cut-off/ Construction of Revetment at Upper Agusan River , Osme±a Section, Compostela, Compostela Valley",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Construction of Cutoff Channel",
+        "region": "Region XI",
+        "province": "DAVAO DE ORO",
+        "coordinates": {
+          "latitude": 7.659375,
+          "longitude": 126.0990033,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "AB APONESTO CONSTRUCTION PARTS AND SUPPLY, INC.",
+    "bidders": [
+      {
+        "name": "AB APONESTO CONSTRUCTION PARTS AND SUPPLY, INC. (22998)",
+        "pcabId": "22998",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "AAA ROCK CONSTRUCTION CORPORATION (FORMERLY: DAVAO ROCK MIXER ENTERPRISES) (19250)",
+        "pcabId": "19250",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "ARN BUILDERS, INC. (FOR: ARN BUILDERS) (18930)",
+        "pcabId": "18930",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "MAVERICK BUILDERS INCORPORATED (FORMERLY MAVERICK (14466)",
+        "pcabId": "14466",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "RELY CONSTRUCTION & SUPPLY INC.(FORMERLY: RELY CONSTRUCTION AND SUPPLY) (10433)",
+        "pcabId": "10433",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "VICENTE T. LAO CONSTRUCTION (7040)",
+        "pcabId": "7040",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CUT-OFF/CONSTRUCTION OF REVETMENT AT UPPER AGUSAN RIVER, OSMEÑA SECTION, COMPOSTELA, COMPOSTELA VALLEY PROVINCE",
+      "abc": "94499678.30",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2017-12-08 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-12-27 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "90897968.7"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/18LA0082.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/CONTRACT AGREEMENT.PDF",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/NOA.PDF",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/CONTRACT AGREEMENT.PDF",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 7.664565,
+    "longitude": 126.0966317,
+    "coordinates": [
+      {
+        "componentId": "P00221195MN-CW1",
+        "description": "Construction of Revetment - Cut-off/ Construction of Revetment at Upper Agusan River , Osme±a Section, Compostela, Compostela Valley",
+        "latitude": 7.664565,
+        "longitude": 126.0966317,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00221195MN-CW2",
+        "description": "Construction of Cutoff Channel - Cut-off/ Construction of Revetment at Upper Agusan River , Osme±a Section, Compostela, Compostela Valley",
+        "latitude": 7.659375,
+        "longitude": 126.0990033,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

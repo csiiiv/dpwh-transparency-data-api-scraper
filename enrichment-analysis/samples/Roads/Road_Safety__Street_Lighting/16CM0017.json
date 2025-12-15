@@ -1,0 +1,85 @@
+{
+  "data": {
+    "contractId": "16CM0017",
+    "description": "NATIONAL ROAD LIGHTING PROGRAM ALONG OB ROAD, ZAMBALES K0126+(-038) TO K0130+515, OLONGAPO CITY",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 43288984.15,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region III",
+      "province": "Zambales 2nd DEO",
+      "infraType": "Roads",
+      "coordinates": null
+    },
+    "infraType": "Roads",
+    "contractor": "NORTHERN BUILDERS (8789)",
+    "startDate": "2016-04-20",
+    "completionDate": "2016-09-16",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-04-20",
+    "expiryDate": "2016-09-16",
+    "nysReason": null,
+    "programName": "Outside Infra",
+    "sourceOfFunds": "Outside Infra - Special Road Support Fund 2016",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00090008LZ-CW1",
+        "description": "Road Safety: Street Lighting - National Road Lighting Program (Civil Works) package 10 along Olongapo - Bugallon Road, Zambales. K0126+(-038) to K0130+515",
+        "infraType": "Roads",
+        "typeOfWork": "Road Safety: Street Lighting",
+        "region": "Region III",
+        "province": "ZAMBALES",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "NORTHERN BUILDERS",
+    "bidders": [
+      {
+        "name": "NORTHERN BUILDERS (8789)",
+        "pcabId": "8789",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "ROSAND BUILDERS CORPORATION (FORMERLY: ROSAND BUILDERS) (15781)",
+        "pcabId": "15781",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "NATIONAL ROAD LIGHTING PROGRAM ALONG OB ROAD, ZAMBALES K0126+(-038) TO K0130+515, OLONGAPO CITY",
+      "abc": "44627586.46",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-03-10 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-03-30 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "43,288,984.15"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/16cm0017_-_contract_agreement.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/16cm0017_-_noa.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/16cm0017_-_ntp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

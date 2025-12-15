@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "24AE0027",
+    "description": "SPECIAL ROAD FUND - MOTOR VEHICLE USER'S CHARGE (MVUC) AS PER R.A. 11239 - INSTALLATION OF SIGNAGE AND PAVEMENT MARKINGS ALONG MANILA NORTH RD - K0278+600 - K0279+600, BARANGAY TABOC, SAN JUAN, LA UNION",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 608029.7,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region I",
+      "province": "La Union 1st DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 16.682,
+        "longitude": 120.3406,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "RAPHAEIL CONSTRUCTION (34801)",
+    "startDate": "2024-02-19",
+    "completionDate": "2024-03-19",
+    "infraYear": "2024",
+    "contractEffectivityDate": "2024-02-19",
+    "expiryDate": "2024-03-19",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2024 SSP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00837531LZ-CW1",
+        "description": "Road Safety: Pavement Markings - Installation of Signage and Pavement Markings along Manila North Rd - K0278 + 600 - K0279 + 600, Barangay Taboc, San Juan, La Union",
+        "infraType": "Roads",
+        "typeOfWork": "Road Safety: Pavement Markings",
+        "region": "Region I",
+        "province": "LA UNION",
+        "coordinates": {
+          "latitude": 16.682,
+          "longitude": 120.3406,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "RAPHAEIL CONSTRUCTION",
+    "bidders": [
+      {
+        "name": "RAPHAEIL CONSTRUCTION (34801)",
+        "pcabId": "34801",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "JMBM CONSTRUCTION (32955)",
+        "pcabId": "32955",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "SPECIAL ROAD FUND - MOTOR VEHICLE USER'S CHARGE (MVUC) AS PER R.A. 11239 - INSTALLATION OF SIGNAGE AND PAVEMENT MARKINGS ALONG MANILA NORTH RD - K0278+600 - K0279+600, BARANGAY TABOC, SAN JUAN, LA UNION",
+      "abc": "627199.76",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2023-10-07 00:00:00.0000000",
+      "bidSubmissionDeadline": "2023-10-31 00:00:00.0000000",
+      "dateOfAward": "2024-02-05 00:00:00.0000000",
+      "awardAmount": "608029.7"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/24ae0027_.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/24ae0027_ca.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/24ae0027_noa_reso.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/24ae0027_ntp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 16.682,
+    "longitude": 120.3406,
+    "coordinates": [
+      {
+        "componentId": "P00837531LZ-CW1",
+        "description": "Road Safety: Pavement Markings - Installation of Signage and Pavement Markings along Manila North Rd - K0278 + 600 - K0279 + 600, Barangay Taboc, San Juan, La Union",
+        "latitude": 16.682,
+        "longitude": 120.3406,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 3,
+      "latestImageDate": "2024-07-22 05:01:13.312000",
+      "hasImages": true
+    }
+  }
+}

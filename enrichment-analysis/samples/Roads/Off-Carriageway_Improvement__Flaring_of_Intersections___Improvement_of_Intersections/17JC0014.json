@@ -1,0 +1,115 @@
+{
+  "data": {
+    "contractId": "17JC0014",
+    "description": "PROPOSED OFF-CARRIAGEWAY IMPROVEMENT, LILOY-IPIL ROAD, K1988+017 - K1988+412 (FLARING OF INTERSECTION)LILOY-IPIL ROAD, ZAMBOANGA DEL NORTE",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 10338537.71,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region IX",
+      "province": "Zamboanga del Norte 3rd DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 7.95639989353917,
+        "longitude": 122.643510788885,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "HENSO CONSTRUCTION INC. (10720)",
+    "startDate": "2017-03-16",
+    "completionDate": "2018-12-18",
+    "infraYear": "2017",
+    "contractEffectivityDate": "2017-03-16",
+    "expiryDate": "2017-07-08",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2017 MFO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00106042MN-CW1",
+        "description": "Off-Carriageway Improvement: Flaring of Intersections / Improvement of Intersections - Liloy-Ipil Rd - K1988 + 017 - K1988 + 412",
+        "infraType": "Roads",
+        "typeOfWork": "Off-Carriageway Improvement: Flaring of Intersections / Improvement of Intersections",
+        "region": "Region IX",
+        "province": "ZAMBOANGA DEL NORTE",
+        "coordinates": {
+          "latitude": 7.95639989353917,
+          "longitude": 122.643510788885,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "HENSO CONSTRUCTION INC.",
+    "bidders": [
+      {
+        "name": "HENSO CONSTRUCTION INC. (10720)",
+        "pcabId": "10720",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "ORANI CONSTRUCTION AND SUPPLY CORPORATION (FORMERLY:ORANI BUILDERS & SUPPLY) (05349)",
+        "pcabId": "05349",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "ORANI CONSTRUCTION AND SUPPLY CORPORATION (FORMERLY:ORANI BUILDERS & SUPPLY) (5349)",
+        "pcabId": "5349",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "RUDHIL CONSTRUCTION & ENTERPRISES, INC.(FORMERLY R (22901)",
+        "pcabId": "22901",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "PROPOSED OFF-CARRIAGEWAY IMPROVEMENT, LILOY-IPIL ROAD, K1988+017 - K1988+412 (FLARING OF INTERSECTION)LILOY-IPIL ROAD, ZAMBOANGA DEL NORTE",
+      "abc": "10670240.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-10-20 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-11-22 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "10137094.02"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/17jc0014_contracts.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/17jc0014_noa.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/17jc0014_ntp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 7.95639989353917,
+    "longitude": 122.643510788885,
+    "coordinates": [
+      {
+        "componentId": "P00106042MN-CW1",
+        "description": "Off-Carriageway Improvement: Flaring of Intersections / Improvement of Intersections - Liloy-Ipil Rd - K1988 + 017 - K1988 + 412",
+        "latitude": 7.95639989353917,
+        "longitude": 122.643510788885,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

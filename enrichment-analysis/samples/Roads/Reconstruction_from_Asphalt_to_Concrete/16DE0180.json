@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "16DE0180",
+    "description": "MFO-1 NATIONAL ROAD NETWORK SERVICES, ASSET PRESERVATION OF NATIONAL ROADSREHABILITATION/RECONSTRUCTION/UPGRADING OF DAMAGED PAVED NATIONAL ROADS  INCLUDING DRAINAGE BASED ON PAVEMENT MANAGEMENT SYSTEM/HIGHWAYDEVELOPMENT AND MANAGEMENT -4 (HDM-4), SEC",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 7074440.98,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region IV-A",
+      "province": "Batangas 2nd DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 13.6441996265353,
+        "longitude": 121.175881042159,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "JASMIG CONSTRUCTION CORPORATION (FORMERLY: JASMIG CONSTRUCTION SUPPLY) (26069)",
+    "startDate": "2017-02-22",
+    "completionDate": "2017-05-26",
+    "infraYear": "2017",
+    "contractEffectivityDate": "2017-02-22",
+    "expiryDate": "2017-05-26",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2017 MFO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00102102LZ-CW1",
+        "description": "Reconstruction from Asphalt to Concrete - Batangas-Tabangao-Lobo Rd - K0145 + 540 - K0146 + 000, K0149 + 415 - K0149 + 573",
+        "infraType": "Roads",
+        "typeOfWork": "Reconstruction from Asphalt to Concrete",
+        "region": "Region IV-A",
+        "province": "BATANGAS",
+        "coordinates": {
+          "latitude": 13.6441996265353,
+          "longitude": 121.175881042159,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "JASMIG CONSTRUCTION CORPORATION (FORMERLY: JASMIG CONSTRUCTION SUPPLY)",
+    "bidders": [
+      {
+        "name": "JASMIG CONSTRUCTION CORPORATION (FORMERLY: JASMIG CONSTRUCTION SUPPLY) (26069)",
+        "pcabId": "26069",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "6 JEWELS CONSTRUCTION (34737)",
+        "pcabId": "34737",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "MFO-1 NATIONAL ROAD NETWORK SERVICES, ASSET PRESERVATION OF NATIONAL ROADS REHABILITATION/RECONSTRUCTION/UPGRADING OF DAMAGED PAVED NATIONAL ROADS  INCLUDING DRAINAGE BASED ON PAVEMENT MANAGEMENT SYSTEM/HIGHWAYDEVELOPMENT AND MANAGEMENT -4 (HDM-4), SEC",
+      "abc": "7444080.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-12-30 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-01-23 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "7074440.98"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/16DE0180.zip",
+      "contractAgreement": "",
+      "noticeOfAward": "",
+      "noticeToProceed": "",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 13.6441996265353,
+    "longitude": 121.175881042159,
+    "coordinates": [
+      {
+        "componentId": "P00102102LZ-CW1",
+        "description": "Reconstruction from Asphalt to Concrete - Batangas-Tabangao-Lobo Rd - K0145 + 540 - K0146 + 000, K0149 + 415 - K0149 + 573",
+        "latitude": 13.6441996265353,
+        "longitude": 121.175881042159,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "data": {
+    "contractId": "22G00189",
+    "description": "CONSTRUCTION (COMPLETION) OF EVACUATION CENTER, BRGY. CUBAY NORTH, BUGASONG, ANTIQUE",
+    "category": "Buildings and Facilities",
+    "status": "Completed",
+    "budget": 8227895.13,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region VI",
+      "province": "Region VI",
+      "infraType": "Buildings and Facilities",
+      "coordinates": {
+        "latitude": 11.0717797,
+        "longitude": 122.0572428,
+        "verified": false
+      }
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "ANJUSH BUILDERS (21491)",
+    "startDate": "2022-11-08",
+    "completionDate": "2023-05-18",
+    "infraYear": "2022",
+    "contractEffectivityDate": "2022-11-08",
+    "expiryDate": "2023-05-15",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2022 LP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00655254VS-CW1",
+        "description": "Construction of Evacuation Center - Construction (Completion) of Evacuation Center, Brgy. Cubay North, Bugasong, Antique",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of Evacuation Center",
+        "region": "Region VI",
+        "province": "ANTIQUE",
+        "coordinates": {
+          "latitude": 11.0717797,
+          "longitude": 122.0572428,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "ANJUSH BUILDERS",
+    "bidders": [
+      {
+        "name": "ANJUSH BUILDERS (21491)",
+        "pcabId": "21491",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "EC BUILDERS (47417)",
+        "pcabId": "47417",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "ILOILO GRAND EMPEROR BUILDERS CORPORATION (38882)",
+        "pcabId": "38882",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "MBM CONSTRUCTION (37891)",
+        "pcabId": "37891",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION (COMPLETION) OF EVACUATION CENTER, BRGY. CUBAY NORTH, BUGASONG, ANTIQUE",
+      "abc": "8290315.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2022-09-20 00:00:00.0000000",
+      "bidSubmissionDeadline": "2022-10-11 00:00:00.0000000",
+      "dateOfAward": "2022-10-25 00:00:00.0000000",
+      "awardAmount": "8227887.84"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/22g00189.rar",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/22g00189_contract.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/22g00189_noa_merged.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/22g00189_contract.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 11.0717797,
+    "longitude": 122.0572428,
+    "coordinates": [
+      {
+        "componentId": "P00655254VS-CW1",
+        "description": "Construction of Evacuation Center - Construction (Completion) of Evacuation Center, Brgy. Cubay North, Bugasong, Antique",
+        "latitude": 11.0717797,
+        "longitude": 122.0572428,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 3,
+      "latestImageDate": "2023-05-25 09:03:57.600000",
+      "hasImages": true
+    }
+  }
+}

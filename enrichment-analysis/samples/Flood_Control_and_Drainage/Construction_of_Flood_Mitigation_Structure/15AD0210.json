@@ -1,0 +1,109 @@
+{
+  "data": {
+    "contractId": "15AD0210",
+    "description": "CONSTRUCTION OF UPPER DIVERSION DAM, SUYO, ILOCOS SUR",
+    "category": "Flood Control and Drainage",
+    "status": "Completed",
+    "budget": 37856339.92,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region I",
+      "province": "Ilocos Sur 2nd DEO",
+      "infraType": "Flood Control and Drainage",
+      "coordinates": {
+        "latitude": 16.9613556,
+        "longitude": 120.5007727,
+        "verified": false
+      }
+    },
+    "infraType": "Flood Control and Drainage",
+    "contractor": "R.S. SEPIAN CONSTRUCTION & TRUCKING (20519)",
+    "startDate": "2016-03-23",
+    "completionDate": "2017-03-20",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-03-23",
+    "expiryDate": "2016-10-27",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - Flood Control/Hydraulics/Drainage, Flood Control/Hydraulics/River Control",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00020273LZ-CW1",
+        "description": "Construction of Flood Mitigation Structure - Construction of Upper Diversion Dam, Suyo, Ilocos Sur",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Construction of Flood Mitigation Structure",
+        "region": "Region I",
+        "province": "ILOCOS SUR",
+        "coordinates": {
+          "latitude": 16.9613556,
+          "longitude": 120.5007727,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "R.S. SEPIAN CONSTRUCTION & TRUCKING",
+    "bidders": [
+      {
+        "name": "R.S. SEPIAN CONSTRUCTION & TRUCKING (20519)",
+        "pcabId": "20519",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "NGEC-NESTOR GENERAL ENGINEERING & CONSTRUCTION (34583)",
+        "pcabId": "34583",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "VILLAR GENERAL CONSTRUCTION AND SUPPLIES (22540)",
+        "pcabId": "22540",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION OF UPPER DIVERSION DAM, SUYO, ILOCOS SUR",
+      "abc": "39200009.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-12-29 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-03-16 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "37856339.9200000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/april/15AD0210 CA191.pdf",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/april/15AD0210 NOA190.pdf",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/april/15AD0210 CA191.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 16.9613556,
+    "longitude": 120.5007727,
+    "coordinates": [
+      {
+        "componentId": "P00020273LZ-CW1",
+        "description": "Construction of Flood Mitigation Structure - Construction of Upper Diversion Dam, Suyo, Ilocos Sur",
+        "latitude": 16.9613556,
+        "longitude": 120.5007727,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

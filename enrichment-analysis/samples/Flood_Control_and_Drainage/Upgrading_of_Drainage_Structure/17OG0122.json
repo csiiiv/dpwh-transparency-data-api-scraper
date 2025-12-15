@@ -1,0 +1,115 @@
+{
+  "data": {
+    "contractId": "17OG0122",
+    "description": "IMPROVEMENT/ REHABILITATION OF DRAINAGE SYSTEM AT ST. PETER ST., QUEZON CITY",
+    "category": "Flood Control and Drainage",
+    "status": "Completed",
+    "budget": 4580581.43,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "National Capital Region",
+      "province": "Quezon City 2nd DEO",
+      "infraType": "Flood Control and Drainage",
+      "coordinates": {
+        "latitude": 14.6149513,
+        "longitude": 121.0441405,
+        "verified": false
+      }
+    },
+    "infraType": "Flood Control and Drainage",
+    "contractor": "LX54 TRADING & CONSTRUCTION (35355)",
+    "startDate": "2018-02-02",
+    "completionDate": "2018-06-25",
+    "infraYear": "2018",
+    "contractEffectivityDate": "2018-02-02",
+    "expiryDate": "2018-07-01",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2018 OO-2",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00221552LZ-CW1",
+        "description": "Upgrading of Drainage Structure - Improvement/Rehabilitation of Drainage System at St. Peter St., Quezon City",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Upgrading of Drainage Structure",
+        "region": "National Capital Region",
+        "province": "METROPOLITAN MANILA",
+        "coordinates": {
+          "latitude": 14.6149513,
+          "longitude": 121.0441405,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "LX54 TRADING & CONSTRUCTION",
+    "bidders": [
+      {
+        "name": "LX54 TRADING & CONSTRUCTION (35355)",
+        "pcabId": "35355",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "LVRO CONSTRUCTION & SUPPLY (18116)",
+        "pcabId": "18116",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "MAY THREE CONSTRUCTION & TRADING (35208)",
+        "pcabId": "35208",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "WINPRO CONSTRUCTION (37527)",
+        "pcabId": "37527",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "IMPROVEMENT/ REHABILITATION OF DRAINAGE SYSTEM AT ST. PETER ST., QUEZON CITY",
+      "abc": "4899830.71",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2017-11-29 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-12-18 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "4580581.43"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "",
+      "noticeOfAward": "",
+      "noticeToProceed": "",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 14.6149513,
+    "longitude": 121.0441405,
+    "coordinates": [
+      {
+        "componentId": "P00221552LZ-CW1",
+        "description": "Upgrading of Drainage Structure - Improvement/Rehabilitation of Drainage System at St. Peter St., Quezon City",
+        "latitude": 14.6149513,
+        "longitude": 121.0441405,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

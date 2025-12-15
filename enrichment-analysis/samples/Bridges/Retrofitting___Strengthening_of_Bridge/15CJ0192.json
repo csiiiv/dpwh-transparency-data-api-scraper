@@ -1,0 +1,109 @@
+{
+  "data": {
+    "contractId": "15CJ0192",
+    "description": "CMBNR; RETROFITTING/STRENGTHENING OF PERMANENT BRIDGES, MALUID BR (BO4331LZ) ALONG TARLAC-GUIMBA RD",
+    "category": "Bridges",
+    "status": "Completed",
+    "budget": 4913685.01,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region III",
+      "province": "Tarlac DEO",
+      "infraType": "Bridges",
+      "coordinates": {
+        "latitude": 15.5553746747489,
+        "longitude": 120.644230203722,
+        "verified": false
+      }
+    },
+    "infraType": "Bridges",
+    "contractor": "ALPHA & OMEGA GEN. CONTRACTOR & DEVELOPMENT CORP. ([REVOKED] 38958)",
+    "startDate": "2016-03-07",
+    "completionDate": "2016-05-05",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-03-07",
+    "expiryDate": "2016-05-05",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00001969LZ-CW1",
+        "description": "Retrofitting / Strengthening of Bridge - Maluid Br. (B04331LZ) along Tarlac-Guimba Rd via Victoria",
+        "infraType": "Bridges",
+        "typeOfWork": "Retrofitting / Strengthening of Bridge",
+        "region": "Region III",
+        "province": "TARLAC",
+        "coordinates": {
+          "latitude": 15.5553746747489,
+          "longitude": 120.644230203722,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "ALPHA & OMEGA GEN. CONTRACTOR & DEVELOPMENT CORP.",
+    "bidders": [
+      {
+        "name": "ALPHA & OMEGA GEN. CONTRACTOR & DEVELOPMENT CORP. ([REVOKED] 38958)",
+        "pcabId": "[REVOKED] 38958",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "M.S. RAMOS CONSTRUCTION INC. (FORMERLY: M.S. RAMOS (31684)",
+        "pcabId": "31684",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "N.M. ESPINOSA CONSTRUCTION (27777)",
+        "pcabId": "27777",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CMBNR; RETROFITTING/STRENGTHENING OF PERMANENT BRIDGES, MALUID BR (BO4331LZ) ALONG TARLAC-GUIMBA RD",
+      "abc": "5194000.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-12-09 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-02-11 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "4913685.0100000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/may/15CJ0192004.pdf",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/may/15CJ0192001.pdf",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/may/15CJ0192004.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 15.5553746747489,
+    "longitude": 120.644230203722,
+    "coordinates": [
+      {
+        "componentId": "P00001969LZ-CW1",
+        "description": "Retrofitting / Strengthening of Bridge - Maluid Br. (B04331LZ) along Tarlac-Guimba Rd via Victoria",
+        "latitude": 15.5553746747489,
+        "longitude": 120.644230203722,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "17OC0067",
+    "description": "REHABILITATION/UPGRADING AND DRAINAGE IMPROVEMENT AT KAMAGONG ST.  AND ITS VICINITY, BRGY. SAN ANTONIO, DISTRICT I,MAKATI CITY, METRO MANILA",
+    "category": "Flood Control and Drainage",
+    "status": "Completed",
+    "budget": 19798576.55,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "National Capital Region",
+      "province": "Metro Manila 2nd DEO",
+      "infraType": "Flood Control and Drainage",
+      "coordinates": null
+    },
+    "infraType": "Flood Control and Drainage",
+    "contractor": "THE STEADFAST BUILDERS (8176)",
+    "startDate": "2017-06-19",
+    "completionDate": "2017-11-15",
+    "infraYear": "2017",
+    "contractEffectivityDate": "2017-06-19",
+    "expiryDate": "2017-11-15",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - Flood Control: Construction - Drainage (e.g., Closed and Open Conduits, Spillway), Roads: Rehabilitation - PCCP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00142503LZ-CW1",
+        "description": "Upgrading of Drainage Structure - Rehabilitation/Upgrading and Drainage Improvement of Kamagong Street and its Vicinity, Brgy. San Antonio, Makati City, Metro Manila",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Upgrading of Drainage Structure",
+        "region": "National Capital Region",
+        "province": "METROPOLITAN MANILA",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "THE STEADFAST BUILDERS",
+    "bidders": [
+      {
+        "name": "THE STEADFAST BUILDERS (8176)",
+        "pcabId": "8176",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "C & F CONSTRUCTION & DEVELOPMENT CORPORATION (3509)",
+        "pcabId": "3509",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "FRAMECON BUILDERS (22482)",
+        "pcabId": "22482",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "R.D. SADSAD CONSTRUCTION & TRADING (19240)",
+        "pcabId": "19240",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "R. SEMILLA CONSTRUCTION & MARKETING (9263)",
+        "pcabId": "9263",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "REHABILITATION/UPGRADING AND DRAINAGE IMPROVEMENT AT KAMAGONG ST.  AND ITS VICINITY, BRGY. SAN ANTONIO, DISTRICT I, MAKATI CITY, METRO MANILA",
+      "abc": "19800000.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2017-05-10 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-05-30 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "19089247"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/Bid Documents for May 30, 2017.rar",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/17oc0067_ca.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/17oc0067_noa_and_reso.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/17oc0067_ntp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "data": {
+    "contractId": "19LA0336",
+    "description": "ROAD WIDENING ALONG MONTEVISTA-COMPOSTELA-NEW BATAAN-MARAGUSAN-MATI BDRY., COMPOSTELA AND NEW BATAAN, COMPOSTELA VALLEY PROVINCE",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 25279325,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region XI",
+      "province": "Davao de Oro 1st DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 7.6659114,
+        "longitude": 126.1022916,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "PMMGS CONSTRUCTION CORPORATION (43121)",
+    "startDate": "2019-09-26",
+    "completionDate": "2020-04-24",
+    "infraYear": "2019",
+    "contractEffectivityDate": "2019-09-26",
+    "expiryDate": "2020-05-24",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2019 OO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00304234MN-CW1",
+        "description": "Road Widening - Montevista - Compostela - New Bataan - Maragusan - Mati Bdry. Rd, Compostela and New Bataan K1428 + (-)342 - K1428 + 325",
+        "infraType": "Roads",
+        "typeOfWork": "Road Widening",
+        "region": "Region XI",
+        "province": "DAVAO DE ORO",
+        "coordinates": {
+          "latitude": 7.6659114,
+          "longitude": 126.1022916,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00304234MN-CW2",
+        "description": "Off-Carriageway Improvement: Construction of Median/Center Island - Montevista - Compostela - New Bataan - Maragusan - Mati Bdry. Rd, Compostela and New Bataan K1428 + (-)342 - K1428 + 325",
+        "infraType": "Roads",
+        "typeOfWork": "Off-Carriageway Improvement: Construction of Median/Center Island",
+        "region": "Region XI",
+        "province": "DAVAO DE ORO",
+        "coordinates": {
+          "latitude": 7.6659205,
+          "longitude": 126.1022939,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "PMMGS CONSTRUCTION CORPORATION",
+    "bidders": [
+      {
+        "name": "PMMGS CONSTRUCTION CORPORATION (43121)",
+        "pcabId": "43121",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "FFJJ CONSTRUCTION (16712)",
+        "pcabId": "16712",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "ROAD WIDENING ALONG MONTEVISTA-COMPOSTELA-NEW BATAAN-MARAGUSAN-MATI BDRY., COMPOSTELA AND NEW BATAAN, COMPOSTELA VALLEY PROVINCE",
+      "abc": "25384295.23",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2019-06-27 00:00:00.0000000",
+      "bidSubmissionDeadline": "2019-07-17 00:00:00.0000000",
+      "dateOfAward": "2019-09-23 00:00:00.0000000",
+      "awardAmount": "25003525.91"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/19LA0336.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/CONTRACT AGREEMENT 19LA0336.PDF",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/NOA 19LA0336.PDF",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/CONTRACT AGREEMENT 19LA0336.PDF",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 7.6659114,
+    "longitude": 126.1022916,
+    "coordinates": [
+      {
+        "componentId": "P00304234MN-CW1",
+        "description": "Road Widening - Montevista - Compostela - New Bataan - Maragusan - Mati Bdry. Rd, Compostela and New Bataan K1428 + (-)342 - K1428 + 325",
+        "latitude": 7.6659114,
+        "longitude": 126.1022916,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00304234MN-CW2",
+        "description": "Off-Carriageway Improvement: Construction of Median/Center Island - Montevista - Compostela - New Bataan - Maragusan - Mati Bdry. Rd, Compostela and New Bataan K1428 + (-)342 - K1428 + 325",
+        "latitude": 7.6659205,
+        "longitude": 126.1022939,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

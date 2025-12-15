@@ -1,0 +1,133 @@
+{
+  "data": {
+    "contractId": "16GD0079",
+    "description": "CONST/MAINT OF FLD MIT STRCT & DRAIN SYS, CONST OF SLOPE PRO AT RXS CITY CIR RD (STA.126+319.01....)",
+    "category": "Flood Control and Drainage",
+    "status": "Completed",
+    "budget": 39175962.88,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region VI",
+      "province": "Capiz 1st DEO",
+      "infraType": "Flood Control and Drainage",
+      "coordinates": null
+    },
+    "infraType": "Flood Control and Drainage",
+    "contractor": "IBC INTERNATIONAL BUILDERS CORPORATION (8576)",
+    "startDate": "2017-05-21",
+    "completionDate": "2017-10-31",
+    "infraYear": "2017",
+    "contractEffectivityDate": "2017-05-21",
+    "expiryDate": "2017-12-07",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2017 MFO-2",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00121435VS-CW1",
+        "description": "Construction of Slope Protection Structure - Construction of Slope Protection at Roxas City Circumferential Rd along Panay River, Sta. 126+319.01-Sta. 126+707.01, Roxas City, Capiz",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Construction of Slope Protection Structure",
+        "region": "Region VI",
+        "province": "CAPIZ",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "IBC INTERNATIONAL BUILDERS CORPORATION",
+    "bidders": [
+      {
+        "name": "IBC INTERNATIONAL BUILDERS CORPORATION (8576)",
+        "pcabId": "8576",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "A.D. PENDON CONSTRUCTION & SUPPLY, INC. (FORMERLY: ADP CONSTRUCTION & SUPPLY) (3466)",
+        "pcabId": "3466",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "CLIFFORD CONSTRUCTION CORPORATION (3724)",
+        "pcabId": "3724",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "F. GURREA CONSTRUCTION, INCORPORATED (6995)",
+        "pcabId": "6995",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "HENSCHA PHILS. INC. (34164)",
+        "pcabId": "34164",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "M.G. SALAZAR CONSTRUCTION CORP. (FOR. M.G. SALAZAR (4072)",
+        "pcabId": "4072",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "M.R. VARGAS CONSTRUCTION CORPORATION (FORMERLY: M.R. VARGAS CONSTRUCTION) (8215)",
+        "pcabId": "8215",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "ROMA CONSTRUCTION & DEVELOPMENT CORPORATION (6514)",
+        "pcabId": "6514",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "ROPRIM CONSTRUCTION CORPORATION (FORMERLY ROPRIM  CONSTRUCTION) (8546)",
+        "pcabId": "8546",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "TIBIAO-ANTIQUE N.K. ENTERPRISE, INC. (29292)",
+        "pcabId": "29292",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONST/MAINT OF FLD MIT STRCT & DRAIN SYS, CONST OF SLOPE PRO AT RXS CITY CIR RD (STA.126+319.01....)",
+      "abc": "39200000.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-10-27 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-11-25 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "37,380,000.00"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "",
+      "noticeOfAward": "",
+      "noticeToProceed": "",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

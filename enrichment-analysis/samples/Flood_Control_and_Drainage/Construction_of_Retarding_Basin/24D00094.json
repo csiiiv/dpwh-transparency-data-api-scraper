@@ -1,0 +1,97 @@
+{
+  "data": {
+    "contractId": "24D00094",
+    "description": "CONSTRUCTION OF RETARDING BASIN, BARANGAY MAMPLASAN, BIÑAN CITY, LAGUNA",
+    "category": "Flood Control and Drainage",
+    "status": "On-Going",
+    "budget": 48244017.72,
+    "amountPaid": 0,
+    "progress": 82.99,
+    "location": {
+      "region": "Region IV-A",
+      "province": "Region IV-A",
+      "infraType": "Flood Control and Drainage",
+      "coordinates": {
+        "latitude": 14.3026944,
+        "longitude": 121.0763861,
+        "verified": false
+      }
+    },
+    "infraType": "Flood Control and Drainage",
+    "contractor": "ST. TIMOTHY CONSTRUCTION CORPORATION ([REVOKED] 39196) / M.T. MALIUANAG CONSTRUCTION SERVICES (45605)",
+    "startDate": "2024-04-18",
+    "completionDate": null,
+    "infraYear": "2024",
+    "contractEffectivityDate": "2024-04-18",
+    "expiryDate": "2025-04-30",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2024 OO-2",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00820885LZ-CW1",
+        "description": "Construction of Retarding Basin - Construction of Retarding Basin, Barangay Mamplasan, Bi±an City, Laguna",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Construction of Retarding Basin",
+        "region": "Region IV-A",
+        "province": "LAGUNA",
+        "coordinates": {
+          "latitude": 14.3026944,
+          "longitude": 121.0763861,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "M.T. MALIUANAG CONSTRUCTION SERVICES, ST. TIMOTHY CONSTRUCTION CORPORATION",
+    "bidders": [
+      {
+        "name": "ST. TIMOTHY CONSTRUCTION CORPORATION ([REVOKED] 39196) / M.T. MALIUANAG CONSTRUCTION SERVICES (45605) (JV ID: JV-23-12847)",
+        "pcabId": "",
+        "participation": 100,
+        "isWinner": true
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION OF RETARDING BASIN, BARANGAY MAMPLASAN, BIÑAN CITY, LAGUNA",
+      "abc": "48250000.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2023-11-29 00:00:00.0000000",
+      "bidSubmissionDeadline": "2023-12-20 00:00:00.0000000",
+      "dateOfAward": "2024-04-04 00:00:00.0000000",
+      "awardAmount": "47042817.03"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/24d00094.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/24d00094_-_ca.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/24d00094_noa_.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/24d00094_ntp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 14.3026944,
+    "longitude": 121.0763861,
+    "coordinates": [
+      {
+        "componentId": "P00820885LZ-CW1",
+        "description": "Construction of Retarding Basin - Construction of Retarding Basin, Barangay Mamplasan, Bi±an City, Laguna",
+        "latitude": 14.3026944,
+        "longitude": 121.0763861,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 2,
+      "latestImageDate": "2024-12-18 01:06:09.151000",
+      "hasImages": true
+    }
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "16AI0267",
+    "description": "REHAB/RECONST'N/UPGRADING OF DAMAGED PAVED NATL RD INCL DRAINAGE BASED ON PAVEMENT MGMT SYSTEM/HIGHW",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 27844293.84,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region I",
+      "province": "Pangasinan 3rd DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 15.9190534698911,
+        "longitude": 120.791339006703,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "AQUINO-DELA CRUZ ENGINEERING & CONSTRUCTION (16751)",
+    "startDate": "2017-04-09",
+    "completionDate": "2018-01-25",
+    "infraYear": "2017",
+    "contractEffectivityDate": "2017-04-09",
+    "expiryDate": "2018-01-25",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2017 MFO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00101514LZ-CW1",
+        "description": "Reconstruction from Concrete to Concrete - Bakit-Bakit Jct-Umingan Rd - K0189 + 200 - K0189 + 600, K0197 + 700 - K0198 + 300, K0200 + 000 - K0200 + 137",
+        "infraType": "Roads",
+        "typeOfWork": "Reconstruction from Concrete to Concrete",
+        "region": "Region I",
+        "province": "PANGASINAN",
+        "coordinates": {
+          "latitude": 15.9190534698911,
+          "longitude": 120.791339006703,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "AQUINO-DELA CRUZ ENGINEERING & CONSTRUCTION",
+    "bidders": [
+      {
+        "name": "AQUINO-DELA CRUZ ENGINEERING & CONSTRUCTION (16751)",
+        "pcabId": "16751",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "BET CONSTRUCTION & SUPPLY (31764)",
+        "pcabId": "31764",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "REHAB/RECONST'N/UPGRADING OF DAMAGED PAVED NATL RD INCL DRAINAGE BASED ON PAVEMENT MGMT SYSTEM/HIGHW",
+      "abc": "28945280.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-12-15 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-01-09 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "27,844,333.41"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/16AI0267 contract.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/16AI0267 award.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/16AI0267 contract.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 15.9190534698911,
+    "longitude": 120.791339006703,
+    "coordinates": [
+      {
+        "componentId": "P00101514LZ-CW1",
+        "description": "Reconstruction from Concrete to Concrete - Bakit-Bakit Jct-Umingan Rd - K0189 + 200 - K0189 + 600, K0197 + 700 - K0198 + 300, K0200 + 000 - K0200 + 137",
+        "latitude": 15.9190534698911,
+        "longitude": 120.791339006703,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

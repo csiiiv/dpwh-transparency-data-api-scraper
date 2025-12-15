@@ -1,0 +1,169 @@
+{
+  "data": {
+    "contractId": "18N00081",
+    "description": "CONSTRUCTION/ IMPROVEMENT OF ACCESS ROADS LEADING TO SEAPORTS, DAPA PORT - CONSUELO - STA. CRUZ - STA. FE - LBERTAD - CABITOONAN - CATANGNA - GENERAL LUNA ROAD (INCL. BRIDGE COMPLETION OF CATANGNAN - CABITOONAN BRIDGE AND LIBERTAD BRIDGE 2), SURIGAO DEL N",
+    "category": "Bridges, Roads",
+    "status": "Completed",
+    "budget": 192999072.9,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region XIII",
+      "province": "Region XIII",
+      "infraType": "Bridges",
+      "coordinates": {
+        "latitude": 9.8122174,
+        "longitude": 126.1527786,
+        "verified": false
+      }
+    },
+    "infraType": "Bridges",
+    "contractor": "MAMSAR CONSTRUCTION AND INDUSTRIAL CORPORATION (15885)",
+    "startDate": "2018-07-30",
+    "completionDate": "2020-06-17",
+    "infraYear": "2018",
+    "contractEffectivityDate": "2018-07-30",
+    "expiryDate": "2020-06-18",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2018 Other Infrastructure (CSSP)",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00230291MN-CW1",
+        "description": "Construction of Concrete Bridge - Dapa Port-Consuelo-Corazon-Sta. Cruz-Sta. Fe -Libertad-Cabitoonan-Catangnan-General Luna Road (incl. Bridge Completion of Catangnan-Cabitoonan Bridge & Libertad Bridge 2), Surigao del Norte",
+        "infraType": "Bridges",
+        "typeOfWork": "Construction of Concrete Bridge",
+        "region": "Region XIII",
+        "province": "SURIGAO DEL NORTE",
+        "coordinates": {
+          "latitude": 9.8122174,
+          "longitude": 126.1527786,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00230291MN-CW2",
+        "description": "Construction of Concrete Road - Dapa Port-Consuelo-Corazon-Sta. Cruz-Sta. Fe -Libertad-Cabitoonan-Catangnan-General Luna Road (incl. Bridge Completion of Catangnan-Cabitoonan Bridge & Libertad Bridge 2), Surigao del Norte",
+        "infraType": "Roads",
+        "typeOfWork": "Construction of Concrete Road",
+        "region": "Region XIII",
+        "province": "SURIGAO DEL NORTE",
+        "coordinates": {
+          "latitude": 9.8121629,
+          "longitude": 126.1528318,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00230291MN-CW3",
+        "description": "Construction of Superstructure - Dapa Port-Consuelo-Corazon-Sta. Cruz-Sta. Fe -Libertad-Cabitoonan-Catangnan-General Luna Road (incl. Bridge Completion of Catangnan-Cabitoonan Bridge & Libertad Bridge 2), Surigao del Norte",
+        "infraType": "Bridges",
+        "typeOfWork": "Construction of Superstructure",
+        "region": "Region XIII",
+        "province": "SURIGAO DEL NORTE",
+        "coordinates": {
+          "latitude": 9.8197555,
+          "longitude": 126.1456977,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00230291MN-CW4",
+        "description": "Off-Carriageway Improvement: Shoulder Paving / Construction - Dapa Port-Consuelo-Corazon-Sta. Cruz-Sta. Fe -Libertad-Cabitoonan-Catangnan-General Luna Road (incl. Bridge Completion of Catangnan-Cabitoonan Bridge & Libertad Bridge 2), Surigao del Norte",
+        "infraType": "Roads",
+        "typeOfWork": "Off-Carriageway Improvement: Shoulder Paving / Construction",
+        "region": "Region XIII",
+        "province": "SURIGAO DEL NORTE",
+        "coordinates": {
+          "latitude": 9.8282057,
+          "longitude": 126.1421289,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "MAMSAR CONSTRUCTION AND INDUSTRIAL CORPORATION",
+    "bidders": [
+      {
+        "name": "MAMSAR CONSTRUCTION AND INDUSTRIAL CORPORATION (15885)",
+        "pcabId": "15885",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "SCP CONSTRUCTION (8797)",
+        "pcabId": "8797",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION/ IMPROVEMENT OF ACCESS ROADS LEADING TO SEAPORTS, DAPA PORT - CONSUELO - STA. CRUZ - STA. FE - LBERTAD - CABITOONAN - CATANGNA - GENERAL LUNA ROAD (INCL. BRIDGE COMPLETION OF CATANGNAN - CABITOONAN BRIDGE AND LIBERTAD BRIDGE 2), SURIGAO DEL N",
+      "abc": "193000000.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2017-11-28 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-12-27 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "183318345.9"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/18N00081 PLAN AND BID DOCS.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/CONTRACT 18N00081.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/noa_18n00081.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/ntp_18n00081.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 9.8122174,
+    "longitude": 126.1527786,
+    "coordinates": [
+      {
+        "componentId": "P00230291MN-CW1",
+        "description": "Construction of Concrete Bridge - Dapa Port-Consuelo-Corazon-Sta. Cruz-Sta. Fe -Libertad-Cabitoonan-Catangnan-General Luna Road (incl. Bridge Completion of Catangnan-Cabitoonan Bridge & Libertad Bridge 2), Surigao del Norte",
+        "latitude": 9.8122174,
+        "longitude": 126.1527786,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00230291MN-CW2",
+        "description": "Construction of Concrete Road - Dapa Port-Consuelo-Corazon-Sta. Cruz-Sta. Fe -Libertad-Cabitoonan-Catangnan-General Luna Road (incl. Bridge Completion of Catangnan-Cabitoonan Bridge & Libertad Bridge 2), Surigao del Norte",
+        "latitude": 9.8121629,
+        "longitude": 126.1528318,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00230291MN-CW3",
+        "description": "Construction of Superstructure - Dapa Port-Consuelo-Corazon-Sta. Cruz-Sta. Fe -Libertad-Cabitoonan-Catangnan-General Luna Road (incl. Bridge Completion of Catangnan-Cabitoonan Bridge & Libertad Bridge 2), Surigao del Norte",
+        "latitude": 9.8197555,
+        "longitude": 126.1456977,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00230291MN-CW4",
+        "description": "Off-Carriageway Improvement: Shoulder Paving / Construction - Dapa Port-Consuelo-Corazon-Sta. Cruz-Sta. Fe -Libertad-Cabitoonan-Catangnan-General Luna Road (incl. Bridge Completion of Catangnan-Cabitoonan Bridge & Libertad Bridge 2), Surigao del Norte",
+        "latitude": 9.8282057,
+        "longitude": 126.1421289,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

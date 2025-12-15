@@ -1,0 +1,115 @@
+{
+  "data": {
+    "contractId": "17KA0014",
+    "description": "CONSTRUCTION OF LOADING & UNLOADING BAYS, SAYRE HIGHWAYK1524 + 470 - K1524 + 660MALAYBALAY CITY",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 4899996.23,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region X",
+      "province": "Bukidnon 1st DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 7.99472222,
+        "longitude": 125.13361111,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "XY BUILDERS (37726)",
+    "startDate": "2017-02-09",
+    "completionDate": "2017-04-25",
+    "infraYear": "2017",
+    "contractEffectivityDate": "2017-02-09",
+    "expiryDate": "2017-05-09",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2017 MFO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00106028MN-CW1",
+        "description": "Off-Carriageway Improvement: Construction of Loading and Unloading Bays - Sayre Highway - K1524 + 470 - K1524 + 660",
+        "infraType": "Roads",
+        "typeOfWork": "Off-Carriageway Improvement: Construction of Loading and Unloading Bays",
+        "region": "Region X",
+        "province": "BUKIDNON",
+        "coordinates": {
+          "latitude": 7.99472222,
+          "longitude": 125.13361111,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "XY BUILDERS",
+    "bidders": [
+      {
+        "name": "XY BUILDERS (37726)",
+        "pcabId": "37726",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "JT GAMOLO CONSTRUCTION, INCORPORATION (FORMERLY:J.T. GAMOLO CONSTRUCTION) (15759)",
+        "pcabId": "15759",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "MAFIL BUILDERS, INC. (35845)",
+        "pcabId": "35845",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "PETRINA CONSTRUCTION & GENERAL MERCHANDISING(FORMERLY: PETRINA GROCERS MARKETING) (29695)",
+        "pcabId": "29695",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION OF LOADING & UNLOADING BAYS, SAYRE HIGHWAY K1524 + 470 - K1524 + 660 MALAYBALAY CITY",
+      "abc": "4900000.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-11-04 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-11-24 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "4644466.91"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/14 contract.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/14 award.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/14 contract.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 7.99472222,
+    "longitude": 125.13361111,
+    "coordinates": [
+      {
+        "componentId": "P00106028MN-CW1",
+        "description": "Off-Carriageway Improvement: Construction of Loading and Unloading Bays - Sayre Highway - K1524 + 470 - K1524 + 660",
+        "latitude": 7.99472222,
+        "longitude": 125.13361111,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

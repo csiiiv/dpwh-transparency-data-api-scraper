@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "17FH0215",
+    "description": "PAVING OF UNPAVED ROAD, BARAS-GIGMOTO-VIGA ROAD K0056+031-K0056+146.50, K0056+502.62-K0056+530.92, K0064+155-K0064+582.50",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 14485302,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region V",
+      "province": "Catanduanes DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 13.809745,
+        "longitude": 124.4128305,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "LOURBEL CONSTRUCTION AND SUPPLY INC. (FORMERLY: LOURBEL CONSTRUCTION AND SUPPLY) (31370)",
+    "startDate": "2018-05-02",
+    "completionDate": "2018-10-15",
+    "infraYear": "2018",
+    "contractEffectivityDate": "2018-05-02",
+    "expiryDate": "2018-09-24",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2018 OO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00202650LZ-CW1",
+        "description": "Paving of Unpaved Roads - Baras-Gigmoto-Viga Rd - K0056 + 031.50 - K0056 + 146.50, K0056 + 502.62 - K0056 + 530.92, K0064 + 155 - K0064 + 582.50",
+        "infraType": "Roads",
+        "typeOfWork": "Paving of Unpaved Roads",
+        "region": "Region V",
+        "province": "CATANDUANES",
+        "coordinates": {
+          "latitude": 13.809745,
+          "longitude": 124.4128305,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "LOURBEL CONSTRUCTION AND SUPPLY INC. (FORMERLY: LOURBEL CONSTRUCTION AND SUPPLY)",
+    "bidders": [
+      {
+        "name": "LOURBEL CONSTRUCTION AND SUPPLY INC. (FORMERLY: LOURBEL CONSTRUCTION AND SUPPLY) (31370)",
+        "pcabId": "31370",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "CTC BUILDER AND SUPPLIES INCORPORATED (FOR. CTC BU (12088)",
+        "pcabId": "12088",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "PAVING OF UNPAVED ROAD, BARAS-GIGMOTO-VIGA ROAD K0056+031-K0056+146.50, K0056+502.62-K0056+530.92, K0064+155-K0064+582.50",
+      "abc": "14943707.70",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2017-12-07 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-12-28 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "14485302"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/B17FH02151.pdf",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/Binder1-17FH0215.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/NOA 1.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/Binder1-17FH0215.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 13.809745,
+    "longitude": 124.4128305,
+    "coordinates": [
+      {
+        "componentId": "P00202650LZ-CW1",
+        "description": "Paving of Unpaved Roads - Baras-Gigmoto-Viga Rd - K0056 + 031.50 - K0056 + 146.50, K0056 + 502.62 - K0056 + 530.92, K0064 + 155 - K0064 + 582.50",
+        "latitude": 13.809745,
+        "longitude": 124.4128305,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

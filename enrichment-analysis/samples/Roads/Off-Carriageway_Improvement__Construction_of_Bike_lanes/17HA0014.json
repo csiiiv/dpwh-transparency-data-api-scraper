@@ -1,0 +1,139 @@
+{
+  "data": {
+    "contractId": "17HA0014",
+    "description": "MFO 1-NATIONAL ROAD NETWORK SERVICE-ASSET PRESERVATION OF NATIONAL ROADS-NETWORK DEVELOPMENT-OFF- CA",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 44965701.72,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region VII",
+      "province": "Bohol 1st DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 9.59391348386301,
+        "longitude": 123.78560894509,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "VEN RAY CONSTRUCTION CORPORATION (18310)",
+    "startDate": "2017-12-28",
+    "completionDate": "2018-06-03",
+    "infraYear": "2017",
+    "contractEffectivityDate": "2017-12-28",
+    "expiryDate": "2018-06-03",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2017 MFO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00106517VS-CW1",
+        "description": "Off-Carriageway Improvement: Construction of Bike lanes - Jct (TER) Dauis-Panglao Rd - K0013 + 000 - K0017 + 000",
+        "infraType": "Roads",
+        "typeOfWork": "Off-Carriageway Improvement: Construction of Bike lanes",
+        "region": "Region VII",
+        "province": "BOHOL",
+        "coordinates": {
+          "latitude": 9.59391348386301,
+          "longitude": 123.78560894509,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "VEN RAY CONSTRUCTION CORPORATION",
+    "bidders": [
+      {
+        "name": "VEN RAY CONSTRUCTION CORPORATION (18310)",
+        "pcabId": "18310",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "AL CHRIS CONSTRUCTION (12406)",
+        "pcabId": "12406",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "CCMALUENDA CONSTRUCTION INC. (FORMERLY:C.C.M. CONSTRUCTION) (11043)",
+        "pcabId": "11043",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "LABB CONSTRUCTION DEVELOPMENT INC. (FORMERLY: LABB CONSTRUCTION) (13524)",
+        "pcabId": "13524",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "LEDA  CONSTRUCTION INCORPORATED (12229)",
+        "pcabId": "12229",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "N.N. YU CONSTRUCTION, INC. (FORMERLY: YU CONSTRUCTION) (10470)",
+        "pcabId": "10470",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "RUDHIL CONSTRUCTION & ENTERPRISES, INC.(FORMERLY R (22901)",
+        "pcabId": "22901",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "YS CONSTRUCTION (11928)",
+        "pcabId": "11928",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "MFO 1-NATIONAL ROAD NETWORK SERVICE-ASSET PRESERVATION OF NATIONAL ROADS-NETWORK DEVELOPMENT-OFF- CA",
+      "abc": "47403000.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-12-30 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-01-17 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "44,965,701.72"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/17HA0014 (PDF Edition).pdf",
+      "contractAgreement": "",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/NOA.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/17ha0014_-_contract.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 9.59391348386301,
+    "longitude": 123.78560894509,
+    "coordinates": [
+      {
+        "componentId": "P00106517VS-CW1",
+        "description": "Off-Carriageway Improvement: Construction of Bike lanes - Jct (TER) Dauis-Panglao Rd - K0013 + 000 - K0017 + 000",
+        "latitude": 9.59391348386301,
+        "longitude": 123.78560894509,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

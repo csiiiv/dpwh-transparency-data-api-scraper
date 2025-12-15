@@ -1,0 +1,153 @@
+{
+  "data": {
+    "contractId": "16Z00020",
+    "description": "CONSTRUCTION OF RETARDING POND, KAINGIN BUKID, BRGY. APOLONIO SAMSON, QUEZON CITY 6TH LD",
+    "category": "Flood Control and Drainage",
+    "status": "On-Going",
+    "budget": 942726770.24,
+    "amountPaid": 0,
+    "progress": 11.51,
+    "location": {
+      "region": "Central Office",
+      "province": "Flood Control Management Cluster",
+      "infraType": "Flood Control and Drainage",
+      "coordinates": {
+        "latitude": 14.64466576,
+        "longitude": 121.01039136,
+        "verified": false
+      }
+    },
+    "infraType": "Flood Control and Drainage",
+    "contractor": "R.U. AQUINO CONSTRUCTION AND DEVELOPMENT CORP. (FO (23507)",
+    "startDate": "2018-02-08",
+    "completionDate": null,
+    "infraYear": "2016",
+    "contractEffectivityDate": "2018-02-08",
+    "expiryDate": "2023-01-12",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-2 / GAA 2017 MFO-2",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00020179LZ-CW1",
+        "description": "Construction of Retarding Basin - Construction of Retarding Pond, Kaingin Bukid, Brgy. Apolonio Samson, Quezon City 6th LD",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Construction of Retarding Basin",
+        "region": "National Capital Region",
+        "province": "METROPOLITAN MANILA",
+        "coordinates": {
+          "latitude": 14.64466576,
+          "longitude": 121.01039136,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00021022LZ-CW1",
+        "description": "Construction of Retarding Basin - Construction of Retarding Pond Kaingin Bukid, Brgy. Apolonio Samson, Quezon City, 6th LD",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Construction of Retarding Basin",
+        "region": "National Capital Region",
+        "province": "METROPOLITAN MANILA",
+        "coordinates": {
+          "latitude": 14.64466576,
+          "longitude": 121.01039136,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00120054LZ-CW1",
+        "description": "Construction of Retarding Basin - Construction of Retarding Pond and Retaining Wall, Kaingin Bukid including RROW, Brgy. Apolonio Samson, Quezon City",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Construction of Retarding Basin",
+        "region": "National Capital Region",
+        "province": "METROPOLITAN MANILA",
+        "coordinates": {
+          "latitude": 14.652,
+          "longitude": 123.011,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "R.U. AQUINO CONSTRUCTION AND DEVELOPMENT CORP. (FO",
+    "bidders": [
+      {
+        "name": "R.U. AQUINO CONSTRUCTION AND DEVELOPMENT CORP. (FO (23507)",
+        "pcabId": "23507",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "A.M. ORETA & CO., INC. (108) / IPM CONSTRUCTION & DEVELOPMENT CORPORATION (14699) (JV ID: JV-17-905)",
+        "pcabId": "",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "TOKWING CONSTRUCTION, CORP.(FOR;  TOKWING CONSTRUC (9650)",
+        "pcabId": "9650",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION OF RETARDING POND, KAINGIN BUKID, BRGY. APOLONIO SAMSON, QUEZON CITY 6TH LD",
+      "abc": "960212876.14",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2017-11-03 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-12-01 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "942,726,770.24"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/16Z00020_final.rar",
+      "contractAgreement": "",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/16Z00020 NOA.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/16z00020_ntp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 14.64466576,
+    "longitude": 121.01039136,
+    "coordinates": [
+      {
+        "componentId": "P00020179LZ-CW1",
+        "description": "Construction of Retarding Basin - Construction of Retarding Pond, Kaingin Bukid, Brgy. Apolonio Samson, Quezon City 6th LD",
+        "latitude": 14.64466576,
+        "longitude": 121.01039136,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00021022LZ-CW1",
+        "description": "Construction of Retarding Basin - Construction of Retarding Pond Kaingin Bukid, Brgy. Apolonio Samson, Quezon City, 6th LD",
+        "latitude": 14.64466576,
+        "longitude": 121.01039136,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00120054LZ-CW1",
+        "description": "Construction of Retarding Basin - Construction of Retarding Pond and Retaining Wall, Kaingin Bukid including RROW, Brgy. Apolonio Samson, Quezon City",
+        "latitude": 14.652,
+        "longitude": 123.011,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

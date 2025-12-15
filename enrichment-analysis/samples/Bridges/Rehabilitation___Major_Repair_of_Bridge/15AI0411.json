@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "15AI0411",
+    "description": "REHAB/MAJOR REPAIR OF PERMANENT BRIDGE AT GONZALO BRIDGE (B00847LZ) ALONG SAN NICOLAS-NATIVIDAD-SAN",
+    "category": "Bridges",
+    "status": "Completed",
+    "budget": 4873031.01,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region I",
+      "province": "Pangasinan 3rd DEO",
+      "infraType": "Bridges",
+      "coordinates": {
+        "latitude": 15.9813277081395,
+        "longitude": 120.815229601905,
+        "verified": false
+      }
+    },
+    "infraType": "Bridges",
+    "contractor": "AQUINO-DELA CRUZ ENGINEERING & CONSTRUCTION (16751)",
+    "startDate": "2016-02-22",
+    "completionDate": "2016-08-19",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-02-22",
+    "expiryDate": "2016-06-20",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00001826LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Bridge - Gonzalo Br. (B00847LZ) along Sn Nicolas-Natividad-Sn Quintin-Umingan-Guimba Rd",
+        "infraType": "Bridges",
+        "typeOfWork": "Rehabilitation / Major Repair of Bridge",
+        "region": "Region I",
+        "province": "PANGASINAN",
+        "coordinates": {
+          "latitude": 15.9813277081395,
+          "longitude": 120.815229601905,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "AQUINO-DELA CRUZ ENGINEERING & CONSTRUCTION",
+    "bidders": [
+      {
+        "name": "AQUINO-DELA CRUZ ENGINEERING & CONSTRUCTION (16751)",
+        "pcabId": "16751",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "ALPHIN TRADING & CONSTRUCTION (26260)",
+        "pcabId": "26260",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "REHAB/MAJOR REPAIR OF PERMANENT BRIDGE AT GONZALO BRIDGE (B00847LZ) ALONG SAN NICOLAS-NATIVIDAD-SAN",
+      "abc": "4998000.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-12-04 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-12-23 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "4873031.0100000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/15ai0411_-_contract.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/15ai0411_-_noa.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/15ai0411_-_ntp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 15.9813277081395,
+    "longitude": 120.815229601905,
+    "coordinates": [
+      {
+        "componentId": "P00001826LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Bridge - Gonzalo Br. (B00847LZ) along Sn Nicolas-Natividad-Sn Quintin-Umingan-Guimba Rd",
+        "latitude": 15.9813277081395,
+        "longitude": 120.815229601905,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

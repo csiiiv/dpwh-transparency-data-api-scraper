@@ -1,0 +1,109 @@
+{
+  "data": {
+    "contractId": "17IJ0050",
+    "description": "CONSTRUCTION OF ROAD, BRGY. SAN PELAYO TO BRGY. SAN AGUSTIN, GANDARA,SAMAR 1ST LD",
+    "category": "Flood Control Structures, Roads",
+    "status": "Completed",
+    "budget": 48705658.22,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region VIII",
+      "province": "Samar 1st DEO",
+      "infraType": "Roads",
+      "coordinates": null
+    },
+    "infraType": "Roads",
+    "contractor": "PABLO S. LABASBAS CONSTRUCTION CORPORATION (FORMERLY: PABLOS. LABASBAS CONSTRUCTION CORPORATION) (6302)",
+    "startDate": "2017-04-05",
+    "completionDate": "2018-03-02",
+    "infraYear": "2017",
+    "contractEffectivityDate": "2017-04-05",
+    "expiryDate": "2017-10-30",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2017 LFP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00147861VS-CW1",
+        "description": "Construction of Concrete Road - Construction of Road, Brgy. San Pelayo to Brgy. San Agustin, Gandara, Samar 1st LD",
+        "infraType": "Roads",
+        "typeOfWork": "Construction of Concrete Road",
+        "region": "Region VIII",
+        "province": "SAMAR (WESTERN SAMAR)",
+        "coordinates": null
+      },
+      {
+        "componentId": "P00147861VS-CW2",
+        "description": "Embankment - Construction of Road, Brgy. San Pelayo to Brgy. San Agustin, Gandara, Samar 1st LD",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Embankment",
+        "region": "Region VIII",
+        "province": "SAMAR (WESTERN SAMAR)",
+        "coordinates": null
+      },
+      {
+        "componentId": "P00147861VS-CW3",
+        "description": "Construction of Road Slope Protection Structure - Construction of Road, Brgy. San Pelayo to Brgy. San Agustin, Gandara, Samar 1st LD",
+        "infraType": "Roads",
+        "typeOfWork": "Construction of Road Slope Protection Structure",
+        "region": "Region VIII",
+        "province": "SAMAR (WESTERN SAMAR)",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "PABLO S. LABASBAS CONSTRUCTION CORPORATION (FORMERLY: PABLOS. LABASBAS CONSTRUCTION CORPORATION)",
+    "bidders": [
+      {
+        "name": "PABLO S. LABASBAS CONSTRUCTION CORPORATION (FORMERLY: PABLOS. LABASBAS CONSTRUCTION CORPORATION) (6302)",
+        "pcabId": "6302",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "B. VICENCIO BUILDERS (BVB), INC. (FORMERLY:B. VICENCIO CONSTRUCTION) (9687)",
+        "pcabId": "9687",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "RNMK  CONSTRUCTION, SUPPLY AND DEVELOPMENT CORP. (FOR: RNMK CONST. & DEV'T) (35680)",
+        "pcabId": "35680",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION OF ROAD, BRGY. SAN PELAYO TO BRGY. SAN AGUSTIN, GANDARA,SAMAR 1ST LD",
+      "abc": "49471515.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2017-02-01 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-02-21 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "45,019,078.00"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/0049to0050.pdf",
+      "contractAgreement": "",
+      "noticeOfAward": "",
+      "noticeToProceed": "",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

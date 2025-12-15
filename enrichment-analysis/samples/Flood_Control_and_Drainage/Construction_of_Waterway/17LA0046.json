@@ -1,0 +1,137 @@
+{
+  "data": {
+    "contractId": "17LA0046",
+    "description": "RECHANNELING AND CONSTRUCTION OF DIKE IN KINGKING RIVER AT AYAN SECTION (LEFT SIDE) PANTUKAN 2ND LD, COMPOSTELA VALLEY PROVINCE",
+    "category": "Flood Control and Drainage",
+    "status": "Completed",
+    "budget": 44183300,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region XI",
+      "province": "Davao de Oro 1st DEO",
+      "infraType": "Flood Control and Drainage",
+      "coordinates": {
+        "latitude": 7.149108,
+        "longitude": 125.918597,
+        "verified": false
+      }
+    },
+    "infraType": "Flood Control and Drainage",
+    "contractor": "R.A. PAHATI CONST. & SUPPLY, INC. (35843) / NUEDA BUILDERS CONSTRUCTION & SUPPLY INC. (39776)",
+    "startDate": "2017-03-07",
+    "completionDate": "2017-09-07",
+    "infraYear": "2017",
+    "contractEffectivityDate": "2017-03-07",
+    "expiryDate": "2017-09-07",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2017 MFO-2",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00121713MN-CW1",
+        "description": "Construction of Waterway - Rechanneling and Construction of Dike in Kingking River at Ayan Section (Left Side), Pantukan, Compostela Valley",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Construction of Waterway",
+        "region": "Region XI",
+        "province": "DAVAO DE ORO",
+        "coordinates": {
+          "latitude": 7.149108,
+          "longitude": 125.918597,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00121713MN-CW2",
+        "description": "Construction of Dike - Rechanneling and Construction of Dike in Kingking River at Ayan Section (Left Side), Pantukan, Compostela Valley",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Construction of Dike",
+        "region": "Region XI",
+        "province": "DAVAO DE ORO",
+        "coordinates": {
+          "latitude": 7.149108,
+          "longitude": 125.918597,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "NUEDA BUILDERS CONSTRUCTION & SUPPLY INC., R.A. PAHATI CONST. & SUPPLY, INC.",
+    "bidders": [
+      {
+        "name": "R.A. PAHATI CONST. & SUPPLY, INC. (35843) / NUEDA BUILDERS CONSTRUCTION & SUPPLY INC. (39776) (JV ID: JV-16-908)",
+        "pcabId": "",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "DAVAO CONCRETE PRODUCTS CONSTRUCTION AND TRADING CORPORATION (FORMERLY: DAVAO CONCRETE PRODUCTS) (12090)",
+        "pcabId": "12090",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "FFJJ CONSTRUCTION (16712)",
+        "pcabId": "16712",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "VICENTE T. LAO CONSTRUCTION (7040)",
+        "pcabId": "7040",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "RECHANNELING AND CONSTRUCTION OF DIKE IN KINGKING RIVER AT AYAN SECTION (LEFT SIDE) PANTUKAN 2ND LD, COMPOSTELA VALLEY PROVINCE",
+      "abc": "44183272.73",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-12-08 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-12-27 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "42677961.08"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/CONTRACT AGREEMENT.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/NOA.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/CONTRACT AGREEMENT.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 7.149108,
+    "longitude": 125.918597,
+    "coordinates": [
+      {
+        "componentId": "P00121713MN-CW1",
+        "description": "Construction of Waterway - Rechanneling and Construction of Dike in Kingking River at Ayan Section (Left Side), Pantukan, Compostela Valley",
+        "latitude": 7.149108,
+        "longitude": 125.918597,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00121713MN-CW2",
+        "description": "Construction of Dike - Rechanneling and Construction of Dike in Kingking River at Ayan Section (Left Side), Pantukan, Compostela Valley",
+        "latitude": 7.149108,
+        "longitude": 125.918597,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

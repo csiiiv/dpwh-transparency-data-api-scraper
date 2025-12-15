@@ -1,0 +1,85 @@
+{
+  "data": {
+    "contractId": "16AC0073",
+    "description": "REPAIR / IMPROVEMENT OF DRAINAGE CANAL, TAMAG, VIGAN CITY, ILOCOS SUR",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 3318475.54,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region I",
+      "province": "Ilocos Sur 1st DEO",
+      "infraType": "Roads",
+      "coordinates": null
+    },
+    "infraType": "Roads",
+    "contractor": "N.A. IBARRA CONSTRUCTION(FOR. DIOCLETIANS CONST.) (24742)",
+    "startDate": "2016-07-03",
+    "completionDate": "2016-12-12",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-07-03",
+    "expiryDate": "2016-09-20",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 Locally Funded Projects",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00055570LZ-CW1",
+        "description": "Upgrading of Drainage Structure along Road - Repair/Improvement of Drainage Canal, Tamag, Vigan City, Ilocos Sur",
+        "infraType": "Roads",
+        "typeOfWork": "Upgrading of Drainage Structure along Road",
+        "region": "Region I",
+        "province": "ILOCOS SUR",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "N.A. IBARRA CONSTRUCTION(FOR. DIOCLETIANS CONST.)",
+    "bidders": [
+      {
+        "name": "N.A. IBARRA CONSTRUCTION(FOR. DIOCLETIANS CONST.) (24742)",
+        "pcabId": "24742",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "M.V. SABALBURO CONSTRUCTION AND SUPPLY (32561)",
+        "pcabId": "32561",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "REPAIR / IMPROVEMENT OF DRAINAGE CANAL, TAMAG, VIGAN CITY, ILOCOS SUR",
+      "abc": "3414407.39",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-05-16 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-06-06 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "3,318,475.54"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/august/COA-16AC0073.pdf",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/july/NOA-16AC0073.pdf",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/august/COA-16AC0073.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

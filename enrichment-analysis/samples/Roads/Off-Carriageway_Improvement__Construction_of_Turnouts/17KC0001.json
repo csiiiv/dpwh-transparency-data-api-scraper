@@ -1,0 +1,115 @@
+{
+  "data": {
+    "contractId": "17KC0001",
+    "description": "OFF-CARRIAGEWAY IMPROVEMENT INCLUDING DRAINAGE (CONSTRUCTION OF TURN-OUTS) ALONG SAYRE HIGHWAY (ALAE-KISOLON ROAD) K1439+075-K1439+165, K1439+565-K1439+655, K1443+035-K1443+125, K1443+265-K1443+355, MANOLO FORTICH, BUKIDNON",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 9800000,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region X",
+      "province": "Bukidnon 3rd DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 8.4154423817406,
+        "longitude": 124.822886120644,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "C'ZARLES CONSTRUCTION & SUPPLY (23426)",
+    "startDate": "2017-03-02",
+    "completionDate": "2017-06-10",
+    "infraYear": "2017",
+    "contractEffectivityDate": "2017-03-02",
+    "expiryDate": "2017-06-10",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2017 MFO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00106029MN-CW1",
+        "description": "Off-Carriageway Improvement: Construction of Turnouts - Sayre Highway - K1439 + 075 - K1439 + 165, K1439 + 565 - K1439 + 655, K1443 + 035 - K1443 + 125, K1443 + 265 - K1443 + 355",
+        "infraType": "Roads",
+        "typeOfWork": "Off-Carriageway Improvement: Construction of Turnouts",
+        "region": "Region X",
+        "province": "BUKIDNON",
+        "coordinates": {
+          "latitude": 8.4154423817406,
+          "longitude": 124.822886120644,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "C'ZARLES CONSTRUCTION & SUPPLY",
+    "bidders": [
+      {
+        "name": "C'ZARLES CONSTRUCTION & SUPPLY (23426)",
+        "pcabId": "23426",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "LLM UNIFIED BUILDERS & TRADING CORP. (FORMERLY:LLM CONCRETE PRODUCTS) (14235)",
+        "pcabId": "14235",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "MEGAKONSTRUK DEVELOPMENT CORP. (38666)",
+        "pcabId": "38666",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "PYRAMID CONSOLIDATED BUILDERS & GEN. MDSE. (15599)",
+        "pcabId": "15599",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "OFF-CARRIAGEWAY IMPROVEMENT INCLUDING DRAINAGE (CONSTRUCTION OF TURN-OUTS) ALONG SAYRE HIGHWAY (ALAE-KISOLON ROAD) K1439+075-K1439+165, K1439+565-K1439+655, K1443+035-K1443+125, K1443+265-K1443+355, MANOLO FORTICH, BUKIDNON",
+      "abc": "9800000.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-10-06 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-10-25 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "9,298,240.30"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/CONTRACT 0001.docx",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/noa_2_2.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/_ntp_00001.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 8.4154423817406,
+    "longitude": 124.822886120644,
+    "coordinates": [
+      {
+        "componentId": "P00106029MN-CW1",
+        "description": "Off-Carriageway Improvement: Construction of Turnouts - Sayre Highway - K1439 + 075 - K1439 + 165, K1439 + 565 - K1439 + 655, K1443 + 035 - K1443 + 125, K1443 + 265 - K1443 + 355",
+        "latitude": 8.4154423817406,
+        "longitude": 124.822886120644,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

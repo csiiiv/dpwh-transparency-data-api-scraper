@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "15AD0189",
+    "description": "IMPRV'T OF MPB-MAPISI ROCK PARK-TOURISM DESTINATION DEVELOPMENT,BRGY AMBUCAO,SANTIAGO,ILOCOS SUR",
+    "category": "Buildings and Facilities",
+    "status": "Completed",
+    "budget": 2814563.74,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region I",
+      "province": "Ilocos Sur 2nd DEO",
+      "infraType": "Buildings and Facilities",
+      "coordinates": {
+        "latitude": 17.306139,
+        "longitude": 120.423109,
+        "verified": false
+      }
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "FIRST NORTHWAY DEVELOPMENT & CONSTRUCTION CORP. (11645)",
+    "startDate": "2016-02-18",
+    "completionDate": "2016-08-15",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-02-18",
+    "expiryDate": "2016-05-17",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 Locally Funded Projects",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00040860LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Multi Purpose Building - Improvement of Multipurpose Buidling-Mapisi Rock Park-Tourism Destination Development, Barangay Ambucao, Santiago, Ilocos Sur",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Rehabilitation / Major Repair of Multi Purpose Building",
+        "region": "Region I",
+        "province": "ILOCOS SUR",
+        "coordinates": {
+          "latitude": 17.306139,
+          "longitude": 120.423109,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "FIRST NORTHWAY DEVELOPMENT & CONSTRUCTION CORP.",
+    "bidders": [
+      {
+        "name": "FIRST NORTHWAY DEVELOPMENT & CONSTRUCTION CORP. (11645)",
+        "pcabId": "11645",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "VIGAN FORTUNE CONSTRUCTION (3887)",
+        "pcabId": "3887",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "IMPRV'T OF MPB-MAPISI ROCK PARK-TOURISM DESTINATION DEVELOPMENT,BRGY AMBUCAO,SANTIAGO,ILOCOS SUR",
+      "abc": "2940000.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-12-03 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-12-23 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "2850934.7200000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/april/15AD0189 CA173.pdf",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/april/15AD0189 NOA172.pdf",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/april/15AD0189 CA173.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 17.306139,
+    "longitude": 120.423109,
+    "coordinates": [
+      {
+        "componentId": "P00040860LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Multi Purpose Building - Improvement of Multipurpose Buidling-Mapisi Rock Park-Tourism Destination Development, Barangay Ambucao, Santiago, Ilocos Sur",
+        "latitude": 17.306139,
+        "longitude": 120.423109,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

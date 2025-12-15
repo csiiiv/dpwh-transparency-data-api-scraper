@@ -1,0 +1,97 @@
+{
+  "data": {
+    "contractId": "16AE0082",
+    "description": "REHAB & IMPROVT OF AMBURAYAN RIVER CONTROL, BRGY. IPET TO BRGY. NAMALTUGAN, SUDIPEN, LU (RE-ADVER)",
+    "category": "Flood Control and Drainage",
+    "status": "Completed",
+    "budget": 34458513.48,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region I",
+      "province": "La Union 1st DEO",
+      "infraType": "Flood Control and Drainage",
+      "coordinates": {
+        "latitude": 16.90682408,
+        "longitude": 120.49572246,
+        "verified": false
+      }
+    },
+    "infraType": "Flood Control and Drainage",
+    "contractor": "H.G. LOPEZ CONSTRUCTION (17691)",
+    "startDate": "2016-10-17",
+    "completionDate": "2017-08-04",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-10-17",
+    "expiryDate": "2017-03-24",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-2",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00022713LZ-CW1",
+        "description": "Construction of Spur Dike - Rehabilitation and Improvement of Amburayan River Control, Brgy. Upet to Namaltugan, Sudipen, La Union",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Construction of Spur Dike",
+        "region": "Region I",
+        "province": "LA UNION",
+        "coordinates": {
+          "latitude": 16.90682408,
+          "longitude": 120.49572246,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "H.G. LOPEZ CONSTRUCTION",
+    "bidders": [
+      {
+        "name": "H.G. LOPEZ CONSTRUCTION (17691)",
+        "pcabId": "17691",
+        "participation": 100,
+        "isWinner": true
+      }
+    ],
+    "procurement": {
+      "contractName": "REHAB & IMPROV\"T OF AMBURAYAN RIVER CONTROL, BRGY. IPET TO BRGY. NAMALTUGAN, SUDIPEN, LU (RE-ADVER)",
+      "abc": "35704974.50",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-08-10 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-09-23 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "34458513.48"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/december/16AE0082 Contract.pdf",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/december/16AE0082 Notice of Award.pdf",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/december/16AE0082 Contract.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 16.90682408,
+    "longitude": 120.49572246,
+    "coordinates": [
+      {
+        "componentId": "P00022713LZ-CW1",
+        "description": "Construction of Spur Dike - Rehabilitation and Improvement of Amburayan River Control, Brgy. Upet to Namaltugan, Sudipen, La Union",
+        "latitude": 16.90682408,
+        "longitude": 120.49572246,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

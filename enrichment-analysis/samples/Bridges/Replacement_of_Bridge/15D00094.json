@@ -1,0 +1,133 @@
+{
+  "data": {
+    "contractId": "15D00094",
+    "description": "MFO-1 REPLACEMENT OF PERM. WEAK BRIDGES PANDANAN BRIDGE (B02591LZ) ALONG DAANG MAHARLIKA (LZ), CALAU",
+    "category": "Bridges",
+    "status": "Completed",
+    "budget": 107245030.2,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region IV-A",
+      "province": "Region IV-A",
+      "infraType": "Bridges",
+      "coordinates": null
+    },
+    "infraType": "Bridges",
+    "contractor": "JEMAK CONSTRUCTION & SUPPLY (32056) / C.T. LEONCIO CONSTRUCTION & TRADING (17371)",
+    "startDate": "2016-02-15",
+    "completionDate": "2019-12-13",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-02-15",
+    "expiryDate": "2020-02-11",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00002039LZ-CW1",
+        "description": "Replacement of Bridge - Pandanan Br. (B02591LZ) along Daang Maharlika (LZ)",
+        "infraType": "Bridges",
+        "typeOfWork": "Replacement of Bridge",
+        "region": "Region IV-A",
+        "province": "QUEZON",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "C.T. LEONCIO CONSTRUCTION & TRADING, JEMAK CONSTRUCTION & SUPPLY",
+    "bidders": [
+      {
+        "name": "C.T. LEONCIO CONSTRUCTION & TRADING (17371) / JEMAK CONSTRUCTION & SUPPLY (32056) (JV ID: JV-15-1082)",
+        "pcabId": "",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "A.C. RIVERO DEVELOPMENT CORPORATION (5122)",
+        "pcabId": "5122",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "B. VICENCIO BUILDERS (BVB), INC. (FORMERLY:B. VICENCIO CONSTRUCTION) (9687)",
+        "pcabId": "9687",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "GRACE CONSTRUCTION CORPORATION (3771)",
+        "pcabId": "3771",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "GVDPM CONSTRUCTION CORP. (FORMERLY: ZM CONSTRUCTIO (9052)",
+        "pcabId": "9052",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "J.D. LEGASPI CONSTRUCTION (9608)",
+        "pcabId": "9608",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "MONOLITHIC CONSTRUCTION & CONCRETE PRODUCTS, INC. (5733)",
+        "pcabId": "5733",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "PHILWORKS CONSTRUCTION & SUPPLY (32103)",
+        "pcabId": "32103",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "ROMA CONSTRUCTION & DEVELOPMENT CORPORATION (6514)",
+        "pcabId": "6514",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "V.R. PATRON BUILDERS & DEVELOPERS CORP. (PREVIOUSL (13487)",
+        "pcabId": "13487",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "MFO-1 REPLACEMENT OF PERM. WEAK BRIDGES PANDANAN BRIDGE (B02591LZ) ALONG DAANG MAHARLIKA (LZ), CALAU",
+      "abc": "107250000.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-12-28 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-01-19 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "103549986.2000000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/july/15D00094_CA.pdf",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/july/15D00094_NTP.pdf",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/july/15D00094_CA.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "17KJ0190",
+    "description": "CONSTRUCTION OF POLYCLINIC UNDER THE HEALTH FACILITIES ENHANCEMENT PROGRAM (HEFP)",
+    "category": "Buildings and Facilities",
+    "status": "Completed",
+    "budget": 19205947.76,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region X",
+      "province": "Misamis Occidental 2nd DEO",
+      "infraType": "Buildings and Facilities",
+      "coordinates": {
+        "latitude": 8.256453,
+        "longitude": 123.574506,
+        "verified": false
+      }
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "RUDHIL CONSTRUCTION & ENTERPRISES, INC.(FORMERLY R (22901)",
+    "startDate": "2018-05-07",
+    "completionDate": "2018-11-02",
+    "infraYear": "2018",
+    "contractEffectivityDate": "2018-05-07",
+    "expiryDate": "2018-11-02",
+    "nysReason": null,
+    "programName": "Outside Infra",
+    "sourceOfFunds": "Outside Infra - GAA 2018 DOH HFEP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00299364MN-CW1",
+        "description": "Construction of Rural Health Unit - Construction of Don Victoriano RHU, Don Victoriano, Misamis Occidental",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of Rural Health Unit",
+        "region": "Region X",
+        "province": "MISAMIS OCCIDENTAL",
+        "coordinates": {
+          "latitude": 8.256453,
+          "longitude": 123.574506,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "RUDHIL CONSTRUCTION & ENTERPRISES, INC.(FORMERLY R",
+    "bidders": [
+      {
+        "name": "RUDHIL CONSTRUCTION & ENTERPRISES, INC.(FORMERLY R (22901)",
+        "pcabId": "22901",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "GENETIAN BUILDERS AND ENTERPRISES INCORPORATED (FORMERLY: GENETIAN BUILDERS) (18052)",
+        "pcabId": "18052",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION OF POLYCLINIC UNDER THE HEALTH FACILITIES ENHANCEMENT PROGRAM (HEFP)",
+      "abc": "19800000.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2017-11-23 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-12-12 00:00:00.0000000",
+      "dateOfAward": "2018-04-18 00:00:00.0000000",
+      "awardAmount": "19205947.76"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/ITB- 17KJ0190.pdf",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/contract_17kj0190.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/17KJ0190.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/ntp_17kj0190.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 8.256453,
+    "longitude": 123.574506,
+    "coordinates": [
+      {
+        "componentId": "P00299364MN-CW1",
+        "description": "Construction of Rural Health Unit - Construction of Don Victoriano RHU, Don Victoriano, Misamis Occidental",
+        "latitude": 8.256453,
+        "longitude": 123.574506,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

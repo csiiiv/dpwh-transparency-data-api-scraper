@@ -1,0 +1,133 @@
+{
+  "data": {
+    "contractId": "16OC0008",
+    "description": "REHAB./UPGRADING AND DRAINAGE IMPROVEMENT OF SUNRISE ST. AND ITS VICINITY, DIST. 1, MAKATI CITY, M.M.",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 18315099.04,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "National Capital Region",
+      "province": "Metro Manila 2nd DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 14.570877,
+        "longitude": 121.00901,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "SPRING STAR CONSTRUCTION AND SUPPLY (20240)",
+    "startDate": "2016-02-18",
+    "completionDate": "2017-07-15",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-02-18",
+    "expiryDate": "2016-08-15",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - Flood Control/Hydraulics/Drainage, Roads: Rehabilitation - PCCP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00020035LZ-CW1",
+        "description": "Upgrading of Drainage Structure along Road - Rehabilitation/Upgrading & Drainage Improvement of Sunrise Street & its vicinity, District I, Makati City, Metro Manila",
+        "infraType": "Roads",
+        "typeOfWork": "Upgrading of Drainage Structure along Road",
+        "region": "National Capital Region",
+        "province": "METROPOLITAN MANILA",
+        "coordinates": {
+          "latitude": 14.570877,
+          "longitude": 121.00901,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "SPRING STAR CONSTRUCTION AND SUPPLY",
+    "bidders": [
+      {
+        "name": "SPRING STAR CONSTRUCTION AND SUPPLY (20240)",
+        "pcabId": "20240",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "ALXM CONSTRUCTION & DEV'T. CORP. (FORMERLY:ALXM CONSTRUCTION) (33436)",
+        "pcabId": "33436",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "FERDSTAR BUILDERS INC. (4965)",
+        "pcabId": "4965",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "HONEYVILLECONST AND DEVELOPMENT CORPORATION (32160)",
+        "pcabId": "32160",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "PRECIOUS CONSTRUCTION (32995)",
+        "pcabId": "32995",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "ROLCO CONSTRUCTION & DEVELOPMENT CORPORATION ( FOR (29686)",
+        "pcabId": "29686",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "THE STEADFAST BUILDERS (8176)",
+        "pcabId": "8176",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "REHAB./UPGRADING AND DRAINAGE IMPROVEMENT OF SUNRISE ST. AND ITS VICINITY, DIST. 1, MAKATI CITY, M.M.",
+      "abc": "19300000.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-01-08 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-01-27 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "18,315,099.04"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/ca_16oc0008.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/noa_-_es.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/ntp_16oc0008.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 14.570877,
+    "longitude": 121.00901,
+    "coordinates": [
+      {
+        "componentId": "P00020035LZ-CW1",
+        "description": "Upgrading of Drainage Structure along Road - Rehabilitation/Upgrading & Drainage Improvement of Sunrise Street & its vicinity, District I, Makati City, Metro Manila",
+        "latitude": 14.570877,
+        "longitude": 121.00901,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

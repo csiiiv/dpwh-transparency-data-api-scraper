@@ -1,0 +1,109 @@
+{
+  "data": {
+    "contractId": "18CA0057",
+    "description": "LOCAL INFRASTRUCTURE PROGRAM-LOCAL ROADS AND BRIDGES-LOCAL BRIDGES, REHABILITATION OF HANGING BRIDGE, PUROK 5, BANGALDINALUPIHAN, BATAAN",
+    "category": "Bridges",
+    "status": "Completed",
+    "budget": 1462715,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region III",
+      "province": "Bataan 1st DEO",
+      "infraType": "Bridges",
+      "coordinates": {
+        "latitude": 14.8448921,
+        "longitude": 120.3395755,
+        "verified": false
+      }
+    },
+    "infraType": "Bridges",
+    "contractor": "F.V. SANGALANG CONSTRUCTION (37083)",
+    "startDate": "2018-04-05",
+    "completionDate": "2018-07-31",
+    "infraYear": "2018",
+    "contractEffectivityDate": "2018-04-05",
+    "expiryDate": "2018-08-02",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2018 LP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00253117LZ-CW1",
+        "description": "Construction of Bailey Bridge - Rehabilitation of Hanging Bridge, Purok 5, Bangal, Dinalupihan, Bataan",
+        "infraType": "Bridges",
+        "typeOfWork": "Construction of Bailey Bridge",
+        "region": "Region III",
+        "province": "BATAAN",
+        "coordinates": {
+          "latitude": 14.8448921,
+          "longitude": 120.3395755,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "F.V. SANGALANG CONSTRUCTION",
+    "bidders": [
+      {
+        "name": "F.V. SANGALANG CONSTRUCTION (37083)",
+        "pcabId": "37083",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "JEK TRADING AND CONSTRUCTION (41568)",
+        "pcabId": "41568",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "LATYMAR BUILDERS AND DEVELOPMENT CORPORATION (FORMERLY: LTM BUILDERS) (35247)",
+        "pcabId": "35247",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "LOCAL INFRASTRUCTURE PROGRAM-LOCAL ROADS AND BRIDGES-LOCAL BRIDGES, REHABILITATION OF HANGING BRIDGE, PUROK 5, BANGAL DINALUPIHAN, BATAAN",
+      "abc": "1484990.13",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2018-01-09 00:00:00.0000000",
+      "bidSubmissionDeadline": "2018-03-16 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "1462715"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/18CA0057 Plan.pdf",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/5. Contract Agreement.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/1._18ca0057_notice_of_award.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/7._18ca0057_notice_to_proceed.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 14.8448921,
+    "longitude": 120.3395755,
+    "coordinates": [
+      {
+        "componentId": "P00253117LZ-CW1",
+        "description": "Construction of Bailey Bridge - Rehabilitation of Hanging Bridge, Purok 5, Bangal, Dinalupihan, Bataan",
+        "latitude": 14.8448921,
+        "longitude": 120.3395755,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "data": {
+    "contractId": "17RG0139",
+    "description": "ORGANIZTIONAL OUTCOME 1: ENSURE SAFEAND RELIABLE NATIONAL ROAD SYSTEM, ASSET PRESERVATION PROGRAM, R",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 36270660,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Negros Island Region",
+      "province": "Negros Oriental 2nd DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 9.8046579,
+        "longitude": 122.9261222,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "QM BUILDERS (30743)",
+    "startDate": "2018-04-16",
+    "completionDate": "2018-12-10",
+    "infraYear": "2018",
+    "contractEffectivityDate": "2018-04-16",
+    "expiryDate": "2018-09-30",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2018 OO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00200137VS-CW1",
+        "description": "Reconstruction from Paved to Concrete - Bais-Kabankalan Rd - K0055 + 358 - K0055 + 828, K0098 + 000 - K0098 + 812",
+        "infraType": "Roads",
+        "typeOfWork": "Reconstruction from Paved to Concrete",
+        "region": "Negros Island Region",
+        "province": "NEGROS ORIENTAL",
+        "coordinates": {
+          "latitude": 9.8046579,
+          "longitude": 122.9261222,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "QM BUILDERS",
+    "bidders": [
+      {
+        "name": "QM BUILDERS (30743)",
+        "pcabId": "30743",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "LEGACY CONSTRUCTION CORPORATION (FORMERLY: LEGACY CONSTRUCTION) (22465)",
+        "pcabId": "22465",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "PHILSOUTH BUILDERS INC (FORMERLY:PHILSOUTH BUILDERS) (21962)",
+        "pcabId": "21962",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "UY CONDEV CORPORATION (FORMERLY:UY CONSTRUCTION & (12336)",
+        "pcabId": "12336",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "ORGANIZTIONAL OUTCOME 1: ENSURE SAFEAND RELIABLE NATIONAL ROAD SYSTEM, ASSET PRESERVATION PROGRAM, R",
+      "abc": "38383660.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2017-11-09 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-11-29 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "36,270,660.00"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/17RG0139 BID DOCS Bais-Kabanakalan Rd.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/CONTRACT 3_00045_0002.zip",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/NOA 3_00045_0009.zip",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/NTP 3_00045_0001.jpg",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 9.8046579,
+    "longitude": 122.9261222,
+    "coordinates": [
+      {
+        "componentId": "P00200137VS-CW1",
+        "description": "Reconstruction from Paved to Concrete - Bais-Kabankalan Rd - K0055 + 358 - K0055 + 828, K0098 + 000 - K0098 + 812",
+        "latitude": 9.8046579,
+        "longitude": 122.9261222,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

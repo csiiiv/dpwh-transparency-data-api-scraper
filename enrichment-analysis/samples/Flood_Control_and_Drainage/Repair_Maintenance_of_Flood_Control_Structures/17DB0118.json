@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "17DB0118",
+    "description": "IMPROVEMENT OF CLOSED CANAL ALONG APACIBLE STREET, POBLACION II, CALATAGAN, BATANGAS",
+    "category": "Flood Control and Drainage",
+    "status": "Completed",
+    "budget": 1900796.9,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region IV-A",
+      "province": "Batangas 1st DEO",
+      "infraType": "Flood Control and Drainage",
+      "coordinates": {
+        "latitude": 13.831126,
+        "longitude": 120.630668,
+        "verified": false
+      }
+    },
+    "infraType": "Flood Control and Drainage",
+    "contractor": "RICH ADS CONSTRUCTION CORP. (FORMERLY RICH ADS CON (31157)",
+    "startDate": "2017-07-17",
+    "completionDate": "2017-10-14",
+    "infraYear": "2017",
+    "contractEffectivityDate": "2017-07-17",
+    "expiryDate": "2017-09-14",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2017 LFP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00148699LZ-CW1",
+        "description": "Repair/Maintenance of Flood Control Structures - Improvement of closed canal along Apacible Street, Poblacion II, Calatagan, Batangas",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Repair/Maintenance of Flood Control Structures",
+        "region": "Region IV-A",
+        "province": "BATANGAS",
+        "coordinates": {
+          "latitude": 13.831126,
+          "longitude": 120.630668,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "RICH ADS CONSTRUCTION CORP. (FORMERLY RICH ADS CON",
+    "bidders": [
+      {
+        "name": "RICH ADS CONSTRUCTION CORP. (FORMERLY RICH ADS CON (31157)",
+        "pcabId": "31157",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "F. CASALME CONSTRUCTION & SUPPLY (33657)",
+        "pcabId": "33657",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "IMPROVEMENT OF CLOSED CANAL ALONG APACIBLE STREET, POBLACION II, CALATAGAN, BATANGAS",
+      "abc": "1980000.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2017-05-24 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-06-13 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "1,900,796.90"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/17DB0118.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/contract1_17db0118.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/notice_of_award_17db0118.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/notice_to_proceed_17db0118.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 13.831126,
+    "longitude": 120.630668,
+    "coordinates": [
+      {
+        "componentId": "P00148699LZ-CW1",
+        "description": "Repair/Maintenance of Flood Control Structures - Improvement of closed canal along Apacible Street, Poblacion II, Calatagan, Batangas",
+        "latitude": 13.831126,
+        "longitude": 120.630668,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

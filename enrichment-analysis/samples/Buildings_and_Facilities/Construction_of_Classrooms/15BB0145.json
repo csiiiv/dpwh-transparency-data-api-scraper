@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "15BB0145",
+    "description": "CONSTRUCTION OF 1 CL SCHOOL BUILDING AT ZINARAG ELEMENTARY SCHOOL, APARRI, CAGAYAN 1ST LD",
+    "category": "Buildings and Facilities",
+    "status": "Completed",
+    "budget": 988500,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region II",
+      "province": "Cagayan 1st DEO",
+      "infraType": "Buildings and Facilities",
+      "coordinates": {
+        "latitude": 18.29270148,
+        "longitude": 121.57474816,
+        "verified": false
+      }
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "D.J.D. CONSTRUCTION INC. (FORMERLY: D. J. D. CONSTRUCTION) (32217)",
+    "startDate": "2016-01-21",
+    "completionDate": "2016-05-31",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-01-21",
+    "expiryDate": "2016-03-20",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 Locally Funded Projects",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00051051LZ-CW1",
+        "description": "Construction of Classrooms - Construction of 1 CL School Building at Zinarag Elementary School, Aparri, Cagayan 1st LD",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of Classrooms",
+        "region": "Region II",
+        "province": "CAGAYAN",
+        "coordinates": {
+          "latitude": 18.29270148,
+          "longitude": 121.57474816,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "D.J.D. CONSTRUCTION INC. (FORMERLY: D. J. D. CONSTRUCTION)",
+    "bidders": [
+      {
+        "name": "D.J.D. CONSTRUCTION INC. (FORMERLY: D. J. D. CONSTRUCTION) (32217)",
+        "pcabId": "32217",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "DEKM CONSTRUCTION (32409)",
+        "pcabId": "32409",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION OF 1 CL SCHOOL BUILDING AT ZINARAG ELEMENTARY SCHOOL, APARRI, CAGAYAN 1ST LD",
+      "abc": "990000.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-12-17 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-01-07 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "988500.0000000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/july/15BB0145-002.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/15bb0145-noa.pdf",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/july/15BB0145-002.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 18.29270148,
+    "longitude": 121.57474816,
+    "coordinates": [
+      {
+        "componentId": "P00051051LZ-CW1",
+        "description": "Construction of Classrooms - Construction of 1 CL School Building at Zinarag Elementary School, Aparri, Cagayan 1st LD",
+        "latitude": 18.29270148,
+        "longitude": 121.57474816,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

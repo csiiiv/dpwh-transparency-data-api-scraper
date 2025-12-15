@@ -1,0 +1,269 @@
+{
+  "data": {
+    "contractId": "18L00164",
+    "description": "JCT. DAVAO-COTABATO ROAD (BANGKAL SECT.)-CATALUNAN GRANDE RD-JCT. DAVAO-BUKIDNON RD (MINTAL SECT.),I",
+    "category": "Bridges, Roads",
+    "status": "Completed",
+    "budget": 169818099.48,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region XI",
+      "province": "Region XI",
+      "infraType": "Bridges",
+      "coordinates": {
+        "latitude": 7.0955485,
+        "longitude": 125.5013572,
+        "verified": false
+      }
+    },
+    "infraType": "Bridges",
+    "contractor": "P.L. SEBASTIAN CONSTRUCTION, INC. (FORMERLY: P.L. SEBASTIAN CONSTRUCTION) (35840)",
+    "startDate": "2018-07-15",
+    "completionDate": "2021-04-05",
+    "infraYear": "2018",
+    "contractEffectivityDate": "2018-07-15",
+    "expiryDate": "2021-04-05",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2018 OO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00200405MN-CW1",
+        "description": "Construction of Substructure - Jct. Davao-Cotabato Road (Bangkal Section)-Catalunan Grande Road-Jct. Davao-Bukidnon Road (Mintal Section), Davao City, Davao City",
+        "infraType": "Bridges",
+        "typeOfWork": "Construction of Substructure",
+        "region": "Region XI",
+        "province": "DAVAO DEL SUR",
+        "coordinates": {
+          "latitude": 7.0955485,
+          "longitude": 125.5013572,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00200405MN-CW2",
+        "description": "Construction of Gravel Road - Jct. Davao-Cotabato Road (Bangkal Section)-Catalunan Grande Road-Jct. Davao-Bukidnon Road (Mintal Section), Davao City, Davao City",
+        "infraType": "Roads",
+        "typeOfWork": "Construction of Gravel Road",
+        "region": "Region XI",
+        "province": "DAVAO DEL SUR",
+        "coordinates": {
+          "latitude": 7.0956628,
+          "longitude": 125.5013909,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00200405MN-CW3",
+        "description": "Construction of Concrete Road - Jct. Davao-Cotabato Road (Bangkal Section)-Catalunan Grande Road-Jct. Davao-Bukidnon Road (Mintal Section), Davao City, Davao City",
+        "infraType": "Roads",
+        "typeOfWork": "Construction of Concrete Road",
+        "region": "Region XI",
+        "province": "DAVAO DEL SUR",
+        "coordinates": {
+          "latitude": 7.0964583,
+          "longitude": 125.4967717,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00200405MN-CW4",
+        "description": "Construction of Drainage Structure along Road - Jct. Davao-Cotabato Road (Bangkal Section)-Catalunan Grande Road-Jct. Davao-Bukidnon Road (Mintal Section), Davao City, Davao City",
+        "infraType": "Roads",
+        "typeOfWork": "Construction of Drainage Structure along Road",
+        "region": "Region XI",
+        "province": "DAVAO DEL SUR",
+        "coordinates": {
+          "latitude": 7.0954191,
+          "longitude": 125.5013003,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00200405MN-CW5",
+        "description": "Construction of Concrete Bridge - Jct. Davao-Cotabato Road (Bangkal Section)-Catalunan Grande Road-Jct. Davao-Bukidnon Road (Mintal Section), Davao City, Davao City",
+        "infraType": "Bridges",
+        "typeOfWork": "Construction of Concrete Bridge",
+        "region": "Region XI",
+        "province": "DAVAO DEL SUR",
+        "coordinates": {
+          "latitude": 7.0954769,
+          "longitude": 125.5012718,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "P.L. SEBASTIAN CONSTRUCTION, INC. (FORMERLY: P.L. SEBASTIAN CONSTRUCTION)",
+    "bidders": [
+      {
+        "name": "P.L. SEBASTIAN CONSTRUCTION, INC. (FORMERLY: P.L. SEBASTIAN CONSTRUCTION) (35840)",
+        "pcabId": "35840",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "ADFIL CORPORATION (14437)",
+        "pcabId": "14437",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "ALGON ENGINEERING CONSTRUCTION CORPORATION (270)",
+        "pcabId": "270",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "B. VICENCIO BUILDERS (BVB), INC. (FORMERLY:B. VICENCIO CONSTRUCTION) (9687)",
+        "pcabId": "9687",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "GRACE CONSTRUCTION CORPORATION (3771)",
+        "pcabId": "3771",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "GVDPM CONSTRUCTION CORP. (FORMERLY: ZM CONSTRUCTIO (9052)",
+        "pcabId": "9052",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "MAC BUILDERS CORP. (FORMERLY: MAC BUILDERS DEVELOPMENT CORPORATION) (7249)",
+        "pcabId": "7249",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "MONOLITHIC CONSTRUCTION & CONCRETE PRODUCTS, INC. (5733)",
+        "pcabId": "5733",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "NORTHERN BUILDERS (8789)",
+        "pcabId": "8789",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "PHILWORKS CONSTRUCTION & SUPPLY (32103)",
+        "pcabId": "32103",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "PREMIUM MEGASTRUCTURES INC. (36079)",
+        "pcabId": "36079",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "SARGASSO CONSTRUCTION & DEVELOPMENT CORP. (6587)",
+        "pcabId": "6587",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "ULTICON BUILDERS, INC. (17267)",
+        "pcabId": "17267",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "VICENTE T. LAO CONSTRUCTION (7040)",
+        "pcabId": "7040",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "YAKAL CONSTRUCTION (9685)",
+        "pcabId": "9685",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "JCT. DAVAO-COTABATO ROAD (BANGKAL SECT.)-CATALUNAN GRANDE RD-JCT. DAVAO-BUKIDNON RD (MINTAL SECT.),I",
+      "abc": "172788075.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2018-04-24 00:00:00.0000000",
+      "bidSubmissionDeadline": "2018-05-15 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "167620184.8"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/18L00164 - BIDDING DOCUMENTS.rar",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/CONTRACT 18L00164.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/NOA 18L00164.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/CONTRACT 18L00164.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 7.0955485,
+    "longitude": 125.5013572,
+    "coordinates": [
+      {
+        "componentId": "P00200405MN-CW1",
+        "description": "Construction of Substructure - Jct. Davao-Cotabato Road (Bangkal Section)-Catalunan Grande Road-Jct. Davao-Bukidnon Road (Mintal Section), Davao City, Davao City",
+        "latitude": 7.0955485,
+        "longitude": 125.5013572,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00200405MN-CW2",
+        "description": "Construction of Gravel Road - Jct. Davao-Cotabato Road (Bangkal Section)-Catalunan Grande Road-Jct. Davao-Bukidnon Road (Mintal Section), Davao City, Davao City",
+        "latitude": 7.0956628,
+        "longitude": 125.5013909,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00200405MN-CW3",
+        "description": "Construction of Concrete Road - Jct. Davao-Cotabato Road (Bangkal Section)-Catalunan Grande Road-Jct. Davao-Bukidnon Road (Mintal Section), Davao City, Davao City",
+        "latitude": 7.0964583,
+        "longitude": 125.4967717,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00200405MN-CW4",
+        "description": "Construction of Drainage Structure along Road - Jct. Davao-Cotabato Road (Bangkal Section)-Catalunan Grande Road-Jct. Davao-Bukidnon Road (Mintal Section), Davao City, Davao City",
+        "latitude": 7.0954191,
+        "longitude": 125.5013003,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00200405MN-CW5",
+        "description": "Construction of Concrete Bridge - Jct. Davao-Cotabato Road (Bangkal Section)-Catalunan Grande Road-Jct. Davao-Bukidnon Road (Mintal Section), Davao City, Davao City",
+        "latitude": 7.0954769,
+        "longitude": 125.5012718,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

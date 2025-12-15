@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "16JA0008",
+    "description": "CONSTRUCTION OF TWO (2) STOREY EIGHT (8) CLASSROOM SCHOOL BUILDING AT SAN ROQUE NHS, ZAMBOANGA CITY",
+    "category": "Buildings and Facilities",
+    "status": "Completed",
+    "budget": 10274983.83,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region IX",
+      "province": "Zamboanga City 2nd DEO",
+      "infraType": "Buildings and Facilities",
+      "coordinates": {
+        "latitude": 6.94257,
+        "longitude": 122.03902,
+        "verified": false
+      }
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "GHR CONSTRUCTION (34464)",
+    "startDate": "2016-02-02",
+    "completionDate": "2017-02-22",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-02-02",
+    "expiryDate": "2017-02-22",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 Locally Funded Projects",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00040211MN-CW1",
+        "description": "Construction of 2-Storey Classrooms - Construction of 2-storey 8 classroom Building at San Roque National High School, San Roque, Zamboanga City 1st LD",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of 2-Storey Classrooms",
+        "region": "Region IX",
+        "province": "ZAMBOANGA DEL SUR",
+        "coordinates": {
+          "latitude": 6.94257,
+          "longitude": 122.03902,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "GHR CONSTRUCTION",
+    "bidders": [
+      {
+        "name": "GHR CONSTRUCTION (34464)",
+        "pcabId": "34464",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "WILLIAM INTEGRATED CONTRACTOR (7669)",
+        "pcabId": "7669",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION OF TWO (2) STOREY EIGHT (8) CLASSROOM SCHOOL BUILDING AT SAN ROQUE NHS, ZAMBOANGA CITY",
+      "abc": "10305697.39",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-10-14 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-11-23 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "10,274,983.83"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/16ja0008-_notice_of_award.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/16ja0008-_contract_of_agreement.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 6.94257,
+    "longitude": 122.03902,
+    "coordinates": [
+      {
+        "componentId": "P00040211MN-CW1",
+        "description": "Construction of 2-Storey Classrooms - Construction of 2-storey 8 classroom Building at San Roque National High School, San Roque, Zamboanga City 1st LD",
+        "latitude": 6.94257,
+        "longitude": 122.03902,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

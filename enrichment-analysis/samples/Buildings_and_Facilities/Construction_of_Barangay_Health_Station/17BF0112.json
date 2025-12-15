@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "17BF0112",
+    "description": "CONSTRUCTION OF BARANGAY HEALTH STATION (BHS) (SMALL MODEL), NEW MAGSAYSAY, BENITO SOLIVEN, ISABELA",
+    "category": "Buildings and Facilities",
+    "status": "Completed",
+    "budget": 1133748.02,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region II",
+      "province": "Isabela 2nd DEO",
+      "infraType": "Buildings and Facilities",
+      "coordinates": {
+        "latitude": 16.90161,
+        "longitude": 121.95016,
+        "verified": false
+      }
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "D.S.T. METALCRAFT AND ENGINEERING WORKS (34382)",
+    "startDate": "2018-01-29",
+    "completionDate": "2018-09-30",
+    "infraYear": "2017",
+    "contractEffectivityDate": "2018-01-29",
+    "expiryDate": "2018-04-28",
+    "nysReason": null,
+    "programName": "Outside Infra",
+    "sourceOfFunds": "Outside Infra - GAA 2017 DOH HFEP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00199044LZ-CW1",
+        "description": "Construction of Barangay Health Station - Construction of New Magsaysay Barangay Health Station, Benito Soliven, Sabela",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of Barangay Health Station",
+        "region": "Region II",
+        "province": "ISABELA",
+        "coordinates": {
+          "latitude": 16.90161,
+          "longitude": 121.95016,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "D.S.T. METALCRAFT AND ENGINEERING WORKS",
+    "bidders": [
+      {
+        "name": "D.S.T. METALCRAFT AND ENGINEERING WORKS (34382)",
+        "pcabId": "34382",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "CAMBERWELL CONSTRUCTION AND SUPPLIES (39624)",
+        "pcabId": "39624",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION OF BARANGAY HEALTH STATION (BHS) (SMALL MODEL), NEW MAGSAYSAY, BENITO SOLIVEN, ISABELA",
+      "abc": "1193999.99",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2017-09-21 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-12-18 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "1133748.02"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/18BF0038-0049,13,15-17,17BF0112(RE-AD).zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/17BF0112-CONTRACT.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/17BF0112-NOA.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/17BF0112-CONTRACT.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 16.90161,
+    "longitude": 121.95016,
+    "coordinates": [
+      {
+        "componentId": "P00199044LZ-CW1",
+        "description": "Construction of Barangay Health Station - Construction of New Magsaysay Barangay Health Station, Benito Soliven, Sabela",
+        "latitude": 16.90161,
+        "longitude": 121.95016,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "data": {
+    "contractId": "18PL0082",
+    "description": "LOCAL ROADS - IMPROVEMENT OF 503RD BRIGADE ROAD TO MT. PROVINCE - CALANAN NATIONAL ROAD",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 18998899.89,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Cordillera Administrative Region",
+      "province": "Lower Kalinga DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 17.4055572,
+        "longitude": 121.4077004,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "PBO CONSTRUCTION COMPANY (41870) / R.S. SEPIAN CONSTRUCTION & TRUCKING (20519)",
+    "startDate": "2018-03-15",
+    "completionDate": "2018-09-23",
+    "infraYear": "2018",
+    "contractEffectivityDate": "2018-03-15",
+    "expiryDate": "2018-06-17",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2018 LP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00247934LZ-CW1",
+        "description": "Reconstruction: Raising of Grade - Improvement of 503rd Brigade Road to Mountain Province-Calanan National Road, Kalinga",
+        "infraType": "Roads",
+        "typeOfWork": "Reconstruction: Raising of Grade",
+        "region": "Cordillera Administrative Region",
+        "province": "KALINGA",
+        "coordinates": {
+          "latitude": 17.4055572,
+          "longitude": 121.4077004,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "PBO CONSTRUCTION COMPANY, R.S. SEPIAN CONSTRUCTION & TRUCKING",
+    "bidders": [
+      {
+        "name": "R.S. SEPIAN CONSTRUCTION & TRUCKING (20519) / PBO CONSTRUCTION COMPANY (41870) (JV ID: JV-17-935)",
+        "pcabId": "",
+        "participation": 100,
+        "isWinner": true
+      }
+    ],
+    "procurement": {
+      "contractName": "LOCAL ROADS - IMPROVEMENT OF 503RD BRIGADE ROAD TO MT. PROVINCE - CALANAN NATIONAL ROAD",
+      "abc": "19284293.40",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2017-11-07 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-11-29 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "18998899.89"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/18PL0082.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/18pl0082_contract_agreement.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/18pl0082_notice_of_award.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/18pl0082_notice_to_proceed.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 17.4055572,
+    "longitude": 121.4077004,
+    "coordinates": [
+      {
+        "componentId": "P00247934LZ-CW1",
+        "description": "Reconstruction: Raising of Grade - Improvement of 503rd Brigade Road to Mountain Province-Calanan National Road, Kalinga",
+        "latitude": 17.4055572,
+        "longitude": 121.4077004,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "data": {
+    "contractId": "15CE0169",
+    "description": "CONSTRUCTION/MAINTENANCE OF FLOOD MITIGATION STRUCTURES AND DRAINAGE SYSTEMS, REPAIR/REHABILITATION OF FLOOD CONTROL STRUCTURES ALONG TALAVERA RIVER, SAN EUSTACIO, ALIAGA",
+    "category": "Flood Control and Drainage",
+    "status": "Completed",
+    "budget": 15836723.58,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region III",
+      "province": "Nueva Ecija 1st DEO",
+      "infraType": "Flood Control and Drainage",
+      "coordinates": null
+    },
+    "infraType": "Flood Control and Drainage",
+    "contractor": "FORTHRIGHT CONSTRUCTION (32883) / AMP 723 CONSTRUCTION CORPORATION (FORMERLY: A.M.P. CONSTRUCTION) (16574)",
+    "startDate": "2016-02-01",
+    "completionDate": "2016-07-19",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-02-01",
+    "expiryDate": "2016-07-19",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-2",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00020445LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Flood Control Structure - Repair/Rehabilitation of Flood Control Structures along Talavera River at Brgy. San Eustacio, Aliaga, Nueva Ecija",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Rehabilitation / Major Repair of Flood Control Structure",
+        "region": "Region III",
+        "province": "NUEVA ECIJA",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "AMP 723 CONSTRUCTION CORPORATION (FORMERLY: A.M.P. CONSTRUCTION), FORTHRIGHT CONSTRUCTION",
+    "bidders": [
+      {
+        "name": "AMP 723 CONSTRUCTION CORPORATION (FORMERLY: A.M.P. CONSTRUCTION) (16574) / FORTHRIGHT CONSTRUCTION (32883) (JV ID: JV-15-792)",
+        "pcabId": "",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "F.L. REGUYAL CONSTRUCTION CORPORATION (3315)",
+        "pcabId": "3315",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "JAM-C BUILDERS (32870)",
+        "pcabId": "32870",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "R.A. PAHATI CONST. & SUPPLY, INC. (35843)",
+        "pcabId": "35843",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION/MAINTENANCE OF FLOOD MITIGATION STRUCTURES AND DRAINAGE SYSTEMS, REPAIR/REHABILITATION OF FLOOD CONTROL STRUCTURES ALONG TALAVERA RIVER, SAN EUSTACIO, ALIAGA",
+      "abc": "16691343.22",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-11-18 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-12-08 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "15836723.5800000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/march/15CE0169 CONT.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/15ce0169_noa.pdf",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/march/15CE0169 CONT.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

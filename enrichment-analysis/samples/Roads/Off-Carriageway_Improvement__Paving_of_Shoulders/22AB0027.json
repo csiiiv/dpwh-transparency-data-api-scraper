@@ -1,0 +1,109 @@
+{
+  "data": {
+    "contractId": "22AB0027",
+    "description": "OFF-CARRIAGEWAY IMPROVEMENT - SECONDARY ROADS, PIAS-CURRIMAO-BALACCAD RD - K0473+474 - K0474+876",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 16590620.35,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region I",
+      "province": "Ilocos Norte 2nd DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 18.0841647,
+        "longitude": 120.5079378,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "JLP CONSTRUCTION & SUPPLY (FORMERLY: JLP CONSTRUCT (26983)",
+    "startDate": "2022-02-11",
+    "completionDate": "2022-03-31",
+    "infraYear": "2022",
+    "contractEffectivityDate": "2022-02-11",
+    "expiryDate": "2022-08-23",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2022 OO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00606294LZ-CW1",
+        "description": "Off-Carriageway Improvement: Paving of Shoulders - Pias-Currimao-Balaccad Rd - K0473 + 474 - K0474 + 876",
+        "infraType": "Roads",
+        "typeOfWork": "Off-Carriageway Improvement: Paving of Shoulders",
+        "region": "Region I",
+        "province": "ILOCOS NORTE",
+        "coordinates": {
+          "latitude": 18.0841647,
+          "longitude": 120.5079378,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "JLP CONSTRUCTION & SUPPLY (FORMERLY: JLP CONSTRUCT",
+    "bidders": [
+      {
+        "name": "JLP CONSTRUCTION & SUPPLY (FORMERLY: JLP CONSTRUCT (26983)",
+        "pcabId": "26983",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "BUSILAC BUILDERS INC. (7701)",
+        "pcabId": "7701",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "REMIGIO GENERAL CONSTRUCTION (2298)",
+        "pcabId": "2298",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "OFF-CARRIAGEWAY IMPROVEMENT - SECONDARY ROADS, PIAS-CURRIMAO-BALACCAD RD - K0473+474 - K0474+876",
+      "abc": "19600000.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2021-10-27 00:00:00.0000000",
+      "bidSubmissionDeadline": "2021-11-17 00:00:00.0000000",
+      "dateOfAward": "2022-02-02 00:00:00.0000000",
+      "awardAmount": "15082382.14"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/Bidding Docs - 22AB0027.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/22ab0027_ca.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/22ab0027_noa_and_reso.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/22ab0027_ntp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 18.0841647,
+    "longitude": 120.5079378,
+    "coordinates": [
+      {
+        "componentId": "P00606294LZ-CW1",
+        "description": "Off-Carriageway Improvement: Paving of Shoulders - Pias-Currimao-Balaccad Rd - K0473 + 474 - K0474 + 876",
+        "latitude": 18.0841647,
+        "longitude": 120.5079378,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 2,
+      "latestImageDate": "2023-10-11 03:10:13.404000",
+      "hasImages": true
+    }
+  }
+}

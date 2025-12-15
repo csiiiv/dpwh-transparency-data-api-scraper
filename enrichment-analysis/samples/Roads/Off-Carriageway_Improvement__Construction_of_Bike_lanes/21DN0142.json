@@ -1,0 +1,133 @@
+{
+  "data": {
+    "contractId": "21DN0142",
+    "description": "ESTABLISHMENT OF BICYCLE ROAD NETWORK ALONG NATIONAL ROADS OF ANTIPOLO CITY, RIZAL",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 5211000,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region IV-A",
+      "province": "Rizal 1st DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 14.6338264,
+        "longitude": 121.1075492,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "AB VISION ENGINEERING CONSTRUCTION (19845)",
+    "startDate": "2021-08-23",
+    "completionDate": "2021-11-20",
+    "infraYear": "2021",
+    "contractEffectivityDate": "2021-08-23",
+    "expiryDate": "2021-11-20",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2021 CSSP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00538147LZ-CW1",
+        "description": "Off-Carriageway Improvement: Construction of Bike lanes - Establishment of Bicycle Road Network along National Roads of Antipolo City, Rizal",
+        "infraType": "Roads",
+        "typeOfWork": "Off-Carriageway Improvement: Construction of Bike lanes",
+        "region": "Region IV-A",
+        "province": "RIZAL",
+        "coordinates": {
+          "latitude": 14.6338264,
+          "longitude": 121.1075492,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "AB VISION ENGINEERING CONSTRUCTION",
+    "bidders": [
+      {
+        "name": "AB VISION ENGINEERING CONSTRUCTION (19845)",
+        "pcabId": "19845",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "A.L. ACHARON CONSTRUCTION AND SUPPLY (33068)",
+        "pcabId": "33068",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "D.C. SANDIL CONSTRUCTION AND REALTY DEVELOPMENT, I (32562)",
+        "pcabId": "32562",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "DIADEMA CONSTRUCTION AND ENTERPRISES INC. (FORMERLY: DIADEMA ENTERPRISES) (16759)",
+        "pcabId": "16759",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "MMG CONSTRUCTION (41562)",
+        "pcabId": "41562",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "TWO DIMENSION CONSTRUCTION (39410)",
+        "pcabId": "39410",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "YAMAR CONSTRUCTION (44185)",
+        "pcabId": "44185",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "ESTABLISHMENT OF BICYCLE ROAD NETWORK ALONG NATIONAL ROADS OF ANTIPOLO CITY, RIZAL",
+      "abc": "5790000.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2021-05-26 00:00:00.0000000",
+      "bidSubmissionDeadline": "2021-06-15 00:00:00.0000000",
+      "dateOfAward": "2021-08-10 00:00:00.0000000",
+      "awardAmount": "5211000"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/ITB 21DN0045,21DN0096,21DN0110,21DN0113,21DN0140-21DN0142.pdf",
+      "contractAgreement": "",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/21dn0142-ca.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/ntp_21dn0142.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 14.6338264,
+    "longitude": 121.1075492,
+    "coordinates": [
+      {
+        "componentId": "P00538147LZ-CW1",
+        "description": "Off-Carriageway Improvement: Construction of Bike lanes - Establishment of Bicycle Road Network along National Roads of Antipolo City, Rizal",
+        "latitude": 14.6338264,
+        "longitude": 121.1075492,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 1,
+      "latestImageDate": "2022-07-06 04:46:29.769999",
+      "hasImages": true
+    }
+  }
+}

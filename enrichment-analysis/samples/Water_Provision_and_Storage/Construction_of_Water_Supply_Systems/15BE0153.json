@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "15BE0153",
+    "description": "CONSTRUCTION OF WATER SYSTEM, SAN PABLO, ISABELA",
+    "category": "Water Provision and Storage",
+    "status": "Completed",
+    "budget": 4801480.64,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region II",
+      "province": "Isabela 1st DEO",
+      "infraType": "Water Provision and Storage",
+      "coordinates": {
+        "latitude": 17.48246,
+        "longitude": 121.835379,
+        "verified": false
+      }
+    },
+    "infraType": "Water Provision and Storage",
+    "contractor": "SMT CONSTRUCTION (36331)",
+    "startDate": "2016-02-07",
+    "completionDate": "2016-05-06",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-02-07",
+    "expiryDate": "2016-05-06",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 Locally Funded Projects",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00054491LZ-CW1",
+        "description": "Construction of Water Supply Systems - Construction of water system level III, Brgy. San Pablo, Isabela 1st LD",
+        "infraType": "Water Provision and Storage",
+        "typeOfWork": "Construction of Water Supply Systems",
+        "region": "Region II",
+        "province": "ISABELA",
+        "coordinates": {
+          "latitude": 17.48246,
+          "longitude": 121.835379,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "SMT CONSTRUCTION",
+    "bidders": [
+      {
+        "name": "SMT CONSTRUCTION (36331)",
+        "pcabId": "36331",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "4 A'S CONSTRUCTION (9446)",
+        "pcabId": "9446",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION OF WATER SYSTEM, SAN PABLO, ISABELA",
+      "abc": "4949980.04",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-11-26 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-12-15 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "4801480.6400000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/15be0153_ca.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/15be0153_noa.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/15be0153_ntp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 17.48246,
+    "longitude": 121.835379,
+    "coordinates": [
+      {
+        "componentId": "P00054491LZ-CW1",
+        "description": "Construction of Water Supply Systems - Construction of water system level III, Brgy. San Pablo, Isabela 1st LD",
+        "latitude": 17.48246,
+        "longitude": 121.835379,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

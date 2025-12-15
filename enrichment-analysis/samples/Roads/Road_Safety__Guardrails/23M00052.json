@@ -1,0 +1,177 @@
+{
+  "data": {
+    "contractId": "23M00052",
+    "description": "CONSTRUCTION OF CONCRETE ROAD - NRJ RANCHO CENTRO NAGPAN-SITIO  KALONBARAK ROAD LEADING TO KALONBARAK SKYLINE, STA. 0+130 - STA. 1+990,BRGY. POBLACION, MALUNGON, SARANGANI",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 101324528.01,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region XII",
+      "province": "Region XII",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 6.3396483,
+        "longitude": 125.2568481,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "SARANGANI ROCKMIXER INCORPORATED (FORMERLY:SARANGANI  ROCKMIXER) (6549)",
+    "startDate": "2023-04-12",
+    "completionDate": "2024-08-06",
+    "infraYear": "2023",
+    "contractEffectivityDate": "2023-04-12",
+    "expiryDate": "2024-08-06",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2023 CSSP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00733289MN-CW1",
+        "description": "Construction of Concrete Road - NRJ Rancho Centro Nagpan-Sitio Kalonbarak Road leading to Kalonbarak Skyline, Brgy. Poblacion, Malungon, Sarangani",
+        "infraType": "Roads",
+        "typeOfWork": "Construction of Concrete Road",
+        "region": "Region XII",
+        "province": "SARANGANI",
+        "coordinates": {
+          "latitude": 6.3396483,
+          "longitude": 125.2568481,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00733289MN-CW2",
+        "description": "Road Safety: Guardrails - NRJ Rancho Centro Nagpan-Sitio Kalonbarak Road leading to Kalonbarak Skyline, Brgy. Poblacion, Malungon, Sarangani",
+        "infraType": "Roads",
+        "typeOfWork": "Road Safety: Guardrails",
+        "region": "Region XII",
+        "province": "SARANGANI",
+        "coordinates": {
+          "latitude": 6.3491649,
+          "longitude": 125.2465015,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00733289MN-CW3",
+        "description": "Construction of Road Slope Protection Structure - NRJ Rancho Centro Nagpan-Sitio Kalonbarak Road leading to Kalonbarak Skyline, Brgy. Poblacion, Malungon, Sarangani",
+        "infraType": "Roads",
+        "typeOfWork": "Construction of Road Slope Protection Structure",
+        "region": "Region XII",
+        "province": "SARANGANI",
+        "coordinates": {
+          "latitude": 6.3452114,
+          "longitude": 125.2498621,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "SARANGANI ROCKMIXER INCORPORATED (FORMERLY:SARANGANI  ROCKMIXER)",
+    "bidders": [
+      {
+        "name": "SARANGANI ROCKMIXER INCORPORATED (FORMERLY:SARANGANI  ROCKMIXER) (6549)",
+        "pcabId": "6549",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "A.M AYUNAN CONSTRUCTION (13983)",
+        "pcabId": "13983",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "FREDEN CONSTRUCTION (22665)",
+        "pcabId": "22665",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "JDRC CONSTRUCTION & SUPPLIES, CORP. (33869)",
+        "pcabId": "33869",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "RANGAY CONSTRUCTION AND SUPPLY (40117)",
+        "pcabId": "40117",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "TSQUARE CONSTRUCTION CORPORATION (FORMERLY:T-SQUARE BUILDERS) (14268)",
+        "pcabId": "14268",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "VICENTE T. LAO CONSTRUCTION (7040)",
+        "pcabId": "7040",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION OF CONCRETE ROAD - NRJ RANCHO CENTRO NAGPAN-SITIO  KALONBARAK ROAD LEADING TO KALONBARAK SKYLINE, STA. 0+130 - STA. 1+990, BRGY. POBLACION, MALUNGON, SARANGANI",
+      "abc": "101325000.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2022-11-09 00:00:00.0000000",
+      "bidSubmissionDeadline": "2022-12-01 00:00:00.0000000",
+      "dateOfAward": "2023-03-27 00:00:00.0000000",
+      "awardAmount": "99240712.2"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/001_invitation_to_bid_november_29_2022_4.pdf",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/23m00052-ca.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/23m00052-noa.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/23m00052-ca.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 6.3396483,
+    "longitude": 125.2568481,
+    "coordinates": [
+      {
+        "componentId": "P00733289MN-CW1",
+        "description": "Construction of Concrete Road - NRJ Rancho Centro Nagpan-Sitio Kalonbarak Road leading to Kalonbarak Skyline, Brgy. Poblacion, Malungon, Sarangani",
+        "latitude": 6.3396483,
+        "longitude": 125.2568481,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00733289MN-CW2",
+        "description": "Road Safety: Guardrails - NRJ Rancho Centro Nagpan-Sitio Kalonbarak Road leading to Kalonbarak Skyline, Brgy. Poblacion, Malungon, Sarangani",
+        "latitude": 6.3491649,
+        "longitude": 125.2465015,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00733289MN-CW3",
+        "description": "Construction of Road Slope Protection Structure - NRJ Rancho Centro Nagpan-Sitio Kalonbarak Road leading to Kalonbarak Skyline, Brgy. Poblacion, Malungon, Sarangani",
+        "latitude": 6.3452114,
+        "longitude": 125.2498621,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 4,
+      "latestImageDate": "2025-01-09 08:57:50.400999",
+      "hasImages": true
+    }
+  }
+}

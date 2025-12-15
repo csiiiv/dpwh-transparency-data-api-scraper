@@ -1,0 +1,109 @@
+{
+  "data": {
+    "contractId": "15C00091",
+    "description": "ASSET PRESERVATION OF NATIONAL ROADS-REHAB./RECONST./UPGRADING OF DAMAGED PAVED NATIONAL ROADS INCL. DRAINAGE BASED ON PAVEMENT MANAGEMENT SYSTEM/HIGHWAY DEVELOPMENT & MANAGEMENT-4 (HDM-4) PRIMARY ROADS, DAANG MAHARLIKA (LZ) BULACAN 2ND L.D. PROV. OF BULA",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 19450322.81,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region III",
+      "province": "Region III",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 14.8407464580208,
+        "longitude": 120.861649937673,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "MRRM TRADING & CONSTRUCTION (19657) / G.D.L. CONSTRUCTION (22796)",
+    "startDate": "2016-03-30",
+    "completionDate": "2017-03-03",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-03-30",
+    "expiryDate": "2017-03-03",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - Flood Control/Hydraulics/Drainage, Roads: Construction - PCCP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00000875LZ-CW1",
+        "description": "Rehabilitation of Asphalt Road - Daang Maharlika (LZ) - K0037+-978 - K0037+000",
+        "infraType": "Roads",
+        "typeOfWork": "Rehabilitation of Asphalt Road",
+        "region": "Region III",
+        "province": "BULACAN",
+        "coordinates": {
+          "latitude": 14.8407464580208,
+          "longitude": 120.861649937673,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "G.D.L. CONSTRUCTION, MRRM TRADING & CONSTRUCTION",
+    "bidders": [
+      {
+        "name": "MRRM TRADING & CONSTRUCTION (19657) / G.D.L. CONSTRUCTION (22796) (JV ID: JV-15-842)",
+        "pcabId": "",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "C & F CONSTRUCTION & DEVELOPMENT CORPORATION (3509)",
+        "pcabId": "3509",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "STO. CRISTO CONSTRUCTION & TRADING INC. (FOR: STO. CRISTO CONSTRUCTION & TRADING) (26096)",
+        "pcabId": "26096",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "ASSET PRESERVATION OF NATIONAL ROADS-REHAB./RECONST./UPGRADING OF DAMAGED PAVED NATIONAL ROADS INCL. DRAINAGE BASED ON PAVEMENT MANAGEMENT SYSTEM/HIGHWAY DEVELOPMENT & MANAGEMENT-4 (HDM-4) PRIMARY ROADS, DAANG MAHARLIKA (LZ) BULACAN 2ND L.D. PROV. OF BULA",
+      "abc": "30989504.48",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-12-03 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-12-23 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "24299931.2100000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/august/15C00091.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/15c00091_noa.pdf",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/august/15C00091.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 14.8407464580208,
+    "longitude": 120.861649937673,
+    "coordinates": [
+      {
+        "componentId": "P00000875LZ-CW1",
+        "description": "Rehabilitation of Asphalt Road - Daang Maharlika (LZ) - K0037+-978 - K0037+000",
+        "latitude": 14.8407464580208,
+        "longitude": 120.861649937673,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

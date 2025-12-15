@@ -1,0 +1,127 @@
+{
+  "data": {
+    "contractId": "21KI0017",
+    "description": "NETWORK DEVELOPMENT PROGRAM - OFF - CARRIAGEWAY IMPROVEMENT SECONDARY ROADS, OROQUIETA CITY - CALAMBA MT. ROAD. K1775+445, CALAMBA, MISAMIS OCCIDENTAL.",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 3710455.73,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region X",
+      "province": "Misamis Occidental 1st DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 8.5508276,
+        "longitude": 123.6450276,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "RDY BUILDERS CONSTRUCTION AND GENERAL MERCHANDISE (35622)",
+    "startDate": "2021-02-26",
+    "completionDate": "2021-04-08",
+    "infraYear": "2021",
+    "contractEffectivityDate": "2021-02-26",
+    "expiryDate": "2021-04-08",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2021 OO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00501637MN-CW1",
+        "description": "Off-Carriageway Improvement: Construction of Turnouts - Oroquieta City-Calamba Mt Rd - K1775 + 445",
+        "infraType": "Roads",
+        "typeOfWork": "Off-Carriageway Improvement: Construction of Turnouts",
+        "region": "Region X",
+        "province": "MISAMIS OCCIDENTAL",
+        "coordinates": {
+          "latitude": 8.5508276,
+          "longitude": 123.6450276,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "RDY BUILDERS CONSTRUCTION AND GENERAL MERCHANDISE",
+    "bidders": [
+      {
+        "name": "RDY BUILDERS CONSTRUCTION AND GENERAL MERCHANDISE (35622)",
+        "pcabId": "35622",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "DDS BUILDERS (37010)",
+        "pcabId": "37010",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "JARM CONSTRUCTION SERVICES AND SUPPLY (42951)",
+        "pcabId": "42951",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "JM2 CONSTRUCTION AND SUPPLIES (FORMERLY: JM2 CONSTRUCTION) (42392)",
+        "pcabId": "42392",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "MIRAJEM BUILDERS  AND CONSTRUCTION SUPPLY (44882)",
+        "pcabId": "44882",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "SGM CONSTRUCTION (38805)",
+        "pcabId": "38805",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "NETWORK DEVELOPMENT PROGRAM - OFF - CARRIAGEWAY IMPROVEMENT SECONDARY ROADS, OROQUIETA CITY - CALAMBA MT. ROAD. K1775+445, CALAMBA, MISAMIS OCCIDENTAL.",
+      "abc": "4900000.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2020-12-23 00:00:00.0000000",
+      "bidSubmissionDeadline": "2021-01-26 00:00:00.0000000",
+      "dateOfAward": "2021-02-18 00:00:00.0000000",
+      "awardAmount": "3373153.97"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/21KI0017.pdf",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/21KI0017.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/21ki0017.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/21ki0017.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 8.5508276,
+    "longitude": 123.6450276,
+    "coordinates": [
+      {
+        "componentId": "P00501637MN-CW1",
+        "description": "Off-Carriageway Improvement: Construction of Turnouts - Oroquieta City-Calamba Mt Rd - K1775 + 445",
+        "latitude": 8.5508276,
+        "longitude": 123.6450276,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 4,
+      "latestImageDate": "2021-10-27 09:03:05.434000",
+      "hasImages": true
+    }
+  }
+}

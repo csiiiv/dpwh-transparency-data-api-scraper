@@ -1,0 +1,97 @@
+{
+  "data": {
+    "contractId": "16IB0270",
+    "description": "REPAIR OF HOMEMAKING BUILDING EASTERN SAMAR STATE UNIVERSITY, BORONGAN CITY, EASTERN, SAMAR.",
+    "category": "Buildings and Facilities",
+    "status": "Completed",
+    "budget": 1142954.54,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region VIII",
+      "province": "Eastern Samar DEO",
+      "infraType": "Buildings and Facilities",
+      "coordinates": {
+        "latitude": 11.660278,
+        "longitude": 125.441111,
+        "verified": false
+      }
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "PABLO S. LABASBAS CONSTRUCTION CORPORATION (FORMERLY: PABLOS. LABASBAS CONSTRUCTION CORPORATION) (6302)",
+    "startDate": "2016-12-29",
+    "completionDate": "2017-03-13",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-12-29",
+    "expiryDate": "2017-03-13",
+    "nysReason": null,
+    "programName": "Outside Infra",
+    "sourceOfFunds": "Outside Infra - GAA 2016 NDRRMF",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00095223VS-CW1",
+        "description": "Rehabilitation / Major Repair of School  Buildings - Repair of ESSU Home Making Building, Main Campus, Borongan City, Eastern Samar",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Rehabilitation / Major Repair of School  Buildings",
+        "region": "Region VIII",
+        "province": "EASTERN SAMAR",
+        "coordinates": {
+          "latitude": 11.660278,
+          "longitude": 125.441111,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "PABLO S. LABASBAS CONSTRUCTION CORPORATION (FORMERLY: PABLOS. LABASBAS CONSTRUCTION CORPORATION)",
+    "bidders": [
+      {
+        "name": "PABLO S. LABASBAS CONSTRUCTION CORPORATION (FORMERLY: PABLOS. LABASBAS CONSTRUCTION CORPORATION) (6302)",
+        "pcabId": "6302",
+        "participation": 100,
+        "isWinner": true
+      }
+    ],
+    "procurement": {
+      "contractName": "REPAIR OF HOMEMAKING BUILDING EASTERN SAMAR STATE UNIVERSITY, BORONGAN CITY, EASTERN, SAMAR.",
+      "abc": "1152965.67",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-11-15 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-12-05 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "1,142,954.54"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/16ib0270-_contract_agreement.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/16ib0270-award.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/16ib0270-_ntp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 11.660278,
+    "longitude": 125.441111,
+    "coordinates": [
+      {
+        "componentId": "P00095223VS-CW1",
+        "description": "Rehabilitation / Major Repair of School  Buildings - Repair of ESSU Home Making Building, Main Campus, Borongan City, Eastern Samar",
+        "latitude": 11.660278,
+        "longitude": 125.441111,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "data": {
+    "contractId": "21LH0138",
+    "description": "CONST. OF THE FOLLOWING PROJECTS AT BRGY. TAGLUNO, TORIL DIST., D.C., LGSF-BPD, ELCAC (1) REHAB/IMPV'T. OF HEALTH STATION AT PUROK 5, BRGY. TAGLUNO, D.C. (2) REHAB/IMPV'T. OF DAY CARE CENTER AT PUROK 5, BRGY. TAGLUNO, D.C. (3) CONST. OF ROAD AT PUROK 7, B",
+    "category": "Hospitals, Other Buildings, Roads, Water Supply Systems",
+    "status": "Completed",
+    "budget": 19570910.07,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region XI",
+      "province": "Davao City 2nd DEO",
+      "infraType": "Buildings and Facilities",
+      "coordinates": {
+        "latitude": 7.0673861,
+        "longitude": 125.4414278,
+        "verified": false
+      }
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "FIVE MASSIVE INFRA & SUPPLY CORP. (36876)",
+    "startDate": "2022-09-02",
+    "completionDate": "2022-12-25",
+    "infraYear": "2021",
+    "contractEffectivityDate": "2022-09-02",
+    "expiryDate": "2023-03-18",
+    "nysReason": null,
+    "programName": "Outside Infra",
+    "sourceOfFunds": "Outside Infra - Trust Funds 2021",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00599241MN-CW1",
+        "description": "Rehabilitation / Major Repair of Barangay Health Station - Rehabilitation/Improvement of Health Station at Purok 5, Brgy. Tagluno, Davao City",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Rehabilitation / Major Repair of Barangay Health Station",
+        "region": "Region XI",
+        "province": "DAVAO DEL SUR",
+        "coordinates": {
+          "latitude": 7.0673861,
+          "longitude": 125.4414278,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00599242MN-CW1",
+        "description": "Repair/Rehabilitation of Other Buildings - Rehabilitation/Improvement of Day Care Center at Purok 5, Brgy. Tagluno, Davao City",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Repair/Rehabilitation of Other Buildings",
+        "region": "Region XI",
+        "province": "DAVAO DEL SUR",
+        "coordinates": {
+          "latitude": 7.0673861,
+          "longitude": 125.4414278,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00599243MN-CW1",
+        "description": "Construction of Concrete Road - Construction of Road at Purok 7, Brgy. Tagluno, Davao City",
+        "infraType": "Roads",
+        "typeOfWork": "Construction of Concrete Road",
+        "region": "Region XI",
+        "province": "DAVAO DEL SUR",
+        "coordinates": {
+          "latitude": 7.0684139,
+          "longitude": 125.4298778,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00599244MN-CW1",
+        "description": "Rehabilitation of Water Supply Systems - Rehabilitation of Water Supply System at Purok 7, Brgy. Tagluno, Davao City",
+        "infraType": "Water Provision and Storage",
+        "typeOfWork": "Rehabilitation of Water Supply Systems",
+        "region": "Region XI",
+        "province": "DAVAO DEL SUR",
+        "coordinates": {
+          "latitude": 7.0665583,
+          "longitude": 125.4316722,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "FIVE MASSIVE INFRA & SUPPLY CORP.",
+    "bidders": [
+      {
+        "name": "FIVE MASSIVE INFRA & SUPPLY CORP. (36876)",
+        "pcabId": "36876",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "DREAMBOLT BUILDERS CORPORATION (41002)",
+        "pcabId": "41002",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "LANDEVTECH CONSTRUCTION, INC. (39999)",
+        "pcabId": "39999",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "MARK ANTHONY CONSTRUCTION & SUPPLY (34057)",
+        "pcabId": "34057",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "R.C. MELGAZO BUILDERS (35652)",
+        "pcabId": "35652",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONST. OF THE FOLLOWING PROJECTS AT BRGY. TAGLUNO, TORIL DIST., D.C., LGSF-BPD, ELCAC (1) REHAB/IMPV'T. OF HEALTH STATION AT PUROK 5, BRGY. TAGLUNO, D.C. (2) REHAB/IMPV'T. OF DAY CARE CENTER AT PUROK 5, BRGY. TAGLUNO, D.C. (3) CONST. OF ROAD AT PUROK 7, B",
+      "abc": "19900000.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2022-05-25 00:00:00.0000000",
+      "bidSubmissionDeadline": "2022-06-21 00:00:00.0000000",
+      "dateOfAward": "2022-08-01 00:00:00.0000000",
+      "awardAmount": "19571887.42"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/ITB BATCH 18.pdf",
+      "contractAgreement": "",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/21lh0138noa.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/21lh0138ntp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 7.0673861,
+    "longitude": 125.4414278,
+    "coordinates": [
+      {
+        "componentId": "P00599241MN-CW1",
+        "description": "Rehabilitation / Major Repair of Barangay Health Station - Rehabilitation/Improvement of Health Station at Purok 5, Brgy. Tagluno, Davao City",
+        "latitude": 7.0673861,
+        "longitude": 125.4414278,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00599242MN-CW1",
+        "description": "Repair/Rehabilitation of Other Buildings - Rehabilitation/Improvement of Day Care Center at Purok 5, Brgy. Tagluno, Davao City",
+        "latitude": 7.0673861,
+        "longitude": 125.4414278,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00599243MN-CW1",
+        "description": "Construction of Concrete Road - Construction of Road at Purok 7, Brgy. Tagluno, Davao City",
+        "latitude": 7.0684139,
+        "longitude": 125.4298778,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00599244MN-CW1",
+        "description": "Rehabilitation of Water Supply Systems - Rehabilitation of Water Supply System at Purok 7, Brgy. Tagluno, Davao City",
+        "latitude": 7.0665583,
+        "longitude": 125.4316722,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 8,
+      "latestImageDate": "2025-03-25 01:42:34.436999",
+      "hasImages": true
+    }
+  }
+}

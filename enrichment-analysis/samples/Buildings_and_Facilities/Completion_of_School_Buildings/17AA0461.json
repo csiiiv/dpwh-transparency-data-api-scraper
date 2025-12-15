@@ -1,0 +1,79 @@
+{
+  "data": {
+    "contractId": "17AA0461",
+    "description": "COMPL OF TECHVOC WORKSHOP ILOCOS NORTE AGRICULTURAL COLLEGE PASUQUIN IN",
+    "category": "Buildings and Facilities",
+    "status": "Completed",
+    "budget": 87599.22,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region I",
+      "province": "Ilocos Norte 1st DEO",
+      "infraType": "Buildings and Facilities",
+      "coordinates": null
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "ASIAN PEARL CONSTRUCTION & DEVT. CORP. (9059)",
+    "startDate": "2017-11-27",
+    "completionDate": "2017-12-26",
+    "infraYear": "2017",
+    "contractEffectivityDate": "2017-11-27",
+    "expiryDate": "2017-12-26",
+    "nysReason": null,
+    "programName": "Outside Infra",
+    "sourceOfFunds": "Outside Infra - GAA 2017 DepEd BEFF",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00170059LZ-CW1",
+        "description": "Completion of School Buildings - Construction (Completion) of a TechVoc Workshop School Building, Ilocos Norte Agricultural College , Pasuquin, Ilocos Norte",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Completion of School Buildings",
+        "region": "Region I",
+        "province": "ILOCOS NORTE",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "ASIAN PEARL CONSTRUCTION & DEVT. CORP.",
+    "bidders": [
+      {
+        "name": "ASIAN PEARL CONSTRUCTION & DEVT. CORP. (9059)",
+        "pcabId": "9059",
+        "participation": 100,
+        "isWinner": true
+      }
+    ],
+    "procurement": {
+      "contractName": "COMPL OF TECHVOC WORKSHOP ILOCOS NORTE AGRICULTURAL COLLEGE PASUQUIN IN",
+      "abc": "88697.44",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2017-10-18 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-11-07 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "87,599.22"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/17AA0461 - Completion of 1 Unique Workshop, IN Agri College, Pasuquin.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/CONTRACT.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/NOA.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/CONTRACT.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

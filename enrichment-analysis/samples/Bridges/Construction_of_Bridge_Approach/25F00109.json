@@ -1,0 +1,112 @@
+{
+  "data": {
+    "contractId": "25F00109",
+    "description": "ORGANIZATIONAL OUTCOME 1: ENSURE SAFE AND RELIABLE NATIONAL ROAD SYSTEM-BRIDGE PROGRAM-CONSTRUCTION OF NEW BRIDGES-TARA/BEGUITO BR. ALONG MAHARLIKA HIGHWAY (PHASE II), REGIONWIDE",
+    "category": "Bridges",
+    "status": "On-Going",
+    "budget": 152855933.88,
+    "amountPaid": 0,
+    "progress": 23.74,
+    "location": {
+      "region": "Region V",
+      "province": "Region V",
+      "infraType": "Bridges",
+      "coordinates": {
+        "latitude": 13.739165,
+        "longitude": 122.9711383,
+        "verified": false
+      }
+    },
+    "infraType": "Bridges",
+    "contractor": "G.C.I.  CONSTRUCTION AND DEV'T. CORP. (11346) / MPIRE NINE CONSTRUCTION OPC (55800)",
+    "startDate": "2025-05-30",
+    "completionDate": null,
+    "infraYear": "2025",
+    "contractEffectivityDate": "2025-05-30",
+    "expiryDate": "2026-03-16",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2025 OO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00916340LZ-CW1",
+        "description": "Construction of Concrete Bridge - Tara/Beguito Br. along Maharlika Highway (Phase II)",
+        "infraType": "Bridges",
+        "typeOfWork": "Construction of Concrete Bridge",
+        "region": "Region V",
+        "province": "CAMARINES SUR",
+        "coordinates": {
+          "latitude": 13.739165,
+          "longitude": 122.9711383,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00916340LZ-CW2",
+        "description": "Construction of Bridge Approach - Tara/Beguito Br. along Maharlika Highway (Phase II)",
+        "infraType": "Bridges",
+        "typeOfWork": "Construction of Bridge Approach",
+        "region": "Region V",
+        "province": "CAMARINES SUR",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "G.C.I.  CONSTRUCTION AND DEV'T. CORP., MPIRE NINE CONSTRUCTION OPC",
+    "bidders": [
+      {
+        "name": "G.C.I.  CONSTRUCTION AND DEV'T. CORP. (11346) / MPIRE NINE CONSTRUCTION OPC (55800) (JV ID: JV-25-17715)",
+        "pcabId": "",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "NFH CONSTRUCTION & SUPPLY (16055)",
+        "pcabId": "16055",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "ORGANIZATIONAL OUTCOME 1: ENSURE SAFE AND RELIABLE NATIONAL ROAD SYSTEM-BRIDGE PROGRAM-CONSTRUCTION OF NEW BRIDGES-TARA/BEGUITO BR. ALONG MAHARLIKA HIGHWAY (PHASE II), REGIONWIDE",
+      "abc": "154399993.22",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2025-02-12 00:00:00.0000000",
+      "bidSubmissionDeadline": "2025-03-03 00:00:00.0000000",
+      "dateOfAward": "2025-03-18 00:00:00.0000000",
+      "awardAmount": "152855933.9"
+    },
+    "links": {
+      "advertisement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/advertisement/25f00109_bid_docs_plans.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/25f00109_contract.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/25f00109_noa.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/25f00109_ntp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 13.739165,
+    "longitude": 122.9711383,
+    "coordinates": [
+      {
+        "componentId": "P00916340LZ-CW1",
+        "description": "Construction of Concrete Bridge - Tara/Beguito Br. along Maharlika Highway (Phase II)",
+        "latitude": 13.739165,
+        "longitude": 122.9711383,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 2,
+      "latestImageDate": "2025-09-30 13:01:12.476999",
+      "hasImages": true
+    }
+  }
+}

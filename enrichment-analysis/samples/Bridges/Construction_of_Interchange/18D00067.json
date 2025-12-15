@@ -1,0 +1,173 @@
+{
+  "data": {
+    "contractId": "18D00067",
+    "description": "ENSURE SAFE AND RELIABLE NATIONAL ROAD SYSTEM  NETWORK DEVELOPMENT PROGRAM CONSTRUCTION OF FLYOVERS / INTERCHANGE / UNDERPASSES / LONG SPAN BRIDGES SOUTH LUZON EXPRESSWAY (SLEX) NORTHBOUND EXIT INTERCHANGE, SAN PEDRO CITY, LAGUNA",
+    "category": "Bridges, Roads",
+    "status": "Completed",
+    "budget": 140433308.67,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region IV-A",
+      "province": "Region IV-A",
+      "infraType": "Bridges",
+      "coordinates": {
+        "latitude": 14.3674952,
+        "longitude": 121.0445865,
+        "verified": false
+      }
+    },
+    "infraType": "Bridges",
+    "contractor": "NEW KANLAON CONSTRUCTION, INC. (896)",
+    "startDate": "2018-06-07",
+    "completionDate": "2020-12-09",
+    "infraYear": "2018",
+    "contractEffectivityDate": "2018-06-07",
+    "expiryDate": "2020-12-31",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2018 OO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00201097LZ-CW1",
+        "description": "Construction of Interchange - South Luzon Expressway (SLEX) Northbound Exit Interchange, San Pedro City, Laguna",
+        "infraType": "Bridges",
+        "typeOfWork": "Construction of Interchange",
+        "region": "Region IV-A",
+        "province": "LAGUNA",
+        "coordinates": {
+          "latitude": 14.3674952,
+          "longitude": 121.0445865,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00201097LZ-CW2",
+        "description": "Construction of Drainage Structure along Road - South Luzon Expressway (SLEX) Northbound Exit Interchange, San Pedro City, Laguna",
+        "infraType": "Roads",
+        "typeOfWork": "Construction of Drainage Structure along Road",
+        "region": "Region IV-A",
+        "province": "LAGUNA",
+        "coordinates": {
+          "latitude": 14.3674952,
+          "longitude": 121.0445865,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "NEW KANLAON CONSTRUCTION, INC.",
+    "bidders": [
+      {
+        "name": "NEW KANLAON CONSTRUCTION, INC. (896)",
+        "pcabId": "896",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "AFG ZILLION CONSTRUCTION CORPORATION (FORMERLY: A.F.G. CONSTRUCTION & CONSTRUCTION SUPPLY) (17161)",
+        "pcabId": "17161",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "C.T. LEONCIO CONSTRUCTION & TRADING (17371)",
+        "pcabId": "17371",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "HI-TRI DEVELOPMENT CORPORATION (1758)",
+        "pcabId": "1758",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "J.H. PAJARA CONSTRUCTION CORPORATION (1890)",
+        "pcabId": "1890",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "MARCBILT CONSTRUCTION, INC. (21844)",
+        "pcabId": "21844",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "MONOLITHIC CONSTRUCTION & CONCRETE PRODUCTS, INC. (5733)",
+        "pcabId": "5733",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "NEWBIG FOUR J CONSTRUCTION INC. (FORMERLY: FOUR J CONSTRUCTION) (15104)",
+        "pcabId": "15104",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "P.L. SEBASTIAN CONSTRUCTION, INC. (FORMERLY: P.L. SEBASTIAN CONSTRUCTION) (35840)",
+        "pcabId": "35840",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "SARGASSO CONSTRUCTION & DEVELOPMENT CORP. (6587)",
+        "pcabId": "6587",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "ENSURE SAFE AND RELIABLE NATIONAL ROAD SYSTEM\t NETWORK DEVELOPMENT PROGRAM CONSTRUCTION OF FLYOVERS / INTERCHANGE / UNDERPASSES / LONG SPAN BRIDGES SOUTH LUZON EXPRESSWAY (SLEX) NORTHBOUND EXIT INTERCHANGE, SAN PEDRO CITY, LAGUNA",
+      "abc": "144750000.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2018-04-03 00:00:00.0000000",
+      "bidSubmissionDeadline": "2018-05-02 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "140433514.3"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/18D00067 SOUTH LUZON EXPRESSWAY.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/c.a.-18d00067.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/noa-18d00067.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/ntp-18d00067.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 14.3674952,
+    "longitude": 121.0445865,
+    "coordinates": [
+      {
+        "componentId": "P00201097LZ-CW1",
+        "description": "Construction of Interchange - South Luzon Expressway (SLEX) Northbound Exit Interchange, San Pedro City, Laguna",
+        "latitude": 14.3674952,
+        "longitude": 121.0445865,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00201097LZ-CW2",
+        "description": "Construction of Drainage Structure along Road - South Luzon Expressway (SLEX) Northbound Exit Interchange, San Pedro City, Laguna",
+        "latitude": 14.3674952,
+        "longitude": 121.0445865,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

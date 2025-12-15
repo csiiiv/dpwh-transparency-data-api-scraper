@@ -1,0 +1,163 @@
+{
+  "data": {
+    "contractId": "14K00303",
+    "description": "RECONST. OF DAMAGED FLOOD CONTROL WORKS, REVETMENT ALONG CDO RIVER,PUNTOD-CONSOLACION,STA.1+852-STA.",
+    "category": "Flood Control and Drainage",
+    "status": "Completed",
+    "budget": 78870421.76,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region X",
+      "province": "Region X",
+      "infraType": "Flood Control and Drainage",
+      "coordinates": {
+        "latitude": 8.4924,
+        "longitude": 124.6491,
+        "verified": false
+      }
+    },
+    "infraType": "Flood Control and Drainage",
+    "contractor": "UKC BUILDERS, INC. (10759)",
+    "startDate": "2016-05-03",
+    "completionDate": "2016-12-13",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-05-03",
+    "expiryDate": "2016-12-13",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-2",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00020930MN-CW1",
+        "description": "Construction of Revetment - Reconstruction of Damaged Flood Control Works, Revetment along Cagayan de Oro River, Puntod-Consolacion, Cagayan de Oro City - Sta. 1+852 - Sta. 1+870 and Sta. 1+870 - Sta. 2+000",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Construction of Revetment",
+        "region": "Region X",
+        "province": "MISAMIS ORIENTAL",
+        "coordinates": {
+          "latitude": 8.4924,
+          "longitude": 124.6491,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "UKC BUILDERS, INC.",
+    "bidders": [
+      {
+        "name": "UKC BUILDERS, INC. (10759)",
+        "pcabId": "10759",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "ALGON ENGINEERING CONSTRUCTION CORPORATION (270)",
+        "pcabId": "270",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "CONCEPCION BASIC BUILDERS INC. (5255)",
+        "pcabId": "5255",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "EQUI-PARCO CONSTRUCTION COMPANY (14332)",
+        "pcabId": "14332",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "GRACE CONSTRUCTION CORPORATION (3771)",
+        "pcabId": "3771",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "HI-TRI DEVELOPMENT CORPORATION (1758)",
+        "pcabId": "1758",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "MAC BUILDERS CORP. (FORMERLY: MAC BUILDERS DEVELOPMENT CORPORATION) (7249)",
+        "pcabId": "7249",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "M. MONTESCLAROS ENTERPRISES, INC. (6506)",
+        "pcabId": "6506",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "MONOLITHIC CONSTRUCTION & CONCRETE PRODUCTS, INC. (5733)",
+        "pcabId": "5733",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "PREMIUM MEGASTRUCTURES INC. (36079)",
+        "pcabId": "36079",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "ST. GERRARD CONSTRUCTION GEN. CONTRACTOR & DEVELOPMENT CORP. (FORMERLY:ST. GERRARD CONSTRUCTION) ([REVOKED] 31762)",
+        "pcabId": "[REVOKED] 31762",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "VICTORIANO C. LIM CONSTRUCTION CORPORATION (FORMERLY: VICTORIANO C. LIM CONSTRUCTION) (25318)",
+        "pcabId": "25318",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "RECONST. OF DAMAGED FLOOD CONTROL WORKS, REVETMENT ALONG CDO RIVER,PUNTOD-CONSOLACION,STA.1+852-STA.",
+      "abc": "83900160.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2014-12-18 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-02-03 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "78870421.7600000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/july/14K00303.rar",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/14k000303-ca_1_merged.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/14k000303-ntp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 8.4924,
+    "longitude": 124.6491,
+    "coordinates": [
+      {
+        "componentId": "P00020930MN-CW1",
+        "description": "Construction of Revetment - Reconstruction of Damaged Flood Control Works, Revetment along Cagayan de Oro River, Puntod-Consolacion, Cagayan de Oro City - Sta. 1+852 - Sta. 1+870 and Sta. 1+870 - Sta. 2+000",
+        "latitude": 8.4924,
+        "longitude": 124.6491,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "15BC0179",
+    "description": "REHAB/RECONST. OF NATIONAL ROADS W/ SLIPS,SLOPE COLLAPSE AND LANDSLIDE ALONG CAGAYAN-APAYAO ROAD, K0536+605-K0536+792R/S, K0537+180 - K0538+172R/S,  K0538+272-K0538+514R/S, K0538+887-K0538+967R/S, K0539+115-K0539+289R/S, K0539+343-K0539+420R/S, K0540+028",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 38410952.31,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region II",
+      "province": "Cagayan 2nd DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 17.8210410645203,
+        "longitude": 121.410995992979,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "ED1SON DEVELOPMENT & CONSTRUCTION INC. (2400)",
+    "startDate": "2016-03-08",
+    "completionDate": "2018-03-25",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-03-08",
+    "expiryDate": "2016-10-07",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00005793LZ-CW1",
+        "description": "Construction of Road Slope Protection Structure - Cagayan-Apayao Rd (Tuao-Rizal Sect) - K0536+605 - K0536+792, K0537+180 - K0538+172, K0538+272 - K0538+514, K0538+887 - K0538+967, K0539+115 - K0539+289, K0539+343 - K0539+420, K0540+028 - K0540+140",
+        "infraType": "Roads",
+        "typeOfWork": "Construction of Road Slope Protection Structure",
+        "region": "Region II",
+        "province": "CAGAYAN",
+        "coordinates": {
+          "latitude": 17.8210410645203,
+          "longitude": 121.410995992979,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "ED1SON DEVELOPMENT & CONSTRUCTION INC.",
+    "bidders": [
+      {
+        "name": "ED1SON DEVELOPMENT & CONSTRUCTION INC. (2400)",
+        "pcabId": "2400",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "A.B. TAYLAN CONST. & DEVT. (FORMERLY: ADSM CONST.) (25273) / NORTH TECH BUILDERS AND CONSTRUCTION SUPPLY (37062) (JV ID: JV-15-1089)",
+        "pcabId": "",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "REHAB/RECONST. OF NATIONAL ROADS W/ SLIPS,SLOPE COLLAPSE AND LANDSLIDE ALONG CAGAYAN-APAYAO ROAD, K0536+605-K0536+792R/S, K0537+180 - K0538+172R/S,  K0538+272-K0538+514R/S, K0538+887-K0538+967R/S, K0539+115-K0539+289R/S, K0539+343-K0539+420R/S, K0540+028",
+      "abc": "39886000.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-12-31 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-01-28 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "38410952.3100000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/march/img20160315_11232154.jpg",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/15bc0179-noa.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/15bc0179-ntp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 17.8210410645203,
+    "longitude": 121.410995992979,
+    "coordinates": [
+      {
+        "componentId": "P00005793LZ-CW1",
+        "description": "Construction of Road Slope Protection Structure - Cagayan-Apayao Rd (Tuao-Rizal Sect) - K0536+605 - K0536+792, K0537+180 - K0538+172, K0538+272 - K0538+514, K0538+887 - K0538+967, K0539+115 - K0539+289, K0539+343 - K0539+420, K0540+028 - K0540+140",
+        "latitude": 17.8210410645203,
+        "longitude": 121.410995992979,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

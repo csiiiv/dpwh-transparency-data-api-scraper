@@ -1,0 +1,183 @@
+{
+  "data": {
+    "contractId": "15N00119",
+    "description": "CONSTRUCTION OF TINAGO PRE-STRESSED CONCRETE GIRDER BRIDGE WITH RIVER CONTROL AND DREDGING  (120 LINEAR METERS), MALIMONO, SURIGAO DEL NORTE",
+    "category": "Bridges, Flood Control Structures, Roads",
+    "status": "Completed",
+    "budget": 180661353.07,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region XIII",
+      "province": "Region XIII",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 9.611758,
+        "longitude": 125.403743,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "PREMIUM MEGASTRUCTURES INC. (36079)",
+    "startDate": "2016-08-30",
+    "completionDate": "2017-12-22",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-08-30",
+    "expiryDate": "2017-12-25",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - Bridges-Construction-Concrete, Flood Control/Hydraulics/Dredging",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00044500MN-CW1",
+        "description": "Construction of Concrete Road - Construction of Tinago Pre-Stressed Concrete Girder Bridge w/River Control & Dredging (120 linear meters), Malimono, Surigao del Norte",
+        "infraType": "Roads",
+        "typeOfWork": "Construction of Concrete Road",
+        "region": "Region XIII",
+        "province": "SURIGAO DEL NORTE",
+        "coordinates": {
+          "latitude": 9.611758,
+          "longitude": 125.403743,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00044500MN-CW2",
+        "description": "Construction of Bridge - Construction of Tinago Pre-Stressed Concrete Girder Bridge w/River Control & Dredging (120 linear meters), Malimono, Surigao del Norte",
+        "infraType": "Bridges",
+        "typeOfWork": "Construction of Bridge",
+        "region": "Region XIII",
+        "province": "SURIGAO DEL NORTE",
+        "coordinates": {
+          "latitude": 9.611108,
+          "longitude": 125.404245,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00044500MN-CW3",
+        "description": "Construction of Cutoff Channel - Construction of Tinago Pre-Stressed Concrete Girder Bridge w/River Control & Dredging (120 linear meters), Malimono, Surigao del Norte",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Construction of Cutoff Channel",
+        "region": "Region XIII",
+        "province": "SURIGAO DEL NORTE",
+        "coordinates": {
+          "latitude": 9.610477,
+          "longitude": 125.40456,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "PREMIUM MEGASTRUCTURES INC.",
+    "bidders": [
+      {
+        "name": "PREMIUM MEGASTRUCTURES INC. (36079)",
+        "pcabId": "36079",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "ADFIL CORPORATION (14437) / GICAR CONSTRUCTION, INC. (12624) (JV ID: JV-10-910)",
+        "pcabId": "",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "CHARLZ CONSTRUCTION, INC. (8709) / WTG CONSTRUCTION & DEVELOPMENT CORPORATION (7494) (JV ID: JV-10-929)",
+        "pcabId": "",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "ROMA CONSTRUCTION & DEVELOPMENT CORPORATION (6514) / JMT CONSTRUCTION (14186) (JV ID: JV-10-963)",
+        "pcabId": "",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "GRACE CONSTRUCTION CORPORATION (3771)",
+        "pcabId": "3771",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "MAC BUILDERS CORP. (FORMERLY: MAC BUILDERS DEVELOPMENT CORPORATION) (7249)",
+        "pcabId": "7249",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "MONOLITHIC CONSTRUCTION & CONCRETE PRODUCTS, INC. (5733)",
+        "pcabId": "5733",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "ULTICON BUILDERS, INC. (17267)",
+        "pcabId": "17267",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION OF TINAGO PRE-STRESSED CONCRETE GIRDER BRIDGE WITH RIVER CONTROL AND DREDGING  (120 LINEAR METERS), MALIMONO, SURIGAO DEL NORTE",
+      "abc": "191500000.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-12-03 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-01-20 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "164239853.2600000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/september/CONTRACT 15N00119.zip",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/noa_15n00119.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/ntp_15n00119.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 9.611758,
+    "longitude": 125.403743,
+    "coordinates": [
+      {
+        "componentId": "P00044500MN-CW1",
+        "description": "Construction of Concrete Road - Construction of Tinago Pre-Stressed Concrete Girder Bridge w/River Control & Dredging (120 linear meters), Malimono, Surigao del Norte",
+        "latitude": 9.611758,
+        "longitude": 125.403743,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00044500MN-CW2",
+        "description": "Construction of Bridge - Construction of Tinago Pre-Stressed Concrete Girder Bridge w/River Control & Dredging (120 linear meters), Malimono, Surigao del Norte",
+        "latitude": 9.611108,
+        "longitude": 125.404245,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00044500MN-CW3",
+        "description": "Construction of Cutoff Channel - Construction of Tinago Pre-Stressed Concrete Girder Bridge w/River Control & Dredging (120 linear meters), Malimono, Surigao del Norte",
+        "latitude": 9.610477,
+        "longitude": 125.40456,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

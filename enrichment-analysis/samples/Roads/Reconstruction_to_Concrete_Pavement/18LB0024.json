@@ -1,0 +1,213 @@
+{
+  "data": {
+    "contractId": "18LB0024",
+    "description": "CONSTRUCTION/IMPROVEMENT OF ACCESS ROADS LEADING TO DECLARED TOURISM DESTINATIONS MABINI EXTENSION WITH DRAINAGE, ROAD LEADING TO DAVAO CROCODILE PARK (JCT. QUIRINO TO JCT. MAA ROAD) DAVAO CITY",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 25352600,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region XI",
+      "province": "Davao City DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 7.079657,
+        "longitude": 125.603818,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "TKS BUILDERS & SUPPLIES (23415)",
+    "startDate": "2018-07-01",
+    "completionDate": "2019-01-21",
+    "infraYear": "2018",
+    "contractEffectivityDate": "2018-07-01",
+    "expiryDate": "2019-01-21",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2018 Other Infrastructure (CSSP)",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00230158MN-CW1",
+        "description": "Construction of Concrete Road - Mabini Extension Road leading to Davao Crocodile Park, Davao City",
+        "infraType": "Roads",
+        "typeOfWork": "Construction of Concrete Road",
+        "region": "Region XI",
+        "province": "DAVAO DEL SUR",
+        "coordinates": {
+          "latitude": 7.079657,
+          "longitude": 125.603818,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00230158MN-CW2",
+        "description": "Construction of Drainage Structure along Road - Mabini Extension Road leading to Davao Crocodile Park, Davao City",
+        "infraType": "Roads",
+        "typeOfWork": "Construction of Drainage Structure along Road",
+        "region": "Region XI",
+        "province": "DAVAO DEL SUR",
+        "coordinates": {
+          "latitude": 7.0780371,
+          "longitude": 125.6056926,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00230158MN-CW3",
+        "description": "Reconstruction to Concrete Pavement - Mabini Extension Road leading to Davao Crocodile Park, Davao City",
+        "infraType": "Roads",
+        "typeOfWork": "Reconstruction to Concrete Pavement",
+        "region": "Region XI",
+        "province": "DAVAO DEL SUR",
+        "coordinates": {
+          "latitude": 7.0737705,
+          "longitude": 125.6090072,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "TKS BUILDERS & SUPPLIES",
+    "bidders": [
+      {
+        "name": "TKS BUILDERS & SUPPLIES (23415)",
+        "pcabId": "23415",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "A.Y.U. ENGINEERING & CONSTRUCTION (25632)",
+        "pcabId": "25632",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "DIGOS TESSTON CONST. & SUPPLIES (8921)",
+        "pcabId": "8921",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "D.L CERVANTES CONSTRUCTION CORPORATION (FORMERLY: (13799)",
+        "pcabId": "13799",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "GEMMA CONSTRUCTION SUPPLY, INC.(FORMERLY:GEMMA CON (5044)",
+        "pcabId": "5044",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "LOTRIM CONSTRUCTION, INC. (12273)",
+        "pcabId": "12273",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "MPJR BUILDERS COMPANY (20446)",
+        "pcabId": "20446",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "O. G. SANTOS CONSTRUCTION (2050)",
+        "pcabId": "2050",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "RELY CONSTRUCTION & SUPPLY INC.(FORMERLY: RELY CONSTRUCTION AND SUPPLY) (10433)",
+        "pcabId": "10433",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "R. SEMILLA CONSTRUCTION & MARKETING (9263)",
+        "pcabId": "9263",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "SBB CONSTRUCTION & SUPPLY, INC. (FORMERLY: SBB CON (31238)",
+        "pcabId": "31238",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "TEDDIE CONSTRUCTION DEVELOPMENT, INC. (6313)",
+        "pcabId": "6313",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "THREE W BUILDERS, INC. (10722)",
+        "pcabId": "10722",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION/IMPROVEMENT OF ACCESS ROADS LEADING TO DECLARED TOURISM DESTINATIONS MABINI EXTENSION WITH DRAINAGE, ROAD LEADING TO DAVAO CROCODILE PARK (JCT. QUIRINO TO JCT. MAA ROAD) DAVAO CITY",
+      "abc": "25352600.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2017-12-01 00:00:00.0000000",
+      "bidSubmissionDeadline": "2018-02-08 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "24591228.29"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/CA 18LB0024.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/NOA 18LB0024.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/CA 18LB0024.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 7.079657,
+    "longitude": 125.603818,
+    "coordinates": [
+      {
+        "componentId": "P00230158MN-CW1",
+        "description": "Construction of Concrete Road - Mabini Extension Road leading to Davao Crocodile Park, Davao City",
+        "latitude": 7.079657,
+        "longitude": 125.603818,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00230158MN-CW2",
+        "description": "Construction of Drainage Structure along Road - Mabini Extension Road leading to Davao Crocodile Park, Davao City",
+        "latitude": 7.0780371,
+        "longitude": 125.6056926,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00230158MN-CW3",
+        "description": "Reconstruction to Concrete Pavement - Mabini Extension Road leading to Davao Crocodile Park, Davao City",
+        "latitude": 7.0737705,
+        "longitude": 125.6090072,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "data": {
+    "contractId": "17RB0212",
+    "description": "RECONSTRUCTION FROM PAVED TO CONCRETE OF JCT. MURCIA-CANSILAYAN-DAMSITE-ABUANAN-BAGO CITY RD - K0017+ -326 - K0017+ -276; K0018+503 - K0019+005; K0020+360 - K0020+423",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 16027751.99,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Negros Island Region",
+      "province": "Negros Occidental 1st DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 10.6044817,
+        "longitude": 123.0389752,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "SUPREME ABF CONST. & CONST. SUPPLY COMPANY INC. (25226)",
+    "startDate": "2018-02-08",
+    "completionDate": "2018-06-22",
+    "infraYear": "2018",
+    "contractEffectivityDate": "2018-02-08",
+    "expiryDate": "2018-06-22",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2018 OO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00201154VS-CW1",
+        "description": "Reconstruction from Paved to Concrete - Jct Murcia-Cansilayan-Damsite-Abuanan-Bago City Rd - K0017 + -326 - K0017 + -276, K0018 + 503 - K0019 + 005, K0020 + 360 - K0020 + 423",
+        "infraType": "Roads",
+        "typeOfWork": "Reconstruction from Paved to Concrete",
+        "region": "Negros Island Region",
+        "province": "NEGROS OCCIDENTAL",
+        "coordinates": {
+          "latitude": 10.6044817,
+          "longitude": 123.0389752,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "SUPREME ABF CONST. & CONST. SUPPLY COMPANY INC.",
+    "bidders": [
+      {
+        "name": "SUPREME ABF CONST. & CONST. SUPPLY COMPANY INC. (25226)",
+        "pcabId": "25226",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "C.S. RAYOS CONSTRUCTION & GENERAL SERVICES, INC. (9790)",
+        "pcabId": "9790",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "C'ZARLES CONSTRUCTION & SUPPLY (23426)",
+        "pcabId": "23426",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "KENNETH CONSTRUCTION AND GENERAL MERCHANDISE (33441)",
+        "pcabId": "33441",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "ST. RAYMUND CONSTRUCTION, INC. (19242)",
+        "pcabId": "19242",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "TRIMLUV BUILDERS AND SUPPLY (33467)",
+        "pcabId": "33467",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "RECONSTRUCTION FROM PAVED TO CONCRETE OF JCT. MURCIA-CANSILAYAN-DAMSITE-ABUANAN-BAGO CITY RD - K0017+ -326 - K0017+ -276; K0018+503 - K0019+005; K0020+360 - K0020+423",
+      "abc": "16874856.23",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2017-10-30 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-11-21 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "16027751.99"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/ITB (Infra) 17RB00212 - 214.pdf",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/17rb0212contract.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/AWARD.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/NTP.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 10.6044817,
+    "longitude": 123.0389752,
+    "coordinates": [
+      {
+        "componentId": "P00201154VS-CW1",
+        "description": "Reconstruction from Paved to Concrete - Jct Murcia-Cansilayan-Damsite-Abuanan-Bago City Rd - K0017 + -326 - K0017 + -276, K0018 + 503 - K0019 + 005, K0020 + 360 - K0020 + 423",
+        "latitude": 10.6044817,
+        "longitude": 123.0389752,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

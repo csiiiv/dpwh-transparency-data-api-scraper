@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "21AA0134",
+    "description": "REPAIR/REHABILITATION OF VINTAR FLOOD CONTROL, BRGY. PARPAROROC, SITIO BALDI, VINTAR, ILOCOS NORTE",
+    "category": "Flood Control and Drainage",
+    "status": "Completed",
+    "budget": 4606839.75,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region I",
+      "province": "Ilocos Norte 1st DEO",
+      "infraType": "Flood Control and Drainage",
+      "coordinates": {
+        "latitude": 18.2613857,
+        "longitude": 120.7557931,
+        "verified": false
+      }
+    },
+    "infraType": "Flood Control and Drainage",
+    "contractor": "JOZEN BUILDERS AND CONSTRUCTION SUPPLY CORPORATION (48476)",
+    "startDate": "2021-09-15",
+    "completionDate": "2021-10-27",
+    "infraYear": "2021",
+    "contractEffectivityDate": "2021-09-15",
+    "expiryDate": "2021-12-23",
+    "nysReason": null,
+    "programName": "Outside Infra",
+    "sourceOfFunds": "Outside Infra - GAA 2021 NDRRMF",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00595013LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Flood Mitigation Facility - Repair/Rehabilitation of Flood Control, Sitio Baldi, Brgy. Parparoroc, Vintar, Ilocos Norte",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Rehabilitation / Major Repair of Flood Mitigation Facility",
+        "region": "Region I",
+        "province": "ILOCOS NORTE",
+        "coordinates": {
+          "latitude": 18.2613857,
+          "longitude": 120.7557931,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "JOZEN BUILDERS AND CONSTRUCTION SUPPLY CORPORATION",
+    "bidders": [
+      {
+        "name": "JOZEN BUILDERS AND CONSTRUCTION SUPPLY CORPORATION (48476)",
+        "pcabId": "48476",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "ACCV BUILDERS (34867)",
+        "pcabId": "34867",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "REPAIR/REHABILITATION OF VINTAR FLOOD CONTROL, BRGY. PARPAROROC, SITIO BALDI, VINTAR, ILOCOS NORTE",
+      "abc": "4606842.01",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2021-08-09 00:00:00.0000000",
+      "bidSubmissionDeadline": "2021-08-31 00:00:00.0000000",
+      "dateOfAward": "2021-09-08 00:00:00.0000000",
+      "awardAmount": "4508430.35"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/21AA0134 BID DOCS, ITB & PLAN.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/21AA0134 - CONTRACT AGREEMENT.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/21-134 NOA.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/21AA0134 - CONTRACT AGREEMENT.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 18.2613857,
+    "longitude": 120.7557931,
+    "coordinates": [
+      {
+        "componentId": "P00595013LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Flood Mitigation Facility - Repair/Rehabilitation of Flood Control, Sitio Baldi, Brgy. Parparoroc, Vintar, Ilocos Norte",
+        "latitude": 18.2613857,
+        "longitude": 120.7557931,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 3,
+      "latestImageDate": "2022-10-25 03:36:24.976000",
+      "hasImages": true
+    }
+  }
+}

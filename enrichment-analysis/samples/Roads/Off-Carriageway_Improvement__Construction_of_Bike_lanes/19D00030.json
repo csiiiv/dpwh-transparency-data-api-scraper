@@ -1,0 +1,137 @@
+{
+  "data": {
+    "contractId": "19D00030",
+    "description": "FY 2019 DPWH INFRASTRUCTURE PROGRAM ORGANIZATIONAL OUTCOME 1: ENSURE SAFE AND RELIABLE NATIONAL ROAD SYSTEM NETWORK DEVELOPMENT PROGRAM  CONSTRUCTION OF BY-PASS AND DIVERSION ROADS CIRCUMFERENTIAL ROAD - 6 (C-6), RIZAL",
+    "category": "Bridges, Roads",
+    "status": "Completed",
+    "budget": 95813553.48,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region IV-A",
+      "province": "Region IV-A",
+      "infraType": "Bridges",
+      "coordinates": {
+        "latitude": 14.5431736,
+        "longitude": 121.1149869,
+        "verified": false
+      }
+    },
+    "infraType": "Bridges",
+    "contractor": "GVDPM CONSTRUCTION CORP. (FORMERLY: ZM CONSTRUCTIO (9052)",
+    "startDate": "2019-07-10",
+    "completionDate": "2021-11-14",
+    "infraYear": "2019",
+    "contractEffectivityDate": "2019-07-10",
+    "expiryDate": "2021-11-14",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2019 OO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00303687LZ-CW1",
+        "description": "Construction of Concrete Bridge - Circumferential Road - 6 (C-6), Rizal",
+        "infraType": "Bridges",
+        "typeOfWork": "Construction of Concrete Bridge",
+        "region": "Region IV-A",
+        "province": "RIZAL",
+        "coordinates": {
+          "latitude": 14.5431736,
+          "longitude": 121.1149869,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00303687LZ-CW2",
+        "description": "Off-Carriageway Improvement: Construction of Bike lanes - Circumferential Road - 6 (C-6), Rizal",
+        "infraType": "Roads",
+        "typeOfWork": "Off-Carriageway Improvement: Construction of Bike lanes",
+        "region": "Region IV-A",
+        "province": "RIZAL",
+        "coordinates": {
+          "latitude": 14.542982,
+          "longitude": 121.1145193,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "GVDPM CONSTRUCTION CORP. (FORMERLY: ZM CONSTRUCTIO",
+    "bidders": [
+      {
+        "name": "GVDPM CONSTRUCTION CORP. (FORMERLY: ZM CONSTRUCTIO (9052)",
+        "pcabId": "9052",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "HONEYVILLECONST AND DEVELOPMENT CORPORATION (32160)",
+        "pcabId": "32160",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "J.H. PAJARA CONSTRUCTION CORPORATION (1890)",
+        "pcabId": "1890",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "VICTORIA DEVELOPMENT AND VENTURES CORP. (FOR: VICTORIA DEV'T AND CONST. CORP.) (32638)",
+        "pcabId": "32638",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "FY 2019 DPWH INFRASTRUCTURE PROGRAM ORGANIZATIONAL OUTCOME 1: ENSURE SAFE AND RELIABLE NATIONAL ROAD SYSTEM NETWORK DEVELOPMENT PROGRAM \tCONSTRUCTION OF BY-PASS AND DIVERSION ROADS CIRCUMFERENTIAL ROAD - 6 (C-6), RIZAL",
+      "abc": "96500000.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2018-11-28 00:00:00.0000000",
+      "bidSubmissionDeadline": "2018-12-18 00:00:00.0000000",
+      "dateOfAward": "2019-06-26 00:00:00.0000000",
+      "awardAmount": "95814202.07"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/19D00030 - ITB, Bid Docs_PLans.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/C.A.-19D00030.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/NOA-19D00030.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/C.A.-19D00030.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 14.5431736,
+    "longitude": 121.1149869,
+    "coordinates": [
+      {
+        "componentId": "P00303687LZ-CW1",
+        "description": "Construction of Concrete Bridge - Circumferential Road - 6 (C-6), Rizal",
+        "latitude": 14.5431736,
+        "longitude": 121.1149869,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00303687LZ-CW2",
+        "description": "Off-Carriageway Improvement: Construction of Bike lanes - Circumferential Road - 6 (C-6), Rizal",
+        "latitude": 14.542982,
+        "longitude": 121.1145193,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

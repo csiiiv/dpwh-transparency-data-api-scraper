@@ -1,0 +1,97 @@
+{
+  "data": {
+    "contractId": "15AD0188",
+    "description": "REHAB/RECONSTN OF NAT'L RD W/SLIPS,SLOPE COLLAPSE & LANDSLIDE,TAGUDIN-CERVANTES RD,K0348+500-K0348+515,K0364+000-K0364+030",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 3800378.37,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region I",
+      "province": "Ilocos Sur 2nd DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 16.9519667153357,
+        "longitude": 120.611220238801,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "F.B. BANTALES ENGINEERING CONSTRUCTION (31045)",
+    "startDate": "2016-03-21",
+    "completionDate": "2016-07-03",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-03-21",
+    "expiryDate": "2016-05-19",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00005727LZ-CW1",
+        "description": "Construction of Road Slope Protection Structure - Tagudin-Cervantes Rd - K0348+500 - K0348+515, K0364+000 - K0364+030",
+        "infraType": "Roads",
+        "typeOfWork": "Construction of Road Slope Protection Structure",
+        "region": "Region I",
+        "province": "ILOCOS SUR",
+        "coordinates": {
+          "latitude": 16.9519667153357,
+          "longitude": 120.611220238801,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "F.B. BANTALES ENGINEERING CONSTRUCTION",
+    "bidders": [
+      {
+        "name": "F.B. BANTALES ENGINEERING CONSTRUCTION (31045)",
+        "pcabId": "31045",
+        "participation": 100,
+        "isWinner": true
+      }
+    ],
+    "procurement": {
+      "contractName": "REHAB/RECONSTN OF NAT'L RD W/SLIPS,SLOPE COLLAPSE & LANDSLIDE,TAGUDIN-CERVANTES RD,K0348+500-K0348+515,K0364+000-K0364+030",
+      "abc": "3921772.19",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-01-08 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-03-14 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "3800378.3700000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/june/15AD0188 CA119.pdf",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/june/15AD0188 NOA118.pdf",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/june/15AD0188 CA119.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 16.9519667153357,
+    "longitude": 120.611220238801,
+    "coordinates": [
+      {
+        "componentId": "P00005727LZ-CW1",
+        "description": "Construction of Road Slope Protection Structure - Tagudin-Cervantes Rd - K0348+500 - K0348+515, K0364+000 - K0364+030",
+        "latitude": 16.9519667153357,
+        "longitude": 120.611220238801,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

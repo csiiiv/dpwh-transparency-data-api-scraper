@@ -1,0 +1,109 @@
+{
+  "data": {
+    "contractId": "15DC0097",
+    "description": "MFO-1 NATIONAL ROAD NETWORK SERVICES, ASSET PRESERVATION OF NATIONAL ROADS, REHABILITATION/CONSTRUCT",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 12282184.32,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region IV-A",
+      "province": "Batangas 3rd DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 13.8696372763398,
+        "longitude": 121.023237988783,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "OIC CONZTRUCT AND SUPPLY CORPORATION(FORMERLY:OIC CONST.) (23727)",
+    "startDate": "2016-01-26",
+    "completionDate": "2016-10-21",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-01-26",
+    "expiryDate": "2016-05-24",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - Flood Control/Hydraulics/Drainage, Roads: Rehabilitation - Asphalt",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00000925LZ-CW1",
+        "description": "Rehabilitation of Asphalt Road - Banay-Banay-Mojon-Cuenca Rd - K0098+439 - K0099+000",
+        "infraType": "Roads",
+        "typeOfWork": "Rehabilitation of Asphalt Road",
+        "region": "Region IV-A",
+        "province": "BATANGAS",
+        "coordinates": {
+          "latitude": 13.8696372763398,
+          "longitude": 121.023237988783,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "OIC CONZTRUCT AND SUPPLY CORPORATION(FORMERLY:OIC CONST.)",
+    "bidders": [
+      {
+        "name": "OIC CONZTRUCT AND SUPPLY CORPORATION(FORMERLY:OIC CONST.) (23727)",
+        "pcabId": "23727",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "NBL CONSTRUCTION, INC. (FORMERLY: NBL CONSTRUCTION) (30396)",
+        "pcabId": "30396",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "STALL CONSTRUCTION SUPPLIES & SERVICES (29930)",
+        "pcabId": "29930",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "MFO-1 NATIONAL ROAD NETWORK SERVICES, ASSET PRESERVATION OF NATIONAL ROADS, REHABILITATION/CONSTRUCT",
+      "abc": "12518520.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-09-18 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-10-07 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "11873815.0000000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/february/contract_15DC0097.pdf",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/february/award_15DC0097.pdf",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/february/contract_15DC0097.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 13.8696372763398,
+    "longitude": 121.023237988783,
+    "coordinates": [
+      {
+        "componentId": "P00000925LZ-CW1",
+        "description": "Rehabilitation of Asphalt Road - Banay-Banay-Mojon-Cuenca Rd - K0098+439 - K0099+000",
+        "latitude": 13.8696372763398,
+        "longitude": 121.023237988783,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

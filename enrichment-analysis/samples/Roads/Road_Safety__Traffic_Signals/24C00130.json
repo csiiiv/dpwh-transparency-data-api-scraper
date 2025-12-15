@@ -1,0 +1,97 @@
+{
+  "data": {
+    "contractId": "24C00130",
+    "description": "CONVERGENCE & SPECIAL SUPPORT PROGRAM-SPECIAL ROAD FUND-MOTOR VEHICLE USER'S CHARGE (MVUC) AS PER R.A. 11239-IMPROVEMENT OF INTERSECTION-STA RITA CAMIAS OLD ROAD (S0141LZ) AND STA. RITA BIAK NA BATO (VIA PULONG BAYABAS) ROAD (S01413LZ) SAN MIGUEL, BULACAN",
+    "category": "Roads",
+    "status": "On-Going",
+    "budget": 9508638.06,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region III",
+      "province": "Region III",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 15.1364425581442,
+        "longitude": 120.975981253255,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "1199S CONSTRUCTION (50198)",
+    "startDate": "2025-03-30",
+    "completionDate": null,
+    "infraYear": "2024",
+    "contractEffectivityDate": "2025-03-30",
+    "expiryDate": "2025-05-28",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2024 SSP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00837704LZ-CW1",
+        "description": "Road Safety: Traffic Signals - Improvement of Intersection - Sta. Rita Camias Old Road (S01411LZ) K0074 + (-080) and Sta. Rita Biak na Bato (via Pulong Bayabas) Road (S01413LZ)",
+        "infraType": "Roads",
+        "typeOfWork": "Road Safety: Traffic Signals",
+        "region": "Region III",
+        "province": "BULACAN",
+        "coordinates": {
+          "latitude": 15.1364425581442,
+          "longitude": 120.975981253255,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "1199S CONSTRUCTION",
+    "bidders": [
+      {
+        "name": "1199S CONSTRUCTION (50198)",
+        "pcabId": "50198",
+        "participation": 100,
+        "isWinner": true
+      }
+    ],
+    "procurement": {
+      "contractName": "CONVERGENCE & SPECIAL SUPPORT PROGRAM-SPECIAL ROAD FUND-MOTOR VEHICLE USER'S CHARGE (MVUC) AS PER R.A. 11239-IMPROVEMENT OF INTERSECTION-STA RITA CAMIAS OLD ROAD (S0141LZ) AND STA. RITA BIAK NA BATO (VIA PULONG BAYABAS) ROAD (S01413LZ) SAN MIGUEL, BULACAN",
+      "abc": "9649521.07",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2025-02-12 00:00:00.0000000",
+      "bidSubmissionDeadline": "2025-03-04 00:00:00.0000000",
+      "dateOfAward": "2025-03-11 00:00:00.0000000",
+      "awardAmount": "9508638.06"
+    },
+    "links": {
+      "advertisement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/advertisement/24c00130_itb_bid_docs.pdf",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/24c00130_contract_agreement.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/noa_24c00130.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/24c00130_notice_to_proceed.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 15.1364425581442,
+    "longitude": 120.975981253255,
+    "coordinates": [
+      {
+        "componentId": "P00837704LZ-CW1",
+        "description": "Road Safety: Traffic Signals - Improvement of Intersection - Sta. Rita Camias Old Road (S01411LZ) K0074 + (-080) and Sta. Rita Biak na Bato (via Pulong Bayabas) Road (S01413LZ)",
+        "latitude": 15.1364425581442,
+        "longitude": 120.975981253255,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

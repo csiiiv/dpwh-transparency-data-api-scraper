@@ -1,0 +1,166 @@
+{
+  "data": {
+    "contractId": "15AF0165",
+    "description": "CONST OF RAINWATER COLLECTOR SYSTEM W/IN LA UNION SECOND DISTRICT OF LA UNION",
+    "category": "Water Provision and Storage",
+    "status": "Completed",
+    "budget": 3279488,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region I",
+      "province": "La Union 2nd DEO",
+      "infraType": "Water Provision and Storage",
+      "coordinates": null
+    },
+    "infraType": "Water Provision and Storage",
+    "contractor": "E.E. MADAYAG CONSTRUCTION (25029)",
+    "startDate": "2016-03-18",
+    "completionDate": "2016-05-01",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-03-18",
+    "expiryDate": "2016-05-01",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-3",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00030981LZ-CW1",
+        "description": "Construction of Rain Water Collector - Construction of Rainwater Collection System (RWCS), Agoo Public Market, Agoo, La Union",
+        "infraType": "Water Provision and Storage",
+        "typeOfWork": "Construction of Rain Water Collector",
+        "region": "Region I",
+        "province": "LA UNION",
+        "coordinates": null
+      },
+      {
+        "componentId": "P00030982LZ-CW1",
+        "description": "Construction of Rain Water Collector - Construction of Rainwater Collection System (RWCS), Aringay Public Market, Aringay, La Union",
+        "infraType": "Water Provision and Storage",
+        "typeOfWork": "Construction of Rain Water Collector",
+        "region": "Region I",
+        "province": "LA UNION",
+        "coordinates": null
+      },
+      {
+        "componentId": "P00030983LZ-CW1",
+        "description": "Construction of Rain Water Collector - Construction of Rainwater Collection System (RWCS), Bagulin Public Market, Bagulin, La Union",
+        "infraType": "Water Provision and Storage",
+        "typeOfWork": "Construction of Rain Water Collector",
+        "region": "Region I",
+        "province": "LA UNION",
+        "coordinates": null
+      },
+      {
+        "componentId": "P00030984LZ-CW1",
+        "description": "Construction of Rain Water Collector - Construction of Rainwater Collection System (RWCS), Bauang Public Market, Bauang, La Union",
+        "infraType": "Water Provision and Storage",
+        "typeOfWork": "Construction of Rain Water Collector",
+        "region": "Region I",
+        "province": "LA UNION",
+        "coordinates": null
+      },
+      {
+        "componentId": "P00030985LZ-CW1",
+        "description": "Construction of Rain Water Collector - Construction of Rainwater Collection System (RWCS), Caba Public Market, Caba, La Union",
+        "infraType": "Water Provision and Storage",
+        "typeOfWork": "Construction of Rain Water Collector",
+        "region": "Region I",
+        "province": "LA UNION",
+        "coordinates": null
+      },
+      {
+        "componentId": "P00030986LZ-CW1",
+        "description": "Construction of Rain Water Collector - Construction of Rainwater Collection System (RWCS), Naguilian Public Market, Naguilian, La Union",
+        "infraType": "Water Provision and Storage",
+        "typeOfWork": "Construction of Rain Water Collector",
+        "region": "Region I",
+        "province": "LA UNION",
+        "coordinates": null
+      },
+      {
+        "componentId": "P00030987LZ-CW1",
+        "description": "Construction of Rain Water Collector - Construction of Rainwater Collection System (RWCS), Sto. Tomas Public Market, Patac, Sto. Tomas, La Union",
+        "infraType": "Water Provision and Storage",
+        "typeOfWork": "Construction of Rain Water Collector",
+        "region": "Region I",
+        "province": "LA UNION",
+        "coordinates": null
+      },
+      {
+        "componentId": "P00030988LZ-CW1",
+        "description": "Construction of Rain Water Collector - Construction of Rainwater Collection System (RWCS), Pugo Public Market, Pugo, La Union",
+        "infraType": "Water Provision and Storage",
+        "typeOfWork": "Construction of Rain Water Collector",
+        "region": "Region I",
+        "province": "LA UNION",
+        "coordinates": null
+      },
+      {
+        "componentId": "P00030989LZ-CW1",
+        "description": "Construction of Rain Water Collector - Construction of Rainwater Collection System (RWCS), Rosario Public Market, Rosario, La Union",
+        "infraType": "Water Provision and Storage",
+        "typeOfWork": "Construction of Rain Water Collector",
+        "region": "Region I",
+        "province": "LA UNION",
+        "coordinates": null
+      },
+      {
+        "componentId": "P00030990LZ-CW1",
+        "description": "Construction of Rain Water Collector - Construction of Rainwater Collection System (RWCS), Tubao Public Market, Tubao, La Union",
+        "infraType": "Water Provision and Storage",
+        "typeOfWork": "Construction of Rain Water Collector",
+        "region": "Region I",
+        "province": "LA UNION",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "E.E. MADAYAG CONSTRUCTION",
+    "bidders": [
+      {
+        "name": "E.E. MADAYAG CONSTRUCTION (25029)",
+        "pcabId": "25029",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "VILLAR GENERAL CONSTRUCTION AND SUPPLIES (22540)",
+        "pcabId": "22540",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONST OF RAINWATER COLLECTOR SYSTEM W/IN LA UNION SECOND DISTRICT OF LA UNION",
+      "abc": "3399999.50",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-12-09 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-12-28 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "3279488.0000000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/september/15AF0165 CONT.pdf",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/september/15AF0165 NOA.pdf",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/september/15AF0165 CONT.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

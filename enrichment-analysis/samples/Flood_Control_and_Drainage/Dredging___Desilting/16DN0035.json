@@ -1,0 +1,91 @@
+{
+  "data": {
+    "contractId": "16DN0035",
+    "description": "DESILTATION  WORKS OF RIVERS AND CREEKS AT EAST AND WEST OF MANGAHAN FLOODWAY-WEST OF MANGAHAN FLOODWAY (ALONG ANTIPOLO RIVER FROM TAPAYAN PUMPING STATION TO STA.3+500, TAYTAY, RIZAL AND PASIG CITY, RIZAL 1ST DEO. RIZAL 1ST LD",
+    "category": "Flood Control and Drainage",
+    "status": "Completed",
+    "budget": 10247158.68,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region IV-A",
+      "province": "Rizal 1st DEO",
+      "infraType": "Flood Control and Drainage",
+      "coordinates": null
+    },
+    "infraType": "Flood Control and Drainage",
+    "contractor": "PRECIOUS CONSTRUCTION (32995)",
+    "startDate": "2016-05-26",
+    "completionDate": "2016-09-22",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-05-26",
+    "expiryDate": "2016-09-22",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-2",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00021029LZ-CW1",
+        "description": "Dredging / Desilting - Desiltation works of Rivers and Creeks at East and West of Mangahan Floodway - West of Mangahan Floodway (Along Antipolo River from Tapayan Pumping Station to Sta. 3+500, Taytay, Rizal, and Pasig City), Rizal 1st DEO, Rizal 1st LD",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Dredging / Desilting",
+        "region": "Region IV-A",
+        "province": "RIZAL",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "PRECIOUS CONSTRUCTION",
+    "bidders": [
+      {
+        "name": "PRECIOUS CONSTRUCTION (32995)",
+        "pcabId": "32995",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "NFH CONSTRUCTION & SUPPLY (16055)",
+        "pcabId": "16055",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "ST. RAYMUND CONSTRUCTION, INC. (19242)",
+        "pcabId": "19242",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "DESILTATION  WORKS OF RIVERS AND CREEKS AT EAST AND WEST OF MANGAHAN FLOODWAY-WEST OF MANGAHAN FLOODWAY (ALONG ANTIPOLO RIVER FROM TAPAYAN PUMPING STATION TO STA.3+500, TAYTAY, RIZAL AND PASIG CITY, RIZAL 1ST DEO. RIZAL 1ST LD",
+      "abc": "11054400.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-02-26 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-03-17 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "10,247,158.68"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/august/Contract Agreement- 16DN0035.pdf",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/september/NOA-16DN0035.pdf",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/august/Contract Agreement- 16DN0035.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

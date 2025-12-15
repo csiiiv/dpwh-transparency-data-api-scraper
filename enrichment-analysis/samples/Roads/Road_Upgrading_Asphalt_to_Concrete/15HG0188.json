@@ -1,0 +1,151 @@
+{
+  "data": {
+    "contractId": "15HG0188",
+    "description": "REHAB./RECONST./UPGRADING OF DAMAGED PAVED NATIONAL ROADS INCLUDING DRAINAGE BASED ON PAVEMENT MANAG",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 35060023.32,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region VII",
+      "province": "Cebu 2nd DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 9.97395682841474,
+        "longitude": 123.470693048446,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "QM BUILDERS (30743)",
+    "startDate": "2016-02-29",
+    "completionDate": "2016-08-07",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-02-29",
+    "expiryDate": "2016-08-07",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00001100VS-CW1",
+        "description": "Road Upgrading Asphalt to Concrete - Argao-Ronda Rd - K0080+100 - K0080+800, K0080+800 - K0081+280",
+        "infraType": "Roads",
+        "typeOfWork": "Road Upgrading Asphalt to Concrete",
+        "region": "Region VII",
+        "province": "CEBU",
+        "coordinates": {
+          "latitude": 9.97395682841474,
+          "longitude": 123.470693048446,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "QM BUILDERS",
+    "bidders": [
+      {
+        "name": "QM BUILDERS (30743)",
+        "pcabId": "30743",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "BLIMEX CONSTRUCTION & SUPPLY (27259)",
+        "pcabId": "27259",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "GEETY REALTY AND DEVELOPMENT CORPORATION (30447)",
+        "pcabId": "30447",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "GOLDFIN CONSTRUCTION & DEVELOPMENT CORPORATION (FORMERLY: GOLDFIN CONSTRUCTION) (21343)",
+        "pcabId": "21343",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "JIAN ARMEL RICHARD CHRISTERSON (JARC) CONSTRUCTION & MARINE SERVICES CORPORATION (FORMERLY:J.A.R.C. (33057)",
+        "pcabId": "33057",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "MPJR BUILDERS COMPANY (20446)",
+        "pcabId": "20446",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "QUIRANTE CONSTRUCTION CORPORATION (FORMERLY: QUIRANTE CONSTRUCTION) (32827)",
+        "pcabId": "32827",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "SQUARE CUBE CONSTRUCTION(FORMERLY SQUARE CUBE TRAD (25120)",
+        "pcabId": "25120",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "WTG CONSTRUCTION & DEVELOPMENT CORPORATION (7494)",
+        "pcabId": "7494",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "ZION CONSTRUCTION(FORMERLY MASTERPIECE CONST. & SU (14881)",
+        "pcabId": "14881",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "REHAB./RECONST./UPGRADING OF DAMAGED PAVED NATIONAL ROADS INCLUDING DRAINAGE BASED ON PAVEMENT MANAG",
+      "abc": "37179240.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-11-06 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-12-07 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "35060023.3200000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/contract_agreement_15hg0188.pdf",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/april/NOA-15hg0188.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/contract_agreement_15hg0188.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 9.97395682841474,
+    "longitude": 123.470693048446,
+    "coordinates": [
+      {
+        "componentId": "P00001100VS-CW1",
+        "description": "Road Upgrading Asphalt to Concrete - Argao-Ronda Rd - K0080+100 - K0080+800, K0080+800 - K0081+280",
+        "latitude": 9.97395682841474,
+        "longitude": 123.470693048446,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

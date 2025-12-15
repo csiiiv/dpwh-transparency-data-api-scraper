@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "20O00074",
+    "description": "REPLACEMENT OF TWO (2) BOX CULVERT ALONG LONGOS CREEK LEADING TO LONGOS PUMPING STATION AND REHABILITATION OF BOX CULVERT AT P. AQUINO AVE., BRGY. LONGOS, MALABON CITY",
+    "category": "Flood Control and Drainage",
+    "status": "Completed",
+    "budget": 161136754.57,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Central Office",
+      "province": "Flood Control Management Cluster",
+      "infraType": "Flood Control and Drainage",
+      "coordinates": {
+        "latitude": 14.65753,
+        "longitude": 120.956775,
+        "verified": false
+      }
+    },
+    "infraType": "Flood Control and Drainage",
+    "contractor": "E. F. CHUA CONSTRUCTION, INC. (37826) / AKN CONSTRUCTION CORPORATION (11845)",
+    "startDate": "2021-03-15",
+    "completionDate": "2022-07-07",
+    "infraYear": "2020",
+    "contractEffectivityDate": "2021-03-15",
+    "expiryDate": "2022-07-07",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2020 OO-2",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00421310LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Flood Mitigation Facility - Replacement of Two (2) Box Culvert along Longos Creek leading to Longos Pumping Station and Rehabilitation of Box Culvert at P. Aquino Ave., Brgy. Longos, Malabon City",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Rehabilitation / Major Repair of Flood Mitigation Facility",
+        "region": "National Capital Region",
+        "province": "METROPOLITAN MANILA",
+        "coordinates": {
+          "latitude": 14.65753,
+          "longitude": 120.956775,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "AKN CONSTRUCTION CORPORATION, E. F. CHUA CONSTRUCTION, INC.",
+    "bidders": [
+      {
+        "name": "E. F. CHUA CONSTRUCTION, INC. (37826) / AKN CONSTRUCTION CORPORATION (11845) (JV ID: JV-20-0213)",
+        "pcabId": "",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "J.D. LEGASPI CONSTRUCTION (9608) / S.A. PLEYTO CONSTRUCTION CORPORATION (33269) (JV ID: JV-20-0223)",
+        "pcabId": "",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "REPLACEMENT OF TWO (2) BOX CULVERT ALONG LONGOS CREEK LEADING TO LONGOS PUMPING STATION AND REHABILITATION OF BOX CULVERT AT P. AQUINO AVE., BRGY. LONGOS, MALABON CITY",
+      "abc": "162204834.48",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2020-09-09 00:00:00.0000000",
+      "bidSubmissionDeadline": "2020-09-28 00:00:00.0000000",
+      "dateOfAward": "2020-12-01 00:00:00.0000000",
+      "awardAmount": "157301723.7"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/ITB 202012131474.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/20O00074 Contract Agreement Longos.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/20O00074.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/20O00074 Contract Agreement Longos.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 14.65753,
+    "longitude": 120.956775,
+    "coordinates": [
+      {
+        "componentId": "P00421310LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Flood Mitigation Facility - Replacement of Two (2) Box Culvert along Longos Creek leading to Longos Pumping Station and Rehabilitation of Box Culvert at P. Aquino Ave., Brgy. Longos, Malabon City",
+        "latitude": 14.65753,
+        "longitude": 120.956775,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

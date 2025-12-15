@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "22MF0006",
+    "description": "KIDAPAWAN-ALLAH JUNCTION RD - K1680+2109-K1680+2992",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 9799338.79,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region XII",
+      "province": "Sultan Kudarat 1st DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 6.6413556,
+        "longitude": 124.6042167,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "C.A. BETALAC CONSTRUCTION & GEN. MDSE., INC. (FOR: C.A. BETALAC CONSTRUCTION & GEN. MDSE.) (28222)",
+    "startDate": "2022-04-11",
+    "completionDate": "2022-10-09",
+    "infraYear": "2022",
+    "contractEffectivityDate": "2022-04-11",
+    "expiryDate": "2022-10-09",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2022 OO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00602476MN-CW1",
+        "description": "Off-Carriageway Improvement: Construction of Traffic Island - Kidapawan-Allah Junction Rd - K1680 + 2109 - K1680 + 2992",
+        "infraType": "Roads",
+        "typeOfWork": "Off-Carriageway Improvement: Construction of Traffic Island",
+        "region": "Region XII",
+        "province": "SULTAN KUDARAT",
+        "coordinates": {
+          "latitude": 6.6413556,
+          "longitude": 124.6042167,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "C.A. BETALAC CONSTRUCTION & GEN. MDSE., INC. (FOR: C.A. BETALAC CONSTRUCTION & GEN. MDSE.)",
+    "bidders": [
+      {
+        "name": "C.A. BETALAC CONSTRUCTION & GEN. MDSE., INC. (FOR: C.A. BETALAC CONSTRUCTION & GEN. MDSE.) (28222)",
+        "pcabId": "28222",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "A.L. ACHARON CONSTRUCTION AND SUPPLY (33068)",
+        "pcabId": "33068",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "KIDAPAWAN-ALLAH JUNCTION RD - K1680+2109-K1680+2992",
+      "abc": "9767747.57",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2022-01-28 00:00:00.0000000",
+      "bidSubmissionDeadline": "2022-02-16 00:00:00.0000000",
+      "dateOfAward": "2022-03-23 00:00:00.0000000",
+      "awardAmount": "9716568.44"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/22MF0006.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/Contract Agreement - 22MF0006.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/NOA-22MF0006.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/Contract Agreement - 22MF0006.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 6.6413556,
+    "longitude": 124.6042167,
+    "coordinates": [
+      {
+        "componentId": "P00602476MN-CW1",
+        "description": "Off-Carriageway Improvement: Construction of Traffic Island - Kidapawan-Allah Junction Rd - K1680 + 2109 - K1680 + 2992",
+        "latitude": 6.6413556,
+        "longitude": 124.6042167,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 2,
+      "latestImageDate": "2022-11-30 03:40:04.069999",
+      "hasImages": true
+    }
+  }
+}

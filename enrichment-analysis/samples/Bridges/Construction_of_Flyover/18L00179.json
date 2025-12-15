@@ -1,0 +1,109 @@
+{
+  "data": {
+    "contractId": "18L00179",
+    "description": "CONSTRUCTION OF TAGUM CITY FLYOVER ALONG AGUSAN-DAVAO ROAD, PACKAGE 1, DAVAO DEL NORTE",
+    "category": "Bridges",
+    "status": "Completed",
+    "budget": 468171957.33,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region XI",
+      "province": "Region XI",
+      "infraType": "Bridges",
+      "coordinates": {
+        "latitude": 7.4486993,
+        "longitude": 125.8104738,
+        "verified": false
+      }
+    },
+    "infraType": "Bridges",
+    "contractor": "ULTICON BUILDERS, INC. (17267)",
+    "startDate": "2020-02-27",
+    "completionDate": "2021-08-30",
+    "infraYear": "2018",
+    "contractEffectivityDate": "2020-02-27",
+    "expiryDate": "2021-09-18",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2018 Augmentation",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00200471MNA-CW1",
+        "description": "Construction of Flyover - Tagum City Flyover along Agusan-Davao Road, Package 1, Davao del Norte",
+        "infraType": "Bridges",
+        "typeOfWork": "Construction of Flyover",
+        "region": "Region XI",
+        "province": "DAVAO DEL NORTE",
+        "coordinates": {
+          "latitude": 7.4486993,
+          "longitude": 125.8104738,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "ULTICON BUILDERS, INC.",
+    "bidders": [
+      {
+        "name": "ULTICON BUILDERS, INC. (17267)",
+        "pcabId": "17267",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "MAC BUILDERS CORP. (FORMERLY: MAC BUILDERS DEVELOPMENT CORPORATION) (7249)",
+        "pcabId": "7249",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "P.L. SEBASTIAN CONSTRUCTION, INC. (FORMERLY: P.L. SEBASTIAN CONSTRUCTION) (35840)",
+        "pcabId": "35840",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION OF TAGUM CITY FLYOVER ALONG AGUSAN-DAVAO ROAD, PACKAGE 1, DAVAO DEL NORTE",
+      "abc": "482500000.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2019-10-30 00:00:00.0000000",
+      "bidSubmissionDeadline": "2019-11-25 00:00:00.0000000",
+      "dateOfAward": "2019-12-16 00:00:00.0000000",
+      "awardAmount": "466371777.9"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/18L00179 - PLAN SET 1.rar",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/CONTRACT 18L00179.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/NOA 18L00179.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/CONTRACT 18L00179.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 7.4486993,
+    "longitude": 125.8104738,
+    "coordinates": [
+      {
+        "componentId": "P00200471MNA-CW1",
+        "description": "Construction of Flyover - Tagum City Flyover along Agusan-Davao Road, Package 1, Davao del Norte",
+        "latitude": 7.4486993,
+        "longitude": 125.8104738,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

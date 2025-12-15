@@ -1,0 +1,472 @@
+{
+  "data": {
+    "contractId": "16F00130",
+    "description": "CLUSTER IX-REHAB./REPAIR OF VARIOUS LOCAL ROADS/OTHER INFRASTRUCTURES AT LIGAO CITY AND GUINOBATAN, ALBAY, ALBAY 3RD LD",
+    "category": "Bridges, Flood Control Structures, Roads",
+    "status": "Completed",
+    "budget": 30799645.28,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region V",
+      "province": "Region V",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 13.126437,
+        "longitude": 123.437475,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "ELKANKONSTRAK DEVELOPMENT CORPORATION (26220)",
+    "startDate": "2017-08-23",
+    "completionDate": "2019-03-08",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2017-08-23",
+    "expiryDate": "2018-03-06",
+    "nysReason": null,
+    "programName": "Outside Infra",
+    "sourceOfFunds": "Outside Infra - Roads: Construction - Slope Protection using Structural Measures (e.g. Revetment, Retaining Structures, Rock Netting, Concrete Crib, Shotcrete, MSE Walls, Gabions, Riprap, Masonry), Roads: Rehabilitation - PCCP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00095132LZ-CW1",
+        "description": "Rehabilitation of Concrete Road - Rehabilitation/Repair of Polangui-Nasisi Road (Ligao Section), Ligao City, Albay",
+        "infraType": "Roads",
+        "typeOfWork": "Rehabilitation of Concrete Road",
+        "region": "Region V",
+        "province": "ALBAY",
+        "coordinates": null
+      },
+      {
+        "componentId": "P00095134LZ-CW1",
+        "description": "Rehabilitation of Concrete Road - Rehabilitation/Repair of Sta. Cruz-Pandan Road (100 lm), Ligao City, Albay",
+        "infraType": "Roads",
+        "typeOfWork": "Rehabilitation of Concrete Road",
+        "region": "Region V",
+        "province": "ALBAY",
+        "coordinates": null
+      },
+      {
+        "componentId": "P00095135LZ-CW1",
+        "description": "Rehabilitation of Concrete Road - Rehabilitation/Repair of Gamot-Mahaba Road (100 lm), Ligao City, Albay",
+        "infraType": "Roads",
+        "typeOfWork": "Rehabilitation of Concrete Road",
+        "region": "Region V",
+        "province": "ALBAY",
+        "coordinates": null
+      },
+      {
+        "componentId": "P00095155LZ-CW1",
+        "description": "Rehabilitation of Concrete Road - Rehabilitation/Repair of Mauraro Slope Protection (Bridge Area), Guinobatan, Albay",
+        "infraType": "Roads",
+        "typeOfWork": "Rehabilitation of Concrete Road",
+        "region": "Region V",
+        "province": "ALBAY",
+        "coordinates": null
+      },
+      {
+        "componentId": "P00095158LZ-CW1",
+        "description": "Rehabilitation of Concrete Road - Rehabilitation/Repair of Paulba-Gaya Road (90 lm), Ligao City, Albay",
+        "infraType": "Roads",
+        "typeOfWork": "Rehabilitation of Concrete Road",
+        "region": "Region V",
+        "province": "ALBAY",
+        "coordinates": null
+      },
+      {
+        "componentId": "P00095159LZ-CW1",
+        "description": "Rehabilitation of Paved Road - Rehabilitation/Repair of Bacong-Abella-Calaguimit Road (200 m), Ligao City, Albay",
+        "infraType": "Roads",
+        "typeOfWork": "Rehabilitation of Paved Road",
+        "region": "Region V",
+        "province": "ALBAY",
+        "coordinates": {
+          "latitude": 13.126437,
+          "longitude": 123.437475,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00095160LZ-CW1",
+        "description": "Rehabilitation of Concrete Road - Rehabilitation/Repair of Slope Protection along Maonon-Abella Road, Ligao City, Albay",
+        "infraType": "Roads",
+        "typeOfWork": "Rehabilitation of Concrete Road",
+        "region": "Region V",
+        "province": "ALBAY",
+        "coordinates": null
+      },
+      {
+        "componentId": "P00095161LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Bridge - Rehabilitation/Repair of Malama-Casinagan Bridge (15 lm), Ligao City, Albay",
+        "infraType": "Bridges",
+        "typeOfWork": "Rehabilitation / Major Repair of Bridge",
+        "region": "Region V",
+        "province": "ALBAY",
+        "coordinates": {
+          "latitude": 13.152167,
+          "longitude": 123.467678,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00095162LZ-CW1",
+        "description": "Rehabilitation of Concrete Road - Rehabilitation/Repair of Slope Protection along Paulba-Busac Road (Busac Section), Ligao City, Albay",
+        "infraType": "Roads",
+        "typeOfWork": "Rehabilitation of Concrete Road",
+        "region": "Region V",
+        "province": "ALBAY",
+        "coordinates": null
+      },
+      {
+        "componentId": "P00095163LZ-CW1",
+        "description": "Rehabilitation of Concrete Road - Rehabilitation/Repair of Slope Protection at Maburi Bridge 1 (30 lm), Ligao City, Albay",
+        "infraType": "Roads",
+        "typeOfWork": "Rehabilitation of Concrete Road",
+        "region": "Region V",
+        "province": "ALBAY",
+        "coordinates": null
+      },
+      {
+        "componentId": "P00095164LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Road Slope Protection Structure - Rehabilitation/Repair of Slope Protection at Maburi Bridge 2 (30 lm), Ligao City, Albay",
+        "infraType": "Roads",
+        "typeOfWork": "Rehabilitation / Major Repair of Road Slope Protection Structure",
+        "region": "Region V",
+        "province": "ALBAY",
+        "coordinates": {
+          "latitude": 13.201435,
+          "longitude": 123.49012,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00095165LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Flood Control Structure - Rehabilitation/Repair of RCBC 1 at Busac-Tandura InFRES Road, Ligao City, Albay",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Rehabilitation / Major Repair of Flood Control Structure",
+        "region": "Region V",
+        "province": "ALBAY",
+        "coordinates": {
+          "latitude": 13.17166667,
+          "longitude": 123.48388889,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00095166LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Flood Control Structure - Rehabilitation/Repair of RCBC (30 lm) at Sitio Pasto, Palapas, Ligao City, Albay",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Rehabilitation / Major Repair of Flood Control Structure",
+        "region": "Region V",
+        "province": "ALBAY",
+        "coordinates": {
+          "latitude": 13.13194444,
+          "longitude": 123.47222222,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00095168LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Bridge - Rehabilitation/Repair of Do±a Tomasa Bridge (300 lm), Guinobatan, Albay",
+        "infraType": "Bridges",
+        "typeOfWork": "Rehabilitation / Major Repair of Bridge",
+        "region": "Region V",
+        "province": "ALBAY",
+        "coordinates": {
+          "latitude": 13.18527778,
+          "longitude": 123.60361111,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00095170LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Bridge - Rehabilitation/Restoration of Maguiron-Sagaysay Bridge, Guinobatan, Albay",
+        "infraType": "Bridges",
+        "typeOfWork": "Rehabilitation / Major Repair of Bridge",
+        "region": "Region V",
+        "province": "ALBAY",
+        "coordinates": {
+          "latitude": 13.22833333,
+          "longitude": 123.61194444,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00095171LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Bridge - Rehabilitation/Restoration of Mapaco Bridge (30 lm), Guinobatan, Albay",
+        "infraType": "Bridges",
+        "typeOfWork": "Rehabilitation / Major Repair of Bridge",
+        "region": "Region V",
+        "province": "ALBAY",
+        "coordinates": {
+          "latitude": 13.17222222,
+          "longitude": 123.55888889,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00095172LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Bridge - Rehabilitation/Restoration of Bubulusan Bridge (100 lm), Guinobatan, Albay",
+        "infraType": "Bridges",
+        "typeOfWork": "Rehabilitation / Major Repair of Bridge",
+        "region": "Region V",
+        "province": "ALBAY",
+        "coordinates": {
+          "latitude": 13.23318,
+          "longitude": 123.59385,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00095173LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Bridge - Rehabilitation/Restoration of San Rafael-Maipon Bridge (300 lm), Guinobatan, Albay",
+        "infraType": "Bridges",
+        "typeOfWork": "Rehabilitation / Major Repair of Bridge",
+        "region": "Region V",
+        "province": "ALBAY",
+        "coordinates": {
+          "latitude": 13.18527778,
+          "longitude": 123.60527778,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00095179LZ-CW1",
+        "description": "Rehabilitation of Concrete Road - Rehabilitation/Repair of Maipon-San Rafael Road (642 lm), Guinobatan, Albay",
+        "infraType": "Roads",
+        "typeOfWork": "Rehabilitation of Concrete Road",
+        "region": "Region V",
+        "province": "ALBAY",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "ELKANKONSTRAK DEVELOPMENT CORPORATION",
+    "bidders": [
+      {
+        "name": "ELKANKONSTRAK DEVELOPMENT CORPORATION (26220)",
+        "pcabId": "26220",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "ALRO CONSTRUCTION & DEVELOPMENT CORP. (18361)",
+        "pcabId": "18361",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "ANTONIO V. NIDEA CONST., INC.(FORMERLY ANTONIO V. (6382)",
+        "pcabId": "6382",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "B. VICENCIO BUILDERS (BVB), INC. (FORMERLY:B. VICENCIO CONSTRUCTION) (9687)",
+        "pcabId": "9687",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "DSB CONSTRUCTION  & SUPPLY, INC. (FORMERLY: DSB CO (16126)",
+        "pcabId": "16126",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "E. GARCIA CONSTRUCTION CORP.(FOR. E. GARCIA CONST (7243)",
+        "pcabId": "7243",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "HGG BUILDERS & SUPPLY (17824)",
+        "pcabId": "17824",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "HONEYVILLECONST AND DEVELOPMENT CORPORATION (32160)",
+        "pcabId": "32160",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "MAKAPA CORPORATION (30029)",
+        "pcabId": "30029",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "PHILWORKS CONSTRUCTION & SUPPLY (32103)",
+        "pcabId": "32103",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "PRECIOUS CONSTRUCTION (32995)",
+        "pcabId": "32995",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "RAMARPLUS INCORPORATED (FORMERLY RAMAR ENTERPRISES (8092)",
+        "pcabId": "8092",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "RCDS CONSTRUCTION & SUPPLY, INC.(FOR RCDS CONST. (32331)",
+        "pcabId": "32331",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "ROLCO CONSTRUCTION & DEVELOPMENT CORPORATION ( FOR (29686)",
+        "pcabId": "29686",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "TR CONSTRUCTION CORPORATION (FOR: TR CONSTRUCTION) (11697)",
+        "pcabId": "11697",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "WCS CONSTRUCTION, INC. (6516)",
+        "pcabId": "6516",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "WEARR ENTERPRISES & DEVELOPMENT CORP. (14123)",
+        "pcabId": "14123",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CLUSTER IX-REHAB./REPAIR OF VARIOUS LOCAL ROADS/OTHER INFRASTRUCTURES AT LIGAO CITY AND GUINOBATAN, ALBAY, ALBAY 3RD LD",
+      "abc": "32427641.62",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2017-05-30 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-06-23 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "30799645.28"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/IB 16F00130.pdf",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/Contract 16F00130.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/NOA 16F00130.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/Contract 16F00130.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 13.126437,
+    "longitude": 123.437475,
+    "coordinates": [
+      {
+        "componentId": "P00095159LZ-CW1",
+        "description": "Rehabilitation of Paved Road - Rehabilitation/Repair of Bacong-Abella-Calaguimit Road (200 m), Ligao City, Albay",
+        "latitude": 13.126437,
+        "longitude": 123.437475,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00095161LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Bridge - Rehabilitation/Repair of Malama-Casinagan Bridge (15 lm), Ligao City, Albay",
+        "latitude": 13.152167,
+        "longitude": 123.467678,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00095164LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Road Slope Protection Structure - Rehabilitation/Repair of Slope Protection at Maburi Bridge 2 (30 lm), Ligao City, Albay",
+        "latitude": 13.201435,
+        "longitude": 123.49012,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00095165LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Flood Control Structure - Rehabilitation/Repair of RCBC 1 at Busac-Tandura InFRES Road, Ligao City, Albay",
+        "latitude": 13.17166667,
+        "longitude": 123.48388889,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00095166LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Flood Control Structure - Rehabilitation/Repair of RCBC (30 lm) at Sitio Pasto, Palapas, Ligao City, Albay",
+        "latitude": 13.13194444,
+        "longitude": 123.47222222,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00095168LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Bridge - Rehabilitation/Repair of Do±a Tomasa Bridge (300 lm), Guinobatan, Albay",
+        "latitude": 13.18527778,
+        "longitude": 123.60361111,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00095170LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Bridge - Rehabilitation/Restoration of Maguiron-Sagaysay Bridge, Guinobatan, Albay",
+        "latitude": 13.22833333,
+        "longitude": 123.61194444,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00095171LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Bridge - Rehabilitation/Restoration of Mapaco Bridge (30 lm), Guinobatan, Albay",
+        "latitude": 13.17222222,
+        "longitude": 123.55888889,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00095172LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Bridge - Rehabilitation/Restoration of Bubulusan Bridge (100 lm), Guinobatan, Albay",
+        "latitude": 13.23318,
+        "longitude": 123.59385,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00095173LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Bridge - Rehabilitation/Restoration of San Rafael-Maipon Bridge (300 lm), Guinobatan, Albay",
+        "latitude": 13.18527778,
+        "longitude": 123.60527778,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

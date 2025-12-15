@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "17DL0213",
+    "description": "INSTALLATION OF ROAD SIGNAGES ALONG MSR, JCT. LOPEZ-CATANAUAN ROAD K0217+(-890) TO K0236+128",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 6277929.54,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region IV-A",
+      "province": "Quezon 4th DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 13.8848684392299,
+        "longitude": 122.260547889318,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "PHILIPPINE CHEMSTEEL INDUSTRIES, INC. (16965)",
+    "startDate": "2017-10-05",
+    "completionDate": "2017-11-03",
+    "infraYear": "2017",
+    "contractEffectivityDate": "2017-10-05",
+    "expiryDate": "2017-11-03",
+    "nysReason": null,
+    "programName": "Outside Infra",
+    "sourceOfFunds": "Outside Infra - Special Road Support Fund 2017",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00190202LZ-CW1",
+        "description": "Road Safety: Road Signs - Installation Of Road Signages Along Msr, Jct. Lopez-Catanauan Road K0217+(-890) - K0236+128",
+        "infraType": "Roads",
+        "typeOfWork": "Road Safety: Road Signs",
+        "region": "Region IV-A",
+        "province": "QUEZON",
+        "coordinates": {
+          "latitude": 13.8848684392299,
+          "longitude": 122.260547889318,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "PHILIPPINE CHEMSTEEL INDUSTRIES, INC.",
+    "bidders": [
+      {
+        "name": "PHILIPPINE CHEMSTEEL INDUSTRIES, INC. (16965)",
+        "pcabId": "16965",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "R.A. MENDIOLA CONSTRUCTION & DEVELOPER (33651)",
+        "pcabId": "33651",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "INSTALLATION OF ROAD SIGNAGES ALONG MSR, JCT. LOPEZ-CATANAUAN ROAD K0217+(-890) TO K0236+128",
+      "abc": "6347353.92",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2017-09-06 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-09-26 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "6,277,929.54"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/noa_17dl0213.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/17dl0213-_ntp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 13.8848684392299,
+    "longitude": 122.260547889318,
+    "coordinates": [
+      {
+        "componentId": "P00190202LZ-CW1",
+        "description": "Road Safety: Road Signs - Installation Of Road Signages Along Msr, Jct. Lopez-Catanauan Road K0217+(-890) - K0236+128",
+        "latitude": 13.8848684392299,
+        "longitude": 122.260547889318,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

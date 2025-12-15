@@ -1,0 +1,91 @@
+{
+  "data": {
+    "contractId": "16AH0099",
+    "description": "CONSTRUCTION OF SPURDIKES AT BRGY. BOLO, SAN JACINTO, PANGASINAN",
+    "category": "Flood Control and Drainage",
+    "status": "Completed",
+    "budget": 14657409.55,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region I",
+      "province": "Pangasinan 2nd DEO",
+      "infraType": "Flood Control and Drainage",
+      "coordinates": null
+    },
+    "infraType": "Flood Control and Drainage",
+    "contractor": "R.A. MATIAS CONSTRUCTION AND DEVELOPERS INC. (FORMERLY : R.A. MATIAS CONSTRUCTION AND DEVELOPERS) (26346) / BET CONSTRUCTION & SUPPLY (31764)",
+    "startDate": "2016-05-30",
+    "completionDate": "2016-09-26",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-05-30",
+    "expiryDate": "2016-09-26",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-2",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00022663LZ-CW1",
+        "description": "Construction of Spur Dike - Construction of Spurdikes at Brgy. Bolo, San Jacinto, Pangasinan",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Construction of Spur Dike",
+        "region": "Region I",
+        "province": "PANGASINAN",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "BET CONSTRUCTION & SUPPLY, R.A. MATIAS CONSTRUCTION AND DEVELOPERS INC. (FORMERLY : R.A. MATIAS CONSTRUCTION AND DEVELOPERS)",
+    "bidders": [
+      {
+        "name": "BET CONSTRUCTION & SUPPLY (31764) / R.A. MATIAS CONSTRUCTION AND DEVELOPERS INC. (FORMERLY : R.A. MATIAS CONSTRUCTION AND DEVELOPERS) (26346) (JV ID: JV-15-1638)",
+        "pcabId": "",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "BONIMAR CONSTRUCTION ENTERPRISES (23760)",
+        "pcabId": "23760",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "HONEYVILLECONST AND DEVELOPMENT CORPORATION (32160)",
+        "pcabId": "32160",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION OF SPURDIKES AT BRGY. BOLO, SAN JACINTO, PANGASINAN",
+      "abc": "14956535.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-03-01 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-03-21 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "14657409.55"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/16ah0099_ca.pdf",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/august/16ah0099 award.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/16ah0099_ca.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

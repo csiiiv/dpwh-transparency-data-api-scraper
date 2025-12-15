@@ -1,0 +1,115 @@
+{
+  "data": {
+    "contractId": "15CE0170",
+    "description": "CONSTRUCTION/MAINTENANCE OF FLOOD MITIGATION STRUCTURES AND DRAINAGE SYSTEMS, REPAIR/REHABILITATION OF FLOOD CONTROL STRUCTURES ALONG TALAVERA RIVER, STA. MONICA, ALIAGA, NUEVA ECIJA",
+    "category": "Flood Control and Drainage",
+    "status": "Completed",
+    "budget": 40971518.12,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region III",
+      "province": "Nueva Ecija 1st DEO",
+      "infraType": "Flood Control and Drainage",
+      "coordinates": {
+        "latitude": 15.5062,
+        "longitude": 120.80552,
+        "verified": false
+      }
+    },
+    "infraType": "Flood Control and Drainage",
+    "contractor": "SPECO BUILDERS INC. (FORMERLY VRF CONSTRUCTION) (15301)",
+    "startDate": "2016-02-25",
+    "completionDate": "2016-08-10",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-02-25",
+    "expiryDate": "2016-11-15",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-2",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00020444LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Flood Control Structure - Repair/Rehabilitation of Flood Control Structures along Talavera River at Brgy. Sta. Monica, Aliaga, Nueva Ecija, Sta. 101+780.98 - Sta. 102+122.08",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Rehabilitation / Major Repair of Flood Control Structure",
+        "region": "Region III",
+        "province": "NUEVA ECIJA",
+        "coordinates": {
+          "latitude": 15.5062,
+          "longitude": 120.80552,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "SPECO BUILDERS INC. (FORMERLY VRF CONSTRUCTION)",
+    "bidders": [
+      {
+        "name": "SPECO BUILDERS INC. (FORMERLY VRF CONSTRUCTION) (15301)",
+        "pcabId": "15301",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "KYRO BUILDERS, INC. (19567)",
+        "pcabId": "19567",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "M.R. VARGAS CONSTRUCTION CORPORATION (FORMERLY: M.R. VARGAS CONSTRUCTION) (8215)",
+        "pcabId": "8215",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "R.A. PAHATI CONST. & SUPPLY, INC. (35843)",
+        "pcabId": "35843",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION/MAINTENANCE OF FLOOD MITIGATION STRUCTURES AND DRAINAGE SYSTEMS, REPAIR/REHABILITATION OF FLOOD CONTROL STRUCTURES ALONG TALAVERA RIVER, STA. MONICA, ALIAGA, NUEVA ECIJA",
+      "abc": "43371878.11",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-11-18 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-12-08 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "40971518.1200000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/june/15CE0170 CONT.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/15ce0170_noa.pdf",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/may/15CE0170 CONT.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 15.5062,
+    "longitude": 120.80552,
+    "coordinates": [
+      {
+        "componentId": "P00020444LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Flood Control Structure - Repair/Rehabilitation of Flood Control Structures along Talavera River at Brgy. Sta. Monica, Aliaga, Nueva Ecija, Sta. 101+780.98 - Sta. 102+122.08",
+        "latitude": 15.5062,
+        "longitude": 120.80552,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

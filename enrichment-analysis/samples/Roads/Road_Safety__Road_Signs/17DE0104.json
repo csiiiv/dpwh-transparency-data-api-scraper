@@ -1,0 +1,97 @@
+{
+  "data": {
+    "contractId": "17DE0104",
+    "description": "REPLACEMENT OF EXISTING DAMAGED ROAD SIGNAGES ALONG VARIOUS NATIONAL ROADS, BATANGAS 2ND & 5TH LEGISLATIVE DISTRICTS",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 717394.2,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region IV-A",
+      "province": "Batangas 2nd DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 13.7956789230393,
+        "longitude": 121.000660110103,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "VICMAR CONSTRUCTION, INC. (28997)",
+    "startDate": "2018-01-04",
+    "completionDate": "2018-01-25",
+    "infraYear": "2017",
+    "contractEffectivityDate": "2018-01-04",
+    "expiryDate": "2018-01-25",
+    "nysReason": null,
+    "programName": "Outside Infra",
+    "sourceOfFunds": "Outside Infra - Special Road Support Fund 2017",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00190165LZ-CW1",
+        "description": "Road Safety: Road Signs - Road Signs along  Batangas-Tabangao-Lobo Road (S05009LZ), K0107+(-898) to K0150+207, Batangas-Lobo Road (S05003LZ), K0105+(-469) to K0118+607, Road Signs along Batangas-Lobo Road (S05004LZ), K0128+(-504) to K0138+933, Road Signs",
+        "infraType": "Roads",
+        "typeOfWork": "Road Safety: Road Signs",
+        "region": "Region IV-A",
+        "province": "BATANGAS",
+        "coordinates": {
+          "latitude": 13.7956789230393,
+          "longitude": 121.000660110103,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "VICMAR CONSTRUCTION, INC.",
+    "bidders": [
+      {
+        "name": "VICMAR CONSTRUCTION, INC. (28997)",
+        "pcabId": "28997",
+        "participation": 100,
+        "isWinner": true
+      }
+    ],
+    "procurement": {
+      "contractName": "REPLACEMENT OF EXISTING DAMAGED ROAD SIGNAGES ALONG VARIOUS NATIONAL ROADS, BATANGAS 2ND & 5TH LEGISLATIVE DISTRICTS",
+      "abc": "720260.13",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2017-11-24 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-12-13 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "717394.2"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/17DE0104.zip",
+      "contractAgreement": "",
+      "noticeOfAward": "",
+      "noticeToProceed": "",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 13.7956789230393,
+    "longitude": 121.000660110103,
+    "coordinates": [
+      {
+        "componentId": "P00190165LZ-CW1",
+        "description": "Road Safety: Road Signs - Road Signs along  Batangas-Tabangao-Lobo Road (S05009LZ), K0107+(-898) to K0150+207, Batangas-Lobo Road (S05003LZ), K0105+(-469) to K0118+607, Road Signs along Batangas-Lobo Road (S05004LZ), K0128+(-504) to K0138+933, Road Signs",
+        "latitude": 13.7956789230393,
+        "longitude": 121.000660110103,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "16IB0328",
+    "description": "REPAIR/REHABILITATION OF DOLORES MUNICIPAL BUILDING, DOLORES, EASTERN SAMAR",
+    "category": "Buildings and Facilities",
+    "status": "Completed",
+    "budget": 4584948.16,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region VIII",
+      "province": "Eastern Samar DEO",
+      "infraType": "Buildings and Facilities",
+      "coordinates": {
+        "latitude": 12.037675,
+        "longitude": 125.403056,
+        "verified": false
+      }
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "KAUIE BUILDERS & SUPPLIES INC. (FORMERLY: KAUIE BUILDERS AND CONSTRUCTION SUPPLIES) (33841)",
+    "startDate": "2017-02-20",
+    "completionDate": "2017-07-19",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2017-02-20",
+    "expiryDate": "2017-07-19",
+    "nysReason": null,
+    "programName": "Outside Infra",
+    "sourceOfFunds": "Outside Infra - GAA 2016 NDRRMF",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00095305VS-CW1",
+        "description": "Repair/Rehabilitation of Other Buildings - Repair/Rehabilitation of Dolores Municipal Building, Dolores, Eastern Samar",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Repair/Rehabilitation of Other Buildings",
+        "region": "Region VIII",
+        "province": "EASTERN SAMAR",
+        "coordinates": {
+          "latitude": 12.037675,
+          "longitude": 125.403056,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "KAUIE BUILDERS & SUPPLIES INC. (FORMERLY: KAUIE BUILDERS AND CONSTRUCTION SUPPLIES)",
+    "bidders": [
+      {
+        "name": "KAUIE BUILDERS & SUPPLIES INC. (FORMERLY: KAUIE BUILDERS AND CONSTRUCTION SUPPLIES) (33841)",
+        "pcabId": "33841",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "VICTORIA DEVELOPMENT AND VENTURES CORP. (FOR: VICTORIA DEV'T AND CONST. CORP.) (32638)",
+        "pcabId": "32638",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "REPAIR/REHABILITATION OF DOLORES MUNICIPAL BUILDING, DOLORES, EASTERN SAMAR",
+      "abc": "4897509.88",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-12-30 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-01-18 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "4,629,125.11"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/POW 16IB0328 17IB0071 17IB0072.zip",
+      "contractAgreement": "",
+      "noticeOfAward": "",
+      "noticeToProceed": "",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 12.037675,
+    "longitude": 125.403056,
+    "coordinates": [
+      {
+        "componentId": "P00095305VS-CW1",
+        "description": "Repair/Rehabilitation of Other Buildings - Repair/Rehabilitation of Dolores Municipal Building, Dolores, Eastern Samar",
+        "latitude": 12.037675,
+        "longitude": 125.403056,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

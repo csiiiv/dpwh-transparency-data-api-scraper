@@ -1,0 +1,141 @@
+{
+  "data": {
+    "contractId": "22C00119",
+    "description": "LOCAL PROGRAM-NATIONAL BLDG. PROGRAM-BLDGS. & OTHER STRUCTURES-MULTIPURPOSE/FACILITIES-STRUCTURAL IMPR'VT OF PUBLIC BLDGS. & CONST. OF EVACUATION CENTERS-CONST. OF EVACUATION CENTERS IN DINALUNGAN, AURORA; HERMOSA, BATAAN & SAN MARCELINO, ZAMBALES.",
+    "category": "Buildings and Facilities",
+    "status": "Completed",
+    "budget": 96475505.19,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region III",
+      "province": "Region III",
+      "infraType": "Buildings and Facilities",
+      "coordinates": {
+        "latitude": 16.1438542,
+        "longitude": 121.9494619,
+        "verified": false
+      }
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "EDFROBON CONSTRUCTION SERVICES INCORPORATED (36761)",
+    "startDate": "2022-09-19",
+    "completionDate": "2023-07-15",
+    "infraYear": "2022",
+    "contractEffectivityDate": "2022-09-19",
+    "expiryDate": "2023-07-15",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2022 LP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00655246LZ-CW1",
+        "description": "Construction of Evacuation Center - Construction of Evacuation Center in Dinalungan, Aurora",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of Evacuation Center",
+        "region": "Region III",
+        "province": "AURORA",
+        "coordinates": {
+          "latitude": 16.1438542,
+          "longitude": 121.9494619,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00655247LZ-CW1",
+        "description": "Construction of Evacuation Center - Construction of Evacuation Center in Hermosa, Bataan",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of Evacuation Center",
+        "region": "Region III",
+        "province": "BATAAN",
+        "coordinates": {
+          "latitude": 14.8226214,
+          "longitude": 120.5014192,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00655248LZ-CW1",
+        "description": "Construction of Evacuation Center - Construction of Evacuation Center in San Marcelino, Zambales",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of Evacuation Center",
+        "region": "Region III",
+        "province": "ZAMBALES",
+        "coordinates": {
+          "latitude": 14.9744519,
+          "longitude": 120.1718831,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "EDFROBON CONSTRUCTION SERVICES INCORPORATED",
+    "bidders": [
+      {
+        "name": "EDFROBON CONSTRUCTION SERVICES INCORPORATED (36761)",
+        "pcabId": "36761",
+        "participation": 100,
+        "isWinner": true
+      }
+    ],
+    "procurement": {
+      "contractName": "LOCAL PROGRAM-NATIONAL BLDG. PROGRAM-BLDGS. & OTHER STRUCTURES-MULTIPURPOSE/FACILITIES-STRUCTURAL IMPR'VT OF PUBLIC BLDGS. & CONST. OF EVACUATION CENTERS-CONST. OF EVACUATION CENTERS IN DINALUNGAN, AURORA; HERMOSA, BATAAN & SAN MARCELINO, ZAMBALES.",
+      "abc": "96494460.12",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2022-08-02 00:00:00.0000000",
+      "bidSubmissionDeadline": "2022-08-23 00:00:00.0000000",
+      "dateOfAward": "2022-08-30 00:00:00.0000000",
+      "awardAmount": "94557050.72"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/22c00119_22c00120_itb_and_bid_docs.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/ntp_22c00119.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/22c00119.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/ntp_22c00119.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 16.1438542,
+    "longitude": 121.9494619,
+    "coordinates": [
+      {
+        "componentId": "P00655246LZ-CW1",
+        "description": "Construction of Evacuation Center - Construction of Evacuation Center in Dinalungan, Aurora",
+        "latitude": 16.1438542,
+        "longitude": 121.9494619,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00655247LZ-CW1",
+        "description": "Construction of Evacuation Center - Construction of Evacuation Center in Hermosa, Bataan",
+        "latitude": 14.8226214,
+        "longitude": 120.5014192,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00655248LZ-CW1",
+        "description": "Construction of Evacuation Center - Construction of Evacuation Center in San Marcelino, Zambales",
+        "latitude": 14.9744519,
+        "longitude": 120.1718831,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 6,
+      "latestImageDate": "2023-11-03 01:38:19.496999",
+      "hasImages": true
+    }
+  }
+}

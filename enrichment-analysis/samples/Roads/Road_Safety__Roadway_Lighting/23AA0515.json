@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "23AA0515",
+    "description": "IMPROVEMENT OF ROAD ALONG STA. MARIA - LAPAZ SAND DUNES, LAOAG CITY, ILOCOS NORTE",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 96113979.75,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region I",
+      "province": "Ilocos Norte 1st DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 18.2067889,
+        "longitude": 120.5471417,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "MG SAMIDAN CONSTRUCTION (33234) / JC-08 BUILDERS CORPORATION (54636)",
+    "startDate": "2023-12-27",
+    "completionDate": "2024-03-25",
+    "infraYear": "2023",
+    "contractEffectivityDate": "2023-12-27",
+    "expiryDate": "2024-09-19",
+    "nysReason": null,
+    "programName": "Outside Infra",
+    "sourceOfFunds": "Outside Infra - Unprogrammed Appropriations 2023",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00761451LZ-CW1",
+        "description": "Road Safety: Roadway Lighting - Improvement of Road along Sta. Maria - Lapaz Sand Dunes, Laoag City, Ilocos Norte",
+        "infraType": "Roads",
+        "typeOfWork": "Road Safety: Roadway Lighting",
+        "region": "Region I",
+        "province": "ILOCOS NORTE",
+        "coordinates": {
+          "latitude": 18.2067889,
+          "longitude": 120.5471417,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "JC-08 BUILDERS CORPORATION, MG SAMIDAN CONSTRUCTION",
+    "bidders": [
+      {
+        "name": "MG SAMIDAN CONSTRUCTION (33234) / JC-08 BUILDERS CORPORATION (54636) (JV ID: JV-23-11945)",
+        "pcabId": "",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "R.A. PAHATI CONST. & SUPPLY, INC. (35843)",
+        "pcabId": "35843",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "IMPROVEMENT OF ROAD ALONG STA. MARIA - LAPAZ SAND DUNES, LAOAG CITY, ILOCOS NORTE",
+      "abc": "97607993.89",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2023-10-06 00:00:00.0000000",
+      "bidSubmissionDeadline": "2023-10-25 00:00:00.0000000",
+      "dateOfAward": "2023-12-22 00:00:00.0000000",
+      "awardAmount": "94684095.31"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/23aa0515_ded_itb_and_bid_docs.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/23-515_contract.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/23-515_noa_merged.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/23-515_ntp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 18.2067889,
+    "longitude": 120.5471417,
+    "coordinates": [
+      {
+        "componentId": "P00761451LZ-CW1",
+        "description": "Road Safety: Roadway Lighting - Improvement of Road along Sta. Maria - Lapaz Sand Dunes, Laoag City, Ilocos Norte",
+        "latitude": 18.2067889,
+        "longitude": 120.5471417,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 2,
+      "latestImageDate": "2024-03-19 09:27:29.566999",
+      "hasImages": true
+    }
+  }
+}

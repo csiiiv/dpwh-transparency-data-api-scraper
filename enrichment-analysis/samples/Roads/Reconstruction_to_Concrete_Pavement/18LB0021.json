@@ -1,0 +1,199 @@
+{
+  "data": {
+    "contractId": "18LB0021",
+    "description": "CONST/IMP OF ACCESS ROADS LEADING TO DECLARED TOURISM DESTINATIONS JCT. DAVAO CITY DIVERSION ROAD-MATINA PANGI ROAD LEADING TO JACA (MOUNTAIN) RESORT AND DECA WAKEBOARD PARK, BRGY. MATINA PANGI DAVAO CITY",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 27527725.29,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region XI",
+      "province": "Davao City DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 7.076293,
+        "longitude": 125.5633087,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "ABU CONSTRUCTION (22313)",
+    "startDate": "2018-06-07",
+    "completionDate": "2019-04-02",
+    "infraYear": "2018",
+    "contractEffectivityDate": "2018-06-07",
+    "expiryDate": "2019-04-02",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2018 Other Infrastructure (CSSP)",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00230138MN-CW1",
+        "description": "Reconstruction to Concrete Pavement - Jct. Davao City Diversion Road-Matina Pangi Road leading to Jaca (Mountain) Resort and DECA Wakeboard Park, Brgy. Matina Pangi, Davao City",
+        "infraType": "Roads",
+        "typeOfWork": "Reconstruction to Concrete Pavement",
+        "region": "Region XI",
+        "province": "DAVAO DEL SUR",
+        "coordinates": {
+          "latitude": 7.076293,
+          "longitude": 125.5633087,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "ABU CONSTRUCTION",
+    "bidders": [
+      {
+        "name": "ABU CONSTRUCTION (22313)",
+        "pcabId": "22313",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "ALZAM ENTERPRISES INCORPORATED (FORMERLY: ALZAM ENTERPRISES) (19113)",
+        "pcabId": "19113",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "ARCINUE COMM'L CORPORATION (6746)",
+        "pcabId": "6746",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "A.Y.U. ENGINEERING & CONSTRUCTION (25632)",
+        "pcabId": "25632",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "DAVAO CONCRETE PRODUCTS CONSTRUCTION AND TRADING CORPORATION (FORMERLY: DAVAO CONCRETE PRODUCTS) (12090)",
+        "pcabId": "12090",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "DIGOS TESSTON CONST. & SUPPLIES (8921)",
+        "pcabId": "8921",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "FFJJ CONSTRUCTION (16712)",
+        "pcabId": "16712",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "GEMMA CONSTRUCTION SUPPLY, INC.(FORMERLY:GEMMA CON (5044)",
+        "pcabId": "5044",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "LEGACY CONSTRUCTION CORPORATION (FORMERLY: LEGACY CONSTRUCTION) (22465)",
+        "pcabId": "22465",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "LOTRIM CONSTRUCTION, INC. (12273)",
+        "pcabId": "12273",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "MONOLITHIC CONSTRUCTION & CONCRETE PRODUCTS, INC. (5733)",
+        "pcabId": "5733",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "MPJR BUILDERS COMPANY (20446)",
+        "pcabId": "20446",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "O. G. SANTOS CONSTRUCTION (2050)",
+        "pcabId": "2050",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "RELY CONSTRUCTION & SUPPLY INC.(FORMERLY: RELY CONSTRUCTION AND SUPPLY) (10433)",
+        "pcabId": "10433",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "SBB CONSTRUCTION & SUPPLY, INC. (FORMERLY: SBB CON (31238)",
+        "pcabId": "31238",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "ST. TIMOTHY CONSTRUCTION CORPORATION ([REVOKED] 39196)",
+        "pcabId": "[REVOKED] 39196",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "THREE W BUILDERS, INC. (10722)",
+        "pcabId": "10722",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "VICENTE T. LAO CONSTRUCTION (7040)",
+        "pcabId": "7040",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONST/IMP OF ACCESS ROADS LEADING TO DECLARED TOURISM DESTINATIONS JCT. DAVAO CITY DIVERSION ROAD-MATINA PANGI ROAD LEADING TO JACA (MOUNTAIN) RESORT AND DECA WAKEBOARD PARK, BRGY. MATINA PANGI DAVAO CITY",
+      "abc": "27528200.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2017-11-25 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-12-14 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "26757491.77"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/CA 18LB0021.pdf",
+      "noticeOfAward": "",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/CA 18LB0021.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 7.076293,
+    "longitude": 125.5633087,
+    "coordinates": [
+      {
+        "componentId": "P00230138MN-CW1",
+        "description": "Reconstruction to Concrete Pavement - Jct. Davao City Diversion Road-Matina Pangi Road leading to Jaca (Mountain) Resort and DECA Wakeboard Park, Brgy. Matina Pangi, Davao City",
+        "latitude": 7.076293,
+        "longitude": 125.5633087,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "data": {
+    "contractId": "17LA0049",
+    "description": "RECHANNELING AND CONSTRUCTION OF DIKE IN KINGKING RIVER AT LAWAAN SECTION (LEFT SIDE) PANTUKAN 2ND LD, COMPOSTELA VALLEY PROVINCE",
+    "category": "Flood Control and Drainage",
+    "status": "Completed",
+    "budget": 49000000,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region XI",
+      "province": "Davao de Oro 1st DEO",
+      "infraType": "Flood Control and Drainage",
+      "coordinates": {
+        "latitude": 7.148781,
+        "longitude": 125.931561,
+        "verified": false
+      }
+    },
+    "infraType": "Flood Control and Drainage",
+    "contractor": "THREE W BUILDERS, INC. (10722)",
+    "startDate": "2017-03-09",
+    "completionDate": "2017-10-24",
+    "infraYear": "2017",
+    "contractEffectivityDate": "2017-03-09",
+    "expiryDate": "2017-10-25",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2017 MFO-2",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00121716MN-CW1",
+        "description": "Construction of Waterway - Rechanneling and Construction of Dike in Kingking River at Lawaan Section (Left Side), Pantukan, Compostela Valley",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Construction of Waterway",
+        "region": "Region XI",
+        "province": "DAVAO DE ORO",
+        "coordinates": {
+          "latitude": 7.148781,
+          "longitude": 125.931561,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00121716MN-CW2",
+        "description": "Construction of Dike - Rechanneling and Construction of Dike in Kingking River at Lawaan Section (Left Side), Pantukan, Compostela Valley",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Construction of Dike",
+        "region": "Region XI",
+        "province": "DAVAO DE ORO",
+        "coordinates": {
+          "latitude": 7.148781,
+          "longitude": 125.931561,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00121716MN-CW3",
+        "description": "Construction of Flood Mitigation Structure - Rechanneling and Construction of Dike in Kingking River at Lawaan Section (Left Side), Pantukan, Compostela Valley",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Construction of Flood Mitigation Structure",
+        "region": "Region XI",
+        "province": "DAVAO DE ORO",
+        "coordinates": {
+          "latitude": 7.148781,
+          "longitude": 125.931561,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "THREE W BUILDERS, INC.",
+    "bidders": [
+      {
+        "name": "THREE W BUILDERS, INC. (10722)",
+        "pcabId": "10722",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "DAVAO CONCRETE PRODUCTS CONSTRUCTION AND TRADING CORPORATION (FORMERLY: DAVAO CONCRETE PRODUCTS) (12090)",
+        "pcabId": "12090",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "FFJJ CONSTRUCTION (16712)",
+        "pcabId": "16712",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "MONOLITHIC CONSTRUCTION & CONCRETE PRODUCTS, INC. (5733)",
+        "pcabId": "5733",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "RECHANNELING AND CONSTRUCTION OF DIKE IN KINGKING RIVER AT LAWAAN SECTION (LEFT SIDE) PANTUKAN 2ND LD, COMPOSTELA VALLEY PROVINCE",
+      "abc": "48999687.11",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-12-08 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-12-27 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "47,529,696.50"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/CONTRACT AGREEMENT.49.PDF",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/NOA.49.PDF",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/CONTRACT AGREEMENT.49.PDF",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 7.148781,
+    "longitude": 125.931561,
+    "coordinates": [
+      {
+        "componentId": "P00121716MN-CW1",
+        "description": "Construction of Waterway - Rechanneling and Construction of Dike in Kingking River at Lawaan Section (Left Side), Pantukan, Compostela Valley",
+        "latitude": 7.148781,
+        "longitude": 125.931561,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00121716MN-CW2",
+        "description": "Construction of Dike - Rechanneling and Construction of Dike in Kingking River at Lawaan Section (Left Side), Pantukan, Compostela Valley",
+        "latitude": 7.148781,
+        "longitude": 125.931561,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00121716MN-CW3",
+        "description": "Construction of Flood Mitigation Structure - Rechanneling and Construction of Dike in Kingking River at Lawaan Section (Left Side), Pantukan, Compostela Valley",
+        "latitude": 7.148781,
+        "longitude": 125.931561,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

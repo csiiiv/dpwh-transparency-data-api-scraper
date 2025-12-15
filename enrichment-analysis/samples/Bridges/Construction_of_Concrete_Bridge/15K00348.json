@@ -1,0 +1,155 @@
+{
+  "data": {
+    "contractId": "15K00348",
+    "description": "COMPL. OF EAST WEST LATERAL RD CONNECTING AGUSAN DEL SUR-BUK,DAMAY-CALABUGAO-ADTOLAWON RD,INCL.ROW,R",
+    "category": "Bridges, Roads",
+    "status": "Completed",
+    "budget": 131973037.69,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region X",
+      "province": "Region X",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 8.452143,
+        "longitude": 125.166725,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "ULTICON BUILDERS, INC. (17267)",
+    "startDate": "2016-03-03",
+    "completionDate": "2018-01-31",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-03-03",
+    "expiryDate": "2016-11-27",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00014007MN-CW1",
+        "description": "Construction of Gravel Road - Completion of the East-West lateral road connecting Agusan Del Sur to Bukidnon, Damay-Calabugao-Adtolawon Road, incl. Bridge and  ROW, Region X, Package 5",
+        "infraType": "Roads",
+        "typeOfWork": "Construction of Gravel Road",
+        "region": "Region X",
+        "province": "BUKIDNON",
+        "coordinates": {
+          "latitude": 8.452143,
+          "longitude": 125.166725,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00014007MN-CW2",
+        "description": "Construction of Concrete Bridge - Completion of the East-West lateral road connecting Agusan Del Sur to Bukidnon, Damay-Calabugao-Adtolawon Road, incl. Bridge and  ROW, Region X, Package 5",
+        "infraType": "Bridges",
+        "typeOfWork": "Construction of Concrete Bridge",
+        "region": "Region X",
+        "province": "BUKIDNON",
+        "coordinates": {
+          "latitude": 8.452109,
+          "longitude": 125.166591,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "ULTICON BUILDERS, INC.",
+    "bidders": [
+      {
+        "name": "ULTICON BUILDERS, INC. (17267)",
+        "pcabId": "17267",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "ADFIL CORPORATION (14437)",
+        "pcabId": "14437",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "B.M. MARKETING (9852)",
+        "pcabId": "9852",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "GRACE CONSTRUCTION CORPORATION (3771)",
+        "pcabId": "3771",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "MAC BUILDERS CORP. (FORMERLY: MAC BUILDERS DEVELOPMENT CORPORATION) (7249)",
+        "pcabId": "7249",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "MONOLITHIC CONSTRUCTION & CONCRETE PRODUCTS, INC. (5733)",
+        "pcabId": "5733",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "PREMIUM MEGASTRUCTURES INC. (36079)",
+        "pcabId": "36079",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "COMPL. OF EAST WEST LATERAL RD CONNECTING AGUSAN DEL SUR-BUK,DAMAY-CALABUGAO-ADTOLAWON RD,INCL.ROW,R",
+      "abc": "142680000.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-10-07 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-11-23 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "131973037.6900000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/15k00348_ca.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/15k00348_noa.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/15k00348_ntp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 8.452143,
+    "longitude": 125.166725,
+    "coordinates": [
+      {
+        "componentId": "P00014007MN-CW1",
+        "description": "Construction of Gravel Road - Completion of the East-West lateral road connecting Agusan Del Sur to Bukidnon, Damay-Calabugao-Adtolawon Road, incl. Bridge and  ROW, Region X, Package 5",
+        "latitude": 8.452143,
+        "longitude": 125.166725,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00014007MN-CW2",
+        "description": "Construction of Concrete Bridge - Completion of the East-West lateral road connecting Agusan Del Sur to Bukidnon, Damay-Calabugao-Adtolawon Road, incl. Bridge and  ROW, Region X, Package 5",
+        "latitude": 8.452109,
+        "longitude": 125.166591,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

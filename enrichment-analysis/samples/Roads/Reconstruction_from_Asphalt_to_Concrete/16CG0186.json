@@ -1,0 +1,115 @@
+{
+  "data": {
+    "contractId": "16CG0186",
+    "description": "ASSET PRESERVATION OF NATIONAL ROADS-REHABILITATION/RECONSTRUCTION/UPGRADING OF DAMAGED PAVED NATIONAL ROADS INCLUDING DRAINAGE BASED ON PAVEMENT MANAGEMENTSYSTEM/HIGHWAY DEVELOPMENT-4 (HDM-4) TERTIARY TULAOC-STO. DOMINGO ROAD CHAINAGE 0 - CHAINAGE 183,",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 4198541.76,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region III",
+      "province": "Pampanga 1st DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 14.9877789498012,
+        "longitude": 120.747560898406,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "ST. LOUISE PRIME BUILDERS & DEVELOPMENT CORP. (39033)",
+    "startDate": "2017-02-13",
+    "completionDate": "2017-04-13",
+    "infraYear": "2017",
+    "contractEffectivityDate": "2017-02-13",
+    "expiryDate": "2017-04-13",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2017 MFO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00102809LZ-CW1",
+        "description": "Reconstruction from Asphalt to Concrete - Tulauc-Sto Domingo Rd - Chainage 0 - Chainage 183",
+        "infraType": "Roads",
+        "typeOfWork": "Reconstruction from Asphalt to Concrete",
+        "region": "Region III",
+        "province": "PAMPANGA",
+        "coordinates": {
+          "latitude": 14.9877789498012,
+          "longitude": 120.747560898406,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "ST. LOUISE PRIME BUILDERS & DEVELOPMENT CORP.",
+    "bidders": [
+      {
+        "name": "ST. LOUISE PRIME BUILDERS & DEVELOPMENT CORP. (39033)",
+        "pcabId": "39033",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "AG MORALES CONSTRUCTION AND TRADING (40703)",
+        "pcabId": "40703",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "CEDAR CONSTRUCTION (24865)",
+        "pcabId": "24865",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "JQM CONSTRUCTION AND TRADING (36354)",
+        "pcabId": "36354",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "ASSET PRESERVATION OF NATIONAL ROADS-REHABILITATION/RECONSTRUCTION/UPGRADING OF DAMAGED PAVED NATIONAL ROADS INCLUDING DRAINAGE BASED ON PAVEMENT MANAGEMENTSYSTEM/HIGHWAY DEVELOPMENT-4 (HDM-4) TERTIARY TULAOC-STO. DOMINGO ROAD CHAINAGE 0 - CHAINAGE 183,",
+      "abc": "4414875.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-11-10 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-12-01 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "4,198,541.76"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "",
+      "noticeOfAward": "",
+      "noticeToProceed": "",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 14.9877789498012,
+    "longitude": 120.747560898406,
+    "coordinates": [
+      {
+        "componentId": "P00102809LZ-CW1",
+        "description": "Reconstruction from Asphalt to Concrete - Tulauc-Sto Domingo Rd - Chainage 0 - Chainage 183",
+        "latitude": 14.9877789498012,
+        "longitude": 120.747560898406,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

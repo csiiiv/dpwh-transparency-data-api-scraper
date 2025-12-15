@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "16AD0149",
+    "description": "REHABILITATION/RECONSTRUCTION/UPGRADING OF DAMAGED PAVED NATIONAL ROADS INCLUDING DRAINAGED BASED ON PAVEMENT MANAGEMENT-4(HDM-4), JCT. STA. LUCIA-SALCEDO ROAD, K0340+000-K0341+000 AND K0341+918-K0342+000",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 31276488.42,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region I",
+      "province": "Ilocos Sur 2nd DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 17.1216152153023,
+        "longitude": 120.464291704557,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "R.S. SEPIAN CONSTRUCTION & TRUCKING (20519)",
+    "startDate": "2017-05-25",
+    "completionDate": "2018-05-17",
+    "infraYear": "2017",
+    "contractEffectivityDate": "2017-05-25",
+    "expiryDate": "2017-11-20",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2017 MFO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00102693LZ-CW1",
+        "description": "Reconstruction from Concrete to Concrete - Jct Sta Lucia-Salcedo Rd - K0340+000 - K0341+000, K0341+918 - K0342+000",
+        "infraType": "Roads",
+        "typeOfWork": "Reconstruction from Concrete to Concrete",
+        "region": "Region I",
+        "province": "ILOCOS SUR",
+        "coordinates": {
+          "latitude": 17.1216152153023,
+          "longitude": 120.464291704557,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "R.S. SEPIAN CONSTRUCTION & TRUCKING",
+    "bidders": [
+      {
+        "name": "R.S. SEPIAN CONSTRUCTION & TRUCKING (20519)",
+        "pcabId": "20519",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "739 BUILDERS (31174)",
+        "pcabId": "31174",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "REHABILITATION/RECONSTRUCTION/UPGRADING OF DAMAGED PAVED NATIONAL ROADS INCLUDING DRAINAGED BASED ON PAVEMENT MANAGEMENT-4(HDM-4), JCT. STA. LUCIA-SALCEDO ROAD, K0340+000-K0341+000 AND K0341+918-K0342+000",
+      "abc": "31074750.86",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2017-03-30 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-04-27 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "29,413,356.63"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/Bid Docs. 16AD0149.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/16AD0149 CA155.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/16AD0149 NOA154.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/16AD0149 CA155.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 17.1216152153023,
+    "longitude": 120.464291704557,
+    "coordinates": [
+      {
+        "componentId": "P00102693LZ-CW1",
+        "description": "Reconstruction from Concrete to Concrete - Jct Sta Lucia-Salcedo Rd - K0340+000 - K0341+000, K0341+918 - K0342+000",
+        "latitude": 17.1216152153023,
+        "longitude": 120.464291704557,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

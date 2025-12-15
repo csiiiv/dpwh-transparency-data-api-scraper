@@ -1,0 +1,139 @@
+{
+  "data": {
+    "contractId": "16OA0039",
+    "description": "CONST. OF B.C./DRAIN. ALONG MH DEL PILAR ST.-BUSTAMANTE ST. TOWARDS TULLAHAN RIVER, BRGY. TINAJEROS,",
+    "category": "Flood Control and Drainage",
+    "status": "Completed",
+    "budget": 40877606.89,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "National Capital Region",
+      "province": "Malabon-Navotas DEO",
+      "infraType": "Flood Control and Drainage",
+      "coordinates": {
+        "latitude": 14.660661,
+        "longitude": 120.970453,
+        "verified": false
+      }
+    },
+    "infraType": "Flood Control and Drainage",
+    "contractor": "M.G. SALAZAR CONSTRUCTION CORP. (FOR. M.G. SALAZAR (4072)",
+    "startDate": "2016-04-04",
+    "completionDate": "2018-06-25",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-04-04",
+    "expiryDate": "2018-06-29",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-2",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00020022LZ-CW1",
+        "description": "Construction of Flood Gate / Sluice Gate - Construction of Box Culvert/Drainage Outlet along M. H. del Pilar Street-Bustamante St., towards Tullahan River, Brgy. Tinajeros, Malabon City",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Construction of Flood Gate / Sluice Gate",
+        "region": "National Capital Region",
+        "province": "METROPOLITAN MANILA",
+        "coordinates": {
+          "latitude": 14.660661,
+          "longitude": 120.970453,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "M.G. SALAZAR CONSTRUCTION CORP. (FOR. M.G. SALAZAR",
+    "bidders": [
+      {
+        "name": "M.G. SALAZAR CONSTRUCTION CORP. (FOR. M.G. SALAZAR (4072)",
+        "pcabId": "4072",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "ARCINUE COMM'L CORPORATION (6746)",
+        "pcabId": "6746",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "D.G. CHICO TRADING & CONSTRUCTION CORP. (8748)",
+        "pcabId": "8748",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "HEXAMINDZ CORPORATION (FORMERLY:KILUSANG MAGKAIBIG (31666)",
+        "pcabId": "31666",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "HONEYVILLECONST AND DEVELOPMENT CORPORATION (32160)",
+        "pcabId": "32160",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "JAMARI CONSTRUCTION (FORMERLY FRAE CONSTRUCTION) (21580)",
+        "pcabId": "21580",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "ROMA CONSTRUCTION & DEVELOPMENT CORPORATION (6514)",
+        "pcabId": "6514",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "VICTORIA DEVELOPMENT AND VENTURES CORP. (FOR: VICTORIA DEV'T AND CONST. CORP.) (32638)",
+        "pcabId": "32638",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONST. OF B.C./DRAIN. ALONG MH DEL PILAR ST.-BUSTAMANTE ST. TOWARDS TULLAHAN RIVER, BRGY. TINAJEROS,",
+      "abc": "44097042.71",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-02-24 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-03-15 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "40,877,958.59"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/contract_16oa0039.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/noa_16oa0039.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/noa_16oa0039.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 14.660661,
+    "longitude": 120.970453,
+    "coordinates": [
+      {
+        "componentId": "P00020022LZ-CW1",
+        "description": "Construction of Flood Gate / Sluice Gate - Construction of Box Culvert/Drainage Outlet along M. H. del Pilar Street-Bustamante St., towards Tullahan River, Brgy. Tinajeros, Malabon City",
+        "latitude": 14.660661,
+        "longitude": 120.970453,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

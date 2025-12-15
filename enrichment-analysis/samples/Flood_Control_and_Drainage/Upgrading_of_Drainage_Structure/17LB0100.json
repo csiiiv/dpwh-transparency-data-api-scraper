@@ -1,0 +1,109 @@
+{
+  "data": {
+    "contractId": "17LB0100",
+    "description": "IMPROVEMENT OF DRAINAGE CANAL PUROK 1 & 2, T. MONTEVERDE, DAVAO CITY",
+    "category": "Flood Control and Drainage",
+    "status": "Completed",
+    "budget": 1918241.6,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region XI",
+      "province": "Davao City DEO",
+      "infraType": "Flood Control and Drainage",
+      "coordinates": null
+    },
+    "infraType": "Flood Control and Drainage",
+    "contractor": "MARK ANTHONY CONSTRUCTION & SUPPLY (34057)",
+    "startDate": "2017-06-22",
+    "completionDate": "2017-12-11",
+    "infraYear": "2017",
+    "contractEffectivityDate": "2017-06-22",
+    "expiryDate": "2017-09-21",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2017 LFP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00142555MN-CW1",
+        "description": "Upgrading of Drainage Structure - Improvement of drainage canal, Purok 1 & 2, T. Monteverde, Davao City",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Upgrading of Drainage Structure",
+        "region": "Region XI",
+        "province": "DAVAO OCCIDENTAL",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "MARK ANTHONY CONSTRUCTION & SUPPLY",
+    "bidders": [
+      {
+        "name": "MARK ANTHONY CONSTRUCTION & SUPPLY (34057)",
+        "pcabId": "34057",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "DINGO BUILDERS AND SUPPLY (37794)",
+        "pcabId": "37794",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "JLACE BUILDERS CORPORATION (FOR. JLA CONSTRUCTION & SUPPLIES) (24503)",
+        "pcabId": "24503",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "KATNISS EVERDEEN CONSTRUCTION & SUPPLY (37864)",
+        "pcabId": "37864",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "SOLRAC SETPH BUILDERS CORP. (07023)",
+        "pcabId": "07023",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "TWO DEGREES CONSTRUCTION AND SUPPLY (36734)",
+        "pcabId": "36734",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "IMPROVEMENT OF DRAINAGE CANAL PUROK 1 & 2, T. MONTEVERDE, DAVAO CITY",
+      "abc": "1980000.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2017-05-03 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-05-25 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "1,918,231.89"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "",
+      "noticeOfAward": "",
+      "noticeToProceed": "",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

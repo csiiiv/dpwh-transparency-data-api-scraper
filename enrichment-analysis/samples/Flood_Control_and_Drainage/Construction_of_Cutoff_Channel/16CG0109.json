@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "16CG0109",
+    "description": "IMPROVEMENT OF CUT-OFF CHANNEL ALONG PAMPANGA RIVER (MATAMO SECTION)STA. 0+610.00 TO STA. 1+220.00",
+    "category": "Flood Control and Drainage",
+    "status": "Completed",
+    "budget": 42480205.66,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region III",
+      "province": "Pampanga 1st DEO",
+      "infraType": "Flood Control and Drainage",
+      "coordinates": null
+    },
+    "infraType": "Flood Control and Drainage",
+    "contractor": "A.C. SOLIVEN CONSTRUCTION & GENERAL MERCHANDISE (19278)",
+    "startDate": "2016-07-19",
+    "completionDate": "2016-12-15",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-07-19",
+    "expiryDate": "2016-12-15",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 Locally Funded Projects",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00055819LZ-CW1",
+        "description": "Construction of Cutoff Channel - Improvement of Cut-off Channel along Pampanga River (Matamo Section), Matamo, Arayat, Pampanga, Sta. 0+610 - Sta. 1+220, L=610 lm",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Construction of Cutoff Channel",
+        "region": "Region III",
+        "province": "PAMPANGA",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "A.C. SOLIVEN CONSTRUCTION & GENERAL MERCHANDISE",
+    "bidders": [
+      {
+        "name": "A.C. SOLIVEN CONSTRUCTION & GENERAL MERCHANDISE (19278)",
+        "pcabId": "19278",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "EDDMARI CONSTRUCTION & TRADING (20301)",
+        "pcabId": "20301",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "L.S.D.  CONSTRUCTION & SUPPLIES (8980)",
+        "pcabId": "8980",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "R.D. SADSAD CONSTRUCTION & TRADING (19240)",
+        "pcabId": "19240",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "STO. CRISTO CONSTRUCTION & TRADING INC. (FOR: STO. CRISTO CONSTRUCTION & TRADING) (26096)",
+        "pcabId": "26096",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "IMPROVEMENT OF CUT-OFF CHANNEL ALONG PAMPANGA RIVER (MATAMO SECTION) STA. 0+610.00 TO STA. 1+220.00",
+      "abc": "43388777.72",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-06-03 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-06-22 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "42,480,205.66"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "",
+      "noticeOfAward": "",
+      "noticeToProceed": "",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

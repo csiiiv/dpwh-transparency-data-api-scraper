@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "16FB0148",
+    "description": "REHABILITATION/REPAIR/IMPROVEMENT/RESTORATION/UPGRADING OF CAMALIG RHU",
+    "category": "Buildings and Facilities",
+    "status": "Completed",
+    "budget": 834096.83,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region V",
+      "province": "Albay 2nd DEO",
+      "infraType": "Buildings and Facilities",
+      "coordinates": {
+        "latitude": 13.182388,
+        "longitude": 123.655951,
+        "verified": false
+      }
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "9LEAVES BUILDERS & SUPPLY CORP. (36358)",
+    "startDate": "2018-01-09",
+    "completionDate": "2018-03-09",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2018-01-09",
+    "expiryDate": "2018-03-09",
+    "nysReason": null,
+    "programName": "Outside Infra",
+    "sourceOfFunds": "Outside Infra - GAA 2016 NDRRMF",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00195057LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Other Building - Rehabilitation and Upgrading of Medical and Non-Medical Facilities, Camalig RHU, Camalig",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Rehabilitation / Major Repair of Other Building",
+        "region": "Region V",
+        "province": "ALBAY",
+        "coordinates": {
+          "latitude": 13.182388,
+          "longitude": 123.655951,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "9LEAVES BUILDERS & SUPPLY CORP.",
+    "bidders": [
+      {
+        "name": "9LEAVES BUILDERS & SUPPLY CORP. (36358)",
+        "pcabId": "36358",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "SDM VENTURES (39509)",
+        "pcabId": "39509",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "REHABILITATION/REPAIR/IMPROVEMENT/RESTORATION/UPGRADING OF CAMALIG RHU",
+      "abc": "851034.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2017-11-24 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-12-13 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "834096.83"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/BID DOCUMENTS for Contract ID No. 16FB0148.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/16fb0148_contract.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/16fb0148_award.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/16fb0148_ntp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 13.182388,
+    "longitude": 123.655951,
+    "coordinates": [
+      {
+        "componentId": "P00195057LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Other Building - Rehabilitation and Upgrading of Medical and Non-Medical Facilities, Camalig RHU, Camalig",
+        "latitude": 13.182388,
+        "longitude": 123.655951,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

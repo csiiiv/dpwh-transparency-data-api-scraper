@@ -1,0 +1,109 @@
+{
+  "data": {
+    "contractId": "23G00104",
+    "description": "REPAIR AND REHABILITATION OF THE TWO STOREY BUILDING OF PCA",
+    "category": "Buildings and Facilities",
+    "status": "On-Going",
+    "budget": 1904988.82,
+    "amountPaid": 0,
+    "progress": 77.59,
+    "location": {
+      "region": "Region VI",
+      "province": "Region VI",
+      "infraType": "Buildings and Facilities",
+      "coordinates": {
+        "latitude": 10.81889,
+        "longitude": 122.52973,
+        "verified": false
+      }
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "J.E. TICO CONSTRUCTION CO., INC. (FORMERLY: JET CO (7063)",
+    "startDate": "2024-10-10",
+    "completionDate": null,
+    "infraYear": "2024",
+    "contractEffectivityDate": "2024-10-10",
+    "expiryDate": "2025-01-31",
+    "nysReason": null,
+    "programName": "Outside Infra",
+    "sourceOfFunds": "Outside Infra - Trust Funds 2024",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00899020VS-CW1",
+        "description": "Repair/Maintenance of Buildings - Repair of the Two Storey PCA Regional Office VI Building, Santa Barbara, Iloilo",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Repair/Maintenance of Buildings",
+        "region": "Region VI",
+        "province": "ILOILO",
+        "coordinates": {
+          "latitude": 10.81889,
+          "longitude": 122.52973,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "J.E. TICO CONSTRUCTION CO., INC. (FORMERLY: JET CO",
+    "bidders": [
+      {
+        "name": "J.E. TICO CONSTRUCTION CO., INC. (FORMERLY: JET CO (7063)",
+        "pcabId": "7063",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "E.L. CHAN CONSTRUCTION AND DEVELOPMENT (33295)",
+        "pcabId": "33295",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "MDG CONSTRUCTION (49411)",
+        "pcabId": "49411",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "REPAIR AND REHABILITATION OF THE TWO STOREY BUILDING OF PCA",
+      "abc": "1990000.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2024-08-29 00:00:00.0000000",
+      "bidSubmissionDeadline": "2024-09-19 00:00:00.0000000",
+      "dateOfAward": "2024-09-30 00:00:00.0000000",
+      "awardAmount": "1904988.82"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/bidding_documents_23g00104.pdf",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/23g00104_contract.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/23g00104_noa_merged.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/23g00104_ntp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 10.81889,
+    "longitude": 122.52973,
+    "coordinates": [
+      {
+        "componentId": "P00899020VS-CW1",
+        "description": "Repair/Maintenance of Buildings - Repair of the Two Storey PCA Regional Office VI Building, Santa Barbara, Iloilo",
+        "latitude": 10.81889,
+        "longitude": 122.52973,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

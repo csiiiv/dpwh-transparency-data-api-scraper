@@ -1,0 +1,88 @@
+{
+  "data": {
+    "contractId": "17ID0044",
+    "description": "CONSTRUCTION/MAINTENANCE OF FLOOD MITIGATION STRUCTURES AND DRAINAGE SYSTEMS CONSTRUCTION OF FLOOD CONTROL STRUCTURES ALONG SITIO BARIIS RIVER, BRGY. EAST VISORIA,CARIGARA,LEYTE",
+    "category": "Flood Control and Drainage",
+    "status": "Completed",
+    "budget": 17583841.93,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region VIII",
+      "province": "Leyte 2nd DEO",
+      "infraType": "Flood Control and Drainage",
+      "coordinates": null
+    },
+    "infraType": "Flood Control and Drainage",
+    "contractor": "VICTORIA DEVELOPMENT AND VENTURES CORP. (FOR: VICTORIA DEV'T AND CONST. CORP.) (32638)",
+    "startDate": "2017-06-01",
+    "completionDate": "2017-10-23",
+    "infraYear": "2017",
+    "contractEffectivityDate": "2017-06-01",
+    "expiryDate": "2017-10-23",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2017 MFO-2",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00121607VS-CW1",
+        "description": "Construction of Flood Mitigation Structure - Construction of Flood Control Structures along Sitio Bariis River Brgy. East Visoria, Carigara, Leyte",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Construction of Flood Mitigation Structure",
+        "region": "Region VIII",
+        "province": "LEYTE",
+        "coordinates": null
+      },
+      {
+        "componentId": "P00121607VS-CW2",
+        "description": "Embankment - Construction of Flood Control Structures along Sitio Bariis River Brgy. East Visoria, Carigara, Leyte",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Embankment",
+        "region": "Region VIII",
+        "province": "LEYTE",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "VICTORIA DEVELOPMENT AND VENTURES CORP. (FOR: VICTORIA DEV'T AND CONST. CORP.)",
+    "bidders": [
+      {
+        "name": "VICTORIA DEVELOPMENT AND VENTURES CORP. (FOR: VICTORIA DEV'T AND CONST. CORP.) (32638)",
+        "pcabId": "32638",
+        "participation": 100,
+        "isWinner": true
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION/MAINTENANCE OF FLOOD MITIGATION STRUCTURES AND DRAINAGE SYSTEMS CONSTRUCTION OF FLOOD CONTROL STRUCTURES ALONG SITIO BARIIS RIVER, BRGY. EAST VISORIA,CARIGARA,LEYTE",
+      "abc": "17635100.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2017-01-09 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-01-27 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "17,583,841.93"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/ITB,Bidding Documents and Plans for CID No. 17ID0039 to 17ID0044.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/CONTRACT 17ID0044.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/NOA 17ID0044.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/CONTRACT 17ID0044.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

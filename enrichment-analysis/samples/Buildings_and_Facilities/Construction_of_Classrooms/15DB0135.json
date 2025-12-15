@@ -1,0 +1,79 @@
+{
+  "data": {
+    "contractId": "15DB0135",
+    "description": "CONSTRUCTION OF 1-UNIT 2 STOREY 8 CL & 1-UNIT 2 STOREY 4 CL SCHOOL BUILDING, MADALUNOT, CALACA, BATANGAS 1ST LD, CALACA, BATANGAS",
+    "category": "Buildings and Facilities",
+    "status": "Completed",
+    "budget": 19754408.3,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region IV-A",
+      "province": "Batangas 1st DEO",
+      "infraType": "Buildings and Facilities",
+      "coordinates": null
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "GRANBY TRADING & CONSTRUCTION (27554)",
+    "startDate": "2016-02-03",
+    "completionDate": "2016-07-31",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-02-03",
+    "expiryDate": "2016-07-31",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 Locally Funded Projects",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00051060LZ-CW1",
+        "description": "Construction of Classrooms - Construction of 12 CL 2-Storey School Building, Madamot, Calaca, Batangas",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of Classrooms",
+        "region": "Region IV-A",
+        "province": "BATANGAS",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "GRANBY TRADING & CONSTRUCTION",
+    "bidders": [
+      {
+        "name": "GRANBY TRADING & CONSTRUCTION (27554)",
+        "pcabId": "27554",
+        "participation": 100,
+        "isWinner": true
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION OF 1-UNIT 2 STOREY 8 CL & 1-UNIT 2 STOREY 4 CL SCHOOL BUILDING, MADALUNOT, CALACA, BATANGAS 1ST LD, CALACA, BATANGAS",
+      "abc": "19800000.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-12-19 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-01-13 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "19754408.3000000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/15db0135_noa_roa.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/15db0135_ntp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

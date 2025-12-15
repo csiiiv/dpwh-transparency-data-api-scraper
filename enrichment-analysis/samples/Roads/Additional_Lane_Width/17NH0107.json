@@ -1,0 +1,127 @@
+{
+  "data": {
+    "contractId": "17NH0107",
+    "description": "ADDITIONAL PAVEMENT WIDTH & LINED CANAL ALONG SDCR (NORTHERN BOUNDARY-ADLAY SECTION) K1206+(-988) TO K1219+000",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 24249784.88,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region XIII",
+      "province": "Surigao del Sur 1st DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 9.49118660669537,
+        "longitude": 125.879721096105,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "FFJJ CONSTRUCTION (16712)",
+    "startDate": "2018-01-15",
+    "completionDate": "2018-09-21",
+    "infraYear": "2017",
+    "contractEffectivityDate": "2018-01-15",
+    "expiryDate": "2018-09-21",
+    "nysReason": null,
+    "programName": "Outside Infra",
+    "sourceOfFunds": "Outside Infra - Special Road Support Fund 2017",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00190289MN-CW1",
+        "description": "Additional Lane Width - Additional Pavement Width and Lined Canal along Surigao-Davao Coastal Road (Northern Boundary-Adlay Section), K1206+(-988) to K1219+000",
+        "infraType": "Roads",
+        "typeOfWork": "Additional Lane Width",
+        "region": "Region XIII",
+        "province": "SURIGAO DEL NORTE",
+        "coordinates": {
+          "latitude": 9.49118660669537,
+          "longitude": 125.879721096105,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "FFJJ CONSTRUCTION",
+    "bidders": [
+      {
+        "name": "FFJJ CONSTRUCTION (16712)",
+        "pcabId": "16712",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "C'ZARLES CONSTRUCTION & SUPPLY (23426)",
+        "pcabId": "23426",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "DAVAO CONCRETE PRODUCTS CONSTRUCTION AND TRADING CORPORATION (FORMERLY: DAVAO CONCRETE PRODUCTS) (12090)",
+        "pcabId": "12090",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "LEGACY CONSTRUCTION CORPORATION (FORMERLY: LEGACY CONSTRUCTION) (22465)",
+        "pcabId": "22465",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "MONOLITHIC CONSTRUCTION & CONCRETE PRODUCTS, INC. (5733)",
+        "pcabId": "5733",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "TEDDIE CONSTRUCTION DEVELOPMENT, INC. (6313)",
+        "pcabId": "6313",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "ADDITIONAL PAVEMENT WIDTH & LINED CANAL ALONG SDCR (NORTHERN BOUNDARY-ADLAY SECTION) K1206+(-988) TO K1219+000",
+      "abc": "25000000.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2017-11-27 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-12-18 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "24249784.88"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/Plan1.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/17nh0107_ca.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/NOA.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/NTP.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 9.49118660669537,
+    "longitude": 125.879721096105,
+    "coordinates": [
+      {
+        "componentId": "P00190289MN-CW1",
+        "description": "Additional Lane Width - Additional Pavement Width and Lined Canal along Surigao-Davao Coastal Road (Northern Boundary-Adlay Section), K1206+(-988) to K1219+000",
+        "latitude": 9.49118660669537,
+        "longitude": 125.879721096105,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "15AI0356",
+    "description": "IMPROVEMENT/WIDENING OF NATL RD ALONG BINALONAN-ASINGAN-STA. MARIA RD INCL DRAINAGE, ASINGAN SECTION",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 13964566.53,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region I",
+      "province": "Pangasinan 3rd DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 16.0075838829198,
+        "longitude": 120.686326976581,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "ALPHIN TRADING & CONSTRUCTION (26260)",
+    "startDate": "2016-02-22",
+    "completionDate": "2016-08-19",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-02-22",
+    "expiryDate": "2016-08-19",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00012023LZ-CW1",
+        "description": "Road Widening - Binalonan-Asingan-Santa Maria Rd - K0202+000 - K0202+500",
+        "infraType": "Roads",
+        "typeOfWork": "Road Widening",
+        "region": "Region I",
+        "province": "PANGASINAN",
+        "coordinates": {
+          "latitude": 16.0075838829198,
+          "longitude": 120.686326976581,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "ALPHIN TRADING & CONSTRUCTION",
+    "bidders": [
+      {
+        "name": "ALPHIN TRADING & CONSTRUCTION (26260)",
+        "pcabId": "26260",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "W.J.P. CONSTRUCTION AND SUPPLY (23192)",
+        "pcabId": "23192",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "IMPROVEMENT/WIDENING OF NATL RD ALONG BINALONAN-ASINGAN-STA. MARIA RD INCL DRAINAGE, ASINGAN SECTION",
+      "abc": "14700000.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-11-12 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-12-02 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "13964627.8800000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/april/15AI0356 contract.pdf",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/april/15AI0356 award.pdf",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/april/15AI0356 contract.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 16.0075838829198,
+    "longitude": 120.686326976581,
+    "coordinates": [
+      {
+        "componentId": "P00012023LZ-CW1",
+        "description": "Road Widening - Binalonan-Asingan-Santa Maria Rd - K0202+000 - K0202+500",
+        "latitude": 16.0075838829198,
+        "longitude": 120.686326976581,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

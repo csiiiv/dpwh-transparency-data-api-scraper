@@ -1,0 +1,97 @@
+{
+  "data": {
+    "contractId": "18OB0390",
+    "description": "INSTALLATION OF FLOODGATES ALONG SAN JUAN RIVER, SAN JUAN CITY",
+    "category": "Flood Control and Drainage",
+    "status": "Completed",
+    "budget": 4774136.52,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "National Capital Region",
+      "province": "Metro Manila 1st DEO",
+      "infraType": "Flood Control and Drainage",
+      "coordinates": {
+        "latitude": 14.5992213,
+        "longitude": 121.0241112,
+        "verified": false
+      }
+    },
+    "infraType": "Flood Control and Drainage",
+    "contractor": "DAHL CONSTRUCTION CORP. (FORMERLY: DAHL CONSTRUCTION) (8931)",
+    "startDate": "2018-05-21",
+    "completionDate": "2018-08-18",
+    "infraYear": "2018",
+    "contractEffectivityDate": "2018-05-21",
+    "expiryDate": "2018-08-18",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - Flood Control: Construction - Drainage (e.g., Closed and Open Conduits, Spillway), Flood Control: Construction - Gates",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00257589LZ-CW1",
+        "description": "Construction of Flood Gate / Sluice Gate - Installation of Floodgates along San Juan River, San Juan City",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Construction of Flood Gate / Sluice Gate",
+        "region": "National Capital Region",
+        "province": "METROPOLITAN MANILA",
+        "coordinates": {
+          "latitude": 14.5992213,
+          "longitude": 121.0241112,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "DAHL CONSTRUCTION CORP. (FORMERLY: DAHL CONSTRUCTION)",
+    "bidders": [
+      {
+        "name": "DAHL CONSTRUCTION CORP. (FORMERLY: DAHL CONSTRUCTION) (8931)",
+        "pcabId": "8931",
+        "participation": 100,
+        "isWinner": true
+      }
+    ],
+    "procurement": {
+      "contractName": "INSTALLATION OF FLOODGATES ALONG SAN JUAN RIVER, SAN JUAN CITY",
+      "abc": "4899874.54",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2018-04-06 00:00:00.0000000",
+      "bidSubmissionDeadline": "2018-04-27 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "4774136.52"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "",
+      "noticeOfAward": "",
+      "noticeToProceed": "",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 14.5992213,
+    "longitude": 121.0241112,
+    "coordinates": [
+      {
+        "componentId": "P00257589LZ-CW1",
+        "description": "Construction of Flood Gate / Sluice Gate - Installation of Floodgates along San Juan River, San Juan City",
+        "latitude": 14.5992213,
+        "longitude": 121.0241112,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

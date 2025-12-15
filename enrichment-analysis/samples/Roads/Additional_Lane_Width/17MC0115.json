@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "17MC0115",
+    "description": "REHAB./IMPROVEMENT/WIDENING ALONG MATALAM-M'LANG-BAGONTAPAY ROAD KM. 1656+100-KM1657+251.50 (BOTH SIDES: RIGHT LANE & LEFT LANE), M'LANG, COTABATO",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 23033656.44,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region XII",
+      "province": "Cotabato 2nd DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 6.94715406608363,
+        "longitude": 124.887529600613,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "JARGON CONSTRUCTION & SUPPLY (23474)",
+    "startDate": "2017-10-03",
+    "completionDate": "2019-02-11",
+    "infraYear": "2017",
+    "contractEffectivityDate": "2017-10-03",
+    "expiryDate": "2018-04-10",
+    "nysReason": null,
+    "programName": "Outside Infra",
+    "sourceOfFunds": "Outside Infra - Special Road Support Fund 2017",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00190281MN-CW1",
+        "description": "Additional Lane Width - Additional Pavement Width along Matalam-Mlang-Bagontapay Road (Both Sides), K1656+100 to K1657+251.5",
+        "infraType": "Roads",
+        "typeOfWork": "Additional Lane Width",
+        "region": "Region XII",
+        "province": "COTABATO (NORTH COTABATO)",
+        "coordinates": {
+          "latitude": 6.94715406608363,
+          "longitude": 124.887529600613,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "JARGON CONSTRUCTION & SUPPLY",
+    "bidders": [
+      {
+        "name": "JARGON CONSTRUCTION & SUPPLY (23474)",
+        "pcabId": "23474",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "LEGACY CONSTRUCTION CORPORATION (FORMERLY: LEGACY CONSTRUCTION) (22465)",
+        "pcabId": "22465",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "REHAB./IMPROVEMENT/WIDENING ALONG MATALAM-M'LANG-BAGONTAPAY ROAD KM. 1656+100-KM1657+251.50 (BOTH SIDES: RIGHT LANE & LEFT LANE), M'LANG, COTABATO",
+      "abc": "23264650.05",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2017-06-02 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-06-23 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "22,007,602.49"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/ITB, Bid Docs, 17MC0115.zip",
+      "contractAgreement": "",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/17MC0115.zip",
+      "noticeToProceed": "",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 6.94715406608363,
+    "longitude": 124.887529600613,
+    "coordinates": [
+      {
+        "componentId": "P00190281MN-CW1",
+        "description": "Additional Lane Width - Additional Pavement Width along Matalam-Mlang-Bagontapay Road (Both Sides), K1656+100 to K1657+251.5",
+        "latitude": 6.94715406608363,
+        "longitude": 124.887529600613,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

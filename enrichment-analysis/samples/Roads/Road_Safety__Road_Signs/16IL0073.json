@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "16IL0073",
+    "description": "CONSTRUCTION/IMPROVEMENT OF ROAD LEADING TO DANAO CAMP TREE PARK, MAASIN CITY, SOUTHERN LEYTE",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 2828280.15,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region VIII",
+      "province": "Southern Leyte 1st DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 10.19830111,
+        "longitude": 124.84204444,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "888 ACY ENTERPRISES (32898)",
+    "startDate": "2016-03-20",
+    "completionDate": "2016-05-18",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-03-20",
+    "expiryDate": "2016-05-18",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-3",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00030109VS-CW1",
+        "description": "Road Safety: Road Signs - Construction/Improvement of Road leading to Danao Camp Tree Park, Maasin City, Southern Leyte",
+        "infraType": "Roads",
+        "typeOfWork": "Road Safety: Road Signs",
+        "region": "Region VIII",
+        "province": "SOUTHERN LEYTE",
+        "coordinates": {
+          "latitude": 10.19830111,
+          "longitude": 124.84204444,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "888 ACY ENTERPRISES",
+    "bidders": [
+      {
+        "name": "888 ACY ENTERPRISES (32898)",
+        "pcabId": "32898",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "J'NER CEPADA CONSTRUCTION (30212)",
+        "pcabId": "30212",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION/IMPROVEMENT OF ROAD LEADING TO DANAO CAMP TREE PARK, MAASIN CITY, SOUTHERN LEYTE",
+      "abc": "2940000.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-12-08 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-12-28 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "2,828,280.15"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/CONTRACT.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/AWARD.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/CONTRACT.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 10.19830111,
+    "longitude": 124.84204444,
+    "coordinates": [
+      {
+        "componentId": "P00030109VS-CW1",
+        "description": "Road Safety: Road Signs - Construction/Improvement of Road leading to Danao Camp Tree Park, Maasin City, Southern Leyte",
+        "latitude": 10.19830111,
+        "longitude": 124.84204444,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

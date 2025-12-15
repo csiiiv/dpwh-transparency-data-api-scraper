@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "15BC0175",
+    "description": "OFF-CARRIAGEWAY IMPROVEMENT INCLUDING DRAINAGE ALONG CAR (TUAO-RIZAL SECTION)        K0532+  (-480) - K0532+042, K0532+057 - K0534+564, K0534+595- K0535+795, RIZAL CAGAYAN",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 46974595.24,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region II",
+      "province": "Cagayan 2nd DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 17.798703737592,
+        "longitude": 121.446467828281,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "NORTH TECH BUILDERS AND CONSTRUCTION SUPPLY (37062) / A.B. TAYLAN CONST. & DEVT. (FORMERLY: ADSM CONST.) (25273)",
+    "startDate": "2016-03-08",
+    "completionDate": "2017-07-20",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-03-08",
+    "expiryDate": "2016-10-02",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00003568LZ-CW1",
+        "description": "Off-Carriageway Improvement: Shoulder Paving / Construction - Cagayan-Apayao Rd (Tuao-Rizal Sect) - K0532+(-480) - K0532+042, K0532+057 - K0534+564, K0534+595 - K0535+795",
+        "infraType": "Roads",
+        "typeOfWork": "Off-Carriageway Improvement: Shoulder Paving / Construction",
+        "region": "Region II",
+        "province": "CAGAYAN",
+        "coordinates": {
+          "latitude": 17.798703737592,
+          "longitude": 121.446467828281,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "A.B. TAYLAN CONST. & DEVT. (FORMERLY: ADSM CONST.), NORTH TECH BUILDERS AND CONSTRUCTION SUPPLY",
+    "bidders": [
+      {
+        "name": "A.B. TAYLAN CONST. & DEVT. (FORMERLY: ADSM CONST.) (25273) / NORTH TECH BUILDERS AND CONSTRUCTION SUPPLY (37062) (JV ID: JV-15-1087)",
+        "pcabId": "",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "D.J.D. CONSTRUCTION INC. (FORMERLY: D. J. D. CONSTRUCTION) (32217)",
+        "pcabId": "32217",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "OFF-CARRIAGEWAY IMPROVEMENT INCLUDING DRAINAGE ALONG CAR (TUAO-RIZAL SECTION)        K0532+  (-480) - K0532+042, K0532+057 - K0534+564, K0534+595- K0535+795, RIZAL CAGAYAN",
+      "abc": "48510000.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-12-31 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-01-28 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "46974595.2400000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/april/img20160315_09411394.jpg",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/april/img20160315_09411958.jpg",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/15bc0175-ntp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 17.798703737592,
+    "longitude": 121.446467828281,
+    "coordinates": [
+      {
+        "componentId": "P00003568LZ-CW1",
+        "description": "Off-Carriageway Improvement: Shoulder Paving / Construction - Cagayan-Apayao Rd (Tuao-Rizal Sect) - K0532+(-480) - K0532+042, K0532+057 - K0534+564, K0534+595 - K0535+795",
+        "latitude": 17.798703737592,
+        "longitude": 121.446467828281,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

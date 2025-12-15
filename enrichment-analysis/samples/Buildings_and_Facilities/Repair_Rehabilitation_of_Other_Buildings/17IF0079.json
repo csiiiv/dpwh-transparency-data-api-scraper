@@ -1,0 +1,109 @@
+{
+  "data": {
+    "contractId": "17IF0079",
+    "description": "REPAIR/REHABILITATION OF ORMOC AIRPORT PROJECT, ORMOC CITY",
+    "category": "Buildings and Facilities",
+    "status": "Completed",
+    "budget": 31175436.61,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region VIII",
+      "province": "Leyte 4th DEO",
+      "infraType": "Buildings and Facilities",
+      "coordinates": {
+        "latitude": 11.055278,
+        "longitude": 124.568054,
+        "verified": false
+      }
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "COLLERA CONSTRUCTION (13246)",
+    "startDate": "2018-02-01",
+    "completionDate": "2018-05-31",
+    "infraYear": "2017",
+    "contractEffectivityDate": "2018-02-01",
+    "expiryDate": "2018-06-30",
+    "nysReason": null,
+    "programName": "Outside Infra",
+    "sourceOfFunds": "Outside Infra - Trust Funds 2017",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00199183VS-CW1",
+        "description": "Repair/Rehabilitation of Other Buildings - Repair/Rehabilitation of Ormoc Airport, Ormoc City",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Repair/Rehabilitation of Other Buildings",
+        "region": "Region VIII",
+        "province": "LEYTE",
+        "coordinates": {
+          "latitude": 11.055278,
+          "longitude": 124.568054,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "COLLERA CONSTRUCTION",
+    "bidders": [
+      {
+        "name": "COLLERA CONSTRUCTION (13246)",
+        "pcabId": "13246",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "OCTAGON CONCRETE SOLUTIONS INC. (34475)",
+        "pcabId": "34475",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "RJIR ENTERPRISES CORPORATION (34843)",
+        "pcabId": "34843",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "REPAIR/REHABILITATION OF ORMOC AIRPORT PROJECT, ORMOC CITY",
+      "abc": "31811569.70",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2017-08-29 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-09-19 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "31175436.61"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/IB 17IF0079 - 17IF0080.pdf",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/17if0079_-_contract_agreement.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/17if0079_-_notice_of_award.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/17if0079_-_ntp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 11.055278,
+    "longitude": 124.568054,
+    "coordinates": [
+      {
+        "componentId": "P00199183VS-CW1",
+        "description": "Repair/Rehabilitation of Other Buildings - Repair/Rehabilitation of Ormoc Airport, Ormoc City",
+        "latitude": 11.055278,
+        "longitude": 124.568054,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

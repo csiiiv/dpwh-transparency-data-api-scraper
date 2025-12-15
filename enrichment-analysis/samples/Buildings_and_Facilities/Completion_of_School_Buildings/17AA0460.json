@@ -1,0 +1,79 @@
+{
+  "data": {
+    "contractId": "17AA0460",
+    "description": "COMPL OF TECHVOC WORKSHOP, DUMALNEG NHS, DUMALNEG IN",
+    "category": "Buildings and Facilities",
+    "status": "Completed",
+    "budget": 88600.13,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region I",
+      "province": "Ilocos Norte 1st DEO",
+      "infraType": "Buildings and Facilities",
+      "coordinates": null
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "FR ESPIRITU BUILDERS AND DEVELOPMENT CORP. (FORMERLY: FR ESPIRITU JR BUILDERS) (36719)",
+    "startDate": "2017-11-21",
+    "completionDate": "2017-12-20",
+    "infraYear": "2017",
+    "contractEffectivityDate": "2017-11-21",
+    "expiryDate": "2017-12-20",
+    "nysReason": null,
+    "programName": "Outside Infra",
+    "sourceOfFunds": "Outside Infra - GAA 2017 DepEd BEFF",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00170057LZ-CW1",
+        "description": "Completion of School Buildings - Construction (Completion) of a TechVoc Workshop School Building, Dumalneg NHS, Dumalneg, Ilocos Norte",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Completion of School Buildings",
+        "region": "Region I",
+        "province": "ILOCOS NORTE",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "FR ESPIRITU BUILDERS AND DEVELOPMENT CORP. (FORMERLY: FR ESPIRITU JR BUILDERS)",
+    "bidders": [
+      {
+        "name": "FR ESPIRITU BUILDERS AND DEVELOPMENT CORP. (FORMERLY: FR ESPIRITU JR BUILDERS) (36719)",
+        "pcabId": "36719",
+        "participation": 100,
+        "isWinner": true
+      }
+    ],
+    "procurement": {
+      "contractName": "COMPL OF TECHVOC WORKSHOP, DUMALNEG NHS, DUMALNEG IN",
+      "abc": "88710.56",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2017-10-18 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-11-07 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "88,600.13"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/17AA0460 - Competion 1 Unique Workshop, Dumalneg NHS.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/CONTRACT_17AA0460.zip",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/17AA0460.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/NTP.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

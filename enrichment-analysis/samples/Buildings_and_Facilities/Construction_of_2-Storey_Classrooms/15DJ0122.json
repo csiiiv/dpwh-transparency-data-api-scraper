@@ -1,0 +1,91 @@
+{
+  "data": {
+    "contractId": "15DJ0122",
+    "description": "CONSTRUCTION OF TWO (2) STOREY SCHOOL BUILDING, BRGY. STA. CATALINA, CANDELARIA, QUEZON",
+    "category": "Buildings and Facilities",
+    "status": "Completed",
+    "budget": 1867634.09,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region IV-A",
+      "province": "Quezon 2nd DEO",
+      "infraType": "Buildings and Facilities",
+      "coordinates": null
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "M.G. VILLAMIN CONSTRUCTION (22521)",
+    "startDate": "2016-01-28",
+    "completionDate": "2016-04-26",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-01-28",
+    "expiryDate": "2016-04-26",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 Locally Funded Projects",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00040144LZ-CW1",
+        "description": "Construction of 2-Storey Classrooms - Construction of Two (2) Storey School Building, Barangay Sta. Catalina, Candelaria, Quezon",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of 2-Storey Classrooms",
+        "region": "Region IV-A",
+        "province": "QUEZON",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "M.G. VILLAMIN CONSTRUCTION",
+    "bidders": [
+      {
+        "name": "M.G. VILLAMIN CONSTRUCTION (22521)",
+        "pcabId": "22521",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "N.D.M. SANCHEZ BUILDERS & DEVELOPMENT CORPORATION (35410)",
+        "pcabId": "35410",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "R.A. MENDIOLA CONSTRUCTION & DEVELOPER (33651)",
+        "pcabId": "33651",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION OF TWO (2) STOREY SCHOOL BUILDING, BRGY. STA. CATALINA, CANDELARIA, QUEZON",
+      "abc": "1979999.03",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-11-26 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-12-17 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "1867634.0900000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/march/15dj0122 contract.pdf",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/march/15dj0122 award_1.pdf",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/march/15dj0122 contract.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

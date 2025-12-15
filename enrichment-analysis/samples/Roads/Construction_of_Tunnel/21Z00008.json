@@ -1,0 +1,160 @@
+{
+  "data": {
+    "contractId": "21Z00008",
+    "description": "DAVAO CITY BYPASS CONSTRUCTION PROJECT (II), PACKAGE I-3 STA. 23+500 - STA. 29+700",
+    "category": "Bridges, Other Buildings, Roads",
+    "status": "On-Going",
+    "budget": 9711021596.71,
+    "amountPaid": 0,
+    "progress": 3.31,
+    "location": {
+      "region": "Central Office",
+      "province": "Roads Management Cluster I (Bilateral)",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 7.16853,
+        "longitude": 125.500523,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "ULTICON BUILDERS, INC. (17267) / SHIMIZU CORPORATION / TAKENAKA CIVIL ENGINEERING & CONSTRUCTION CO., LTD.",
+    "startDate": "2023-12-18",
+    "completionDate": null,
+    "infraYear": "2022",
+    "contractEffectivityDate": "2023-12-18",
+    "expiryDate": "2026-12-01",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2022 FAPs",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00668001MN-CW1",
+        "description": "Construction of Concrete Road - Implementation of Civil Works for Davao City Bypass Construction Project (II): Package I-3, JICA L/A No. PH-P273",
+        "infraType": "Roads",
+        "typeOfWork": "Construction of Concrete Road",
+        "region": "Region XI",
+        "province": "DAVAO DEL SUR",
+        "coordinates": null
+      },
+      {
+        "componentId": "P00668001MN-CW2",
+        "description": "Construction of Concrete Bridge - Implementation of Civil Works for Davao City Bypass Construction Project (II): Package I-3, JICA L/A No. PH-P273",
+        "infraType": "Bridges",
+        "typeOfWork": "Construction of Concrete Bridge",
+        "region": "Region XI",
+        "province": "DAVAO DEL SUR",
+        "coordinates": null
+      },
+      {
+        "componentId": "P00668001MN-CW3",
+        "description": "Construction of Concrete Bridge - Implementation of Civil Works for Davao City Bypass Construction Project (II): Package I-3, JICA L/A No. PH-P273",
+        "infraType": "Bridges",
+        "typeOfWork": "Construction of Concrete Bridge",
+        "region": "Region XI",
+        "province": "DAVAO DEL SUR",
+        "coordinates": null
+      },
+      {
+        "componentId": "P00668001MN-CW4",
+        "description": "Construction of Drainage Structure along Road - Implementation of Civil Works for Davao City Bypass Construction Project (II): Package I-3, JICA L/A No. PH-P273",
+        "infraType": "Roads",
+        "typeOfWork": "Construction of Drainage Structure along Road",
+        "region": "Region XI",
+        "province": "DAVAO DEL SUR",
+        "coordinates": null
+      },
+      {
+        "componentId": "P00668001MN-CW5",
+        "description": "Construction of Road Slope Protection Structure - Implementation of Civil Works for Davao City Bypass Construction Project (II): Package I-3, JICA L/A No. PH-P273",
+        "infraType": "Roads",
+        "typeOfWork": "Construction of Road Slope Protection Structure",
+        "region": "Region XI",
+        "province": "DAVAO DEL SUR",
+        "coordinates": null
+      },
+      {
+        "componentId": "P00668001MN-CW6",
+        "description": "Construction of Tunnel - Implementation of Civil Works for Davao City Bypass Construction Project (II): Package I-3, JICA L/A No. PH-P273",
+        "infraType": "Roads",
+        "typeOfWork": "Construction of Tunnel",
+        "region": "Region XI",
+        "province": "DAVAO DEL SUR",
+        "coordinates": null
+      },
+      {
+        "componentId": "P00668001MN-CW7",
+        "description": "Construction of Tunnel - Implementation of Civil Works for Davao City Bypass Construction Project (II): Package I-3, JICA L/A No. PH-P273",
+        "infraType": "Roads",
+        "typeOfWork": "Construction of Tunnel",
+        "region": "Region XI",
+        "province": "DAVAO DEL SUR",
+        "coordinates": null
+      },
+      {
+        "componentId": "P00668001MN-CW8",
+        "description": "Construction of Other Facilities - Implementation of Civil Works for Davao City Bypass Construction Project (II): Package I-3, JICA L/A No. PH-P273",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of Other Facilities",
+        "region": "Region XI",
+        "province": "DAVAO DEL SUR",
+        "coordinates": {
+          "latitude": 7.16853,
+          "longitude": 125.500523,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "ULTICON BUILDERS, INC.",
+    "bidders": [
+      {
+        "name": "SHIMIZU CORPORATION / ULTICON BUILDERS, INC. (17267) / TAKENAKA CIVIL ENGINEERING & CONSTRUCTION CO., LTD. (JV ID: JV-22-0034)",
+        "pcabId": "",
+        "participation": 100,
+        "isWinner": true
+      }
+    ],
+    "procurement": {
+      "contractName": "DAVAO CITY BYPASS CONSTRUCTION PROJECT (II), PACKAGE I-3 STA. 23+500 - STA. 29+700",
+      "abc": "7752648593.10",
+      "status": "A",
+      "fundingInstrument": "JICA-JAPAN INTERNATIONAL COOPERATION AGENCY",
+      "advertisementDate": "2021-07-30 00:00:00.0000000",
+      "bidSubmissionDeadline": "2021-12-01 00:00:00.0000000",
+      "dateOfAward": "2022-10-12 00:00:00.0000000",
+      "awardAmount": "9,711,021,596.71"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/Package I-3 - Part 1 of 4 - Road_Part2_Part1.pdf",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/ca_21z00008.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/noa_21z00008_posting.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/ntp_21z00008.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 7.16853,
+    "longitude": 125.500523,
+    "coordinates": [
+      {
+        "componentId": "P00668001MN-CW8",
+        "description": "Construction of Other Facilities - Implementation of Civil Works for Davao City Bypass Construction Project (II): Package I-3, JICA L/A No. PH-P273",
+        "latitude": 7.16853,
+        "longitude": 125.500523,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

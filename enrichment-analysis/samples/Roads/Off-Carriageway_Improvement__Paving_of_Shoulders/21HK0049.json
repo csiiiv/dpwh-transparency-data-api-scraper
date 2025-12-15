@@ -1,0 +1,115 @@
+{
+  "data": {
+    "contractId": "21HK0049",
+    "description": "ORGANIZATIONAL OUTCOME 1: ENSURE SAFE AND RELIABLE NATIONAL ROAD SYSTEM-NETWORK DEVELOPMENT PROGRAM-CONSTRUCTION OF BY-PASS AND DIVERSION ROADS, BAIS BYPASS ROAD, NEGROS ORIENTAL",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 19600000,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Negros Island Region",
+      "province": "Negros Oriental 2nd DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 9.5869822,
+        "longitude": 123.1175028,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "QM BUILDERS (30743)",
+    "startDate": "2021-02-09",
+    "completionDate": "2023-04-06",
+    "infraYear": "2021",
+    "contractEffectivityDate": "2021-02-09",
+    "expiryDate": "2023-04-05",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2021 OO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00505512VS-CW1",
+        "description": "Off-Carriageway Improvement: Paving of Shoulders - Bais Bypass Road, Negros Oriental",
+        "infraType": "Roads",
+        "typeOfWork": "Off-Carriageway Improvement: Paving of Shoulders",
+        "region": "Negros Island Region",
+        "province": "NEGROS ORIENTAL",
+        "coordinates": {
+          "latitude": 9.5869822,
+          "longitude": 123.1175028,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "QM BUILDERS",
+    "bidders": [
+      {
+        "name": "QM BUILDERS (30743)",
+        "pcabId": "30743",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "PHILSOUTH BUILDERS INC (FORMERLY:PHILSOUTH BUILDERS) (21962)",
+        "pcabId": "21962",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "R.E. SINGSON CONSTRUCTION AND DEVELOPMENT INC. (FORMERLY: R.E. SINGSON CONSTRUCTION) (24556)",
+        "pcabId": "24556",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "UY CONDEV CORPORATION (FORMERLY:UY CONSTRUCTION & (12336)",
+        "pcabId": "12336",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "ORGANIZATIONAL OUTCOME 1: ENSURE SAFE AND RELIABLE NATIONAL ROAD SYSTEM-NETWORK DEVELOPMENT PROGRAM-CONSTRUCTION OF BY-PASS AND DIVERSION ROADS, BAIS BYPASS ROAD, NEGROS ORIENTAL",
+      "abc": "19600000.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2020-11-23 00:00:00.0000000",
+      "bidSubmissionDeadline": "2020-12-14 00:00:00.0000000",
+      "dateOfAward": "2021-02-01 00:00:00.0000000",
+      "awardAmount": "18855387.6"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/21HK0042-21HK0049 MINUTES PREBID-010.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/21HK0049-CA (1).zip",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/GENERIC_22BW-7_00068_0006-NOA1.zip",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/21HK0049-NTP.jpg",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 9.5869822,
+    "longitude": 123.1175028,
+    "coordinates": [
+      {
+        "componentId": "P00505512VS-CW1",
+        "description": "Off-Carriageway Improvement: Paving of Shoulders - Bais Bypass Road, Negros Oriental",
+        "latitude": 9.5869822,
+        "longitude": 123.1175028,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 2,
+      "latestImageDate": "2023-11-30 07:33:13.156000",
+      "hasImages": true
+    }
+  }
+}

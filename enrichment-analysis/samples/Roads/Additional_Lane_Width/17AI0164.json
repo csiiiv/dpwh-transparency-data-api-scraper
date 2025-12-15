@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "17AI0164",
+    "description": "REPAIR/REHAB/IMPVT (ADDITIONAL PAVEMENT WIDTH) ALONG PNER, KO 176+(-639) - KO 176+(-400)",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 4702448.5,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region I",
+      "province": "Pangasinan 3rd DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 15.828578793112,
+        "longitude": 120.670061923395,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "W.J.P. CONSTRUCTION AND SUPPLY (23192)",
+    "startDate": "2017-09-13",
+    "completionDate": "2017-10-15",
+    "infraYear": "2017",
+    "contractEffectivityDate": "2017-09-13",
+    "expiryDate": "2017-11-27",
+    "nysReason": null,
+    "programName": "Outside Infra",
+    "sourceOfFunds": "Outside Infra - Special Road Support Fund 2017",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00190137LZ-CW1",
+        "description": "Additional Lane Width - Additional Pavement Width along Pangasinan-Nueva Ecija Road (S00364LZ), K0176+(-639) to K0176+(-400)",
+        "infraType": "Roads",
+        "typeOfWork": "Additional Lane Width",
+        "region": "Region I",
+        "province": "PANGASINAN",
+        "coordinates": {
+          "latitude": 15.828578793112,
+          "longitude": 120.670061923395,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "W.J.P. CONSTRUCTION AND SUPPLY",
+    "bidders": [
+      {
+        "name": "W.J.P. CONSTRUCTION AND SUPPLY (23192)",
+        "pcabId": "23192",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "A.C. SOLIVEN CONSTRUCTION & GENERAL MERCHANDISE (19278)",
+        "pcabId": "19278",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "REPAIR/REHAB/IMPVT (ADDITIONAL PAVEMENT WIDTH) ALONG PNER, KO 176+(-639) - KO 176+(-400)",
+      "abc": "4950000.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2017-05-23 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-06-13 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "4,702,448.50"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/17AI0164.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/17ai0164_-_contract.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/17ai0164_-_noa.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/17ai0164_-_ntp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 15.828578793112,
+    "longitude": 120.670061923395,
+    "coordinates": [
+      {
+        "componentId": "P00190137LZ-CW1",
+        "description": "Additional Lane Width - Additional Pavement Width along Pangasinan-Nueva Ecija Road (S00364LZ), K0176+(-639) to K0176+(-400)",
+        "latitude": 15.828578793112,
+        "longitude": 120.670061923395,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

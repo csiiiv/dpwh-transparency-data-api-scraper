@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "17AF0225",
+    "description": "CONST OF AMBANGONAN DIVERSION DAM, AMBANGONAN, PUGO, LU",
+    "category": "Flood Control and Drainage",
+    "status": "Completed",
+    "budget": 4747275.9,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region I",
+      "province": "La Union 2nd DEO",
+      "infraType": "Flood Control and Drainage",
+      "coordinates": {
+        "latitude": 16.294552,
+        "longitude": 120.497377,
+        "verified": false
+      }
+    },
+    "infraType": "Flood Control and Drainage",
+    "contractor": "LEGACY CONSTRUCTION CORPORATION (FORMERLY: LEGACY CONSTRUCTION) (22465)",
+    "startDate": "2018-04-30",
+    "completionDate": "2018-12-17",
+    "infraYear": "2017",
+    "contractEffectivityDate": "2018-04-30",
+    "expiryDate": "2018-08-27",
+    "nysReason": null,
+    "programName": "Outside Infra",
+    "sourceOfFunds": "Outside Infra - Trust Funds 2017",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00199248LZ-CW1",
+        "description": "Construction of Sabo Dam - Construction of Ambangonan Diversion Dam, Brgy. Ambangonan, Pugo, La Union",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Construction of Sabo Dam",
+        "region": "Region I",
+        "province": "LA UNION",
+        "coordinates": {
+          "latitude": 16.294552,
+          "longitude": 120.497377,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "LEGACY CONSTRUCTION CORPORATION (FORMERLY: LEGACY CONSTRUCTION)",
+    "bidders": [
+      {
+        "name": "LEGACY CONSTRUCTION CORPORATION (FORMERLY: LEGACY CONSTRUCTION) (22465)",
+        "pcabId": "22465",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "R.A. FANGLAYAN (RAF) GENERAL CONSTRUCTION INC. (FORMERLY:RAF GENERAL CONSTRUCTION) (06699)",
+        "pcabId": "06699",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONST OF AMBANGONAN DIVERSION DAM, AMBANGONAN, PUGO, LU",
+      "abc": "4997647.70",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2018-01-18 00:00:00.0000000",
+      "bidSubmissionDeadline": "2018-02-06 00:00:00.0000000",
+      "dateOfAward": "2018-04-13 00:00:00.0000000",
+      "awardAmount": "4747275.9"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/17AF0225.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/17af0225_cont.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/17af0225_noa.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/17af0225_ntp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 16.294552,
+    "longitude": 120.497377,
+    "coordinates": [
+      {
+        "componentId": "P00199248LZ-CW1",
+        "description": "Construction of Sabo Dam - Construction of Ambangonan Diversion Dam, Brgy. Ambangonan, Pugo, La Union",
+        "latitude": 16.294552,
+        "longitude": 120.497377,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

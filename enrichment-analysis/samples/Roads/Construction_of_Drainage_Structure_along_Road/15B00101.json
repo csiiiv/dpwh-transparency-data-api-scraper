@@ -1,0 +1,97 @@
+{
+  "data": {
+    "contractId": "15B00101",
+    "description": "MFO 1: NETWORK DEV'T: ASSET PRESERVATION: CONST'N OF DRAINAGE ALONG NAT'L RD(PRIMARY RD.) ALONG SANT",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 18680039.66,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region II",
+      "province": "Region II",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 17.1312074270883,
+        "longitude": 121.614410541582,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "W.D. NAVARRO CONSTRUCTION CO. (14327)",
+    "startDate": "2016-03-03",
+    "completionDate": "2016-12-02",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-03-03",
+    "expiryDate": "2016-12-16",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00002894LZ-CW1",
+        "description": "Construction of Drainage Structure along Road - Santiago-Tuguegarao Rd - K0384+000 - K0384+300, K0385+720 - K0386+000, K0386+000 - K0386+220, K0403+000 - K0403+140",
+        "infraType": "Roads",
+        "typeOfWork": "Construction of Drainage Structure along Road",
+        "region": "Region II",
+        "province": "KALINGA",
+        "coordinates": {
+          "latitude": 17.1312074270883,
+          "longitude": 121.614410541582,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "W.D. NAVARRO CONSTRUCTION CO.",
+    "bidders": [
+      {
+        "name": "W.D. NAVARRO CONSTRUCTION CO. (14327)",
+        "pcabId": "14327",
+        "participation": 100,
+        "isWinner": true
+      }
+    ],
+    "procurement": {
+      "contractName": "MFO 1: NETWORK DEV'T: ASSET PRESERVATION: CONST'N OF DRAINAGE ALONG NAT'L RD(PRIMARY RD.) ALONG SANT",
+      "abc": "20125950.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-01-21 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-02-15 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "19122136.5000000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/may/15b00101-Cont.agreement.pdf",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/may/15b00101-Noa.pdf",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/may/15b00101-Cont.agreement.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 17.1312074270883,
+    "longitude": 121.614410541582,
+    "coordinates": [
+      {
+        "componentId": "P00002894LZ-CW1",
+        "description": "Construction of Drainage Structure along Road - Santiago-Tuguegarao Rd - K0384+000 - K0384+300, K0385+720 - K0386+000, K0386+000 - K0386+220, K0403+000 - K0403+140",
+        "latitude": 17.1312074270883,
+        "longitude": 121.614410541582,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

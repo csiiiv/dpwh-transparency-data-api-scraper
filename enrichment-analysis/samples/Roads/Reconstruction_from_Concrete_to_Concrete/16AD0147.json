@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "16AD0147",
+    "description": "REHABILITATION/RECONSTRUCTION/UPGRADING OF DAMAGED PAVED NATIONAL ROADS INCLUDING DRAINAGE BASED ON PAVEMENT MANAGEMENT SYSTEM/HIGHWAY DEVELOPMENT AND MANAGEMENT-4 (HDM-4), STA. MARIA-BURGOS ROAD, K0372+182-K0372+848",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 19073559.96,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region I",
+      "province": "Ilocos Sur 2nd DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 17.3460528,
+        "longitude": 120.4887274,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "FIRST NORTHWAY DEVELOPMENT & CONSTRUCTION CORP. (11645)",
+    "startDate": "2017-03-09",
+    "completionDate": "2017-10-31",
+    "infraYear": "2017",
+    "contractEffectivityDate": "2017-03-09",
+    "expiryDate": "2017-08-24",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2017 MFO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00102694LZ-CW1",
+        "description": "Reconstruction from Concrete to Concrete - Sta Maria-Burgos Rd - K0372 + 182 - K0372 + 848",
+        "infraType": "Roads",
+        "typeOfWork": "Reconstruction from Concrete to Concrete",
+        "region": "Region I",
+        "province": "ILOCOS SUR",
+        "coordinates": {
+          "latitude": 17.3460528,
+          "longitude": 120.4887274,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "FIRST NORTHWAY DEVELOPMENT & CONSTRUCTION CORP.",
+    "bidders": [
+      {
+        "name": "FIRST NORTHWAY DEVELOPMENT & CONSTRUCTION CORP. (11645)",
+        "pcabId": "11645",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "A.I.P. CONSTRUCTION (32458)",
+        "pcabId": "32458",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "REHABILITATION/RECONSTRUCTION/UPGRADING OF DAMAGED PAVED NATIONAL ROADS INCLUDING DRAINAGE BASED ON PAVEMENT MANAGEMENT SYSTEM/HIGHWAY DEVELOPMENT AND MANAGEMENT-4 (HDM-4), STA. MARIA-BURGOS ROAD, K0372+182-K0372+848",
+      "abc": "19522580.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-11-18 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-12-16 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "19,073,559.96"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/16AD0147 CA351.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/16AD0147 NOA350.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/16AD0147 CA351.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 17.3460528,
+    "longitude": 120.4887274,
+    "coordinates": [
+      {
+        "componentId": "P00102694LZ-CW1",
+        "description": "Reconstruction from Concrete to Concrete - Sta Maria-Burgos Rd - K0372 + 182 - K0372 + 848",
+        "latitude": 17.3460528,
+        "longitude": 120.4887274,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

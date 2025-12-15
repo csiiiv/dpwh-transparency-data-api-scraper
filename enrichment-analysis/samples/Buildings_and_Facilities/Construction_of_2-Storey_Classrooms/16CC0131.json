@@ -1,0 +1,85 @@
+{
+  "data": {
+    "contractId": "16CC0131",
+    "description": "CONSTRUCTION OF TWO(2) STOREY TWO(2) CLASSROOM - DONA CANDELARIA MENESES DUQUE HS BULAKAN, BULACAN",
+    "category": "Buildings and Facilities",
+    "status": "Completed",
+    "budget": 1909568.67,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region III",
+      "province": "Bulacan 1st DEO",
+      "infraType": "Buildings and Facilities",
+      "coordinates": null
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "CORE BLOCK ENGINEERING (8811)",
+    "startDate": "2016-11-17",
+    "completionDate": "2017-01-15",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-11-17",
+    "expiryDate": "2017-01-15",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 Locally Funded Projects",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00040094LZ-CW1",
+        "description": "Construction of 2-Storey Classrooms - Construction of 2 Storey 2 Classroom Building at Dona Candelaria Meneses Duque H/S, Bulakan, Bulakan",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of 2-Storey Classrooms",
+        "region": "Region III",
+        "province": "BULACAN",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "CORE BLOCK ENGINEERING",
+    "bidders": [
+      {
+        "name": "CORE BLOCK ENGINEERING (8811)",
+        "pcabId": "8811",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "PRODEL CONSTRUCTION & DEVELOPMENT CORPORATION (10839)",
+        "pcabId": "10839",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION OF TWO(2) STOREY TWO(2) CLASSROOM - DONA CANDELARIA MENESES DUQUE HS BULAKAN, BULACAN",
+      "abc": "1980168.63",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-09-07 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-09-27 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "1,909,568.67"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/november/6016cc0131.doc",
+      "noticeToProceed": "",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "data": {
+    "contractId": "25OE0021",
+    "description": "RETROFITTING OF MULTI-PURPOSE BUILDING, ISABELO DELOS REYES ELEMENTARY SCHOOL, MANILA CITY",
+    "category": "Buildings and Facilities",
+    "status": "On-Going",
+    "budget": 145824928.37,
+    "amountPaid": 0,
+    "progress": 54.64,
+    "location": {
+      "region": "National Capital Region",
+      "province": "North Manila DEO",
+      "infraType": "Buildings and Facilities",
+      "coordinates": {
+        "latitude": 14.608449,
+        "longitude": 120.968342,
+        "verified": false
+      }
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "JELSIE CONSTRUCTION & SUPPLY (44943)",
+    "startDate": "2025-02-11",
+    "completionDate": null,
+    "infraYear": "2025",
+    "contractEffectivityDate": "2025-02-11",
+    "expiryDate": "2025-10-08",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2025 SSP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00941730LZ-CW1",
+        "description": "Retrofitting / Strengthening of Building - Retrofitting of Multi-Purpose Building, Isabelo delos Reyes Elementary School, Manila City",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Retrofitting / Strengthening of Building",
+        "region": "National Capital Region",
+        "province": "METROPOLITAN MANILA",
+        "coordinates": {
+          "latitude": 14.608449,
+          "longitude": 120.968342,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "JELSIE CONSTRUCTION & SUPPLY",
+    "bidders": [
+      {
+        "name": "JELSIE CONSTRUCTION & SUPPLY (44943)",
+        "pcabId": "44943",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "10-02 ENTERPRISES CO. INC. (52119)",
+        "pcabId": "52119",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "MONOLITHIC CONSTRUCTION & CONCRETE PRODUCTS, INC. (5733)",
+        "pcabId": "5733",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "RETROFITTING OF MULTI-PURPOSE BUILDING, ISABELO DELOS REYES ELEMENTARY SCHOOL, MANILA CITY",
+      "abc": "148499767.20",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2024-09-12 00:00:00.0000000",
+      "bidSubmissionDeadline": "2024-10-02 00:00:00.0000000",
+      "dateOfAward": "2025-02-07 00:00:00.0000000",
+      "awardAmount": "145824928.4"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/25oe0021.pdf",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/contract_25oe0021.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/25oe0021_-_noa.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/25oe0021_ntp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 14.608449,
+    "longitude": 120.968342,
+    "coordinates": [
+      {
+        "componentId": "P00941730LZ-CW1",
+        "description": "Retrofitting / Strengthening of Building - Retrofitting of Multi-Purpose Building, Isabelo delos Reyes Elementary School, Manila City",
+        "latitude": 14.608449,
+        "longitude": 120.968342,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 2,
+      "latestImageDate": "2025-07-28 00:55:43.078000",
+      "hasImages": true
+    }
+  }
+}

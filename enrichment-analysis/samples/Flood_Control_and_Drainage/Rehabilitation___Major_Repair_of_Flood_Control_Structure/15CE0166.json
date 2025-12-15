@@ -1,0 +1,91 @@
+{
+  "data": {
+    "contractId": "15CE0166",
+    "description": "CONSTRUCTION/MAINTENANCE OF FLOOD MITIGATION STRUCTURES AND DRAINAGE SYSTEMS, REHABILITATION/IMPROVEMENT OF CABULINAWAN RIVER CONTROL, BRGY. PUNCAN, CARRANGLAN, NUEVA ECIJA",
+    "category": "Flood Control and Drainage",
+    "status": "Completed",
+    "budget": 18620911.58,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region III",
+      "province": "Nueva Ecija 1st DEO",
+      "infraType": "Flood Control and Drainage",
+      "coordinates": null
+    },
+    "infraType": "Flood Control and Drainage",
+    "contractor": "DGSARM BUILDERS INC. (FORMERLY: D.G. SARMENTA CONSTRUCTION) (13024)",
+    "startDate": "2016-01-31",
+    "completionDate": "2016-05-19",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-01-31",
+    "expiryDate": "2016-05-19",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-2",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00020450LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Flood Control Structure - Rehabilitation/Improvement of Cabulinawan River Control, Brgy. Puncan, Carranglan, Nueva Ecija",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Rehabilitation / Major Repair of Flood Control Structure",
+        "region": "Region III",
+        "province": "NUEVA ECIJA",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "DGSARM BUILDERS INC. (FORMERLY: D.G. SARMENTA CONSTRUCTION)",
+    "bidders": [
+      {
+        "name": "DGSARM BUILDERS INC. (FORMERLY: D.G. SARMENTA CONSTRUCTION) (13024)",
+        "pcabId": "13024",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "R.A. PAHATI CONST. & SUPPLY, INC. (35843)",
+        "pcabId": "35843",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "SOLFIO P. JACINTO CONSTRUCTION INC. (17799)",
+        "pcabId": "17799",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION/MAINTENANCE OF FLOOD MITIGATION STRUCTURES AND DRAINAGE SYSTEMS, REHABILITATION/IMPROVEMENT OF CABULINAWAN RIVER CONTROL, BRGY. PUNCAN, CARRANGLAN, NUEVA ECIJA",
+      "abc": "19599929.39",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-11-18 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-12-08 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "18620911.5800000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/march/15CE0166 CONTRACT004.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/15ce0166_noa.pdf",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/march/15CE0166 CONTRACT004.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

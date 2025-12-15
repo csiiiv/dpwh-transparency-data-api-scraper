@@ -1,0 +1,91 @@
+{
+  "data": {
+    "contractId": "15C00104",
+    "description": "ASSET PRESERVATION OF NATIONAL ROADS-REHAB./RECONST./UPGRADING OF DAMAGED PAVED NATIONAL ROADS INCLUDING DRAINAGE BASED ON PAVEMENT MANAGEMENT SYSTEM/HIGHWAY DEVELOPMENT & MANAGEMENT-4 (HDM-4), PRIMARY ROADS-JOSE ABAD SANTOS AVENUE (JASA), BATAAN 1ST L.D.",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 42442589.68,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region III",
+      "province": "Region III",
+      "infraType": "Roads",
+      "coordinates": null
+    },
+    "infraType": "Roads",
+    "contractor": "NORTHERN BUILDERS (8789)",
+    "startDate": "2016-04-15",
+    "completionDate": "2017-05-04",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-04-15",
+    "expiryDate": "2017-05-04",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00000869LZ-CW1",
+        "description": "Reconstruction to Concrete Pavement - Jose Abad Santos Ave (JASA) - K0109+517 - K0110+452, K0114+724 - K0115+038, K0115+630 - K0115+700, K0117+708 - K0117+1350",
+        "infraType": "Roads",
+        "typeOfWork": "Reconstruction to Concrete Pavement",
+        "region": "Region III",
+        "province": "ZAMBALES",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "NORTHERN BUILDERS",
+    "bidders": [
+      {
+        "name": "NORTHERN BUILDERS (8789)",
+        "pcabId": "8789",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "ALL EML CONSTRUCTION CORPORATION (FORMERLY: E.M.L. CONSTRUCTION & TRADING) (10151)",
+        "pcabId": "10151",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "LEADWAY CONSTRUCTION & DEVELOPMENT CORPORATION (4378)",
+        "pcabId": "4378",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "ASSET PRESERVATION OF NATIONAL ROADS-REHAB./RECONST./UPGRADING OF DAMAGED PAVED NATIONAL ROADS INCLUDING DRAINAGE BASED ON PAVEMENT MANAGEMENT SYSTEM/HIGHWAY DEVELOPMENT & MANAGEMENT-4 (HDM-4), PRIMARY ROADS-JOSE ABAD SANTOS AVENUE (JASA), BATAAN 1ST L.D.",
+      "abc": "40498864.83",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-12-10 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-01-28 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "38882445.6700000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/15c00104_ntp_ca.pdf",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/april/JASA Bataan 1st LD (Northern).pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/15c00104_ntp_ca.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

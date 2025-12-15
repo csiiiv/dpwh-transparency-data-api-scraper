@@ -1,0 +1,97 @@
+{
+  "data": {
+    "contractId": "15B00100",
+    "description": "MFO 1- NETWORK DEV'T: CONST'N OF DRAINAGE ALONG NAT'L RD. PRIMARY ALONG DAANG MAHARLIKA (LZ), ILAGAN",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 34726222.63,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region II",
+      "province": "Region II",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 17.0946442350938,
+        "longitude": 121.854506795849,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "EGB CONSTRUCTION CORPORATION (FORMERLY: EGB CONSTRUCTION) (13722)",
+    "startDate": "2016-03-03",
+    "completionDate": "2017-02-10",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-03-03",
+    "expiryDate": "2017-02-28",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00002887LZ-CW1",
+        "description": "Construction of Drainage Structure along Road - Daang Maharlika (LZ) - Right Side: K0394+000 - K0394+-854.50, K0397+200 - K0397+345, K0400+000 - K0400+304.10, Left Side: K0396+400 - K0396+755.40, Both Sides: K0396+755.40 - K0397+074",
+        "infraType": "Roads",
+        "typeOfWork": "Construction of Drainage Structure along Road",
+        "region": "Region II",
+        "province": "CAGAYAN",
+        "coordinates": {
+          "latitude": 17.0946442350938,
+          "longitude": 121.854506795849,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "EGB CONSTRUCTION CORPORATION (FORMERLY: EGB CONSTRUCTION)",
+    "bidders": [
+      {
+        "name": "EGB CONSTRUCTION CORPORATION (FORMERLY: EGB CONSTRUCTION) (13722)",
+        "pcabId": "13722",
+        "participation": 100,
+        "isWinner": true
+      }
+    ],
+    "procurement": {
+      "contractName": "MFO 1- NETWORK DEV'T: CONST'N OF DRAINAGE ALONG NAT'L RD. PRIMARY ALONG DAANG MAHARLIKA (LZ), ILAGAN",
+      "abc": "36175167.76",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-01-21 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-02-15 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "34726222.6300000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/may/15b00100-Cont.agreemnt.pdf",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/may/15b00100- Noa.pdf",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/may/15b00100-Cont.agreemnt.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 17.0946442350938,
+    "longitude": 121.854506795849,
+    "coordinates": [
+      {
+        "componentId": "P00002887LZ-CW1",
+        "description": "Construction of Drainage Structure along Road - Daang Maharlika (LZ) - Right Side: K0394+000 - K0394+-854.50, K0397+200 - K0397+345, K0400+000 - K0400+304.10, Left Side: K0396+400 - K0396+755.40, Both Sides: K0396+755.40 - K0397+074",
+        "latitude": 17.0946442350938,
+        "longitude": 121.854506795849,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

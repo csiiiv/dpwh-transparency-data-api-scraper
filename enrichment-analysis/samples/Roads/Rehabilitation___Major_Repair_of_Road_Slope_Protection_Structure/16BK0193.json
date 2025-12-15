@@ -1,0 +1,109 @@
+{
+  "data": {
+    "contractId": "16BK0193",
+    "description": "REPAIR/RESTORATION/IMPROVEMENT ALONG CORDON-AURORA BDRY. ROAD (S04745LZ), K0398+100 RS NAGTIPUNAN, QUIRINO",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 1953758.67,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region II",
+      "province": "Quirino DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 16.2181197485653,
+        "longitude": 121.736534437886,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "KMD BUILDERS AND CONST. SUPPLY (33971)",
+    "startDate": "2017-05-26",
+    "completionDate": "2017-07-01",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2017-05-26",
+    "expiryDate": "2017-07-01",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 Locally Funded Projects",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00056118LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Road Slope Protection Structure - Repair/Restoration/Improvement along Cordon-Aurora Bdry Road (S04745LZ), K0398+100 (RS), Nagtipunan, Quirino",
+        "infraType": "Roads",
+        "typeOfWork": "Rehabilitation / Major Repair of Road Slope Protection Structure",
+        "region": "Region II",
+        "province": "QUIRINO",
+        "coordinates": {
+          "latitude": 16.2181197485653,
+          "longitude": 121.736534437886,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "KMD BUILDERS AND CONST. SUPPLY",
+    "bidders": [
+      {
+        "name": "KMD BUILDERS AND CONST. SUPPLY (33971)",
+        "pcabId": "33971",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "MAR-DEB CONSTRUCTION & DEVELOPMENT CORP. (FORMERLY: MAR-DEB CONSTRUCTION & DEVELOPMENT) (6715)",
+        "pcabId": "6715",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "TRIBU DESIGN & CONSTRUCTION (12756)",
+        "pcabId": "12756",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "REPAIR/RESTORATION/IMPROVEMENT ALONG CORDON-AURORA BDRY. ROAD (S04745LZ), K0398+100 RS NAGTIPUNAN, QUIRINO",
+      "abc": "2026500.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2017-04-05 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-04-25 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "1953758.67"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/16BK0193 BOQ,DO#11withITB.pdf",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/16BK0193 CA.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/16BK0193 NOA.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/16BK0193 CA.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 16.2181197485653,
+    "longitude": 121.736534437886,
+    "coordinates": [
+      {
+        "componentId": "P00056118LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Road Slope Protection Structure - Repair/Restoration/Improvement along Cordon-Aurora Bdry Road (S04745LZ), K0398+100 (RS), Nagtipunan, Quirino",
+        "latitude": 16.2181197485653,
+        "longitude": 121.736534437886,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

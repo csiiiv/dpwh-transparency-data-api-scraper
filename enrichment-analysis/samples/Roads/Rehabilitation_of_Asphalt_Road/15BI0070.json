@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "15BI0070",
+    "description": "BAGABAG DIV., RD. - K0286+075-K0286+442, BAGABAG, NUEVA VIZCAYA",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 10393880,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region II",
+      "province": "Nueva Vizcaya DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 16.6050315159336,
+        "longitude": 121.256645859147,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "JANN-NORRIS CONSTRUCTION AND SUPPLIES INC. (FORMELY: JANN-NORRIS CONSTRUCTION AND SUPPLIES) (35880)",
+    "startDate": "2016-01-25",
+    "completionDate": "2016-05-10",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-01-25",
+    "expiryDate": "2016-05-10",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - Flood Control/Hydraulics/Drainage, Roads: Rehabilitation - Asphalt",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00000850LZ-CW1",
+        "description": "Rehabilitation of Asphalt Road - Bagabag Div Rd - K0286+075 - K0286+442",
+        "infraType": "Roads",
+        "typeOfWork": "Rehabilitation of Asphalt Road",
+        "region": "Region II",
+        "province": "NUEVA VIZCAYA",
+        "coordinates": {
+          "latitude": 16.6050315159336,
+          "longitude": 121.256645859147,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "JANN-NORRIS CONSTRUCTION AND SUPPLIES INC. (FORMELY: JANN-NORRIS CONSTRUCTION AND SUPPLIES)",
+    "bidders": [
+      {
+        "name": "JANN-NORRIS CONSTRUCTION AND SUPPLIES INC. (FORMELY: JANN-NORRIS CONSTRUCTION AND SUPPLIES) (35880)",
+        "pcabId": "35880",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "TRIBU DESIGN & CONSTRUCTION (12756)",
+        "pcabId": "12756",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "BAGABAG DIV., RD. - K0286+075-K0286+442, BAGABAG, NUEVA VIZCAYA",
+      "abc": "10393880.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-10-07 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-10-27 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "9862647.6200000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/april/15BI0070CON.pdf",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/april/15BI0070NOA.pdf",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/april/15BI0070CON.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 16.6050315159336,
+    "longitude": 121.256645859147,
+    "coordinates": [
+      {
+        "componentId": "P00000850LZ-CW1",
+        "description": "Rehabilitation of Asphalt Road - Bagabag Div Rd - K0286+075 - K0286+442",
+        "latitude": 16.6050315159336,
+        "longitude": 121.256645859147,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

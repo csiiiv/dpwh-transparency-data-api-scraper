@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "16FB0118",
+    "description": "CONSTRUCTION/REPAIR/REHABILITATION/IMPROVEMENT OF VARIOUS INFRASTRUCTURE INCLUDING LOCAL PROJECTS - DAY CARE CENTER, MANITO, ALBAY",
+    "category": "Buildings and Facilities",
+    "status": "Completed",
+    "budget": 670877.98,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region V",
+      "province": "Albay 2nd DEO",
+      "infraType": "Buildings and Facilities",
+      "coordinates": {
+        "latitude": 13.1194819,
+        "longitude": 123.9231076,
+        "verified": false
+      }
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "IMS CONSTRUCTION (30537)",
+    "startDate": "2017-10-11",
+    "completionDate": "2017-12-09",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2017-10-11",
+    "expiryDate": "2017-12-09",
+    "nysReason": null,
+    "programName": "Outside Infra",
+    "sourceOfFunds": "Outside Infra - GAA 2016 NDRRMF",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00095809LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Other Building - Rehabilitation and Upgrading of Medical and Non-Medical Facilities, Day Care Center, Manito, Albay",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Rehabilitation / Major Repair of Other Building",
+        "region": "Region V",
+        "province": "ALBAY",
+        "coordinates": {
+          "latitude": 13.1194819,
+          "longitude": 123.9231076,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "IMS CONSTRUCTION",
+    "bidders": [
+      {
+        "name": "IMS CONSTRUCTION (30537)",
+        "pcabId": "30537",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "9LEAVES BUILDERS & SUPPLY CORP. (36358)",
+        "pcabId": "36358",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION/REPAIR/REHABILITATION/IMPROVEMENT OF VARIOUS INFRASTRUCTURE INCLUDING LOCAL PROJECTS - DAY CARE CENTER, MANITO, ALBAY",
+      "abc": "688651.61",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2017-08-31 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-09-19 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "670,877.98"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/BID DOCUMENTS for Contract ID No. 16FB0118.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/16fb0118_contract.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/16fb0118_award.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/16fb0118_ntp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 13.1194819,
+    "longitude": 123.9231076,
+    "coordinates": [
+      {
+        "componentId": "P00095809LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Other Building - Rehabilitation and Upgrading of Medical and Non-Medical Facilities, Day Care Center, Manito, Albay",
+        "latitude": 13.1194819,
+        "longitude": 123.9231076,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

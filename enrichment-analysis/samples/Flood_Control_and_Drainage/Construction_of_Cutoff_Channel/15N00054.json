@@ -1,0 +1,115 @@
+{
+  "data": {
+    "contractId": "15N00054",
+    "description": "CONST./RECHANNELING OF MAON CATCHMENT AREA-VILLA KANAGGA CREEK-CALOT-BONBON CREEK W/ RCBC, BUTUAN C",
+    "category": "Flood Control and Drainage",
+    "status": "Completed",
+    "budget": 131248526.44,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region XIII",
+      "province": "Region XIII",
+      "infraType": "Flood Control and Drainage",
+      "coordinates": {
+        "latitude": 8.92950333,
+        "longitude": 125.52937166,
+        "verified": false
+      }
+    },
+    "infraType": "Flood Control and Drainage",
+    "contractor": "EQUI-PARCO CONSTRUCTION COMPANY (14332)",
+    "startDate": "2016-08-31",
+    "completionDate": "2017-06-30",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-08-31",
+    "expiryDate": "2017-09-30",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-2",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00022572MN-CW1",
+        "description": "Construction of Cutoff Channel - Construction/Rechanneling of Maon Catchment Area - Villa Kanangga Creek Calot-Bonbon Creek with RCBC, Butuan City",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Construction of Cutoff Channel",
+        "region": "Region XIII",
+        "province": "AGUSAN DEL NORTE",
+        "coordinates": {
+          "latitude": 8.92950333,
+          "longitude": 125.52937166,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "EQUI-PARCO CONSTRUCTION COMPANY",
+    "bidders": [
+      {
+        "name": "EQUI-PARCO CONSTRUCTION COMPANY (14332)",
+        "pcabId": "14332",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "ADFIL CORPORATION (14437)",
+        "pcabId": "14437",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "MONOLITHIC CONSTRUCTION & CONCRETE PRODUCTS, INC. (5733)",
+        "pcabId": "5733",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "VICENTE T. LAO CONSTRUCTION (7040)",
+        "pcabId": "7040",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONST./RECHANNELING OF MAON CATCHMENT AREA-VILLA KANAGGA CREEK-CALOT-BONBON CREEK W/ RCBC, BUTUAN C",
+      "abc": "131250000.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-09-23 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-06-06 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "123372038.6400000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/september/CONTRACT 15N00054.zip",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/noa_15n00054.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/ntp_15n00054.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 8.92950333,
+    "longitude": 125.52937166,
+    "coordinates": [
+      {
+        "componentId": "P00022572MN-CW1",
+        "description": "Construction of Cutoff Channel - Construction/Rechanneling of Maon Catchment Area - Villa Kanangga Creek Calot-Bonbon Creek with RCBC, Butuan City",
+        "latitude": 8.92950333,
+        "longitude": 125.52937166,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

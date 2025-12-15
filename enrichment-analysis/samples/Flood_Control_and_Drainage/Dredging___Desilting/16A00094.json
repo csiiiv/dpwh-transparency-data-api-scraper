@@ -1,0 +1,79 @@
+{
+  "data": {
+    "contractId": "16A00094",
+    "description": "CLEARING / CLEANING OF  PAPA SABO DAM, PAPA RIVER, NUEVA ERA, ILOCOS NORTE",
+    "category": "Flood Control and Drainage",
+    "status": "Completed",
+    "budget": 37839087.94,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region I",
+      "province": "Region I",
+      "infraType": "Flood Control and Drainage",
+      "coordinates": null
+    },
+    "infraType": "Flood Control and Drainage",
+    "contractor": "VIKING CONSTRUCTION & SUPPLIES (18129)",
+    "startDate": "2016-03-31",
+    "completionDate": "2017-03-15",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-03-31",
+    "expiryDate": "2017-04-01",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-2",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00022714LZ-CW1",
+        "description": "Dredging / Desilting - Clearing/Cleaning of Papa Sabo Dam, Papa River, Nueva Era, Ilocos Norte",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Dredging / Desilting",
+        "region": "Region I",
+        "province": "ILOCOS NORTE",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "VIKING CONSTRUCTION & SUPPLIES",
+    "bidders": [
+      {
+        "name": "VIKING CONSTRUCTION & SUPPLIES (18129)",
+        "pcabId": "18129",
+        "participation": 100,
+        "isWinner": true
+      }
+    ],
+    "procurement": {
+      "contractName": "CLEARING / CLEANING OF  PAPA SABO DAM, PAPA RIVER, NUEVA ERA, ILOCOS NORTE",
+      "abc": "39000000.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-02-12 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-03-03 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "37839087.94"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/july/16A00094_Contract.pdf",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/july/16A00094_NOA.pdf",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/july/16A00094_Contract.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

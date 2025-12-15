@@ -1,0 +1,97 @@
+{
+  "data": {
+    "contractId": "18HC0097",
+    "description": "CONSTRUCTION OF NEW PERMANENT BRIDGE, KATUBOAN BR. ALONG JCT. (LIR) BUENAVISTA-CARMEN-DANAO-JETAFE ROAD (PHASE II), DAGOHOY, BOHOL",
+    "category": "Bridges",
+    "status": "Completed",
+    "budget": 36828353.55,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region VII",
+      "province": "Bohol 2nd DEO",
+      "infraType": "Bridges",
+      "coordinates": {
+        "latitude": 9.9082447,
+        "longitude": 124.2255267,
+        "verified": false
+      }
+    },
+    "infraType": "Bridges",
+    "contractor": "LEDA  CONSTRUCTION INCORPORATED (12229)",
+    "startDate": "2018-07-26",
+    "completionDate": "2020-03-30",
+    "infraYear": "2018",
+    "contractEffectivityDate": "2018-07-26",
+    "expiryDate": "2018-12-06",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2018 OO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00201062VS-CW1",
+        "description": "Completion of Bridge Construction - Katuboan Br. along Jct (LIR) Buenavista-Carmen-Danao-Jetafe Rd (Phase II)",
+        "infraType": "Bridges",
+        "typeOfWork": "Completion of Bridge Construction",
+        "region": "Region VII",
+        "province": "GUIMARAS",
+        "coordinates": {
+          "latitude": 9.9082447,
+          "longitude": 124.2255267,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "LEDA  CONSTRUCTION INCORPORATED",
+    "bidders": [
+      {
+        "name": "LEDA  CONSTRUCTION INCORPORATED (12229)",
+        "pcabId": "12229",
+        "participation": 100,
+        "isWinner": true
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION OF NEW PERMANENT BRIDGE, KATUBOAN BR. ALONG JCT. (LIR) BUENAVISTA-CARMEN-DANAO-JETAFE ROAD (PHASE II), DAGOHOY, BOHOL",
+      "abc": "39200000.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2018-06-26 00:00:00.0000000",
+      "bidSubmissionDeadline": "2018-07-16 00:00:00.0000000",
+      "dateOfAward": "2018-07-19 00:00:00.0000000",
+      "awardAmount": "36828353.55"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/18HC0097.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/18HC0097 - Contract Agreement (LEDA Construction, Inc.).pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/NOA- 18HC0097.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/18HC0097 - Contract Agreement (LEDA Construction, Inc.).pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 9.9082447,
+    "longitude": 124.2255267,
+    "coordinates": [
+      {
+        "componentId": "P00201062VS-CW1",
+        "description": "Completion of Bridge Construction - Katuboan Br. along Jct (LIR) Buenavista-Carmen-Danao-Jetafe Rd (Phase II)",
+        "latitude": 9.9082447,
+        "longitude": 124.2255267,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

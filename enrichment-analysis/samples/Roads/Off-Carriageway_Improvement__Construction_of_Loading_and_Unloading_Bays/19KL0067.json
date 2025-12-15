@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "19KL0067",
+    "description": "OFF-CARRIAGEWAY IMPROVEMENT  PRIMARY ROADS, BUTUAN CITY CAGAYAN DE ORO CITY  ILIGAN CITY ROAD, K1414+000 K1414+060, K1450+708  K1450+768, K1466+400 K1466+460",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 7216396.32,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region X",
+      "province": "Misamis Oriental 2nd DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 8.5351643,
+        "longitude": 124.5569877,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "ALEBON GENUINE MERCHANDISING INCORPORATED (26300)",
+    "startDate": "2019-06-28",
+    "completionDate": "2019-11-08",
+    "infraYear": "2019",
+    "contractEffectivityDate": "2019-06-28",
+    "expiryDate": "2019-11-08",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2019 OO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00300120MN-CW1",
+        "description": "Off-Carriageway Improvement: Construction of Loading and Unloading Bays - Butuan City-Cagayan de Oro City-Iligan City Rd - K1414 + 000 - K1414 + 060, K1450 + 708 - K1450 + 768, K1466 + 400 - K1466 + 460",
+        "infraType": "Roads",
+        "typeOfWork": "Off-Carriageway Improvement: Construction of Loading and Unloading Bays",
+        "region": "Region X",
+        "province": "MISAMIS ORIENTAL",
+        "coordinates": {
+          "latitude": 8.5351643,
+          "longitude": 124.5569877,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "ALEBON GENUINE MERCHANDISING INCORPORATED",
+    "bidders": [
+      {
+        "name": "ALEBON GENUINE MERCHANDISING INCORPORATED (26300)",
+        "pcabId": "26300",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "JARM CONSTRUCTION SERVICES AND SUPPLY (42951)",
+        "pcabId": "42951",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "OFF-CARRIAGEWAY IMPROVEMENT  PRIMARY ROADS, BUTUAN CITY CAGAYAN DE ORO CITY  ILIGAN CITY ROAD, K1414+000 K1414+060, K1450+708  K1450+768, K1466+400 K1466+460",
+      "abc": "8603600.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2018-10-19 00:00:00.0000000",
+      "bidSubmissionDeadline": "2018-11-07 00:00:00.0000000",
+      "dateOfAward": "2019-06-20 00:00:00.0000000",
+      "awardAmount": "8432891.16"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/19KL0067-Bid DOcs.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/19kl0067_contract_agreement.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/19kl0067_noa.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/19kl0067_ntp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 8.5351643,
+    "longitude": 124.5569877,
+    "coordinates": [
+      {
+        "componentId": "P00300120MN-CW1",
+        "description": "Off-Carriageway Improvement: Construction of Loading and Unloading Bays - Butuan City-Cagayan de Oro City-Iligan City Rd - K1414 + 000 - K1414 + 060, K1450 + 708 - K1450 + 768, K1466 + 400 - K1466 + 460",
+        "latitude": 8.5351643,
+        "longitude": 124.5569877,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

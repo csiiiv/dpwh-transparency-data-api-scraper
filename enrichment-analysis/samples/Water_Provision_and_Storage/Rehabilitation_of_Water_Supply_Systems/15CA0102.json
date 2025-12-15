@@ -1,0 +1,91 @@
+{
+  "data": {
+    "contractId": "15CA0102",
+    "description": "LOCAL INFRASTRUCTURE PROGRAM - REPAIR/REHABILITATION OF WATER SYSTEM, BARANGAY PALILI,  SAMAL, BATAAN",
+    "category": "Water Provision and Storage",
+    "status": "Completed",
+    "budget": 1903160,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region III",
+      "province": "Bataan 1st DEO",
+      "infraType": "Water Provision and Storage",
+      "coordinates": null
+    },
+    "infraType": "Water Provision and Storage",
+    "contractor": "PASCAL CONSTRUCTION (34168)",
+    "startDate": "2016-02-15",
+    "completionDate": "2016-05-14",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-02-15",
+    "expiryDate": "2016-05-14",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 Locally Funded Projects",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00047312LZ-CW1",
+        "description": "Rehabilitation of Water Supply Systems - Repair/Rehabilitation of Water System, Barangay Palili, Samal, Bataan 1st LD",
+        "infraType": "Water Provision and Storage",
+        "typeOfWork": "Rehabilitation of Water Supply Systems",
+        "region": "Region III",
+        "province": "BATAAN",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "PASCAL CONSTRUCTION",
+    "bidders": [
+      {
+        "name": "PASCAL CONSTRUCTION (34168)",
+        "pcabId": "34168",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "DE JESUS CONSTRUCTION (11452)",
+        "pcabId": "11452",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "FAME BUILDER PHILIPPINES (8936)",
+        "pcabId": "8936",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "LOCAL INFRASTRUCTURE PROGRAM - REPAIR/REHABILITATION OF WATER SYSTEM, BARANGAY PALILI,  SAMAL, BATAAN",
+      "abc": "1960000.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-12-11 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-12-29 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "1903160.0000000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "",
+      "noticeOfAward": "",
+      "noticeToProceed": "",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

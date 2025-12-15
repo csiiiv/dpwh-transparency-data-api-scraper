@@ -1,0 +1,91 @@
+{
+  "data": {
+    "contractId": "15OH0208",
+    "description": "NATIONAL ROAD LIGHTING PROGRAM, TAFT AVENUE, MANILA, STA 1+422 TO STA 4+360",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 48547096.13,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "National Capital Region",
+      "province": "South Manila DEO",
+      "infraType": "Roads",
+      "coordinates": null
+    },
+    "infraType": "Roads",
+    "contractor": "STRONGLANE BUILDERS AND TRADING CORPORATION (FORMERLY: STRONGLANE CONSTRUCTION & TRADING) (32333) / THREE W BUILDERS, INC. (10722)",
+    "startDate": "2016-11-21",
+    "completionDate": "2019-12-04",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-11-21",
+    "expiryDate": "2017-06-18",
+    "nysReason": null,
+    "programName": "Outside Infra",
+    "sourceOfFunds": "Outside Infra - Special Road Support Fund 2016",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00090001LZ-CW1",
+        "description": "Road Safety: Street Lighting - National Road Lighting Program (Civil Works) package 10 along Taft Avenue -K0002+(-1053) to K0004+340 & K0004+(-330) to K0002+904",
+        "infraType": "Roads",
+        "typeOfWork": "Road Safety: Street Lighting",
+        "region": "National Capital Region",
+        "province": "METROPOLITAN MANILA",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "STRONGLANE BUILDERS AND TRADING CORPORATION (FORMERLY: STRONGLANE CONSTRUCTION & TRADING), THREE W BUILDERS, INC.",
+    "bidders": [
+      {
+        "name": "THREE W BUILDERS, INC. (10722) / STRONGLANE BUILDERS AND TRADING CORPORATION (FORMERLY: STRONGLANE CONSTRUCTION & TRADING) (32333) (JV ID: JV-15-922)",
+        "pcabId": "",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "HEXAMINDZ CORPORATION (FORMERLY:KILUSANG MAGKAIBIG (31666)",
+        "pcabId": "31666",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "MRRM TRADING & CONSTRUCTION (19657)",
+        "pcabId": "19657",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "NATIONAL ROAD LIGHTING PROGRAM, TAFT AVENUE, MANILA, STA 1+422 TO STA 4+360",
+      "abc": "48106796.12",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-09-23 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-10-14 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "45697630.7000000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/15oh0208_contract_agreement.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/15OH0208_NOA.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/15oh0208_contract_agreement.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

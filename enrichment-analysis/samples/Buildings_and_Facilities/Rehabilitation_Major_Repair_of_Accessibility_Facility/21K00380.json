@@ -1,0 +1,147 @@
+{
+  "data": {
+    "contractId": "21K00380",
+    "description": "CONST./REHAB./IMPRVT. OF FACILITIES FOR PERSONS W/ DISABILITIES (PWD) AND ELDERLIES/SENIOR CITIZENS, INCLUDING GENDER-RESPONSIVE FACILITIES-REGION X; 1. CONST./IMPRVT OF DPWH BUK 2ND DISTRICT ENG'G OFFICE MULTI-PURPOSE GAD BLDG, DON CARLOS, BUK; 2. IMPRVT",
+    "category": "Buildings and Facilities",
+    "status": "Completed",
+    "budget": 28081300.2,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region X",
+      "province": "Region X",
+      "infraType": "Buildings and Facilities",
+      "coordinates": {
+        "latitude": 7.6656533,
+        "longitude": 124.9964709,
+        "verified": false
+      }
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "JEJOR'S CONSTRUCTION CORPORATION (5143)",
+    "startDate": "2022-07-13",
+    "completionDate": "2023-11-26",
+    "infraYear": "2021",
+    "contractEffectivityDate": "2022-07-13",
+    "expiryDate": "2022-11-09",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2021 CSSP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00538251MN-CW1",
+        "description": "Construction of Accessibility Facility - Construction/ Improvement of Accessibility Facility, DPWH Bukidnon 2nd District Engineering Office - Multi-purpose GAD Building, Don Carlos, Bukidnon",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of Accessibility Facility",
+        "region": "Region X",
+        "province": "BUKIDNON",
+        "coordinates": {
+          "latitude": 7.6656533,
+          "longitude": 124.9964709,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00538252MN-CW1",
+        "description": "Rehabilitation/Major Repair of Accessibility Facility - Improvement of Accessibility Facility, DPWH Misamis Oriental 1st District Engineering Office Building in Compliance to BP 344, Gingoog City, Misamis Oriental",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Rehabilitation/Major Repair of Accessibility Facility",
+        "region": "Region X",
+        "province": "MISAMIS ORIENTAL",
+        "coordinates": {
+          "latitude": 8.8114261,
+          "longitude": 125.107888,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      },
+      {
+        "componentId": "P00538253MN-CW1",
+        "description": "Rehabilitation/Major Repair of Accessibility Facility - Repair/ Improvement of Accessibility Facility - GAD Facility, Landmark, and Boundary Marker, Gingoog City, Misamis Oriental",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Rehabilitation/Major Repair of Accessibility Facility",
+        "region": "Region X",
+        "province": "MISAMIS ORIENTAL",
+        "coordinates": {
+          "latitude": 8.7145233,
+          "longitude": 125.0242219,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "JEJOR'S CONSTRUCTION CORPORATION",
+    "bidders": [
+      {
+        "name": "JEJOR'S CONSTRUCTION CORPORATION (5143)",
+        "pcabId": "5143",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "MEGAKONSTRUK DEVELOPMENT CORP. (38666)",
+        "pcabId": "38666",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONST./REHAB./IMPRVT. OF FACILITIES FOR PERSONS W/ DISABILITIES (PWD) AND ELDERLIES/SENIOR CITIZENS, INCLUDING GENDER-RESPONSIVE FACILITIES-REGION X; 1. CONST./IMPRVT OF DPWH BUK 2ND DISTRICT ENG'G OFFICE MULTI-PURPOSE GAD BLDG, DON CARLOS, BUK; 2. IMPRVT",
+      "abc": "28950000.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2021-12-03 00:00:00.0000000",
+      "bidSubmissionDeadline": "2021-12-23 00:00:00.0000000",
+      "dateOfAward": "2021-12-31 00:00:00.0000000",
+      "awardAmount": "28081300.2"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/ITB-21K00380.pdf",
+      "contractAgreement": "",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/21K00380-JEJORS (NOA).pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/21k00380-jejors-1.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 7.6656533,
+    "longitude": 124.9964709,
+    "coordinates": [
+      {
+        "componentId": "P00538251MN-CW1",
+        "description": "Construction of Accessibility Facility - Construction/ Improvement of Accessibility Facility, DPWH Bukidnon 2nd District Engineering Office - Multi-purpose GAD Building, Don Carlos, Bukidnon",
+        "latitude": 7.6656533,
+        "longitude": 124.9964709,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00538252MN-CW1",
+        "description": "Rehabilitation/Major Repair of Accessibility Facility - Improvement of Accessibility Facility, DPWH Misamis Oriental 1st District Engineering Office Building in Compliance to BP 344, Gingoog City, Misamis Oriental",
+        "latitude": 8.8114261,
+        "longitude": 125.107888,
+        "source": "infra_track",
+        "locationVerified": false
+      },
+      {
+        "componentId": "P00538253MN-CW1",
+        "description": "Rehabilitation/Major Repair of Accessibility Facility - Repair/ Improvement of Accessibility Facility - GAD Facility, Landmark, and Boundary Marker, Gingoog City, Misamis Oriental",
+        "latitude": 8.7145233,
+        "longitude": 125.0242219,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 4,
+      "latestImageDate": "2025-09-25 07:19:23.124000",
+      "hasImages": true
+    }
+  }
+}

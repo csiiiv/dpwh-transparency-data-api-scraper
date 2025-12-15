@@ -1,0 +1,91 @@
+{
+  "data": {
+    "contractId": "15K00260",
+    "description": "CONSTRUCTION OF TANGUB CITY DRAINAGE MISAMIS OCCIDENTAL",
+    "category": "Flood Control and Drainage",
+    "status": "Completed",
+    "budget": 92656718.52,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region X",
+      "province": "Region X",
+      "infraType": "Flood Control and Drainage",
+      "coordinates": null
+    },
+    "infraType": "Flood Control and Drainage",
+    "contractor": "GRACE CONSTRUCTION CORPORATION (3771)",
+    "startDate": "2016-04-21",
+    "completionDate": "2016-12-21",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-04-21",
+    "expiryDate": "2016-12-21",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-2",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00020950MN-CW1",
+        "description": "Construction of Drainage Structure - Construction of Tangub City Drainage System, Misamis Occidental",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Construction of Drainage Structure",
+        "region": "Region X",
+        "province": "MISAMIS OCCIDENTAL",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "GRACE CONSTRUCTION CORPORATION",
+    "bidders": [
+      {
+        "name": "GRACE CONSTRUCTION CORPORATION (3771)",
+        "pcabId": "3771",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "WERR CORPORATION INTERNATIONAL (14133) / RITCHE-NATHALIE BUILDERS & GENERAL MERCHANDISE (27501) (JV ID: JV-15-441)",
+        "pcabId": "",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "MONOLITHIC CONSTRUCTION & CONCRETE PRODUCTS, INC. (5733)",
+        "pcabId": "5733",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION OF TANGUB CITY DRAINAGE MISAMIS OCCIDENTAL",
+      "abc": "97500000.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-09-30 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-11-24 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "92656718.5200000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/15k00260_ca.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/15k00260_noa.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/15k00260_ntp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

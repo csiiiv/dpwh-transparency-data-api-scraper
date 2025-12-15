@@ -1,0 +1,157 @@
+{
+  "data": {
+    "contractId": "18L00108",
+    "description": "DAVAO CITY COASTAL BYPASS RD AT JCT. DAVAO-COTABATO RD-BAGO APLAYA-TALOMO-MATINA APLAYA-ROXAS AVENUE",
+    "category": "Bridges",
+    "status": "Completed",
+    "budget": 627076990.63,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region XI",
+      "province": "Region XI",
+      "infraType": "Bridges",
+      "coordinates": {
+        "latitude": 7.0434746,
+        "longitude": 125.5659675,
+        "verified": false
+      }
+    },
+    "infraType": "Bridges",
+    "contractor": "ULTICON BUILDERS, INC. (17267)",
+    "startDate": "2018-12-27",
+    "completionDate": "2020-12-19",
+    "infraYear": "2018",
+    "contractEffectivityDate": "2018-12-27",
+    "expiryDate": "2020-12-20",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2018 OO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00201552MN-CW1",
+        "description": "Construction of Substructure - Davao City Coastal Bypass Road at Jct Davao-Cotabato Road-Bago Aplaya-Talomo-Matina Aplaya-Roxas Avenue-Sta. Ana Wharf-R. Castillo (Bago Aplaya-Times Beach), Package 5, incl. Bridge, Davao City",
+        "infraType": "Bridges",
+        "typeOfWork": "Construction of Substructure",
+        "region": "Region XI",
+        "province": "DAVAO ORIENTAL",
+        "coordinates": {
+          "latitude": 7.0434746,
+          "longitude": 125.5659675,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "ULTICON BUILDERS, INC.",
+    "bidders": [
+      {
+        "name": "ULTICON BUILDERS, INC. (17267)",
+        "pcabId": "17267",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "AKN CONSTRUCTION CORPORATION (11845)",
+        "pcabId": "11845",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "ALGON ENGINEERING CONSTRUCTION CORPORATION (270)",
+        "pcabId": "270",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "GRACE CONSTRUCTION CORPORATION (3771)",
+        "pcabId": "3771",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "J.H. PAJARA CONSTRUCTION CORPORATION (1890)",
+        "pcabId": "1890",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "MAC BUILDERS CORP. (FORMERLY: MAC BUILDERS DEVELOPMENT CORPORATION) (7249)",
+        "pcabId": "7249",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "P.L. SEBASTIAN CONSTRUCTION, INC. (FORMERLY: P.L. SEBASTIAN CONSTRUCTION) (35840)",
+        "pcabId": "35840",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "R.D. POLICARPIO & COMPANY INC. (4414)",
+        "pcabId": "4414",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "TOKWING CONSTRUCTION, CORP.(FOR;  TOKWING CONSTRUC (9650)",
+        "pcabId": "9650",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "VICENTE T. LAO CONSTRUCTION (7040)",
+        "pcabId": "7040",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "YAKAL CONSTRUCTION (9685)",
+        "pcabId": "9685",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "DAVAO CITY COASTAL BYPASS RD AT JCT. DAVAO-COTABATO RD-BAGO APLAYA-TALOMO-MATINA APLAYA-ROXAS AVENUE",
+      "abc": "627250000.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2018-09-13 00:00:00.0000000",
+      "bidSubmissionDeadline": "2018-11-05 00:00:00.0000000",
+      "dateOfAward": "2018-12-03 00:00:00.0000000",
+      "awardAmount": "614286324.3"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/18L00108 - REVISED PLAN SET 1.pdf",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/CONTRACT 18L00108.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/NOA 18L00108.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/CONTRACT 18L00108.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 7.0434746,
+    "longitude": 125.5659675,
+    "coordinates": [
+      {
+        "componentId": "P00201552MN-CW1",
+        "description": "Construction of Substructure - Davao City Coastal Bypass Road at Jct Davao-Cotabato Road-Bago Aplaya-Talomo-Matina Aplaya-Roxas Avenue-Sta. Ana Wharf-R. Castillo (Bago Aplaya-Times Beach), Package 5, incl. Bridge, Davao City",
+        "latitude": 7.0434746,
+        "longitude": 125.5659675,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "15OB0453",
+    "description": "CONSTRUCTION/REHABILITATION OF DRAINAGE SYSTEM ALONG FABELLA STREET, BRGY. PLAINVIEW, MANDALUYONG CITY",
+    "category": "Flood Control and Drainage",
+    "status": "Completed",
+    "budget": 13023563.56,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "National Capital Region",
+      "province": "Metro Manila 1st DEO",
+      "infraType": "Flood Control and Drainage",
+      "coordinates": {
+        "latitude": 14.5869721,
+        "longitude": 121.0354445,
+        "verified": false
+      }
+    },
+    "infraType": "Flood Control and Drainage",
+    "contractor": "R.D. TALENS CONSTRUCTION AND TRADING (36817)",
+    "startDate": "2016-02-15",
+    "completionDate": "2016-06-13",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-02-15",
+    "expiryDate": "2016-06-13",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - Flood Control/Hydraulics/Drainage, Roads: Rehabilitation - PCCP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00044286LZ-CW1",
+        "description": "Construction of Drainage Structure - Construction/Rehabilitation of Drainage System along Fabella Street, Brgy. Plainview, Mandaluyong City",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Construction of Drainage Structure",
+        "region": "National Capital Region",
+        "province": "METROPOLITAN MANILA",
+        "coordinates": {
+          "latitude": 14.5869721,
+          "longitude": 121.0354445,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "R.D. TALENS CONSTRUCTION AND TRADING",
+    "bidders": [
+      {
+        "name": "R.D. TALENS CONSTRUCTION AND TRADING (36817)",
+        "pcabId": "36817",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "R. SEMILLA CONSTRUCTION & MARKETING (9263)",
+        "pcabId": "9263",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION/REHABILITATION OF DRAINAGE SYSTEM ALONG FABELLA STREET, BRGY. PLAINVIEW, MANDALUYONG CITY",
+      "abc": "14470625.43",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-12-09 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-12-28 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "13023563.5600000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "",
+      "noticeOfAward": "",
+      "noticeToProceed": "",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 14.5869721,
+    "longitude": 121.0354445,
+    "coordinates": [
+      {
+        "componentId": "P00044286LZ-CW1",
+        "description": "Construction of Drainage Structure - Construction/Rehabilitation of Drainage System along Fabella Street, Brgy. Plainview, Mandaluyong City",
+        "latitude": 14.5869721,
+        "longitude": 121.0354445,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

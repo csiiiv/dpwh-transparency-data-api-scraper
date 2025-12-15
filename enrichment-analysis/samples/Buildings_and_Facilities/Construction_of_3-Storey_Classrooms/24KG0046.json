@@ -1,0 +1,115 @@
+{
+  "data": {
+    "contractId": "24KG0046",
+    "description": "CONSTRUCTION OF 3-STOREY 12-CLASSROOM SCHOOL BUILDING, SAMBURON INTEGRATED SCHOOL, LINAMON, LANAO DEL NORTE",
+    "category": "Buildings and Facilities",
+    "status": "Completed",
+    "budget": 50174778.3,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region X",
+      "province": "Lanao del Norte 1st DEO",
+      "infraType": "Buildings and Facilities",
+      "coordinates": {
+        "latitude": 8.1853556,
+        "longitude": 124.1360167,
+        "verified": false
+      }
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "ALFAHAD BUILDERS AND ENTERPRISES (40063)",
+    "startDate": "2024-05-24",
+    "completionDate": "2025-04-10",
+    "infraYear": "2024",
+    "contractEffectivityDate": "2024-05-24",
+    "expiryDate": "2025-04-12",
+    "nysReason": null,
+    "programName": "Outside Infra",
+    "sourceOfFunds": "Outside Infra - GAA 2024 DepEd BEFF",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00875415MN-CW1",
+        "description": "Construction of 3-Storey Classrooms - Construction of 3STY12CL, Samburon Integrated School, Linamon, Lanao del Norte",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of 3-Storey Classrooms",
+        "region": "Region X",
+        "province": "LANAO DEL NORTE",
+        "coordinates": {
+          "latitude": 8.1853556,
+          "longitude": 124.1360167,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "ALFAHAD BUILDERS AND ENTERPRISES",
+    "bidders": [
+      {
+        "name": "ALFAHAD BUILDERS AND ENTERPRISES (40063)",
+        "pcabId": "40063",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "LANAO BUILDER AND ENTERPRISES (15982)",
+        "pcabId": "15982",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "N.B. SALBO CONSTRUCTION (6091)",
+        "pcabId": "6091",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "NDP CONSTRUCTION DEVELOPMENT (39524)",
+        "pcabId": "39524",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION OF 3-STOREY 12-CLASSROOM SCHOOL BUILDING, SAMBURON INTEGRATED SCHOOL, LINAMON, LANAO DEL NORTE",
+      "abc": "50174778.30",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2024-04-05 00:00:00.0000000",
+      "bidSubmissionDeadline": "2024-04-25 00:00:00.0000000",
+      "dateOfAward": "2024-05-22 00:00:00.0000000",
+      "awardAmount": "49248176.08"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/59-60a.pdf",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/24kg0046-contract_agreement.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/24kg0046-notice_of_award.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/24kg0046-notice_to_proceed.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 8.1853556,
+    "longitude": 124.1360167,
+    "coordinates": [
+      {
+        "componentId": "P00875415MN-CW1",
+        "description": "Construction of 3-Storey Classrooms - Construction of 3STY12CL, Samburon Integrated School, Linamon, Lanao del Norte",
+        "latitude": 8.1853556,
+        "longitude": 124.1360167,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 13,
+      "latestImageDate": "2025-06-24 02:44:57.764000",
+      "hasImages": true
+    }
+  }
+}

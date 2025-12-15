@@ -1,0 +1,121 @@
+{
+  "data": {
+    "contractId": "18C00055",
+    "description": "CONSTRUCTION OF GROUNDSILLS ACROSS PASIG-POTRERO RIVER AT DOWNSTREAM OF MANCATIAN BRIDGE, ANGELES-PORAC RIVER AT DOWNSTREAM OF MANCATIAN BRIDGE (GROUNDSILL NO. 2), ANGELES-PORAC, PAMPANGA",
+    "category": "Flood Control and Drainage",
+    "status": "Completed",
+    "budget": 298519086.62,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Central Office",
+      "province": "Flood Control Management Cluster",
+      "infraType": "Flood Control and Drainage",
+      "coordinates": {
+        "latitude": 15.031677,
+        "longitude": 120.625742,
+        "verified": false
+      }
+    },
+    "infraType": "Flood Control and Drainage",
+    "contractor": "NORTHERN BUILDERS (8789) / ALL EML CONSTRUCTION CORPORATION (FORMERLY: E.M.L. CONSTRUCTION & TRADING) (10151)",
+    "startDate": "2018-11-15",
+    "completionDate": "2022-03-05",
+    "infraYear": "2018",
+    "contractEffectivityDate": "2018-11-15",
+    "expiryDate": "2022-03-05",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2018 OO-2",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00222178LZ-CW1",
+        "description": "Construction of Groundsill - Construction of Groundsills Across Pasig-Potrero River at Downstream of Mancatian Bridge, Angeles-Porac River, Groundsill No. 2: Sta. 0+336, including ROW",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Construction of Groundsill",
+        "region": "Region III",
+        "province": "PAMPANGA",
+        "coordinates": {
+          "latitude": 15.031677,
+          "longitude": 120.625742,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "ALL EML CONSTRUCTION CORPORATION (FORMERLY: E.M.L. CONSTRUCTION & TRADING), NORTHERN BUILDERS",
+    "bidders": [
+      {
+        "name": "NORTHERN BUILDERS (8789) / ALL EML CONSTRUCTION CORPORATION (FORMERLY: E.M.L. CONSTRUCTION & TRADING) (10151) (JV ID: JV-18-0109)",
+        "pcabId": "",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "C.M. PANCHO CONSTRUCTION, INCORPORATED (183)",
+        "pcabId": "183",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "J.D. LEGASPI CONSTRUCTION (9608)",
+        "pcabId": "9608",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "LEADWAY CONSTRUCTION & DEVELOPMENT CORPORATION (4378)",
+        "pcabId": "4378",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "R.D. POLICARPIO & COMPANY INC. (4414)",
+        "pcabId": "4414",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION OF GROUNDSILLS ACROSS PASIG-POTRERO RIVER AT DOWNSTREAM OF MANCATIAN BRIDGE, ANGELES-PORAC RIVER AT DOWNSTREAM OF MANCATIAN BRIDGE (GROUNDSILL NO. 2), ANGELES-PORAC, PAMPANGA",
+      "abc": "329866874.58",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2018-06-11 00:00:00.0000000",
+      "bidSubmissionDeadline": "2018-07-18 00:00:00.0000000",
+      "dateOfAward": "2018-08-28 00:00:00.0000000",
+      "awardAmount": "271587564.1"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/18c00055 & 18C00054.rar",
+      "contractAgreement": "",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/NOA 18C00055.pdf",
+      "noticeToProceed": "",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 15.031677,
+    "longitude": 120.625742,
+    "coordinates": [
+      {
+        "componentId": "P00222178LZ-CW1",
+        "description": "Construction of Groundsill - Construction of Groundsills Across Pasig-Potrero River at Downstream of Mancatian Bridge, Angeles-Porac River, Groundsill No. 2: Sta. 0+336, including ROW",
+        "latitude": 15.031677,
+        "longitude": 120.625742,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "data": {
+    "contractId": "16DJ0057",
+    "description": "OFF CARRIAGEWAY INCLUDING DRAINAGE, TERTIARY ROADS, IMPROVEMENT OF INTERSECTION ALONG LUTUCAN-GUISGUIS PORT ROAD S02003LZ AND QUEZON ECO-TOURISM ROAD INTERSECTION, K0124+596-K0124+700 SARIAYA, QUEZON",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 8525999.46,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region IV-A",
+      "province": "Quezon 2nd DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 13.8576567660894,
+        "longitude": 121.497053841233,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "MGDJ CONSTRUCTION (29352)",
+    "startDate": "2017-02-09",
+    "completionDate": "2017-08-06",
+    "infraYear": "2017",
+    "contractEffectivityDate": "2017-02-09",
+    "expiryDate": "2017-08-06",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - Flood Control/Hydraulics/Drainage, Roads: Construction - PCCP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00107102LZ-CW1",
+        "description": "Off-Carriageway Improvement: Flaring of Intersections / Improvement of Intersections - Lutucan-Guisguis Port Rd and Quezon-Eco Tourism Rd Intersection - K0124 + 596 - K0124 + 700",
+        "infraType": "Roads",
+        "typeOfWork": "Off-Carriageway Improvement: Flaring of Intersections / Improvement of Intersections",
+        "region": "Region IV-A",
+        "province": "QUEZON",
+        "coordinates": {
+          "latitude": 13.8576567660894,
+          "longitude": 121.497053841233,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "MGDJ CONSTRUCTION",
+    "bidders": [
+      {
+        "name": "MGDJ CONSTRUCTION (29352)",
+        "pcabId": "29352",
+        "participation": 100,
+        "isWinner": true
+      }
+    ],
+    "procurement": {
+      "contractName": "OFF CARRIAGEWAY INCLUDING DRAINAGE, TERTIARY ROADS, IMPROVEMENT OF INTERSECTION ALONG LUTUCAN-GUISGUIS PORT ROAD S02003LZ AND QUEZON ECO-TOURISM ROAD INTERSECTION,  K0124+596-K0124+700 SARIAYA, QUEZON",
+      "abc": "8526000.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-10-26 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-11-15 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "8,097,754.35"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/16dj0057 contract.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/16dj0057 award.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/16dj0057 contract.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 13.8576567660894,
+    "longitude": 121.497053841233,
+    "coordinates": [
+      {
+        "componentId": "P00107102LZ-CW1",
+        "description": "Off-Carriageway Improvement: Flaring of Intersections / Improvement of Intersections - Lutucan-Guisguis Port Rd and Quezon-Eco Tourism Rd Intersection - K0124 + 596 - K0124 + 700",
+        "latitude": 13.8576567660894,
+        "longitude": 121.497053841233,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "data": {
+    "contractId": "16GJ0041",
+    "description": "NATIONAL ROAD LIGHTING PROGRAM, BENIGNO S. AQUINO AVENUE (COMPLETION) ILOILO-JARO DIVERSION ROAD-PHASE I, ILOILO CITY K0002+761-K0004+900",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 20963041.61,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region VI",
+      "province": "Iloilo City DEO",
+      "infraType": "Roads",
+      "coordinates": null
+    },
+    "infraType": "Roads",
+    "contractor": "TRAFFIC SUPPLIES & CONSTRUCTION CORP. (19584)",
+    "startDate": "2016-04-12",
+    "completionDate": "2016-07-25",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-04-12",
+    "expiryDate": "2016-07-25",
+    "nysReason": null,
+    "programName": "Outside Infra",
+    "sourceOfFunds": "Outside Infra - Special Road Support Fund 2016",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00090013VS-CW1",
+        "description": "Road Safety: Street Lighting - National Road Lighting Program (Civil Works) package 10 along Benigno S Aquino Ave Completion Iloilo - Jaro Diversion Road, Phase I, Iloilo City, K0002+761 to K0004+900",
+        "infraType": "Roads",
+        "typeOfWork": "Road Safety: Street Lighting",
+        "region": "Region VI",
+        "province": "ILOILO",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "TRAFFIC SUPPLIES & CONSTRUCTION CORP.",
+    "bidders": [
+      {
+        "name": "TRAFFIC SUPPLIES & CONSTRUCTION CORP. (19584)",
+        "pcabId": "19584",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "G.F. FALCIS CONSTRUCTION & SUPPLY (26147)",
+        "pcabId": "26147",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "NATIONAL ROAD LIGHTING PROGRAM, BENIGNO S. AQUINO AVENUE (COMPLETION) ILOILO-JARO DIVERSION ROAD-PHASE I, ILOILO CITY K0002+761-K0004+900",
+      "abc": "22066608.27",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-02-24 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-03-16 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "20,963,041.61"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/16gj0041_noa.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/16gj0041_ntp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

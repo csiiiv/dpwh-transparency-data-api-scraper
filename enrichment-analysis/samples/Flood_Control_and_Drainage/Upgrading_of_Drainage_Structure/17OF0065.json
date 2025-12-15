@@ -1,0 +1,91 @@
+{
+  "data": {
+    "contractId": "17OF0065",
+    "description": "REHABILITATION AND IMPROVEMENT OF BIAK NA BATO ST., QUEZON CITY",
+    "category": "Flood Control and Drainage",
+    "status": "Completed",
+    "budget": 18423341.57,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "National Capital Region",
+      "province": "Quezon City 1st DEO",
+      "infraType": "Flood Control and Drainage",
+      "coordinates": null
+    },
+    "infraType": "Flood Control and Drainage",
+    "contractor": "D.R. ROBLES CONSTRUCTION (28559)",
+    "startDate": "2017-08-03",
+    "completionDate": "2020-01-01",
+    "infraYear": "2017",
+    "contractEffectivityDate": "2017-08-03",
+    "expiryDate": "2018-11-25",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2017 MFO-2",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00120443LZ-CW1",
+        "description": "Upgrading of Drainage Structure - Rehabilitation and Improvement of Biak na Bato St., Quezon City",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Upgrading of Drainage Structure",
+        "region": "National Capital Region",
+        "province": "METROPOLITAN MANILA",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "D.R. ROBLES CONSTRUCTION",
+    "bidders": [
+      {
+        "name": "D.R. ROBLES CONSTRUCTION (28559)",
+        "pcabId": "28559",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "E.L. ANOLIN CONSTRUCTION (35406)",
+        "pcabId": "35406",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "RAIN CONSTRUCTION CORPORATION (FORMERLY RAIN CONST (15959)",
+        "pcabId": "15959",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "REHABILITATION AND IMPROVEMENT OF BIAK NA BATO ST., QUEZON CITY",
+      "abc": "19599980.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2017-04-27 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-06-20 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "18423341.57"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/BOQ 17OF0065.rar",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/17of0065_contract.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/17of0065_noa.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/17of0065_ntp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

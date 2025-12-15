@@ -1,0 +1,109 @@
+{
+  "data": {
+    "contractId": "21AB0123",
+    "description": "INSTALLATION OF ROAD SAFETY DEVICES ALONG MANILA NORTH ROAD , K0472+200 TO K0473+200 , BATAC CITY , ILOCOS NORTE",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 19300000,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region I",
+      "province": "Ilocos Norte 2nd DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 18.0763678,
+        "longitude": 120.5622675,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "MEGAPOLITAN BUILDERS AND CONSTRUCTION SUPPLY (38288)",
+    "startDate": "2021-03-08",
+    "completionDate": "2021-07-11",
+    "infraYear": "2021",
+    "contractEffectivityDate": "2021-03-08",
+    "expiryDate": "2021-07-08",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2021 CSSP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00534598LZ-CW1",
+        "description": "Road Safety: Guardrails (Old) - Installation of Road Safety Devices along Manila North Road,K0472+200 to K0473+200, Batac City, Ilocos Norte",
+        "infraType": "Roads",
+        "typeOfWork": "Road Safety: Guardrails (Old)",
+        "region": "Region I",
+        "province": "ILOCOS NORTE",
+        "coordinates": {
+          "latitude": 18.0763678,
+          "longitude": 120.5622675,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "MEGAPOLITAN BUILDERS AND CONSTRUCTION SUPPLY",
+    "bidders": [
+      {
+        "name": "MEGAPOLITAN BUILDERS AND CONSTRUCTION SUPPLY (38288)",
+        "pcabId": "38288",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "VCD CONSTRUCTION (13949)",
+        "pcabId": "13949",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "ZEDIK BUILDERS (33330)",
+        "pcabId": "33330",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "INSTALLATION OF ROAD SAFETY DEVICES ALONG MANILA NORTH ROAD , K0472+200 TO K0473+200 , BATAC CITY , ILOCOS NORTE",
+      "abc": "19515123.45",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2020-12-10 00:00:00.0000000",
+      "bidSubmissionDeadline": "2020-12-29 00:00:00.0000000",
+      "dateOfAward": "2021-02-22 00:00:00.0000000",
+      "awardAmount": "18734518.51"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/bid docs 21AB00123.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/CA 21ab0123.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/21ab0123_noa_and_reso.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/CA 21ab0123.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 18.0763678,
+    "longitude": 120.5622675,
+    "coordinates": [
+      {
+        "componentId": "P00534598LZ-CW1",
+        "description": "Road Safety: Guardrails (Old) - Installation of Road Safety Devices along Manila North Road,K0472+200 to K0473+200, Batac City, Ilocos Norte",
+        "latitude": 18.0763678,
+        "longitude": 120.5622675,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 2,
+      "latestImageDate": "2022-04-21 01:41:38.404000",
+      "hasImages": true
+    }
+  }
+}

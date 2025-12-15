@@ -1,0 +1,139 @@
+{
+  "data": {
+    "contractId": "17LB0280",
+    "description": "CONST. OF PEDESTRIAN OVERPASS AT DAVAO BUKIDNON ROAD JCT. BRGY. CATALUNAN PEQUENO K1698+075 DAVAO CI",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 12870.76,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region XI",
+      "province": "Davao City DEO",
+      "infraType": "Roads",
+      "coordinates": null
+    },
+    "infraType": "Roads",
+    "contractor": "MONOLITHIC CONSTRUCTION & CONCRETE PRODUCTS, INC. (5733)",
+    "startDate": "2017-11-01",
+    "completionDate": "2019-05-30",
+    "infraYear": "2017",
+    "contractEffectivityDate": "2017-11-01",
+    "expiryDate": "2018-05-30",
+    "nysReason": null,
+    "programName": "Outside Infra",
+    "sourceOfFunds": "Outside Infra - Special Road Support Fund 2017",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00190267MN-CW1",
+        "description": "Road Safety: Pedestrian Overpass - Pedestrian Overpass along Davao-Bukidnon Road Junction Bgy. Catalunan Peqeu±o, K1698+075",
+        "infraType": "Roads",
+        "typeOfWork": "Road Safety: Pedestrian Overpass",
+        "region": "Region XI",
+        "province": "DAVAO DEL SUR",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "MONOLITHIC CONSTRUCTION & CONCRETE PRODUCTS, INC.",
+    "bidders": [
+      {
+        "name": "MONOLITHIC CONSTRUCTION & CONCRETE PRODUCTS, INC. (5733)",
+        "pcabId": "5733",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "AGONG BUILDERS AND CONSTRUCTION SUPPLY, INC. (40494)",
+        "pcabId": "40494",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "BQPC CORPORATION (36768)",
+        "pcabId": "36768",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "FFJJ CONSTRUCTION (16712)",
+        "pcabId": "16712",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "JLACE BUILDERS CORPORATION (FOR. JLA CONSTRUCTION & SUPPLIES) (24503)",
+        "pcabId": "24503",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "KATNISS EVERDEEN CONSTRUCTION & SUPPLY (37864)",
+        "pcabId": "37864",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "NLC CONSTRUCTION AND SUPPLIES (36704)",
+        "pcabId": "36704",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "O. G. SANTOS CONSTRUCTION (2050)",
+        "pcabId": "2050",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "RELY CONSTRUCTION & SUPPLY INC.(FORMERLY: RELY CONSTRUCTION AND SUPPLY) (10433)",
+        "pcabId": "10433",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "RITZ BUILDERS CONSTRUCTION INC. (FORMERLY:RITZTOK CONSTRUCTION AND SUPPLY) (36070)",
+        "pcabId": "36070",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "TWO DEGREES CONSTRUCTION AND SUPPLY (36734)",
+        "pcabId": "36734",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONST. OF PEDESTRIAN OVERPASS AT DAVAO BUKIDNON ROAD JCT. BRGY. CATALUNAN PEQUENO K1698+075 DAVAO CI",
+      "abc": "12870000.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2017-09-11 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-09-28 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "12,573,466.60"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "",
+      "noticeOfAward": "",
+      "noticeToProceed": "",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

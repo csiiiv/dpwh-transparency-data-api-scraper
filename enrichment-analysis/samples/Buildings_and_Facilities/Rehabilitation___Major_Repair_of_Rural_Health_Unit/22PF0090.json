@@ -1,0 +1,97 @@
+{
+  "data": {
+    "contractId": "22PF0090",
+    "description": "CONSTRUCTION (COMPLETION) OF BARANGAY HEALTH STATION AT BASIL, TUBLAY, BENGUET",
+    "category": "Buildings and Facilities",
+    "status": "Completed",
+    "budget": 2964643.44,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Cordillera Administrative Region",
+      "province": "Benguet 2nd DEO",
+      "infraType": "Buildings and Facilities",
+      "coordinates": {
+        "latitude": 16.5132856,
+        "longitude": 120.6218328,
+        "verified": false
+      }
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "RIGHT ANCHOR CONSTRUCTION (37396)",
+    "startDate": "2022-06-20",
+    "completionDate": "2022-12-26",
+    "infraYear": "2022",
+    "contractEffectivityDate": "2022-06-20",
+    "expiryDate": "2022-12-26",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2022 CSSP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00641163LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Rural Health Unit - Construction (Completion) of Barangay Health Station at Basil, Tublay, Benguet",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Rehabilitation / Major Repair of Rural Health Unit",
+        "region": "Cordillera Administrative Region",
+        "province": "BENGUET",
+        "coordinates": {
+          "latitude": 16.5132856,
+          "longitude": 120.6218328,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "RIGHT ANCHOR CONSTRUCTION",
+    "bidders": [
+      {
+        "name": "RIGHT ANCHOR CONSTRUCTION (37396)",
+        "pcabId": "37396",
+        "participation": 100,
+        "isWinner": true
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION (COMPLETION) OF BARANGAY HEALTH STATION AT BASIL, TUBLAY, BENGUET",
+      "abc": "2970000.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2022-04-28 00:00:00.0000000",
+      "bidSubmissionDeadline": "2022-05-16 00:00:00.0000000",
+      "dateOfAward": "2022-05-27 00:00:00.0000000",
+      "awardAmount": "2964643.44"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/22PF0090 Basil BHS 3M PBD and Plans.pdf",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/22PF0090 CA.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/22PF0090 NOA.PDF",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/22PF0090 CA.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 16.5132856,
+    "longitude": 120.6218328,
+    "coordinates": [
+      {
+        "componentId": "P00641163LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Rural Health Unit - Construction (Completion) of Barangay Health Station at Basil, Tublay, Benguet",
+        "latitude": 16.5132856,
+        "longitude": 120.6218328,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 23,
+      "latestImageDate": "2023-11-21 00:21:20.818000",
+      "hasImages": true
+    }
+  }
+}

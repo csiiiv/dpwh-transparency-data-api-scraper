@@ -1,0 +1,109 @@
+{
+  "data": {
+    "contractId": "18CA0005",
+    "description": "LOCAL INFRASTRUCTURE PROGRAM-CONSTRUCTION OF TWO (2) STOREY-FOUR (4) CLASSROOM SCHOOL BUILDING, ADAMSON ELEMENTARY SCHOOLSAMAL, BATAAN",
+    "category": "Buildings and Facilities",
+    "status": "Completed",
+    "budget": 6722092,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region III",
+      "province": "Bataan 1st DEO",
+      "infraType": "Buildings and Facilities",
+      "coordinates": {
+        "latitude": 14.7605979,
+        "longitude": 120.4989433,
+        "verified": false
+      }
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "BUILDERS EXPONENT EMPIRE CORP. (FORMERLY: BUILDERS EXPONENT ENTERPRISE) (39617)",
+    "startDate": "2018-02-26",
+    "completionDate": "2018-06-19",
+    "infraYear": "2018",
+    "contractEffectivityDate": "2018-02-26",
+    "expiryDate": "2018-06-25",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2018 LP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00253114LZ-CW1",
+        "description": "Construction of 2-Storey Classrooms - Construction of 2STY-4CL School Building, Adamson Elementary School, Samal, Bataan",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of 2-Storey Classrooms",
+        "region": "Region III",
+        "province": "BATAAN",
+        "coordinates": {
+          "latitude": 14.7605979,
+          "longitude": 120.4989433,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "BUILDERS EXPONENT EMPIRE CORP. (FORMERLY: BUILDERS EXPONENT ENTERPRISE)",
+    "bidders": [
+      {
+        "name": "BUILDERS EXPONENT EMPIRE CORP. (FORMERLY: BUILDERS EXPONENT ENTERPRISE) (39617)",
+        "pcabId": "39617",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "A.S.V. CONSTRUCTION SUPPLY AND SERVICES (13490)",
+        "pcabId": "13490",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "SUPREME BUILDERS CONSTRUCTION AND TRADING (36299)",
+        "pcabId": "36299",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "LOCAL INFRASTRUCTURE PROGRAM-CONSTRUCTION OF TWO (2) STOREY-FOUR (4) CLASSROOM SCHOOL BUILDING, ADAMSON ELEMENTARY SCHOOL SAMAL, BATAAN",
+      "abc": "6929991.36",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2017-10-04 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-10-25 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "6722092"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/5. Contract Agreement.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/6. Notice of Award.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/7._18ca0005_notice_to_proceed.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 14.7605979,
+    "longitude": 120.4989433,
+    "coordinates": [
+      {
+        "componentId": "P00253114LZ-CW1",
+        "description": "Construction of 2-Storey Classrooms - Construction of 2STY-4CL School Building, Adamson Elementary School, Samal, Bataan",
+        "latitude": 14.7605979,
+        "longitude": 120.4989433,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

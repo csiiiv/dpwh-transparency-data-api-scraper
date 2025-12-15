@@ -1,0 +1,115 @@
+{
+  "data": {
+    "contractId": "16CK0166",
+    "description": "ASSETS PRESERV. OF NATL RD, REHAB/RECONST/UPGRADING OF DAMAGED PAVED NATL RD BASED ON PMS-HDM-4 ALON",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 9398425.31,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region III",
+      "province": "Tarlac 2nd DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 15.2633762576339,
+        "longitude": 120.560385464229,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "DUNGAN CONT'RS.& TDG. CORP (FORMERLY DUNGAN CONST. (19301)",
+    "startDate": "2017-02-16",
+    "completionDate": "2017-04-23",
+    "infraYear": "2017",
+    "contractEffectivityDate": "2017-02-16",
+    "expiryDate": "2017-04-23",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2017 MFO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00102790LZ-CW1",
+        "description": "Reconstruction from Asphalt to Concrete - Bamban Poblacion Rd - K0099 + (-1024)  - K0099 + (-897), K0099 + (-004) -  K0099 + 487, K0099 + 1030 - K0099 + 1249",
+        "infraType": "Roads",
+        "typeOfWork": "Reconstruction from Asphalt to Concrete",
+        "region": "Region III",
+        "province": "TARLAC",
+        "coordinates": {
+          "latitude": 15.2633762576339,
+          "longitude": 120.560385464229,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "DUNGAN CONT'RS.& TDG. CORP (FORMERLY DUNGAN CONST.",
+    "bidders": [
+      {
+        "name": "DUNGAN CONT'RS.& TDG. CORP (FORMERLY DUNGAN CONST. (19301)",
+        "pcabId": "19301",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "DAMICO BUILDERS & SUPPLIES (30355)",
+        "pcabId": "30355",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "MCB ZAMORA CONSTRUCTION & SUPPLY (32006)",
+        "pcabId": "32006",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "STO. CRISTO CONSTRUCTION & TRADING INC. (FOR: STO. CRISTO CONSTRUCTION & TRADING) (26096)",
+        "pcabId": "26096",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "ASSETS PRESERV. OF NATL RD, REHAB/RECONST/UPGRADING OF DAMAGED PAVED NATL RD BASED ON PMS-HDM-4 ALON",
+      "abc": "9897447.57",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-11-12 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-12-01 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "9,398,425.31"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/CONTRACT-16CK0166.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/NOA-16CK0166.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/CONTRACT-16CK0166.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 15.2633762576339,
+    "longitude": 120.560385464229,
+    "coordinates": [
+      {
+        "componentId": "P00102790LZ-CW1",
+        "description": "Reconstruction from Asphalt to Concrete - Bamban Poblacion Rd - K0099 + (-1024)  - K0099 + (-897), K0099 + (-004) -  K0099 + 487, K0099 + 1030 - K0099 + 1249",
+        "latitude": 15.2633762576339,
+        "longitude": 120.560385464229,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

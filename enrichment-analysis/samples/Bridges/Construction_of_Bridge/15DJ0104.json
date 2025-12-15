@@ -1,0 +1,109 @@
+{
+  "data": {
+    "contractId": "15DJ0104",
+    "description": "CONSTRUCTION/REPAIR/REHABILITATION/IMPROVEMENT OF VARIOUS INFRASTRUCTURE INCLUDING LOCAL PROJECTS, ROADS AND BRIDGES, LOCAL ROADS, RESTORATION OF USIW BRIDGE, BRGY. QUIPOT, TIAONG, QUEZON",
+    "category": "Bridges",
+    "status": "Completed",
+    "budget": 5915249.55,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region IV-A",
+      "province": "Quezon 2nd DEO",
+      "infraType": "Bridges",
+      "coordinates": {
+        "latitude": 13.9539782174918,
+        "longitude": 121.314237364061,
+        "verified": false
+      }
+    },
+    "infraType": "Bridges",
+    "contractor": "JBL BUILDERS (36227)",
+    "startDate": "2016-01-28",
+    "completionDate": "2016-08-24",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-01-28",
+    "expiryDate": "2016-08-24",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - Bridges-Rehabilitation-Steel, Roads: Construction - PCCP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00047102LZ-CW1",
+        "description": "Construction of Bridge - Restoration of Usiw Bridge, Brgy. Quipot, Tiaong, Quezon",
+        "infraType": "Bridges",
+        "typeOfWork": "Construction of Bridge",
+        "region": "Region IV-A",
+        "province": "QUEZON",
+        "coordinates": {
+          "latitude": 13.9539782174918,
+          "longitude": 121.314237364061,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "JBL BUILDERS",
+    "bidders": [
+      {
+        "name": "JBL BUILDERS (36227)",
+        "pcabId": "36227",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "E.A. AYALA CONSTRUCTION AND SUPPLY (37139)",
+        "pcabId": "37139",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "MGDJ CONSTRUCTION (29352)",
+        "pcabId": "29352",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION/REPAIR/REHABILITATION/IMPROVEMENT OF VARIOUS INFRASTRUCTURE INCLUDING LOCAL PROJECTS, ROADS AND BRIDGES, LOCAL ROADS, RESTORATION OF USIW BRIDGE, BRGY. QUIPOT, TIAONG, QUEZON",
+      "abc": "5915249.81",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-11-09 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-12-01 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "5578386.0500000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/march/15dj0104 contract.pdf",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/march/15dj0104 award_1.pdf",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/march/15dj0104 contract.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 13.9539782174918,
+    "longitude": 121.314237364061,
+    "coordinates": [
+      {
+        "componentId": "P00047102LZ-CW1",
+        "description": "Construction of Bridge - Restoration of Usiw Bridge, Brgy. Quipot, Tiaong, Quezon",
+        "latitude": 13.9539782174918,
+        "longitude": 121.314237364061,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

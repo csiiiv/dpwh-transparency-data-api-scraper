@@ -1,0 +1,115 @@
+{
+  "data": {
+    "contractId": "15JC0114",
+    "description": "PROPOSED ASPHALT TO CONCRETE ALONG LILOY - IPIL ROAD, K1987+180 - K1988+040 3RD DISTRICT, ZN.",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 23946582.33,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region IX",
+      "province": "Region IX",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 7.95959061764265,
+        "longitude": 122.650368029331,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "MIN CONSTRUCTION (14656)",
+    "startDate": "2016-03-17",
+    "completionDate": "2016-08-16",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-03-17",
+    "expiryDate": "2016-08-18",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00009025MN-CW1",
+        "description": "Road Upgrading Asphalt to Concrete - Liloy - Ipil Rd - K1987+180 - K1988+040",
+        "infraType": "Roads",
+        "typeOfWork": "Road Upgrading Asphalt to Concrete",
+        "region": "Region IX",
+        "province": "ZAMBOANGA DEL NORTE",
+        "coordinates": {
+          "latitude": 7.95959061764265,
+          "longitude": 122.650368029331,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "MIN CONSTRUCTION",
+    "bidders": [
+      {
+        "name": "MIN CONSTRUCTION (14656)",
+        "pcabId": "14656",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "EZJONES CONSTRUCTION INC. (34462)",
+        "pcabId": "34462",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "RUDHIL CONSTRUCTION & ENTERPRISES, INC.(FORMERLY R (22901)",
+        "pcabId": "22901",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "TEDDIE CONSTRUCTION DEVELOPMENT, INC. (6313)",
+        "pcabId": "6313",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "PROPOSED ASPHALT TO CONCRETE ALONG LILOY - IPIL ROAD, K1987+180 - K1988+040 3RD DISTRICT, ZN.",
+      "abc": "24132500.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-01-08 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-01-28 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "23522457.5700000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/15jc0114_noa.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/15jc0114_ntp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 7.95959061764265,
+    "longitude": 122.650368029331,
+    "coordinates": [
+      {
+        "componentId": "P00009025MN-CW1",
+        "description": "Road Upgrading Asphalt to Concrete - Liloy - Ipil Rd - K1987+180 - K1988+040",
+        "latitude": 7.95959061764265,
+        "longitude": 122.650368029331,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

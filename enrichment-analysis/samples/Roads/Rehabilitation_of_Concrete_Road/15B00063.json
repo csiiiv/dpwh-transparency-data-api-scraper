@@ -1,0 +1,97 @@
+{
+  "data": {
+    "contractId": "15B00063",
+    "description": "REHAB/RECON/UPGRADING OF DAMAGED PAVED NAT'L RD. INCLUDING DRAINAGE BASED ON PVM'T MNG'T SYSTEM(HDM-",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 22902454.1,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region II",
+      "province": "Region II",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 16.1579345090545,
+        "longitude": 120.937705610914,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "JANN-NORRIS CONSTRUCTION AND SUPPLIES INC. (FORMELY: JANN-NORRIS CONSTRUCTION AND SUPPLIES) (35880)",
+    "startDate": "2016-01-24",
+    "completionDate": "2016-06-30",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-01-24",
+    "expiryDate": "2016-07-06",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00000851LZ-CW1",
+        "description": "Rehabilitation of Concrete Road - Daang Maharlika (LZ) - K0214+993 - K0214+1043, K0219+955 - K0220+516, K0222+188 - K0222+458, K0223+767 - K0223+883, K0238+000 - K0238+035, K0238+070 - K0238+110, K0238+145 - K0238+885",
+        "infraType": "Roads",
+        "typeOfWork": "Rehabilitation of Concrete Road",
+        "region": "Region II",
+        "province": "NUEVA VIZCAYA",
+        "coordinates": {
+          "latitude": 16.1579345090545,
+          "longitude": 120.937705610914,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "JANN-NORRIS CONSTRUCTION AND SUPPLIES INC. (FORMELY: JANN-NORRIS CONSTRUCTION AND SUPPLIES)",
+    "bidders": [
+      {
+        "name": "JANN-NORRIS CONSTRUCTION AND SUPPLIES INC. (FORMELY: JANN-NORRIS CONSTRUCTION AND SUPPLIES) (35880)",
+        "pcabId": "35880",
+        "participation": 100,
+        "isWinner": true
+      }
+    ],
+    "procurement": {
+      "contractName": "REHAB/RECON/UPGRADING OF DAMAGED PAVED NAT'L RD. INCLUDING DRAINAGE BASED ON PVM'T MNG'T SYSTEM(HDM-",
+      "abc": "24352575.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-11-03 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-12-07 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "23507082.5800000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/may/15b00063-Cont.agrremnt.pdf",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/may/15b00063-Noa.pdf",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/may/15b00063-Cont.agrremnt.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 16.1579345090545,
+    "longitude": 120.937705610914,
+    "coordinates": [
+      {
+        "componentId": "P00000851LZ-CW1",
+        "description": "Rehabilitation of Concrete Road - Daang Maharlika (LZ) - K0214+993 - K0214+1043, K0219+955 - K0220+516, K0222+188 - K0222+458, K0223+767 - K0223+883, K0238+000 - K0238+035, K0238+070 - K0238+110, K0238+145 - K0238+885",
+        "latitude": 16.1579345090545,
+        "longitude": 120.937705610914,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

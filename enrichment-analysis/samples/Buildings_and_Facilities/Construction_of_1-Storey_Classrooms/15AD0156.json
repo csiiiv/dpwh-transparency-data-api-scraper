@@ -1,0 +1,97 @@
+{
+  "data": {
+    "contractId": "15AD0156",
+    "description": "CONSTN/COMPLETION OF 2 CLASSROOMS BLDG,DILI NAT'L HIGH SCH.STA.CRUZ,ILOCOS SUR",
+    "category": "Buildings and Facilities",
+    "status": "Completed",
+    "budget": 1637501.56,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region I",
+      "province": "Ilocos Sur 2nd DEO",
+      "infraType": "Buildings and Facilities",
+      "coordinates": {
+        "latitude": 17.030919,
+        "longitude": 120.454117,
+        "verified": false
+      }
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "PRECIOUS CONSTRUCTION (32995)",
+    "startDate": "2016-01-26",
+    "completionDate": "2016-06-27",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-01-26",
+    "expiryDate": "2016-05-19",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 Locally Funded Projects",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00040063LZ-CW1",
+        "description": "Construction of 1-Storey Classrooms - Construction of 2 Classroom Bldg. at Dili National High School, Sta Cruz, Ilocos Sur",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of 1-Storey Classrooms",
+        "region": "Region I",
+        "province": "ILOCOS SUR",
+        "coordinates": {
+          "latitude": 17.030919,
+          "longitude": 120.454117,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "PRECIOUS CONSTRUCTION",
+    "bidders": [
+      {
+        "name": "PRECIOUS CONSTRUCTION (32995)",
+        "pcabId": "32995",
+        "participation": 100,
+        "isWinner": true
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTN/COMPLETION OF 2 CLASSROOMS BLDG,DILI NAT'L HIGH SCH.STA.CRUZ,ILOCOS SUR",
+      "abc": "1691500.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-11-24 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-12-10 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "1637502.2300000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/april/15AD0156 CA091.pdf",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/april/15AD0156 NOA090.pdf",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/april/15AD0156 CA091.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 17.030919,
+    "longitude": 120.454117,
+    "coordinates": [
+      {
+        "componentId": "P00040063LZ-CW1",
+        "description": "Construction of 1-Storey Classrooms - Construction of 2 Classroom Bldg. at Dili National High School, Sta Cruz, Ilocos Sur",
+        "latitude": 17.030919,
+        "longitude": 120.454117,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

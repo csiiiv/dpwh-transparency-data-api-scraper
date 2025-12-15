@@ -1,0 +1,115 @@
+{
+  "data": {
+    "contractId": "15HD0112",
+    "description": "CONSTRUCTION OF FLOOD CONTROL/FACILITIES, BOGO-CURVA-MEDELLIN-DAANBANTAYAN ROAD, MEDELLIN, CEBU",
+    "category": "Flood Control and Drainage",
+    "status": "Completed",
+    "budget": 41896817.88,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region VII",
+      "province": "Cebu 4th DEO",
+      "infraType": "Flood Control and Drainage",
+      "coordinates": null
+    },
+    "infraType": "Flood Control and Drainage",
+    "contractor": "ZION CONSTRUCTION(FORMERLY MASTERPIECE CONST. & SU (14881)",
+    "startDate": "2016-02-22",
+    "completionDate": "2016-08-10",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-02-22",
+    "expiryDate": "2016-08-10",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - Flood Control/Hydraulics/Drainage, Flood Control/Hydraulics/River Control",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00020829VS-CW1",
+        "description": "Construction of Drainage Structure - Construction of Flood Control Drainage/Facilities, Bogo-Curva-Medellin-Daan Bantayan Road, Medellin, Cebu",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Construction of Drainage Structure",
+        "region": "Region VII",
+        "province": "CEBU",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "ZION CONSTRUCTION(FORMERLY MASTERPIECE CONST. & SU",
+    "bidders": [
+      {
+        "name": "ZION CONSTRUCTION(FORMERLY MASTERPIECE CONST. & SU (14881)",
+        "pcabId": "14881",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "ASCENTIA CONSTRUCTION, INC. (35984)",
+        "pcabId": "35984",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "DINAH RBS CONSTRUCTION AND SUPPLY INCORPORATED (FORMERLY: DINAH JANE CONSTRUCTION AND SUPPLY) (33925)",
+        "pcabId": "33925",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "GOLDFIN CONSTRUCTION & DEVELOPMENT CORPORATION (FORMERLY: GOLDFIN CONSTRUCTION) (21343)",
+        "pcabId": "21343",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "JIAN ARMEL RICHARD CHRISTERSON (JARC) CONSTRUCTION & MARINE SERVICES CORPORATION (FORMERLY:J.A.R.C. (33057)",
+        "pcabId": "33057",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "MPJR BUILDERS COMPANY (20446)",
+        "pcabId": "20446",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "SQUARE CUBE CONSTRUCTION(FORMERLY SQUARE CUBE TRAD (25120)",
+        "pcabId": "25120",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION OF FLOOD CONTROL/FACILITIES, BOGO-CURVA-MEDELLIN-DAANBANTAYAN ROAD, MEDELLIN, CEBU",
+      "abc": "44100000.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-10-29 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-01-19 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "41896817.8800000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/april/15HD0112-Contract.pdf",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/april/15HD0112-Award.pdf",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/april/15HD0112-Contract.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

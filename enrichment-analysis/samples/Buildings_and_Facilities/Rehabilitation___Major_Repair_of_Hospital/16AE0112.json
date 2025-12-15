@@ -1,0 +1,109 @@
+{
+  "data": {
+    "contractId": "16AE0112",
+    "description": "CONTINUATION OF CLINICAL AREA AT BALAOAN DISTRICT HOSPITAL, BALAOAN, LA UNION",
+    "category": "Buildings and Facilities",
+    "status": "Completed",
+    "budget": 3070121.14,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region I",
+      "province": "La Union 1st DEO",
+      "infraType": "Buildings and Facilities",
+      "coordinates": {
+        "latitude": 16.7765037837918,
+        "longitude": 120.412349204033,
+        "verified": false
+      }
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "E.E. MADAYAG CONSTRUCTION (25029)",
+    "startDate": "2017-04-28",
+    "completionDate": "2017-10-24",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2017-04-28",
+    "expiryDate": "2017-09-24",
+    "nysReason": null,
+    "programName": "Outside Infra",
+    "sourceOfFunds": "Outside Infra - GAA 2016 DOH HFEP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00061097LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Hospital - Continuation of Clinical Area, Balaoan District Hospital, Balaloan, La Union",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Rehabilitation / Major Repair of Hospital",
+        "region": "Region I",
+        "province": "LA UNION",
+        "coordinates": {
+          "latitude": 16.7765037837918,
+          "longitude": 120.412349204033,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "E.E. MADAYAG CONSTRUCTION",
+    "bidders": [
+      {
+        "name": "E.E. MADAYAG CONSTRUCTION (25029)",
+        "pcabId": "25029",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "J.A. OLIVAR ENGINEERING DESIGN, CONSTRUCTION AND S (35602)",
+        "pcabId": "35602",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "MY BUILDERS AND CONSTRUCTION (22687)",
+        "pcabId": "22687",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONTINUATION OF CLINICAL AREA AT BALAOAN DISTRICT HOSPITAL, BALAOAN, LA UNION",
+      "abc": "3233000.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2017-02-22 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-03-15 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "3,070,121.14"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/16AE0112.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/16AE0112 Contract.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/16AE0112 Award.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/16AE0112 Contract.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 16.7765037837918,
+    "longitude": 120.412349204033,
+    "coordinates": [
+      {
+        "componentId": "P00061097LZ-CW1",
+        "description": "Rehabilitation / Major Repair of Hospital - Continuation of Clinical Area, Balaoan District Hospital, Balaloan, La Union",
+        "latitude": 16.7765037837918,
+        "longitude": 120.412349204033,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

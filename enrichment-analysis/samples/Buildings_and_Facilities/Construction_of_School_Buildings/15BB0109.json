@@ -1,0 +1,85 @@
+{
+  "data": {
+    "contractId": "15BB0109",
+    "description": "CONST. OF SCHOOL BLDG AT LAOC PRIMARY SCHOOL SITIO LAOC, BRGY PATENG, GONZAGA, CAGAYAN 1ST LD",
+    "category": "Buildings and Facilities",
+    "status": "Completed",
+    "budget": 1964839.19,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region II",
+      "province": "Cagayan 1st DEO",
+      "infraType": "Buildings and Facilities",
+      "coordinates": null
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "ERICVONNE CONSTRUCTION (32709)",
+    "startDate": "2016-01-21",
+    "completionDate": "2016-07-07",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-01-21",
+    "expiryDate": "2016-04-19",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 Locally Funded Projects",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00040081LZ-CW1",
+        "description": "Construction of School Buildings - Construction of School Building at Looc Primary School, Sitio Looc, Brgy. Pateng, Gonzaga, Cagayan 1st LD",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of School Buildings",
+        "region": "Region II",
+        "province": "CAGAYAN",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "ERICVONNE CONSTRUCTION",
+    "bidders": [
+      {
+        "name": "ERICVONNE CONSTRUCTION (32709)",
+        "pcabId": "32709",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "CAMIA CONST. DEVELOPMENT CORPORATION (FORMERLY:CAM (20506)",
+        "pcabId": "20506",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONST. OF SCHOOL BLDG AT LAOC PRIMARY SCHOOL SITIO LAOC, BRGY PATENG, GONZAGA, CAGAYAN 1ST LD",
+      "abc": "1980000.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-10-14 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-11-03 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "1964849.5500000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/march/15BB0109-002.pdf",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/march/15BB0109-003.pdf",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/march/15BB0109-002.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

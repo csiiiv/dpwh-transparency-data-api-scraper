@@ -1,0 +1,91 @@
+{
+  "data": {
+    "contractId": "16CJ0032",
+    "description": "NATIONAL ROAD LIGHTING PROGRAM, ROMULO HIGHWAY, FROM SAN ROQUE TO TIBAG, TARLAC, KO124+000-KO128+267",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 44646572.17,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region III",
+      "province": "Tarlac DEO",
+      "infraType": "Roads",
+      "coordinates": null
+    },
+    "infraType": "Roads",
+    "contractor": "HI-TRI DEVELOPMENT CORPORATION (1758)",
+    "startDate": "2016-03-29",
+    "completionDate": "2016-10-24",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-03-29",
+    "expiryDate": "2016-10-24",
+    "nysReason": null,
+    "programName": "Outside Infra",
+    "sourceOfFunds": "Outside Infra - Special Road Support Fund 2016",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00090007LZ-CW1",
+        "description": "Road Safety: Street Lighting - National Road Lighting Program (Civil Works) package 10 along Romulo Highway, from San Roque to Tibag, Tarlac. K0124+000 to K0128+267",
+        "infraType": "Roads",
+        "typeOfWork": "Road Safety: Street Lighting",
+        "region": "Region III",
+        "province": "TARLAC",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "HI-TRI DEVELOPMENT CORPORATION",
+    "bidders": [
+      {
+        "name": "HI-TRI DEVELOPMENT CORPORATION (1758)",
+        "pcabId": "1758",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "BMK CONSTRUCTION CORPORATION (FORMERLY B.M.K. CONSTRUCTION) (8292)",
+        "pcabId": "8292",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "NORTHERN BUILDERS (8789)",
+        "pcabId": "8789",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "NATIONAL ROAD LIGHTING PROGRAM, ROMULO HIGHWAY, FROM SAN ROQUE TO TIBAG, TARLAC, KO124+000-KO128+267",
+      "abc": "47040000.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-02-24 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-03-14 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "44,646,572.17"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/july/16CJ0032004.pdf",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/july/16CJ0032001.pdf",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/july/16CJ0032004.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

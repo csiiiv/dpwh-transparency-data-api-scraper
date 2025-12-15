@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "15B00062",
+    "description": "CONST'N OF CABAGAN-STA.MARIA BRIDGE ALONG CABAGAN-STA.MARIA RD. (COMPLETION), PROVINCE OF ISABELA",
+    "category": "Bridges",
+    "status": "On-Going",
+    "budget": 236444228.05,
+    "amountPaid": 0,
+    "progress": 82.05,
+    "location": {
+      "region": "Region II",
+      "province": "Region II",
+      "infraType": "Bridges",
+      "coordinates": {
+        "latitude": 17.4486669512979,
+        "longitude": 121.749384231132,
+        "verified": false
+      }
+    },
+    "infraType": "Bridges",
+    "contractor": "R.D. INTERIOR JUNIOR CONSTRUCTION (6483)",
+    "startDate": "2016-03-24",
+    "completionDate": null,
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-03-24",
+    "expiryDate": "2019-03-21",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - Bridges-Construction-Concrete, Bridges-Construction-Steel",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00001862LZ-CW1",
+        "description": "Replacement of Bridge - Cabagan-Sta.Maria Br. (B03236LZ) along Cabagan-Sta Maria Rd (Completion)",
+        "infraType": "Bridges",
+        "typeOfWork": "Replacement of Bridge",
+        "region": "Region II",
+        "province": "ISABELA",
+        "coordinates": {
+          "latitude": 17.4486669512979,
+          "longitude": 121.749384231132,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "R.D. INTERIOR JUNIOR CONSTRUCTION",
+    "bidders": [
+      {
+        "name": "R.D. INTERIOR JUNIOR CONSTRUCTION (6483)",
+        "pcabId": "6483",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "ROMA CONSTRUCTION & DEVELOPMENT CORPORATION (6514)",
+        "pcabId": "6514",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONST'N OF CABAGAN-STA.MARIA BRIDGE ALONG CABAGAN-STA.MARIA RD. (COMPLETION), PROVINCE OF ISABELA",
+      "abc": "236444228.05",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-11-03 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-12-07 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "226265004.9400000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/15b00060-cont.agreemnt.pdf",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/may/15b00062-Noa.pdf",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/may/15b00062-Cont.agreemnt.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 17.4486669512979,
+    "longitude": 121.749384231132,
+    "coordinates": [
+      {
+        "componentId": "P00001862LZ-CW1",
+        "description": "Replacement of Bridge - Cabagan-Sta.Maria Br. (B03236LZ) along Cabagan-Sta Maria Rd (Completion)",
+        "latitude": 17.4486669512979,
+        "longitude": 121.749384231132,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

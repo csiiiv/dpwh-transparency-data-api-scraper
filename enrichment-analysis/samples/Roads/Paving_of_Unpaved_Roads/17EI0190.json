@@ -1,0 +1,97 @@
+{
+  "data": {
+    "contractId": "17EI0190",
+    "description": "CONSTRUCTION/OPENING WITH SPOT CONCRETING OF ALL WEATHER ROAD FROM SITIO PROPER TO SITIO SINARIRI, BRGY. PANAYTAYAN, MANSALAY, ORIENTAL MINDORO",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 48664012.69,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region IV-B",
+      "province": "Southern Mindoro DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 12.4995333333,
+        "longitude": 121.4045833333,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "D.M. MALIWANAG BUILDERS AND ENTERPRISES (32589) / LUMEL GLENN CONSTRUCTION (26817)",
+    "startDate": "2018-02-21",
+    "completionDate": "2019-02-09",
+    "infraYear": "2017",
+    "contractEffectivityDate": "2018-02-21",
+    "expiryDate": "2019-02-09",
+    "nysReason": null,
+    "programName": "Outside Infra",
+    "sourceOfFunds": "Outside Infra - Trust Funds 2017",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00199178LZ-CW1",
+        "description": "Paving of Unpaved Roads - Construction/Opening with Spot Concreting of All Weather Road from Sitio Proper to Sitio Sinariri, Brgy. Panaytayan",
+        "infraType": "Roads",
+        "typeOfWork": "Paving of Unpaved Roads",
+        "region": "Region IV-B",
+        "province": "ORIENTAL MINDORO",
+        "coordinates": {
+          "latitude": 12.4995333333,
+          "longitude": 121.4045833333,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "D.M. MALIWANAG BUILDERS AND ENTERPRISES, LUMEL GLENN CONSTRUCTION",
+    "bidders": [
+      {
+        "name": "LUMEL GLENN CONSTRUCTION (26817) / D.M. MALIWANAG BUILDERS AND ENTERPRISES (32589) (JV ID: JV-17-1676)",
+        "pcabId": "",
+        "participation": 100,
+        "isWinner": true
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION/OPENING WITH SPOT CONCRETING OF ALL WEATHER ROAD FROM SITIO PROPER TO SITIO SINARIRI, BRGY. PANAYTAYAN, MANSALAY, ORIENTAL MINDORO",
+      "abc": "48998711.60",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2017-12-07 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-12-29 00:00:00.0000000",
+      "dateOfAward": "2017-12-29 00:00:00.0000000",
+      "awardAmount": "48664012.69"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/17EI0190.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/17ei0190_-_ca.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/17ei0190_-_noa.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/17ei0190_-_ntp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 12.4995333333,
+    "longitude": 121.4045833333,
+    "coordinates": [
+      {
+        "componentId": "P00199178LZ-CW1",
+        "description": "Paving of Unpaved Roads - Construction/Opening with Spot Concreting of All Weather Road from Sitio Proper to Sitio Sinariri, Brgy. Panaytayan",
+        "latitude": 12.4995333333,
+        "longitude": 121.4045833333,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

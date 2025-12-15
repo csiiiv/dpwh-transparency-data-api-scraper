@@ -1,0 +1,79 @@
+{
+  "data": {
+    "contractId": "17MC0102",
+    "description": "PEDESTRIAN OVERPASS: KIDAPAWAN SECTION (S000682MN), K1617+510, KIDAPAWAN CITY (RE-PUBLISHED)",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 23195177.05,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region XII",
+      "province": "Cotabato 2nd DEO",
+      "infraType": "Roads",
+      "coordinates": null
+    },
+    "infraType": "Roads",
+    "contractor": "MONOLITHIC CONSTRUCTION & CONCRETE PRODUCTS, INC. (5733)",
+    "startDate": "2018-06-23",
+    "completionDate": "2019-05-20",
+    "infraYear": "2017",
+    "contractEffectivityDate": "2017-06-24",
+    "expiryDate": "2018-01-30",
+    "nysReason": null,
+    "programName": "Outside Infra",
+    "sourceOfFunds": "Outside Infra - Special Road Support Fund 2017",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00190101MN-CW1",
+        "description": "Road Safety: Pedestrian Overpass - Pedestrian Overpass along Kidapawan Section (S00682MN), K1617+510",
+        "infraType": "Roads",
+        "typeOfWork": "Road Safety: Pedestrian Overpass",
+        "region": "Region XII",
+        "province": "COTABATO (NORTH COTABATO)",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "MONOLITHIC CONSTRUCTION & CONCRETE PRODUCTS, INC.",
+    "bidders": [
+      {
+        "name": "MONOLITHIC CONSTRUCTION & CONCRETE PRODUCTS, INC. (5733)",
+        "pcabId": "5733",
+        "participation": 100,
+        "isWinner": true
+      }
+    ],
+    "procurement": {
+      "contractName": "PEDESTRIAN OVERPASS: KIDAPAWAN SECTION (S000682MN), K1617+510, KIDAPAWAN CITY (RE-PUBLISHED)",
+      "abc": "23527349.89",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2017-05-26 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-06-15 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "22,802,145.91"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/ITB, BIDDING DOCUMENTS, BIDDING CHECKLIST 17MC0102, 17MC0103.zip",
+      "contractAgreement": "",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/NOA 102.zip",
+      "noticeToProceed": "",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

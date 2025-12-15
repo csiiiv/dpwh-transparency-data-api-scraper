@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "16CK0153",
+    "description": "ASSETS PRESERV. OF NATL RD, REHAB/RECONST./UPGRADING OF DAMAGED PAVE NATL RD., BASED ON PMS/HDM-4",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 11157005.17,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region III",
+      "province": "Tarlac 2nd DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 15.2832849591789,
+        "longitude": 120.641627083439,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "B.K. SY TU CONSTRUCTION (12655)",
+    "startDate": "2017-02-16",
+    "completionDate": "2017-04-30",
+    "infraYear": "2017",
+    "contractEffectivityDate": "2017-02-16",
+    "expiryDate": "2017-04-30",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2017 MFO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00102095LZ-CW1",
+        "description": "Reconstruction from Asphalt to Concrete - Concepcion-Capas Rd - K0110+509 - K0111+129, K0120+303 - K0120+447",
+        "infraType": "Roads",
+        "typeOfWork": "Reconstruction from Asphalt to Concrete",
+        "region": "Region III",
+        "province": "PAMPANGA",
+        "coordinates": {
+          "latitude": 15.2832849591789,
+          "longitude": 120.641627083439,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "B.K. SY TU CONSTRUCTION",
+    "bidders": [
+      {
+        "name": "B.K. SY TU CONSTRUCTION (12655)",
+        "pcabId": "12655",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "STO. CRISTO CONSTRUCTION & TRADING INC. (FOR: STO. CRISTO CONSTRUCTION & TRADING) (26096)",
+        "pcabId": "26096",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "ASSETS PRESERV. OF NATL RD, REHAB/RECONST./UPGRADING OF DAMAGED PAVE NATL RD., BASED ON PMS/HDM-4",
+      "abc": "11759947.43",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-11-10 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-11-29 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "11,157,005.17"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/CONTRACT-16CK0153.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/NOA-16CK0153.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/CONTRACT-16CK0153.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 15.2832849591789,
+    "longitude": 120.641627083439,
+    "coordinates": [
+      {
+        "componentId": "P00102095LZ-CW1",
+        "description": "Reconstruction from Asphalt to Concrete - Concepcion-Capas Rd - K0110+509 - K0111+129, K0120+303 - K0120+447",
+        "latitude": 15.2832849591789,
+        "longitude": 120.641627083439,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

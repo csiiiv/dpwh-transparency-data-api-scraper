@@ -1,0 +1,109 @@
+{
+  "data": {
+    "contractId": "17RB0214",
+    "description": "RECONSTRUCTION FROM PAVED TO CONCRETE OF JCT. DS BENEDICTO-SPUR 16 - CALATRAVA RD - K0067+ 376 - K0067+438",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 2100114.86,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Negros Island Region",
+      "province": "Negros Occidental 1st DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 10.6170199,
+        "longitude": 123.3282788,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "PGO CONSTRUCTION (15153)",
+    "startDate": "2018-02-08",
+    "completionDate": "2018-04-12",
+    "infraYear": "2018",
+    "contractEffectivityDate": "2018-02-08",
+    "expiryDate": "2018-04-12",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2018 OO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00200161VS-CW1",
+        "description": "Reconstruction from Paved to Concrete - Jct DS Benedicto-Spur 16-Calatrava Rd - K0067 + 376 - K0067 + 438",
+        "infraType": "Roads",
+        "typeOfWork": "Reconstruction from Paved to Concrete",
+        "region": "Negros Island Region",
+        "province": "NEGROS OCCIDENTAL",
+        "coordinates": {
+          "latitude": 10.6170199,
+          "longitude": 123.3282788,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "PGO CONSTRUCTION",
+    "bidders": [
+      {
+        "name": "PGO CONSTRUCTION (15153)",
+        "pcabId": "15153",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "SILVERGRACES CONSTRUCTION AND CONSTRUCTION SUPPLY (36158)",
+        "pcabId": "36158",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "TRIMLUV BUILDERS AND SUPPLY (33467)",
+        "pcabId": "33467",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "RECONSTRUCTION FROM PAVED TO CONCRETE OF JCT. DS BENEDICTO-SPUR 16 - CALATRAVA RD - K0067+ 376 - K0067+438",
+      "abc": "2212673.75",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2017-10-30 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-11-21 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "2100114.86"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/ITB (Infra) 17RB00212 - 214.pdf",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/17rb0214contract.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/AWARD.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/NTP.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 10.6170199,
+    "longitude": 123.3282788,
+    "coordinates": [
+      {
+        "componentId": "P00200161VS-CW1",
+        "description": "Reconstruction from Paved to Concrete - Jct DS Benedicto-Spur 16-Calatrava Rd - K0067 + 376 - K0067 + 438",
+        "latitude": 10.6170199,
+        "longitude": 123.3282788,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "data": {
+    "contractId": "16AE0038",
+    "description": "REHABILITATION AND IMPROVEMENT OF AMBURAYAN RIVER CONTROL, BRGY. MARIA CRISTINA, BANGAR, LA UNION",
+    "category": "Flood Control and Drainage",
+    "status": "Completed",
+    "budget": 9362108.36,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region I",
+      "province": "La Union 1st DEO",
+      "infraType": "Flood Control and Drainage",
+      "coordinates": {
+        "latitude": 16.89944823,
+        "longitude": 120.4341723,
+        "verified": false
+      }
+    },
+    "infraType": "Flood Control and Drainage",
+    "contractor": "E.E. MADAYAG CONSTRUCTION (25029)",
+    "startDate": "2016-03-29",
+    "completionDate": "2016-06-21",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-03-29",
+    "expiryDate": "2016-05-24",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-2",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00022204LZ-CW1",
+        "description": "Construction of Spur Dike - Rehabilitation and Improvement of Amburayan River Control, Brgy. Maria Cristina, Bangar, La Union",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Construction of Spur Dike",
+        "region": "Region I",
+        "province": "LA UNION",
+        "coordinates": {
+          "latitude": 16.89944823,
+          "longitude": 120.4341723,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "E.E. MADAYAG CONSTRUCTION",
+    "bidders": [
+      {
+        "name": "E.E. MADAYAG CONSTRUCTION (25029)",
+        "pcabId": "25029",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "ARM-ASIA CONSTRUCTION & ENGINEERING (27561)",
+        "pcabId": "27561",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "H.G. LOPEZ CONSTRUCTION (17691)",
+        "pcabId": "17691",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "REHABILITATION AND IMPROVEMENT OF AMBURAYAN RIVER CONTROL, BRGY. MARIA CRISTINA, BANGAR, LA UNION",
+      "abc": "9800000.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-01-23 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-02-12 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "9,362,108.36"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/april/16AE0038 Contract.pdf",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/april/16AE0038 Award.pdf",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/april/16AE0038 Contract.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 16.89944823,
+    "longitude": 120.4341723,
+    "coordinates": [
+      {
+        "componentId": "P00022204LZ-CW1",
+        "description": "Construction of Spur Dike - Rehabilitation and Improvement of Amburayan River Control, Brgy. Maria Cristina, Bangar, La Union",
+        "latitude": 16.89944823,
+        "longitude": 120.4341723,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

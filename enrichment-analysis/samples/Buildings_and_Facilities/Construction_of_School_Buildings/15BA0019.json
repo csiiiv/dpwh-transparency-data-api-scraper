@@ -1,0 +1,97 @@
+{
+  "data": {
+    "contractId": "15BA0019",
+    "description": "CONST OF SR HS CL(CLUSTER), ITBUD INTEGRATED SCH; BATANES GEN COMPR HS; ITBAYAT AGRI HS",
+    "category": "Buildings and Facilities",
+    "status": "Completed",
+    "budget": 7815469.35,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region II",
+      "province": "Batanes DEO",
+      "infraType": "Buildings and Facilities",
+      "coordinates": null
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "EMPAULE CONSTRUCTION AND TRADING, INC. (FORMERLY: E. M. PAULE CONSTRUCTION AND TRADING INC.) (19006)",
+    "startDate": "2016-02-25",
+    "completionDate": "2016-07-31",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-02-25",
+    "expiryDate": "2016-08-17",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 Locally Funded Projects",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00040070LZ-CW1",
+        "description": "Construction of 1-Storey Classrooms - Construction of Batanes General Comprehensive High School Classrooms, Barangay Kayuganan, Uyugan, Batanes",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of 1-Storey Classrooms",
+        "region": "Region II",
+        "province": "BATANES",
+        "coordinates": null
+      },
+      {
+        "componentId": "P00040073LZ-CW1",
+        "description": "Construction of School Buildings - Construction of Itbayat Agricultural High School Classrooms, Barangay San Rafael, Itbayat, Batanes",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of School Buildings",
+        "region": "Region II",
+        "province": "BATANES",
+        "coordinates": null
+      },
+      {
+        "componentId": "P00040074LZ-CW1",
+        "description": "Construction of 1-Storey Classrooms - Construction of Itbud Integrated School Classrooms, Barangay Itbud, Uyugan, Batanes",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of 1-Storey Classrooms",
+        "region": "Region II",
+        "province": "BATANES",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "EMPAULE CONSTRUCTION AND TRADING, INC. (FORMERLY: E. M. PAULE CONSTRUCTION AND TRADING INC.)",
+    "bidders": [
+      {
+        "name": "EMPAULE CONSTRUCTION AND TRADING, INC. (FORMERLY: E. M. PAULE CONSTRUCTION AND TRADING INC.) (19006)",
+        "pcabId": "19006",
+        "participation": 100,
+        "isWinner": true
+      }
+    ],
+    "procurement": {
+      "contractName": "CONST OF SR HS CL(CLUSTER), ITBUD INTEGRATED SCH; BATANES GEN COMPR HS; ITBAYAT AGRI HS",
+      "abc": "7821000.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-11-13 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-12-10 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "7815469.3500000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "",
+      "noticeOfAward": "",
+      "noticeToProceed": "",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

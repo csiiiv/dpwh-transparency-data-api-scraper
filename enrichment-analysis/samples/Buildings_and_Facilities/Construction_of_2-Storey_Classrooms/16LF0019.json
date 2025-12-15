@@ -1,0 +1,109 @@
+{
+  "data": {
+    "contractId": "16LF0019",
+    "description": "CONSTRUCTION OF ACADEMIC BUILDING (PHASE I) CATEEL EXTENSION CAMPUS, CATEEL, DAVAO ORIENTAL",
+    "category": "Buildings and Facilities",
+    "status": "Completed",
+    "budget": 9383270.17,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region XI",
+      "province": "Davao Oriental 1st DEO",
+      "infraType": "Buildings and Facilities",
+      "coordinates": {
+        "latitude": 7.808964,
+        "longitude": 126.418392,
+        "verified": false
+      }
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "R. SEMILLA CONSTRUCTION & MARKETING (9263)",
+    "startDate": "2016-08-18",
+    "completionDate": "2017-01-14",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-08-18",
+    "expiryDate": "2017-01-14",
+    "nysReason": null,
+    "programName": "Outside Infra",
+    "sourceOfFunds": "Outside Infra - Trust Funds 2016",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00099004MN-CW1",
+        "description": "Construction of 2-Storey Classrooms - Construction of Academic Building (Phase 1), Cateel Extension Campus, Cateel, Davao Oriental",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of 2-Storey Classrooms",
+        "region": "Region XI",
+        "province": "DAVAO ORIENTAL",
+        "coordinates": {
+          "latitude": 7.808964,
+          "longitude": 126.418392,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "R. SEMILLA CONSTRUCTION & MARKETING",
+    "bidders": [
+      {
+        "name": "R. SEMILLA CONSTRUCTION & MARKETING (9263)",
+        "pcabId": "9263",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "JECEL CONSTRUCTION SUPPLY (21956)",
+        "pcabId": "21956",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "N. CONGSON CONSTRUCTION & SUPPLY (25695)",
+        "pcabId": "25695",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "CONSTRUCTION OF ACADEMIC BUILDING (PHASE I) CATEEL EXTENSION CAMPUS, CATEEL, DAVAO ORIENTAL",
+      "abc": "9500819.68",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-07-08 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-07-27 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "9,383,270.17"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/16lf0019_contract_agreement.pdf",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/august/16LF0019.jpg",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/16lf0019_contract_agreement.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 7.808964,
+    "longitude": 126.418392,
+    "coordinates": [
+      {
+        "componentId": "P00099004MN-CW1",
+        "description": "Construction of 2-Storey Classrooms - Construction of Academic Building (Phase 1), Cateel Extension Campus, Cateel, Davao Oriental",
+        "latitude": 7.808964,
+        "longitude": 126.418392,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "data": {
+    "contractId": "22AB0026",
+    "description": "OFF-CARRIAGEWAY IMPROVEMENT - TERTIARY ROADS, BATAC-ESPIRITU (BANNA) RD - K0475+000 - K0477+031",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 29701056,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region I",
+      "province": "Ilocos Norte 2nd DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 18.0474669,
+        "longitude": 120.5909069,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "MEGAPOLITAN BUILDERS AND CONSTRUCTION SUPPLY (38288)",
+    "startDate": "2022-03-29",
+    "completionDate": "2022-09-12",
+    "infraYear": "2022",
+    "contractEffectivityDate": "2022-03-29",
+    "expiryDate": "2022-10-12",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2022 OO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00606293LZ-CW1",
+        "description": "Off-Carriageway Improvement: Paving of Shoulders - Batac-Espiritu (Banna) Rd - K0475 + 000 - K0477 + 031",
+        "infraType": "Roads",
+        "typeOfWork": "Off-Carriageway Improvement: Paving of Shoulders",
+        "region": "Region I",
+        "province": "ILOCOS NORTE",
+        "coordinates": {
+          "latitude": 18.0474669,
+          "longitude": 120.5909069,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "MEGAPOLITAN BUILDERS AND CONSTRUCTION SUPPLY",
+    "bidders": [
+      {
+        "name": "MEGAPOLITAN BUILDERS AND CONSTRUCTION SUPPLY (38288)",
+        "pcabId": "38288",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "BADOC BUILDERS & SUPPLY, INC. (FORMERLY: BADOC BUILDER & SUPPLY (31564)",
+        "pcabId": "31564",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "BUSILAC BUILDERS INC. (7701)",
+        "pcabId": "7701",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "JLP CONSTRUCTION & SUPPLY (FORMERLY: JLP CONSTRUCT (26983)",
+        "pcabId": "26983",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "OFF-CARRIAGEWAY IMPROVEMENT - TERTIARY ROADS, BATAC-ESPIRITU (BANNA) RD - K0475+000 - K0477+031",
+      "abc": "34300000.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2021-11-17 00:00:00.0000000",
+      "bidSubmissionDeadline": "2021-12-07 00:00:00.0000000",
+      "dateOfAward": "2022-03-24 00:00:00.0000000",
+      "awardAmount": "27000960"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/FOR WEB NEW bidding documents -22AB0026.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/22ab0026_contract_agreement.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/22ab0026_noa_and_reso.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/22ab0026_contract_agreement.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 18.0474669,
+    "longitude": 120.5909069,
+    "coordinates": [
+      {
+        "componentId": "P00606293LZ-CW1",
+        "description": "Off-Carriageway Improvement: Paving of Shoulders - Batac-Espiritu (Banna) Rd - K0475 + 000 - K0477 + 031",
+        "latitude": 18.0474669,
+        "longitude": 120.5909069,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 2,
+      "latestImageDate": "2023-11-18 04:42:17.500999",
+      "hasImages": true
+    }
+  }
+}

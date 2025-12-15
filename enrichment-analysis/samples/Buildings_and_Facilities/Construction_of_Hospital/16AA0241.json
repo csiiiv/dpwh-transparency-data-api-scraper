@@ -1,0 +1,79 @@
+{
+  "data": {
+    "contractId": "16AA0241",
+    "description": "CONTINUATION/COMPLETION OF RHU BLDG., DUMALNEG RHU, DUMALNEG, I.N",
+    "category": "Buildings and Facilities",
+    "status": "Completed",
+    "budget": 1455196.67,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region I",
+      "province": "Ilocos Norte 1st DEO",
+      "infraType": "Buildings and Facilities",
+      "coordinates": null
+    },
+    "infraType": "Buildings and Facilities",
+    "contractor": "FR ESPIRITU BUILDERS AND DEVELOPMENT CORP. (FORMERLY: FR ESPIRITU JR BUILDERS) (36719)",
+    "startDate": "2017-02-12",
+    "completionDate": "2017-05-12",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2017-02-12",
+    "expiryDate": "2017-04-12",
+    "nysReason": null,
+    "programName": "Outside Infra",
+    "sourceOfFunds": "Outside Infra - GAA 2016 DOH HFEP",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00061081LZ-CW1",
+        "description": "Construction of Hospital - Continuation/Completion of RHU Building, Dumalneg RHU, Dumalneg, Ilocos Norte",
+        "infraType": "Buildings and Facilities",
+        "typeOfWork": "Construction of Hospital",
+        "region": "Region I",
+        "province": "ILOCOS NORTE",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "FR ESPIRITU BUILDERS AND DEVELOPMENT CORP. (FORMERLY: FR ESPIRITU JR BUILDERS)",
+    "bidders": [
+      {
+        "name": "FR ESPIRITU BUILDERS AND DEVELOPMENT CORP. (FORMERLY: FR ESPIRITU JR BUILDERS) (36719)",
+        "pcabId": "36719",
+        "participation": 100,
+        "isWinner": true
+      }
+    ],
+    "procurement": {
+      "contractName": "CONTINUATION/COMPLETION OF RHU BLDG., DUMALNEG RHU, DUMALNEG, I.N",
+      "abc": "1492493.07",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-12-27 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-01-16 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "1,455,196.67"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/CIN-16AA0241_ADV.zip",
+      "contractAgreement": "",
+      "noticeOfAward": "",
+      "noticeToProceed": "",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

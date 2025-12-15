@@ -1,0 +1,97 @@
+{
+  "data": {
+    "contractId": "23AA0503",
+    "description": "IMPROVEMENT OF ROAD ALONG SAUD-CAPARISPISAN ROAD, BRGY. SAUD, ILOCOS NORTE",
+    "category": "Roads",
+    "status": "On-Going",
+    "budget": 27949646.14,
+    "amountPaid": 0,
+    "progress": 91.5,
+    "location": {
+      "region": "Region I",
+      "province": "Ilocos Norte 1st DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 18.6177472,
+        "longitude": 120.7852028,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "TATUM CONSTRUCTION (55191)",
+    "startDate": "2023-12-27",
+    "completionDate": null,
+    "infraYear": "2023",
+    "contractEffectivityDate": "2023-12-27",
+    "expiryDate": "2024-04-11",
+    "nysReason": null,
+    "programName": "Outside Infra",
+    "sourceOfFunds": "Outside Infra - Unprogrammed Appropriations 2023",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00761448LZ-CW1",
+        "description": "Road Safety: Roadway Lighting - Improvement of Road along Saud-Caparispisan Road, Brgy. Saud, Ilocos Norte",
+        "infraType": "Roads",
+        "typeOfWork": "Road Safety: Roadway Lighting",
+        "region": "Region I",
+        "province": "ILOCOS NORTE",
+        "coordinates": {
+          "latitude": 18.6177472,
+          "longitude": 120.7852028,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "TATUM CONSTRUCTION",
+    "bidders": [
+      {
+        "name": "TATUM CONSTRUCTION (55191)",
+        "pcabId": "55191",
+        "participation": 100,
+        "isWinner": true
+      }
+    ],
+    "procurement": {
+      "contractName": "IMPROVEMENT OF ROAD ALONG SAUD-CAPARISPISAN ROAD, BRGY. SAUD, ILOCOS NORTE",
+      "abc": "28811992.93",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2023-08-03 00:00:00.0000000",
+      "bidSubmissionDeadline": "2023-10-10 00:00:00.0000000",
+      "dateOfAward": "2023-12-22 00:00:00.0000000",
+      "awardAmount": "27949646.14"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/23aa0503_itbbid_docsplan.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/23-503_contract.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/23-503_noa_merged.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/23-503_notice_to_proceed.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 18.6177472,
+    "longitude": 120.7852028,
+    "coordinates": [
+      {
+        "componentId": "P00761448LZ-CW1",
+        "description": "Road Safety: Roadway Lighting - Improvement of Road along Saud-Caparispisan Road, Brgy. Saud, Ilocos Norte",
+        "latitude": 18.6177472,
+        "longitude": 120.7852028,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 1,
+      "latestImageDate": "2024-03-18 00:49:51.618000",
+      "hasImages": true
+    }
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "data": {
+    "contractId": "22O00090",
+    "description": "MANILA BAY REHABILITATION PROGRAM: CONSTRUCTION OF A SOLAR-POWERED SEWAGE TREATMENT PLANT ALONG THE LAS PIÑAS RIVER",
+    "category": "Septage and Sewerage Plants",
+    "status": "On-Going",
+    "budget": 198973084.52,
+    "amountPaid": 0,
+    "progress": 76.35,
+    "location": {
+      "region": "National Capital Region",
+      "province": "National Capital Region",
+      "infraType": "Septage and Sewerage Plants",
+      "coordinates": {
+        "latitude": 14.476595,
+        "longitude": 120.9724817,
+        "verified": false
+      }
+    },
+    "infraType": "Septage and Sewerage Plants",
+    "contractor": "DRAGONHART CONSTRUCTION ENTERPRISE, INC. (31725) / KAEL CONSTRUCTION AND SUPPLY (49152)",
+    "startDate": "2022-06-17",
+    "completionDate": null,
+    "infraYear": "2021",
+    "contractEffectivityDate": "2022-06-17",
+    "expiryDate": "2024-12-21",
+    "nysReason": null,
+    "programName": "Outside Infra",
+    "sourceOfFunds": "Outside Infra - Trust Funds 2021",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00599025LZ-CW1",
+        "description": "Construction of Septage / Sewerage Plants - Manila Bay Rehabilitation Program: Construction of Solar-Powered Sewage Treatment Plant along the Las Pi±as River",
+        "infraType": "Septage and Sewerage Plants",
+        "typeOfWork": "Construction of Septage / Sewerage Plants",
+        "region": "National Capital Region",
+        "province": "METROPOLITAN MANILA",
+        "coordinates": {
+          "latitude": 14.476595,
+          "longitude": 120.9724817,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "DRAGONHART CONSTRUCTION ENTERPRISE, INC., KAEL CONSTRUCTION AND SUPPLY",
+    "bidders": [
+      {
+        "name": "DRAGONHART CONSTRUCTION ENTERPRISE, INC. (31725) / KAEL CONSTRUCTION AND SUPPLY (49152) (JV ID: JV-22-7872)",
+        "pcabId": "",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "NEWBIG FOUR J CONSTRUCTION INC. (FORMERLY: FOUR J CONSTRUCTION) (15104)",
+        "pcabId": "15104",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "TOKWING CONSTRUCTION, CORP.(FOR;  TOKWING CONSTRUC (9650)",
+        "pcabId": "9650",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "MANILA BAY REHABILITATION PROGRAM: CONSTRUCTION OF A SOLAR-POWERED SEWAGE TREATMENT PLANT ALONG THE LAS PIÑAS RIVER",
+      "abc": "195459046.99",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2022-04-22 00:00:00.0000000",
+      "bidSubmissionDeadline": "2022-05-12 00:00:00.0000000",
+      "dateOfAward": "2022-06-02 00:00:00.0000000",
+      "awardAmount": "188646688.5"
+    },
+    "links": {
+      "advertisement": "https://archive.dpwh.gov.ph/archive/cw/advertisements/22O00090_Solar-Powered Sewage.zip",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/22O00090_COA_NTP.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/22O00090_ROA_NOA.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/22O00090_COA_NTP.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 14.476595,
+    "longitude": 120.9724817,
+    "coordinates": [
+      {
+        "componentId": "P00599025LZ-CW1",
+        "description": "Construction of Septage / Sewerage Plants - Manila Bay Rehabilitation Program: Construction of Solar-Powered Sewage Treatment Plant along the Las Pi±as River",
+        "latitude": 14.476595,
+        "longitude": 120.9724817,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 1,
+      "latestImageDate": "2022-11-30 03:17:03.236999",
+      "hasImages": true
+    }
+  }
+}

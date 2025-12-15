@@ -1,0 +1,97 @@
+{
+  "data": {
+    "contractId": "15AD0175",
+    "description": "CONST'N OF BRGY. ROAD, BRGY.ALULING,CERVANTES,ILOCOS SUR",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 1901247.28,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region I",
+      "province": "Ilocos Sur 2nd DEO",
+      "infraType": "Roads",
+      "coordinates": {
+        "latitude": 16.987607,
+        "longitude": 120.754079,
+        "verified": false
+      }
+    },
+    "infraType": "Roads",
+    "contractor": "POLO ENGINEERING & CONSTRUCTION (34966)",
+    "startDate": "2016-03-21",
+    "completionDate": "2016-04-08",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-03-21",
+    "expiryDate": "2016-04-09",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 Locally Funded Projects",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00045418LZ-CW1",
+        "description": "Construction of Concrete Road - Construction of Barangay Road, Barangay Aluling, Cervantes, Ilocos Sur",
+        "infraType": "Roads",
+        "typeOfWork": "Construction of Concrete Road",
+        "region": "Region I",
+        "province": "ILOCOS SUR",
+        "coordinates": {
+          "latitude": 16.987607,
+          "longitude": 120.754079,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "POLO ENGINEERING & CONSTRUCTION",
+    "bidders": [
+      {
+        "name": "POLO ENGINEERING & CONSTRUCTION (34966)",
+        "pcabId": "34966",
+        "participation": 100,
+        "isWinner": true
+      }
+    ],
+    "procurement": {
+      "contractName": "CONST'N OF BRGY. ROAD, BRGY.ALULING,CERVANTES,ILOCOS SUR",
+      "abc": "1964828.96",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-01-08 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-03-03 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "1901247.2800000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/april/15AD0175 CA135.pdf",
+      "noticeOfAward": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/noa/16/april/15AD0175 NOA134.pdf",
+      "noticeToProceed": "https://archive.dpwh.gov.ph/post/cw/pdf/cw/contract/16/april/15AD0175 CA135.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 16.987607,
+    "longitude": 120.754079,
+    "coordinates": [
+      {
+        "componentId": "P00045418LZ-CW1",
+        "description": "Construction of Concrete Road - Construction of Barangay Road, Barangay Aluling, Cervantes, Ilocos Sur",
+        "latitude": 16.987607,
+        "longitude": 120.754079,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

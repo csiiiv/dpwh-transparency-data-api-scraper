@@ -1,0 +1,103 @@
+{
+  "data": {
+    "contractId": "15EB0207",
+    "description": "REPLACEMENT OF PERMANENT WEAK BRIDGES, LIBIS BRIDGE (B00001CA) ALONG LIBIS LIGHTHOUSE BULI, LIGHTOUSE ROAD. LUBANG, OCC. MINDORO",
+    "category": "Bridges",
+    "status": "Terminated",
+    "budget": 0,
+    "amountPaid": 0,
+    "progress": 0,
+    "location": {
+      "region": "Region IV-B",
+      "province": "Mindoro Occidental DEO",
+      "infraType": "Bridges",
+      "coordinates": {
+        "latitude": 13.8917068684159,
+        "longitude": 120.044449273666,
+        "verified": false
+      }
+    },
+    "infraType": "Bridges",
+    "contractor": "SYNDTITE CONSTRUCTION CORPORATION (FORMERLY: R.C. TAGALA CONSTRUCTION) (11597)",
+    "startDate": "2016-12-11",
+    "completionDate": "2020-02-21",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-12-11",
+    "expiryDate": "2017-07-13",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00002090LZ-CW1",
+        "description": "Replacement of Bridge - Libis Br. (B00001CA) along Libis Lighthouse-Buli Lighthouse Rd",
+        "infraType": "Bridges",
+        "typeOfWork": "Replacement of Bridge",
+        "region": "Region IV-B",
+        "province": "OCCIDENTAL MINDORO",
+        "coordinates": {
+          "latitude": 13.8917068684159,
+          "longitude": 120.044449273666,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "SYNDTITE CONSTRUCTION CORPORATION (FORMERLY: R.C. TAGALA CONSTRUCTION)",
+    "bidders": [
+      {
+        "name": "SYNDTITE CONSTRUCTION CORPORATION (FORMERLY: R.C. TAGALA CONSTRUCTION) (11597)",
+        "pcabId": "11597",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "RUBYLIM CONSTRUCTION & SUPPLIES, INC. (FORMERLY: RUBY LIM CONSTRUCTION & SUPPLIES) (11685)",
+        "pcabId": "11685",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "REPLACEMENT OF PERMANENT WEAK BRIDGES, LIBIS BRIDGE (B00001CA) ALONG LIBIS LIGHTHOUSE BULI, LIGHTOUSE ROAD. LUBANG, OCC. MINDORO",
+      "abc": "31360000.00",
+      "status": "A",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2016-09-27 00:00:00.0000000",
+      "bidSubmissionDeadline": "2016-11-04 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "30781708.0800000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "",
+      "noticeOfAward": "",
+      "noticeToProceed": "",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 13.8917068684159,
+    "longitude": 120.044449273666,
+    "coordinates": [
+      {
+        "componentId": "P00002090LZ-CW1",
+        "description": "Replacement of Bridge - Libis Br. (B00001CA) along Libis Lighthouse-Buli Lighthouse Rd",
+        "latitude": 13.8917068684159,
+        "longitude": 120.044449273666,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

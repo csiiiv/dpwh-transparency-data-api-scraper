@@ -1,0 +1,121 @@
+{
+  "data": {
+    "contractId": "18ND0012",
+    "description": "DREDGING/DESILTING AT MASAO RIVERMOUTH AND CONST. OF CUT-OFF CHANNEL AT MASAO RIVER WITH BRIDGE, BUTUAN CITY, AGUSAN DEL NORTE 1ST LD",
+    "category": "Flood Control and Drainage",
+    "status": "Completed",
+    "budget": 39199956.87,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region XIII",
+      "province": "Butuan City DEO",
+      "infraType": "Flood Control and Drainage",
+      "coordinates": {
+        "latitude": 8.9946748,
+        "longitude": 125.4818055,
+        "verified": false
+      }
+    },
+    "infraType": "Flood Control and Drainage",
+    "contractor": "ADFIL CORPORATION (14437)",
+    "startDate": "2018-03-14",
+    "completionDate": "2019-03-30",
+    "infraYear": "2018",
+    "contractEffectivityDate": "2018-03-14",
+    "expiryDate": "2019-04-12",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2018 OO-2",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00221443MN-CW1",
+        "description": "Construction of Cutoff Channel - Dredging/Desilting at Masao Rivermouth and Construction of Cut-off Channel w/Bridge at Masao River, Butuan City, Agusan del Norte",
+        "infraType": "Flood Control and Drainage",
+        "typeOfWork": "Construction of Cutoff Channel",
+        "region": "Region XIII",
+        "province": "AGUSAN DEL NORTE",
+        "coordinates": {
+          "latitude": 8.9946748,
+          "longitude": 125.4818055,
+          "source": "infra_track",
+          "locationVerified": false
+        }
+      }
+    ],
+    "winnerNames": "ADFIL CORPORATION",
+    "bidders": [
+      {
+        "name": "ADFIL CORPORATION (14437)",
+        "pcabId": "14437",
+        "participation": 100,
+        "isWinner": true
+      },
+      {
+        "name": "C'ZARLES CONSTRUCTION & SUPPLY (23426)",
+        "pcabId": "23426",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "EQUI-PARCO CONSTRUCTION COMPANY (14332)",
+        "pcabId": "14332",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "GICAR CONSTRUCTION, INC. (12624)",
+        "pcabId": "12624",
+        "participation": 100,
+        "isWinner": false
+      },
+      {
+        "name": "RAMISES CONSTRUCTION (17351)",
+        "pcabId": "17351",
+        "participation": 100,
+        "isWinner": false
+      }
+    ],
+    "procurement": {
+      "contractName": "DREDGING/DESILTING AT MASAO RIVERMOUTH AND CONST. OF CUT-OFF CHANNEL AT MASAO RIVER WITH BRIDGE, BUTUAN CITY, AGUSAN DEL NORTE 1ST LD",
+      "abc": "39182570.32",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2017-11-17 00:00:00.0000000",
+      "bidSubmissionDeadline": "2017-12-06 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "37800281.29"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/Contract of 18ND0012.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/NOA of 18ND0012.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/Contract of 18ND0012.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": 8.9946748,
+    "longitude": 125.4818055,
+    "coordinates": [
+      {
+        "componentId": "P00221443MN-CW1",
+        "description": "Construction of Cutoff Channel - Dredging/Desilting at Masao Rivermouth and Construction of Cut-off Channel w/Bridge at Masao River, Butuan City, Agusan del Norte",
+        "latitude": 8.9946748,
+        "longitude": 125.4818055,
+        "source": "infra_track",
+        "locationVerified": false
+      }
+    ],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}

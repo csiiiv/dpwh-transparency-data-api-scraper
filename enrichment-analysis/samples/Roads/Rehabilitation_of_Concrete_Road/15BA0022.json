@@ -1,0 +1,79 @@
+{
+  "data": {
+    "contractId": "15BA0022",
+    "description": "REHAB/RECONST'N OF DAMAGED PAVED NAT'L RD INCLUDING DRAINAGE BASED ON HDM-4 SECTION:BASCO CONTRACOST",
+    "category": "Roads",
+    "status": "Completed",
+    "budget": 1463528.7,
+    "amountPaid": 0,
+    "progress": 100,
+    "location": {
+      "region": "Region II",
+      "province": "Batanes DEO",
+      "infraType": "Roads",
+      "coordinates": null
+    },
+    "infraType": "Roads",
+    "contractor": "ELARALOUIS BUILDERS SUPPLY & SERVICES (35928)",
+    "startDate": "2016-03-11",
+    "completionDate": "2016-09-30",
+    "infraYear": "2016",
+    "contractEffectivityDate": "2016-03-11",
+    "expiryDate": "2016-07-08",
+    "nysReason": null,
+    "programName": "Regular Infra",
+    "sourceOfFunds": "Regular Infra - GAA 2016 MFO-1",
+    "isVerifiedByDpwh": false,
+    "isVerifiedByPublic": false,
+    "isLive": false,
+    "livestreamUrl": null,
+    "livestreamVideoId": null,
+    "livestreamDetectedAt": null,
+    "components": [
+      {
+        "componentId": "P00009073LZ-CW1",
+        "description": "Rehabilitation of Concrete Road - Basco-Contracosta Rd - K0002+905 - K0003+025",
+        "infraType": "Roads",
+        "typeOfWork": "Rehabilitation of Concrete Road",
+        "region": "Region II",
+        "province": "BATANES",
+        "coordinates": null
+      }
+    ],
+    "winnerNames": "ELARALOUIS BUILDERS SUPPLY & SERVICES",
+    "bidders": [
+      {
+        "name": "ELARALOUIS BUILDERS SUPPLY & SERVICES (35928)",
+        "pcabId": "35928",
+        "participation": 100,
+        "isWinner": true
+      }
+    ],
+    "procurement": {
+      "contractName": "REHAB/RECONST'N OF DAMAGED PAVED NAT'L RD INCLUDING DRAINAGE BASED ON HDM-4 SECTION:BASCO CONTRACOST",
+      "abc": "1470000.00",
+      "status": "F",
+      "fundingInstrument": "GOP-GOVERNMENT OF THE PHILIPPINES",
+      "advertisementDate": "2015-11-17 00:00:00.0000000",
+      "bidSubmissionDeadline": "2015-12-16 00:00:00.0000000",
+      "dateOfAward": null,
+      "awardAmount": "1463528.7000000"
+    },
+    "links": {
+      "advertisement": "",
+      "contractAgreement": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/contract_of_agreement/15ba0022_contract_agreement.pdf",
+      "noticeOfAward": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_of_award/15ba0022_noa.pdf",
+      "noticeToProceed": "https://www.dpwh.gov.ph/dpwh/sites/default/files/webform/civil_works/notice_to_proceed/15ba0022_ntp.pdf",
+      "programOfWork": "",
+      "engineeringDesign": ""
+    },
+    "latitude": null,
+    "longitude": null,
+    "coordinates": [],
+    "imageSummary": {
+      "totalImages": 0,
+      "latestImageDate": null,
+      "hasImages": false
+    }
+  }
+}
